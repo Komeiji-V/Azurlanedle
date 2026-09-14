@@ -28,17 +28,6 @@ const TAG_COLUMNS = [
   { name: "声优", kind: "exact-multi" },
 ];
 
-/** 原版稀有度 → 玩家惯用的英文缩写（与原版数据一一对应）。 */
-const RARITY_LABELS = new Map([
-  ["Normal", "N"],
-  ["Rare", "R"],
-  ["Elite", "SR"],
-  ["Super Rare", "SSR"],
-  ["Ultra Rare", "UR"],
-  ["Priority", "PR"],
-  ["Decisive", "DR"],
-]);
-
 /** 原版建造时间里的获取方式标签 → 国服说法。Drop Only 与原版一样并入“无法建造”。 */
 const TIMER_LABELS = new Map([
   ["Cannot be constructed", "无法建造"],
@@ -359,7 +348,8 @@ async function main() {
     }
 
     const timer = TIMER_LABELS.get(ship.timer) ?? ship.timer;
-    const rarity = RARITY_LABELS.get(ship.rarity) ?? ship.rarity;
+    // 稀有度直接沿用原版 Azurlanedle 的写法（Normal / Rare / Elite / Super Rare / Ultra Rare / Priority / Decisive）
+    const rarity = ship.rarity;
     const shipClass = classLabels.get(ship.class)
       ?? (ship.class === "No Class" ? "无舰级" : ship.class);
 

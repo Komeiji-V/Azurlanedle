@@ -7041,7 +7041,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 1,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 1,
@@ -7081,7 +7081,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 2,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 2,
@@ -7121,7 +7121,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 3,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 3,
@@ -7161,7 +7161,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 4,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 4,
@@ -7201,7 +7201,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 5,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 5,
@@ -7247,7 +7247,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 6,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 6,
@@ -7293,7 +7293,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 7,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 7,
@@ -7336,7 +7336,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 8,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 8,
@@ -7382,7 +7382,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 9,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 9,
@@ -7428,7 +7428,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 10,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 10,
@@ -7471,7 +7471,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 11,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 11,
@@ -7514,7 +7514,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 12,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 12,
@@ -7560,7 +7560,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 13,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 13,
@@ -7603,7 +7603,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 14,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 14,
@@ -7643,7 +7643,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 15,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 15,
@@ -7683,7 +7683,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 16,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 16,
@@ -7723,7 +7723,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 17,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 17,
@@ -7763,7 +7763,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 18,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 18,
@@ -7803,7 +7803,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 19,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 19,
@@ -7849,7 +7849,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 20,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 20,
@@ -7892,7 +7892,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 21,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 21,
@@ -7938,7 +7938,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 22,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 22,
@@ -7981,7 +7981,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 23,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 23,
@@ -8024,7 +8024,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 24,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 24,
@@ -8067,7 +8067,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 25,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 25,
@@ -8110,7 +8110,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 26,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 26,
@@ -8150,7 +8150,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 27,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 27,
@@ -8190,7 +8190,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 28,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 28,
@@ -8230,7 +8230,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 29,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 29,
@@ -8270,7 +8270,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 30,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 30,
@@ -8310,7 +8310,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 31,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 31,
@@ -8350,7 +8350,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 32,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 32,
@@ -8396,7 +8396,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 33,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 33,
@@ -8436,7 +8436,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 34,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 34,
@@ -8476,7 +8476,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 35,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 35,
@@ -8516,7 +8516,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 36,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 36,
@@ -8556,7 +8556,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 37,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 37,
@@ -8602,7 +8602,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 38,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 38,
@@ -8645,7 +8645,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 39,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 39,
@@ -8688,7 +8688,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 40,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 40,
@@ -8731,7 +8731,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 41,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 41,
@@ -8774,7 +8774,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 42,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 42,
@@ -8820,7 +8820,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 43,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 43,
@@ -8866,7 +8866,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 44,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 44,
@@ -8912,7 +8912,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 45,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 45,
@@ -8958,7 +8958,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 46,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 46,
@@ -9001,7 +9001,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 47,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 47,
@@ -9044,7 +9044,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 48,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 48,
@@ -9090,7 +9090,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 49,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 49,
@@ -9133,7 +9133,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 50,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 50,
@@ -9176,7 +9176,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 51,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 51,
@@ -9216,7 +9216,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 52,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 52,
@@ -9256,7 +9256,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 53,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 53,
@@ -9296,7 +9296,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 54,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 54,
@@ -9336,7 +9336,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 55,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 55,
@@ -9379,7 +9379,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 56,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 56,
@@ -9425,7 +9425,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 57,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 57,
@@ -9468,7 +9468,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 58,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 58,
@@ -9511,7 +9511,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 59,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 59,
@@ -9551,7 +9551,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 60,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 60,
@@ -9594,7 +9594,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 61,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 61,
@@ -9637,7 +9637,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 62,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 62,
@@ -9677,7 +9677,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 63,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 63,
@@ -9723,7 +9723,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 64,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 64,
@@ -9769,7 +9769,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 65,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 65,
@@ -9815,7 +9815,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 66,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 66,
@@ -9855,7 +9855,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 67,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 67,
@@ -9898,7 +9898,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 68,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 68,
@@ -9944,7 +9944,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 69,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 69,
@@ -9984,7 +9984,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 70,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 70,
@@ -10024,7 +10024,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 71,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 71,
@@ -10067,7 +10067,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 72,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 72,
@@ -10107,7 +10107,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 73,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 73,
@@ -10147,7 +10147,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 74,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 74,
@@ -10190,7 +10190,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 75,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 75,
@@ -10236,7 +10236,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 76,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 76,
@@ -10279,7 +10279,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 77,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 77,
@@ -10325,7 +10325,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 78,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 78,
@@ -10368,7 +10368,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 79,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 79,
@@ -10414,7 +10414,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 80,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 80,
@@ -10460,7 +10460,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 81,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 81,
@@ -10503,7 +10503,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 82,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 82,
@@ -10546,7 +10546,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 83,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 83,
@@ -10589,7 +10589,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 84,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 84,
@@ -10629,7 +10629,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 85,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 85,
@@ -10672,7 +10672,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 86,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 86,
@@ -10715,7 +10715,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 87,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 87,
@@ -10758,7 +10758,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 88,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 88,
@@ -10798,7 +10798,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 89,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 89,
@@ -10841,7 +10841,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 90,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 90,
@@ -10884,7 +10884,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 91,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 91,
@@ -10927,7 +10927,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 92,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 92,
@@ -10970,7 +10970,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 93,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 93,
@@ -11010,7 +11010,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 94,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 94,
@@ -11056,7 +11056,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 95,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 95,
@@ -11096,7 +11096,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 96,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 96,
@@ -11136,7 +11136,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 97,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 97,
@@ -11176,7 +11176,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 98,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 98,
@@ -11219,7 +11219,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 99,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 99,
@@ -11265,7 +11265,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 100,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 100,
@@ -11311,7 +11311,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 101,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 101,
@@ -11354,7 +11354,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 102,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 102,
@@ -11400,7 +11400,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 103,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 103,
@@ -11446,7 +11446,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 104,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 104,
@@ -11492,7 +11492,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 105,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 105,
@@ -11535,7 +11535,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 106,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 106,
@@ -11578,7 +11578,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 107,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 107,
@@ -11618,7 +11618,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 108,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 108,
@@ -11661,7 +11661,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 109,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 109,
@@ -11701,7 +11701,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 110,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 110,
@@ -11741,7 +11741,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 111,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 111,
@@ -11781,7 +11781,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 112,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 112,
@@ -11827,7 +11827,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 113,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 113,
@@ -11870,7 +11870,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 114,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 114,
@@ -11913,7 +11913,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 115,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 115,
@@ -11959,7 +11959,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 116,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 116,
@@ -12005,7 +12005,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 117,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 117,
@@ -12045,7 +12045,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 118,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 118,
@@ -12091,7 +12091,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 119,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 119,
@@ -12131,7 +12131,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 120,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 120,
@@ -12174,7 +12174,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 121,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 121,
@@ -12220,7 +12220,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 122,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 122,
@@ -12266,7 +12266,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 123,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 123,
@@ -12309,7 +12309,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 124,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 124,
@@ -12355,7 +12355,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 125,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 125,
@@ -12398,7 +12398,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 126,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 126,
@@ -12444,7 +12444,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 127,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 127,
@@ -12487,7 +12487,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 128,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 128,
@@ -12530,7 +12530,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 129,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 129,
@@ -12573,7 +12573,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 130,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 130,
@@ -12616,7 +12616,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 131,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 131,
@@ -12662,7 +12662,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 132,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 132,
@@ -12708,7 +12708,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 133,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 133,
@@ -12751,7 +12751,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 134,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 134,
@@ -12797,7 +12797,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 135,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 135,
@@ -12843,7 +12843,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 136,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 136,
@@ -12886,7 +12886,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 137,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 137,
@@ -12926,7 +12926,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 138,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 138,
@@ -12966,7 +12966,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 139,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 139,
@@ -13006,7 +13006,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 140,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 140,
@@ -13052,7 +13052,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 141,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 141,
@@ -13098,7 +13098,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 142,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 142,
@@ -13138,7 +13138,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 143,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 143,
@@ -13181,7 +13181,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 144,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 144,
@@ -13221,7 +13221,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 145,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 145,
@@ -13267,7 +13267,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 146,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 146,
@@ -13307,7 +13307,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 147,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 147,
@@ -13347,7 +13347,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 148,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 148,
@@ -13390,7 +13390,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 149,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 149,
@@ -13430,7 +13430,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 150,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 150,
@@ -13470,7 +13470,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 151,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 151,
@@ -13513,7 +13513,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 152,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 152,
@@ -13559,7 +13559,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 153,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 153,
@@ -13605,7 +13605,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 154,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 154,
@@ -13651,7 +13651,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 155,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 155,
@@ -13694,7 +13694,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 156,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 156,
@@ -13740,7 +13740,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 157,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 157,
@@ -13780,7 +13780,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 158,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 158,
@@ -13820,7 +13820,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 159,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 159,
@@ -13863,7 +13863,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 160,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 160,
@@ -13906,7 +13906,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 161,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 161,
@@ -13952,7 +13952,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 162,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 162,
@@ -13995,7 +13995,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 163,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 163,
@@ -14038,7 +14038,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 164,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 164,
@@ -14081,7 +14081,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 165,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 165,
@@ -14124,7 +14124,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 166,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 166,
@@ -14167,7 +14167,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 167,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 167,
@@ -14210,7 +14210,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 168,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 168,
@@ -14253,7 +14253,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 169,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 169,
@@ -14296,7 +14296,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 170,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 170,
@@ -14342,7 +14342,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 171,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 171,
@@ -14388,7 +14388,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 172,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 172,
@@ -14434,7 +14434,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 173,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 173,
@@ -14477,7 +14477,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 174,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 174,
@@ -14520,7 +14520,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 175,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 175,
@@ -14560,7 +14560,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 176,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 176,
@@ -14600,7 +14600,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 177,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 177,
@@ -14643,7 +14643,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 178,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 178,
@@ -14686,7 +14686,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 179,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 179,
@@ -14729,7 +14729,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 180,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 180,
@@ -14772,7 +14772,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 181,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 181,
@@ -14812,7 +14812,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 182,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 182,
@@ -14852,7 +14852,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 183,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 183,
@@ -14892,7 +14892,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 184,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 184,
@@ -14932,7 +14932,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 185,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 185,
@@ -14972,7 +14972,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 186,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 186,
@@ -15012,7 +15012,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 187,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 187,
@@ -15055,7 +15055,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 188,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 188,
@@ -15095,7 +15095,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 189,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 189,
@@ -15141,7 +15141,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 190,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 190,
@@ -15184,7 +15184,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 191,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 191,
@@ -15230,7 +15230,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 192,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 192,
@@ -15276,7 +15276,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 193,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 193,
@@ -15316,7 +15316,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 194,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 194,
@@ -15362,7 +15362,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 195,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 195,
@@ -15402,7 +15402,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 196,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 196,
@@ -15442,7 +15442,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 197,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 197,
@@ -15485,7 +15485,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 198,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 198,
@@ -15528,7 +15528,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 199,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 199,
@@ -15568,7 +15568,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 200,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 200,
@@ -15611,7 +15611,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 201,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 201,
@@ -15657,7 +15657,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 202,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 202,
@@ -15703,7 +15703,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 203,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 203,
@@ -15743,7 +15743,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 204,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 204,
@@ -15783,7 +15783,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 205,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 205,
@@ -15826,7 +15826,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 206,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 206,
@@ -15869,7 +15869,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 207,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 207,
@@ -15912,7 +15912,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 208,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 208,
@@ -15958,7 +15958,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 209,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 209,
@@ -15998,7 +15998,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 210,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 210,
@@ -16038,7 +16038,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 211,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 211,
@@ -16084,7 +16084,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 212,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 212,
@@ -16130,7 +16130,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 213,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 213,
@@ -16173,7 +16173,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 214,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 214,
@@ -16216,7 +16216,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 215,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 215,
@@ -16259,7 +16259,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 216,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 216,
@@ -16299,7 +16299,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 217,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 217,
@@ -16339,7 +16339,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 218,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 218,
@@ -16379,7 +16379,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 219,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 219,
@@ -16419,7 +16419,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 220,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 220,
@@ -16465,7 +16465,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 221,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 221,
@@ -16511,7 +16511,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 222,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 222,
@@ -16554,7 +16554,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 223,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 223,
@@ -16597,7 +16597,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 224,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 224,
@@ -16640,7 +16640,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 225,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 225,
@@ -16683,7 +16683,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 226,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 226,
@@ -16729,7 +16729,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 227,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 227,
@@ -16772,7 +16772,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 228,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 228,
@@ -16812,7 +16812,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 229,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 229,
@@ -16855,7 +16855,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 230,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 230,
@@ -16898,7 +16898,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 231,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 231,
@@ -16941,7 +16941,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 232,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 232,
@@ -16981,7 +16981,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 233,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 233,
@@ -17024,7 +17024,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 234,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 234,
@@ -17067,7 +17067,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 235,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 235,
@@ -17107,7 +17107,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 236,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 236,
@@ -17150,7 +17150,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 237,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 237,
@@ -17196,7 +17196,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 238,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 238,
@@ -17239,7 +17239,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 239,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 239,
@@ -17282,7 +17282,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 240,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 240,
@@ -17325,7 +17325,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 241,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 241,
@@ -17371,7 +17371,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 242,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 242,
@@ -17411,7 +17411,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 243,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 243,
@@ -17451,7 +17451,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 244,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 244,
@@ -17494,7 +17494,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 245,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 245,
@@ -17537,7 +17537,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 246,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 246,
@@ -17580,7 +17580,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 247,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 247,
@@ -17623,7 +17623,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 248,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 248,
@@ -17666,7 +17666,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 249,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 249,
@@ -17706,7 +17706,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 250,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 250,
@@ -17746,7 +17746,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 251,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 251,
@@ -17786,7 +17786,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 252,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 252,
@@ -17832,7 +17832,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 253,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 253,
@@ -17878,7 +17878,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 254,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 254,
@@ -17924,7 +17924,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 255,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 255,
@@ -17967,7 +17967,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 256,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 256,
@@ -18013,7 +18013,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 257,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 257,
@@ -18056,7 +18056,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 258,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 258,
@@ -18096,7 +18096,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 259,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 259,
@@ -18136,7 +18136,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 260,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 260,
@@ -18176,7 +18176,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 261,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 261,
@@ -18219,7 +18219,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 262,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 262,
@@ -18265,7 +18265,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 263,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 263,
@@ -18305,7 +18305,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 264,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 264,
@@ -18351,7 +18351,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 265,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 265,
@@ -18397,7 +18397,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 266,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 266,
@@ -18440,7 +18440,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 267,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 267,
@@ -18483,7 +18483,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 268,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 268,
@@ -18526,7 +18526,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 269,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 269,
@@ -18569,7 +18569,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 270,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 270,
@@ -18609,7 +18609,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 271,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 271,
@@ -18649,7 +18649,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 272,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 272,
@@ -18692,7 +18692,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 273,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 273,
@@ -18735,7 +18735,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 274,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 274,
@@ -18778,7 +18778,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 275,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 275,
@@ -18821,7 +18821,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 276,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 276,
@@ -18864,7 +18864,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 277,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 277,
@@ -18907,7 +18907,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 278,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 278,
@@ -18950,7 +18950,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 279,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 279,
@@ -18996,7 +18996,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 280,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 280,
@@ -19039,7 +19039,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 281,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 281,
@@ -19079,7 +19079,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 282,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 282,
@@ -19122,7 +19122,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 283,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 283,
@@ -19162,7 +19162,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 284,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 284,
@@ -19208,7 +19208,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 285,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 285,
@@ -19251,7 +19251,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 286,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 286,
@@ -19294,7 +19294,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 287,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 287,
@@ -19337,7 +19337,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 288,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 288,
@@ -19380,7 +19380,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 289,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 289,
@@ -19420,7 +19420,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 290,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 290,
@@ -19460,7 +19460,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 291,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 291,
@@ -19503,7 +19503,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 292,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 292,
@@ -19546,7 +19546,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 293,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 293,
@@ -19589,7 +19589,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 294,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 294,
@@ -19635,7 +19635,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 295,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 295,
@@ -19675,7 +19675,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 296,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 296,
@@ -19718,7 +19718,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 297,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 297,
@@ -19758,7 +19758,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 298,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 298,
@@ -19801,7 +19801,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 299,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 299,
@@ -19844,7 +19844,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 300,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 300,
@@ -19884,7 +19884,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 301,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 301,
@@ -19924,7 +19924,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 302,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 302,
@@ -19967,7 +19967,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 303,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 303,
@@ -20010,7 +20010,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 304,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 304,
@@ -20053,7 +20053,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 305,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 305,
@@ -20099,7 +20099,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 306,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 306,
@@ -20142,7 +20142,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 307,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 307,
@@ -20185,7 +20185,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 308,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 308,
@@ -20228,7 +20228,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 309,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 309,
@@ -20268,7 +20268,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 310,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 310,
@@ -20314,7 +20314,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 311,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 311,
@@ -20360,7 +20360,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 312,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 312,
@@ -20400,7 +20400,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 313,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 313,
@@ -20440,7 +20440,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 314,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 314,
@@ -20486,7 +20486,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 315,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 315,
@@ -20529,7 +20529,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 316,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 316,
@@ -20572,7 +20572,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 317,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 317,
@@ -20615,7 +20615,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 318,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 318,
@@ -20658,7 +20658,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 319,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 319,
@@ -20698,7 +20698,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 320,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 320,
@@ -20738,7 +20738,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 321,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 321,
@@ -20778,7 +20778,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 322,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 322,
@@ -20821,7 +20821,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 323,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 323,
@@ -20867,7 +20867,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 324,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 324,
@@ -20910,7 +20910,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 325,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 325,
@@ -20953,7 +20953,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 326,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 326,
@@ -20993,7 +20993,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 327,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 327,
@@ -21033,7 +21033,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 328,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 328,
@@ -21073,7 +21073,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 329,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 329,
@@ -21113,7 +21113,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 330,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 330,
@@ -21153,7 +21153,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 331,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 331,
@@ -21196,7 +21196,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 332,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 332,
@@ -21236,7 +21236,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 333,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 333,
@@ -21279,7 +21279,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 334,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 334,
@@ -21319,7 +21319,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 335,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 335,
@@ -21359,7 +21359,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 336,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 336,
@@ -21399,7 +21399,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 337,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 337,
@@ -21445,7 +21445,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 338,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 338,
@@ -21488,7 +21488,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 339,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 339,
@@ -21534,7 +21534,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 340,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 340,
@@ -21580,7 +21580,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 341,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 341,
@@ -21626,7 +21626,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 342,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 342,
@@ -21672,7 +21672,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 343,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 343,
@@ -21715,7 +21715,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 344,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 344,
@@ -21755,7 +21755,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 345,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 345,
@@ -21801,7 +21801,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 346,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 346,
@@ -21847,7 +21847,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 347,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 347,
@@ -21887,7 +21887,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 348,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 348,
@@ -21933,7 +21933,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 349,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 349,
@@ -21976,7 +21976,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 350,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 350,
@@ -22022,7 +22022,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 351,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 351,
@@ -22062,7 +22062,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 352,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 352,
@@ -22102,7 +22102,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 353,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 353,
@@ -22148,7 +22148,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 354,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 354,
@@ -22191,7 +22191,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 355,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 355,
@@ -22231,7 +22231,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 356,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 356,
@@ -22274,7 +22274,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 357,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 357,
@@ -22320,7 +22320,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 358,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 358,
@@ -22366,7 +22366,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 359,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 359,
@@ -22412,7 +22412,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 360,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 360,
@@ -22458,7 +22458,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 361,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 361,
@@ -22501,7 +22501,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 362,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 362,
@@ -22547,7 +22547,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 363,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 363,
@@ -22587,7 +22587,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 364,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 364,
@@ -22627,7 +22627,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 365,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 365,
@@ -22667,7 +22667,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 366,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 366,
@@ -22707,7 +22707,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 367,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 367,
@@ -22753,7 +22753,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 368,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 368,
@@ -22796,7 +22796,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 369,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 369,
@@ -22839,7 +22839,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 370,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 370,
@@ -22885,7 +22885,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 371,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 371,
@@ -22928,7 +22928,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 372,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 372,
@@ -22971,7 +22971,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 373,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 373,
@@ -23017,7 +23017,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 374,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 374,
@@ -23063,7 +23063,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 375,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 375,
@@ -23103,7 +23103,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 376,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 376,
@@ -23143,7 +23143,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 377,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 377,
@@ -23183,7 +23183,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 378,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 378,
@@ -23229,7 +23229,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 379,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 379,
@@ -23275,7 +23275,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 380,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 380,
@@ -23321,7 +23321,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 381,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 381,
@@ -23367,7 +23367,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 382,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 382,
@@ -23413,7 +23413,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 383,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 383,
@@ -23453,7 +23453,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 384,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 384,
@@ -23499,7 +23499,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 385,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 385,
@@ -23545,7 +23545,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 386,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 386,
@@ -23591,7 +23591,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 387,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 387,
@@ -23637,7 +23637,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 388,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 388,
@@ -23677,7 +23677,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 389,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 389,
@@ -23717,7 +23717,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 390,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 390,
@@ -23760,7 +23760,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 391,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 391,
@@ -23803,7 +23803,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 392,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 392,
@@ -23849,7 +23849,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 393,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 393,
@@ -23892,7 +23892,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 394,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 394,
@@ -23938,7 +23938,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 395,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 395,
@@ -23984,7 +23984,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 396,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 396,
@@ -24024,7 +24024,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 397,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 397,
@@ -24067,7 +24067,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 398,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 398,
@@ -24107,7 +24107,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 399,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 399,
@@ -24153,7 +24153,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 400,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 400,
@@ -24196,7 +24196,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 401,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 401,
@@ -24239,7 +24239,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 402,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 402,
@@ -24279,7 +24279,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 403,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 403,
@@ -24319,7 +24319,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 404,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 404,
@@ -24362,7 +24362,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 405,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 405,
@@ -24405,7 +24405,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 406,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 406,
@@ -24448,7 +24448,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 407,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 407,
@@ -24488,7 +24488,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 408,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 408,
@@ -24531,7 +24531,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 409,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 409,
@@ -24571,7 +24571,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 410,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 410,
@@ -24611,7 +24611,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 411,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 411,
@@ -24651,7 +24651,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 412,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 412,
@@ -24697,7 +24697,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 413,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 413,
@@ -24737,7 +24737,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 414,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 414,
@@ -24780,7 +24780,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 415,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 415,
@@ -24826,7 +24826,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 416,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 416,
@@ -24869,7 +24869,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 417,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 417,
@@ -24915,7 +24915,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 418,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 418,
@@ -24958,7 +24958,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 419,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 419,
@@ -24998,7 +24998,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 420,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 420,
@@ -25038,7 +25038,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 421,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 421,
@@ -25084,7 +25084,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 422,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 422,
@@ -25130,7 +25130,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 423,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 423,
@@ -25176,7 +25176,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 424,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 424,
@@ -25219,7 +25219,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 425,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 425,
@@ -25265,7 +25265,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 426,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 426,
@@ -25311,7 +25311,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 427,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 427,
@@ -25351,7 +25351,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 428,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 428,
@@ -25391,7 +25391,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 429,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 429,
@@ -25431,7 +25431,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 430,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 430,
@@ -25471,7 +25471,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 431,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 431,
@@ -25514,7 +25514,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 432,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 432,
@@ -25554,7 +25554,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 433,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 433,
@@ -25594,7 +25594,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 434,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 434,
@@ -25634,7 +25634,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 435,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 435,
@@ -25680,7 +25680,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 436,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 436,
@@ -25720,7 +25720,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 437,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 437,
@@ -25763,7 +25763,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 438,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 438,
@@ -25806,7 +25806,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 439,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 439,
@@ -25846,7 +25846,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 440,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 440,
@@ -25892,7 +25892,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 441,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 441,
@@ -25938,7 +25938,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 442,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 442,
@@ -25984,7 +25984,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 443,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 443,
@@ -26027,7 +26027,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 444,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 444,
@@ -26070,7 +26070,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 445,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 445,
@@ -26110,7 +26110,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 446,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 446,
@@ -26153,7 +26153,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 447,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 447,
@@ -26199,7 +26199,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 448,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 448,
@@ -26245,7 +26245,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 449,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 449,
@@ -26291,7 +26291,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 450,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 450,
@@ -26331,7 +26331,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 451,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 451,
@@ -26374,7 +26374,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 452,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 452,
@@ -26417,7 +26417,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 453,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 453,
@@ -26460,7 +26460,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 454,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 454,
@@ -26503,7 +26503,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 455,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 455,
@@ -26543,7 +26543,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 456,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 456,
@@ -26586,7 +26586,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 457,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 457,
@@ -26626,7 +26626,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 458,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 458,
@@ -26666,7 +26666,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 459,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 459,
@@ -26706,7 +26706,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 460,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 460,
@@ -26752,7 +26752,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 461,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 461,
@@ -26798,7 +26798,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 462,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 462,
@@ -26838,7 +26838,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 463,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 463,
@@ -26884,7 +26884,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 464,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 464,
@@ -26927,7 +26927,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 465,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 465,
@@ -26970,7 +26970,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 466,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 466,
@@ -27013,7 +27013,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 467,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 467,
@@ -27056,7 +27056,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 468,
       "tagId": 1,
-      "value": "N"
+      "value": "Normal"
     },
     {
       "characterId": 468,
@@ -27099,7 +27099,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 469,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 469,
@@ -27142,7 +27142,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 470,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 470,
@@ -27185,7 +27185,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 471,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 471,
@@ -27231,7 +27231,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 472,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 472,
@@ -27277,7 +27277,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 473,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 473,
@@ -27323,7 +27323,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 474,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 474,
@@ -27366,7 +27366,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 475,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 475,
@@ -27412,7 +27412,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 476,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 476,
@@ -27458,7 +27458,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 477,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 477,
@@ -27501,7 +27501,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 478,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 478,
@@ -27547,7 +27547,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 479,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 479,
@@ -27590,7 +27590,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 480,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 480,
@@ -27636,7 +27636,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 481,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 481,
@@ -27676,7 +27676,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 482,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 482,
@@ -27716,7 +27716,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 483,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 483,
@@ -27759,7 +27759,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 484,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 484,
@@ -27802,7 +27802,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 485,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 485,
@@ -27848,7 +27848,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 486,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 486,
@@ -27894,7 +27894,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 487,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 487,
@@ -27934,7 +27934,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 488,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 488,
@@ -27980,7 +27980,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 489,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 489,
@@ -28026,7 +28026,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 490,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 490,
@@ -28072,7 +28072,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 491,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 491,
@@ -28115,7 +28115,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 492,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 492,
@@ -28158,7 +28158,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 493,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 493,
@@ -28201,7 +28201,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 494,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 494,
@@ -28247,7 +28247,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 495,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 495,
@@ -28293,7 +28293,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 496,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 496,
@@ -28339,7 +28339,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 497,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 497,
@@ -28385,7 +28385,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 498,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 498,
@@ -28428,7 +28428,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 499,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 499,
@@ -28471,7 +28471,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 500,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 500,
@@ -28517,7 +28517,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 501,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 501,
@@ -28563,7 +28563,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 502,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 502,
@@ -28606,7 +28606,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 503,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 503,
@@ -28649,7 +28649,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 504,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 504,
@@ -28692,7 +28692,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 505,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 505,
@@ -28738,7 +28738,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 506,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 506,
@@ -28781,7 +28781,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 507,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 507,
@@ -28827,7 +28827,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 508,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 508,
@@ -28873,7 +28873,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 509,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 509,
@@ -28919,7 +28919,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 510,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 510,
@@ -28965,7 +28965,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 511,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 511,
@@ -29005,7 +29005,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 512,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 512,
@@ -29045,7 +29045,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 513,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 513,
@@ -29085,7 +29085,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 514,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 514,
@@ -29128,7 +29128,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 515,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 515,
@@ -29168,7 +29168,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 516,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 516,
@@ -29214,7 +29214,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 517,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 517,
@@ -29254,7 +29254,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 518,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 518,
@@ -29297,7 +29297,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 519,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 519,
@@ -29337,7 +29337,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 520,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 520,
@@ -29377,7 +29377,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 521,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 521,
@@ -29417,7 +29417,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 522,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 522,
@@ -29463,7 +29463,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 523,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 523,
@@ -29506,7 +29506,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 524,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 524,
@@ -29552,7 +29552,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 525,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 525,
@@ -29595,7 +29595,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 526,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 526,
@@ -29638,7 +29638,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 527,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 527,
@@ -29678,7 +29678,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 528,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 528,
@@ -29718,7 +29718,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 529,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 529,
@@ -29764,7 +29764,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 530,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 530,
@@ -29807,7 +29807,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 531,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 531,
@@ -29853,7 +29853,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 532,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 532,
@@ -29896,7 +29896,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 533,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 533,
@@ -29939,7 +29939,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 534,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 534,
@@ -29982,7 +29982,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 535,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 535,
@@ -30028,7 +30028,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 536,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 536,
@@ -30071,7 +30071,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 537,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 537,
@@ -30117,7 +30117,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 538,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 538,
@@ -30163,7 +30163,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 539,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 539,
@@ -30209,7 +30209,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 540,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 540,
@@ -30255,7 +30255,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 541,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 541,
@@ -30301,7 +30301,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 542,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 542,
@@ -30347,7 +30347,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 543,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 543,
@@ -30393,7 +30393,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 544,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 544,
@@ -30439,7 +30439,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 545,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 545,
@@ -30482,7 +30482,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 546,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 546,
@@ -30528,7 +30528,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 547,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 547,
@@ -30571,7 +30571,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 548,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 548,
@@ -30614,7 +30614,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 549,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 549,
@@ -30660,7 +30660,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 550,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 550,
@@ -30706,7 +30706,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 551,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 551,
@@ -30752,7 +30752,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 552,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 552,
@@ -30798,7 +30798,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 553,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 553,
@@ -30844,7 +30844,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 554,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 554,
@@ -30890,7 +30890,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 555,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 555,
@@ -30936,7 +30936,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 556,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 556,
@@ -30982,7 +30982,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 557,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 557,
@@ -31028,7 +31028,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 558,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 558,
@@ -31074,7 +31074,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 559,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 559,
@@ -31117,7 +31117,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 560,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 560,
@@ -31160,7 +31160,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 561,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 561,
@@ -31206,7 +31206,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 562,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 562,
@@ -31252,7 +31252,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 563,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 563,
@@ -31298,7 +31298,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 564,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 564,
@@ -31341,7 +31341,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 565,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 565,
@@ -31387,7 +31387,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 566,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 566,
@@ -31430,7 +31430,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 567,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 567,
@@ -31470,7 +31470,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 568,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 568,
@@ -31516,7 +31516,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 569,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 569,
@@ -31559,7 +31559,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 570,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 570,
@@ -31605,7 +31605,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 571,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 571,
@@ -31648,7 +31648,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 572,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 572,
@@ -31694,7 +31694,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 573,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 573,
@@ -31734,7 +31734,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 574,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 574,
@@ -31774,7 +31774,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 575,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 575,
@@ -31820,7 +31820,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 576,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 576,
@@ -31863,7 +31863,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 577,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 577,
@@ -31906,7 +31906,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 578,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 578,
@@ -31949,7 +31949,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 579,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 579,
@@ -31989,7 +31989,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 580,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 580,
@@ -32032,7 +32032,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 581,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 581,
@@ -32072,7 +32072,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 582,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 582,
@@ -32112,7 +32112,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 583,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 583,
@@ -32155,7 +32155,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 584,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 584,
@@ -32198,7 +32198,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 585,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 585,
@@ -32241,7 +32241,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 586,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 586,
@@ -32284,7 +32284,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 587,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 587,
@@ -32330,7 +32330,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 588,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 588,
@@ -32376,7 +32376,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 589,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 589,
@@ -32419,7 +32419,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 590,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 590,
@@ -32465,7 +32465,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 591,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 591,
@@ -32511,7 +32511,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 592,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 592,
@@ -32554,7 +32554,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 593,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 593,
@@ -32597,7 +32597,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 594,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 594,
@@ -32637,7 +32637,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 595,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 595,
@@ -32683,7 +32683,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 596,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 596,
@@ -32729,7 +32729,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 597,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 597,
@@ -32769,7 +32769,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 598,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 598,
@@ -32809,7 +32809,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 599,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 599,
@@ -32849,7 +32849,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 600,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 600,
@@ -32892,7 +32892,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 601,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 601,
@@ -32935,7 +32935,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 602,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 602,
@@ -32981,7 +32981,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 603,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 603,
@@ -33024,7 +33024,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 604,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 604,
@@ -33067,7 +33067,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 605,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 605,
@@ -33107,7 +33107,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 606,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 606,
@@ -33147,7 +33147,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 607,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 607,
@@ -33190,7 +33190,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 608,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 608,
@@ -33233,7 +33233,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 609,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 609,
@@ -33276,7 +33276,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 610,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 610,
@@ -33319,7 +33319,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 611,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 611,
@@ -33365,7 +33365,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 612,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 612,
@@ -33408,7 +33408,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 613,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 613,
@@ -33451,7 +33451,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 614,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 614,
@@ -33494,7 +33494,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 615,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 615,
@@ -33540,7 +33540,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 616,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 616,
@@ -33583,7 +33583,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 617,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 617,
@@ -33623,7 +33623,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 618,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 618,
@@ -33669,7 +33669,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 619,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 619,
@@ -33712,7 +33712,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 620,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 620,
@@ -33755,7 +33755,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 621,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 621,
@@ -33798,7 +33798,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 622,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 622,
@@ -33841,7 +33841,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 623,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 623,
@@ -33887,7 +33887,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 624,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 624,
@@ -33930,7 +33930,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 625,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 625,
@@ -33976,7 +33976,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 626,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 626,
@@ -34019,7 +34019,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 627,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 627,
@@ -34062,7 +34062,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 628,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 628,
@@ -34102,7 +34102,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 629,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 629,
@@ -34148,7 +34148,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 630,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 630,
@@ -34194,7 +34194,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 631,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 631,
@@ -34237,7 +34237,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 632,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 632,
@@ -34283,7 +34283,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 633,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 633,
@@ -34326,7 +34326,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 634,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 634,
@@ -34372,7 +34372,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 635,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 635,
@@ -34415,7 +34415,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 636,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 636,
@@ -34455,7 +34455,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 637,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 637,
@@ -34501,7 +34501,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 638,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 638,
@@ -34547,7 +34547,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 639,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 639,
@@ -34593,7 +34593,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 640,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 640,
@@ -34639,7 +34639,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 641,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 641,
@@ -34685,7 +34685,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 642,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 642,
@@ -34728,7 +34728,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 643,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 643,
@@ -34771,7 +34771,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 644,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 644,
@@ -34817,7 +34817,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 645,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 645,
@@ -34863,7 +34863,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 646,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 646,
@@ -34909,7 +34909,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 647,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 647,
@@ -34955,7 +34955,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 648,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 648,
@@ -35001,7 +35001,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 649,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 649,
@@ -35041,7 +35041,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 650,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 650,
@@ -35084,7 +35084,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 651,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 651,
@@ -35124,7 +35124,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 652,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 652,
@@ -35167,7 +35167,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 653,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 653,
@@ -35213,7 +35213,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 654,
       "tagId": 1,
-      "value": "R"
+      "value": "Rare"
     },
     {
       "characterId": 654,
@@ -35253,7 +35253,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 655,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 655,
@@ -35293,7 +35293,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 656,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 656,
@@ -35333,7 +35333,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 657,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 657,
@@ -35379,7 +35379,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 658,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 658,
@@ -35422,7 +35422,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 659,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 659,
@@ -35465,7 +35465,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 660,
       "tagId": 1,
-      "value": "UR"
+      "value": "Ultra Rare"
     },
     {
       "characterId": 660,
@@ -35511,7 +35511,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 661,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 661,
@@ -35551,7 +35551,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 662,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 662,
@@ -35591,7 +35591,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 663,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 663,
@@ -35634,7 +35634,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 664,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 664,
@@ -35680,7 +35680,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 665,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 665,
@@ -35720,7 +35720,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 666,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 666,
@@ -35760,7 +35760,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 667,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 667,
@@ -35806,7 +35806,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 668,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 668,
@@ -35846,7 +35846,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 669,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 669,
@@ -35889,7 +35889,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 670,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 670,
@@ -35935,7 +35935,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 671,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 671,
@@ -35981,7 +35981,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 672,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 672,
@@ -36021,7 +36021,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 673,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 673,
@@ -36064,7 +36064,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 674,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 674,
@@ -36107,7 +36107,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 675,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 675,
@@ -36150,7 +36150,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 676,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 676,
@@ -36193,7 +36193,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 677,
       "tagId": 1,
-      "value": "PR"
+      "value": "Priority"
     },
     {
       "characterId": 677,
@@ -36233,7 +36233,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 678,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 678,
@@ -36279,7 +36279,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 679,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 679,
@@ -36322,7 +36322,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 680,
       "tagId": 1,
-      "value": "DR"
+      "value": "Decisive"
     },
     {
       "characterId": 680,
@@ -36365,7 +36365,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 681,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 681,
@@ -36408,7 +36408,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 682,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 682,
@@ -36454,7 +36454,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 683,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 683,
@@ -36500,7 +36500,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 684,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 684,
@@ -36546,7 +36546,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 685,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 685,
@@ -36592,7 +36592,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 686,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 686,
@@ -36638,7 +36638,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 687,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 687,
@@ -36681,7 +36681,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 688,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 688,
@@ -36727,7 +36727,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 689,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 689,
@@ -36770,7 +36770,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 690,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 690,
@@ -36813,7 +36813,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 691,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 691,
@@ -36856,7 +36856,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 692,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 692,
@@ -36902,7 +36902,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 693,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 693,
@@ -36948,7 +36948,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 694,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 694,
@@ -36991,7 +36991,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 695,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 695,
@@ -37037,7 +37037,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 696,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 696,
@@ -37080,7 +37080,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 697,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 697,
@@ -37126,7 +37126,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 698,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 698,
@@ -37172,7 +37172,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 699,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 699,
@@ -37218,7 +37218,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 700,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 700,
@@ -37264,7 +37264,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 701,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 701,
@@ -37310,7 +37310,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 702,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 702,
@@ -37356,7 +37356,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 703,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 703,
@@ -37402,7 +37402,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 704,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 704,
@@ -37448,7 +37448,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 705,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 705,
@@ -37491,7 +37491,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 706,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 706,
@@ -37537,7 +37537,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 707,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 707,
@@ -37580,7 +37580,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 708,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 708,
@@ -37623,7 +37623,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 709,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 709,
@@ -37666,7 +37666,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 710,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 710,
@@ -37709,7 +37709,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 711,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 711,
@@ -37752,7 +37752,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 712,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 712,
@@ -37792,7 +37792,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 713,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 713,
@@ -37835,7 +37835,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 714,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 714,
@@ -37881,7 +37881,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 715,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 715,
@@ -37921,7 +37921,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 716,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 716,
@@ -37961,7 +37961,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 717,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 717,
@@ -38004,7 +38004,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 718,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 718,
@@ -38047,7 +38047,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 719,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 719,
@@ -38087,7 +38087,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 720,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 720,
@@ -38133,7 +38133,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 721,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 721,
@@ -38176,7 +38176,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 722,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 722,
@@ -38222,7 +38222,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 723,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 723,
@@ -38262,7 +38262,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 724,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 724,
@@ -38302,7 +38302,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 725,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 725,
@@ -38345,7 +38345,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 726,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 726,
@@ -38391,7 +38391,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 727,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 727,
@@ -38434,7 +38434,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 728,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 728,
@@ -38477,7 +38477,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 729,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 729,
@@ -38520,7 +38520,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 730,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 730,
@@ -38563,7 +38563,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 731,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 731,
@@ -38606,7 +38606,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 732,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 732,
@@ -38652,7 +38652,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 733,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 733,
@@ -38698,7 +38698,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 734,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 734,
@@ -38744,7 +38744,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 735,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 735,
@@ -38790,7 +38790,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 736,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 736,
@@ -38833,7 +38833,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 737,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 737,
@@ -38873,7 +38873,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 738,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 738,
@@ -38916,7 +38916,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 739,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 739,
@@ -38962,7 +38962,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 740,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 740,
@@ -39002,7 +39002,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 741,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 741,
@@ -39045,7 +39045,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 742,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 742,
@@ -39091,7 +39091,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 743,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 743,
@@ -39137,7 +39137,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 744,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 744,
@@ -39183,7 +39183,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 745,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 745,
@@ -39223,7 +39223,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 746,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 746,
@@ -39263,7 +39263,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 747,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 747,
@@ -39306,7 +39306,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 748,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 748,
@@ -39352,7 +39352,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 749,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 749,
@@ -39398,7 +39398,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 750,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 750,
@@ -39444,7 +39444,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 751,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 751,
@@ -39490,7 +39490,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 752,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 752,
@@ -39533,7 +39533,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 753,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 753,
@@ -39576,7 +39576,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 754,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 754,
@@ -39622,7 +39622,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 755,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 755,
@@ -39665,7 +39665,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 756,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 756,
@@ -39708,7 +39708,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 757,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 757,
@@ -39751,7 +39751,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 758,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 758,
@@ -39794,7 +39794,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 759,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 759,
@@ -39834,7 +39834,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 760,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 760,
@@ -39877,7 +39877,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 761,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 761,
@@ -39920,7 +39920,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 762,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 762,
@@ -39963,7 +39963,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 763,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 763,
@@ -40003,7 +40003,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 764,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 764,
@@ -40046,7 +40046,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 765,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 765,
@@ -40089,7 +40089,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 766,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 766,
@@ -40129,7 +40129,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 767,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 767,
@@ -40169,7 +40169,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 768,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 768,
@@ -40209,7 +40209,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 769,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 769,
@@ -40249,7 +40249,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 770,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 770,
@@ -40292,7 +40292,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 771,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 771,
@@ -40335,7 +40335,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 772,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 772,
@@ -40378,7 +40378,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 773,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 773,
@@ -40421,7 +40421,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 774,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 774,
@@ -40464,7 +40464,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 775,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 775,
@@ -40507,7 +40507,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 776,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 776,
@@ -40550,7 +40550,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 777,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 777,
@@ -40596,7 +40596,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 778,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 778,
@@ -40639,7 +40639,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 779,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 779,
@@ -40685,7 +40685,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 780,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 780,
@@ -40731,7 +40731,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 781,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 781,
@@ -40774,7 +40774,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 782,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 782,
@@ -40820,7 +40820,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 783,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 783,
@@ -40863,7 +40863,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 784,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 784,
@@ -40903,7 +40903,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 785,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 785,
@@ -40949,7 +40949,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 786,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 786,
@@ -40995,7 +40995,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 787,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 787,
@@ -41038,7 +41038,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 788,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 788,
@@ -41084,7 +41084,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 789,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 789,
@@ -41127,7 +41127,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 790,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 790,
@@ -41170,7 +41170,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 791,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 791,
@@ -41213,7 +41213,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 792,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 792,
@@ -41256,7 +41256,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 793,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 793,
@@ -41296,7 +41296,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 794,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 794,
@@ -41342,7 +41342,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 795,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 795,
@@ -41388,7 +41388,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 796,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 796,
@@ -41434,7 +41434,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 797,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 797,
@@ -41480,7 +41480,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 798,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 798,
@@ -41526,7 +41526,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 799,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 799,
@@ -41572,7 +41572,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 800,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 800,
@@ -41618,7 +41618,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 801,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 801,
@@ -41661,7 +41661,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 802,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 802,
@@ -41701,7 +41701,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 803,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 803,
@@ -41744,7 +41744,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 804,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 804,
@@ -41784,7 +41784,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 805,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 805,
@@ -41824,7 +41824,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 806,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 806,
@@ -41867,7 +41867,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 807,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 807,
@@ -41913,7 +41913,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 808,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 808,
@@ -41956,7 +41956,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 809,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 809,
@@ -41999,7 +41999,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 810,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 810,
@@ -42045,7 +42045,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 811,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 811,
@@ -42091,7 +42091,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 812,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 812,
@@ -42134,7 +42134,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 813,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 813,
@@ -42177,7 +42177,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 814,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 814,
@@ -42220,7 +42220,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 815,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 815,
@@ -42266,7 +42266,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 816,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 816,
@@ -42312,7 +42312,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 817,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 817,
@@ -42358,7 +42358,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 818,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 818,
@@ -42404,7 +42404,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 819,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 819,
@@ -42447,7 +42447,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 820,
       "tagId": 1,
-      "value": "SR"
+      "value": "Elite"
     },
     {
       "characterId": 820,
@@ -42493,7 +42493,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 821,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 821,
@@ -42539,7 +42539,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 822,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 822,
@@ -42585,7 +42585,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 823,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 823,
@@ -42631,7 +42631,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 824,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 824,
@@ -42677,7 +42677,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 825,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 825,
@@ -42720,7 +42720,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 826,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 826,
@@ -42763,7 +42763,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 827,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 827,
@@ -42809,7 +42809,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 828,
       "tagId": 1,
-      "value": "SSR"
+      "value": "Super Rare"
     },
     {
       "characterId": 828,
@@ -42859,8 +42859,8 @@ export const bundledOfficialCatalogs: ReadonlyArray<BundledOfficialCatalog> = [
   {
     name: "航一把题库",
     path: "db/航一把题库.csv",
-    sha256: "b73fe83413273665bee523c4fb16652e3b6d3fdbca158ff521253ec844bd4362",
-    gitCommitSha: "a2c277e57ac2bcb0667be968301eecdfc6b50b66",
+    sha256: "ea824da1ca618a076f4fde3d3dfb9ef7264b8ab8568f8ad50bf59f00eafb6a55",
+    gitCommitSha: "79889c2add66da2783388f42922c03d3b9126962",
     gitCommitDate: "2026-09-14",
     catalog: bundledCatalog0,
   },

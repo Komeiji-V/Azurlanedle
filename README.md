@@ -12,7 +12,7 @@
 
 | 标签 | 判定规则 |
 | --- | --- |
-| 稀有度 / 阵营 / 舰种 / 舰级 | 完全一致才算命中（稀有度用 N / R / SR / SSR / UR / PR / DR） |
+| 稀有度 / 阵营 / 舰种 / 舰级 | 完全一致才算命中（稀有度沿用原版的 Normal / Rare / Elite / Super Rare / Ultra Rare / Priority / Decisive） |
 | 建造时间 | 相差 5 分钟以内算「接近」，箭头提示答案更早（↓）还是更晚（↑） |
 | 实装活动 | 相差 30 天以内算「接近」，同样给出方向箭头 |
 | 声优 | 显示中文译名与日文写法，任意一项相同即算命中 |
@@ -99,7 +99,7 @@ node scripts/generate_default_catalog.mjs   # 重新生成 app/default-catalog.g
 
 - 舰船中文名、和谐名、阵营、舰种、舰级、声优、实装日期来自 bwiki 的 `{{舰娘图鉴}}` 模板
 - 中文活动名与国服活动日期来自 bwiki 的「游戏活动表」，按实装日期对齐
-- 稀有度沿用原版的英文缩写（Normal→N、Rare→R、Elite→SR、Super Rare→SSR、Ultra Rare→UR、Priority→PR、Decisive→DR）
+- 稀有度直接沿用原版 Azurlanedle 的写法，不做翻译
 - 舰级取型号里的「XX级 / XX型」并做同舰级投票；声优取中文译名 + 日文写法；建造方式沿用原版数据
 - 别名同时收录音译名与和谐名，所以「雪风」「莲」「Yukikaze」都能搜到
 - `scripts/fetch-bwiki-data.mjs` 内置限速与重试：bwiki 触发反爬时会返回 567，脚本会自动退避
