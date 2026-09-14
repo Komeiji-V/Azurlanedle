@@ -50,8 +50,8 @@ const CONTINUOUS_MODES: LocalGameMode[] = ["unlimited", "custom"];
 const EVALUATION_DELAY_MS = 60;
 /** 语言设置弹窗里预览用的样例舰船。 */
 const SAMPLE_SHIP_NAME = "企业";
-/** TODO: GitHub 仓库建好后，把这里替换成真实地址（页脚会显示它） */
-const REPOSITORY_URL = "https://github.com/your-account/hangyiba";
+/** 页脚展示的仓库地址，点进去就是项目主页。 */
+const REPOSITORY_URL = "https://github.com/Komeiji-V/Azurlanedle";
 
 const TEN_MATCH_DIFFICULTIES: Array<{ value: TenMatchDifficulty; label: string; detail: string }> = [
   { value: "easy", label: "Easy", detail: "答案只从可建造舰船中抽取 · 猜错扣时 1/1/2/3/4/5/6s · 猜对 +50s" },
@@ -841,7 +841,7 @@ export function GameBoard() {
 
       <footer>
         <a href={REPOSITORY_URL} target="_blank" rel="noreferrer">
-          {REPOSITORY_URL.replace(/^https?:\/\//, "")}
+          Github仓库：{REPOSITORY_URL.replace(/^https?:\/\/(?:www\.)?github\.com\//, "")}
         </a>
       </footer>
 
