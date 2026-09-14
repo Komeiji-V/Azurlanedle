@@ -61699,7 +61699,7 @@ export const bundledOfficialCatalogs: ReadonlyArray<BundledOfficialCatalog> = [
     name: "航一把题库",
     path: "db/航一把题库.csv",
     sha256: "c7bac4957f2c18eb9344d97a66726a0076cb99542b70c87fd387678003d75641",
-    gitCommitSha: "5943155e7153485a1e8739252115c85037ddfee6",
+    gitCommitSha: "fdc258c34bd454d31b21cb4f6c1f25a8f7c8e564",
     gitCommitDate: "2026-09-14",
     catalog: bundledCatalog0,
   },
