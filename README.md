@@ -12,10 +12,10 @@
 
 | 标签 | 判定规则 |
 | --- | --- |
-| 稀有度 / 阵营 / 舰种 / 舰级 | 完全一致才算命中 |
+| 稀有度 / 阵营 / 舰种 / 舰级 | 完全一致才算命中（稀有度用 N / R / SR / SSR / UR / PR / DR） |
 | 建造时间 | 相差 5 分钟以内算「接近」，箭头提示答案更早（↓）还是更晚（↑） |
 | 实装活动 | 相差 30 天以内算「接近」，同样给出方向箭头 |
-| 声优 | 任意一位声优相同即算命中 |
+| 声优 | 显示中文译名与日文写法，任意一项相同即算命中 |
 
 绿色代表命中、黄色代表接近、灰色代表不符。「无活动」的舰船彼此之间恒为命中（与原版一致）。
 
@@ -97,9 +97,10 @@ npm run catalog:build   # 结合原版题库生成 db/航一把题库.csv
 node scripts/generate_default_catalog.mjs   # 重新生成 app/default-catalog.generated.ts
 ```
 
-- 舰船中文名、和谐名、稀有度、阵营、舰种、实装日期来自 bwiki 的 `{{舰娘图鉴}}` 模板
+- 舰船中文名、和谐名、阵营、舰种、舰级、声优、实装日期来自 bwiki 的 `{{舰娘图鉴}}` 模板
 - 中文活动名与国服活动日期来自 bwiki 的「游戏活动表」，按实装日期对齐
-- 舰级、声优与建造方式沿用原版 Azurlanedle 数据（保留英文与罗马音）
+- 稀有度沿用原版的英文缩写（Normal→N、Rare→R、Elite→SR、Super Rare→SSR、Ultra Rare→UR、Priority→PR、Decisive→DR）
+- 舰级取型号里的「XX级 / XX型」并做同舰级投票；声优取中文译名 + 日文写法；建造方式沿用原版数据
 - 别名同时收录音译名与和谐名，所以「雪风」「莲」「Yukikaze」都能搜到
 - `scripts/fetch-bwiki-data.mjs` 内置限速与重试：bwiki 触发反爬时会返回 567，脚本会自动退避
 
@@ -123,7 +124,7 @@ app/
   azurlane-eval.ts      Skill / Luck 评估与 Bot 最优路径
   game-board.tsx        游戏主界面
   admin/                标签后台
-  globals.css           样式与双主题
+  globals.css           样式
 db/航一把题库.csv         内置题库
 data/                  抓取到的原始数据（构建题库用）
 scripts/               抓取、生成题库、静态构建

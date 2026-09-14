@@ -7041,7 +7041,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 1,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 1,
@@ -7071,17 +7071,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 1,
       "tagId": 7,
-      "value": "Asami Shimoda",
+      "value": "下田麻美",
       "entries": [
         {
-          "value": "Asami Shimoda"
+          "value": "下田麻美"
         }
       ]
     },
     {
       "characterId": 2,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 2,
@@ -7111,17 +7111,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 2,
       "tagId": 7,
-      "value": "Asami Shimoda",
+      "value": "下田麻美",
       "entries": [
         {
-          "value": "Asami Shimoda"
+          "value": "下田麻美"
         }
       ]
     },
     {
       "characterId": 3,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 3,
@@ -7151,17 +7151,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 3,
       "tagId": 7,
-      "value": "Asami Shimoda",
+      "value": "下田麻美",
       "entries": [
         {
-          "value": "Asami Shimoda"
+          "value": "下田麻美"
         }
       ]
     },
     {
       "characterId": 4,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 4,
@@ -7176,7 +7176,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 4,
       "tagId": 4,
-      "value": "Farragut"
+      "value": "法拉格特级"
     },
     {
       "characterId": 4,
@@ -7191,17 +7191,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 4,
       "tagId": 7,
-      "value": "Miyuri Shimabukuro",
+      "value": "岛袋美由利",
       "entries": [
         {
-          "value": "Miyuri Shimabukuro"
+          "value": "岛袋美由利"
         }
       ]
     },
     {
       "characterId": 5,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 5,
@@ -7216,7 +7216,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 5,
       "tagId": 4,
-      "value": "Mahan"
+      "value": "马汉级"
     },
     {
       "characterId": 5,
@@ -7231,17 +7231,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 5,
       "tagId": 7,
-      "value": "Nana Harumura",
+      "value": "春村奈奈",
       "entries": [
         {
-          "value": "Nana Harumura"
+          "value": "春村奈奈"
+        },
+        {
+          "value": "はるむら なな"
+        },
+        {
+          "value": "宣传"
         }
       ]
     },
     {
       "characterId": 6,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 6,
@@ -7256,7 +7262,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 6,
       "tagId": 4,
-      "value": "Mahan"
+      "value": "马汉级"
     },
     {
       "characterId": 6,
@@ -7271,17 +7277,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 6,
       "tagId": 7,
-      "value": "Ayano Niina",
+      "value": "新名彩乃",
       "entries": [
         {
-          "value": "Ayano Niina"
+          "value": "新名彩乃"
+        },
+        {
+          "value": "まつもと あやの"
+        },
+        {
+          "value": "松本彩乃"
         }
       ]
     },
     {
       "characterId": 7,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 7,
@@ -7296,7 +7308,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 7,
       "tagId": 4,
-      "value": "Gridley"
+      "value": "格里德利级"
     },
     {
       "characterId": 7,
@@ -7311,17 +7323,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 7,
       "tagId": 7,
-      "value": "Narumi Shinohara",
+      "value": "篠原成美",
       "entries": [
         {
-          "value": "Narumi Shinohara"
+          "value": "篠原成美"
+        },
+        {
+          "value": "しのはら なるみ"
         }
       ]
     },
     {
       "characterId": 8,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 8,
@@ -7336,7 +7351,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 8,
       "tagId": 4,
-      "value": "Gridley"
+      "value": "格里德利级"
     },
     {
       "characterId": 8,
@@ -7351,17 +7366,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 8,
       "tagId": 7,
-      "value": "Ayano Niina",
+      "value": "新名彩乃",
       "entries": [
         {
-          "value": "Ayano Niina"
+          "value": "新名彩乃"
+        },
+        {
+          "value": "まつもと あやの"
+        },
+        {
+          "value": "松本彩乃"
         }
       ]
     },
     {
       "characterId": 9,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 9,
@@ -7376,7 +7397,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 9,
       "tagId": 4,
-      "value": "Gridley"
+      "value": "格里德利级"
     },
     {
       "characterId": 9,
@@ -7391,17 +7412,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 9,
       "tagId": 7,
-      "value": "Nana Harumura",
+      "value": "春村奈奈",
       "entries": [
         {
-          "value": "Nana Harumura"
+          "value": "春村奈奈"
+        },
+        {
+          "value": "はるむら なな"
+        },
+        {
+          "value": "宣传"
         }
       ]
     },
     {
       "characterId": 10,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 10,
@@ -7416,7 +7443,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 10,
       "tagId": 4,
-      "value": "Gridley"
+      "value": "格里德利级"
     },
     {
       "characterId": 10,
@@ -7431,17 +7458,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 10,
       "tagId": 7,
-      "value": "Konomi Kohara",
+      "value": "小原好美",
       "entries": [
         {
-          "value": "Konomi Kohara"
+          "value": "小原好美"
+        },
+        {
+          "value": "こはら このみ"
         }
       ]
     },
     {
       "characterId": 11,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 11,
@@ -7456,7 +7486,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 11,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 11,
@@ -7471,17 +7501,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 11,
       "tagId": 7,
-      "value": "Manaka Iwami",
+      "value": "石见舞菜香",
       "entries": [
         {
-          "value": "Manaka Iwami"
+          "value": "石见舞菜香"
+        },
+        {
+          "value": "いわみ まなか"
         }
       ]
     },
     {
       "characterId": 12,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 12,
@@ -7496,7 +7529,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 12,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 12,
@@ -7511,17 +7544,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 12,
       "tagId": 7,
-      "value": "Sumire Morohoshi",
+      "value": "诸星堇",
       "entries": [
         {
-          "value": "Sumire Morohoshi"
+          "value": "诸星堇"
+        },
+        {
+          "value": "諸星 すみれ"
+        },
+        {
+          "value": "もろほし すみれ"
         }
       ]
     },
     {
       "characterId": 13,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 13,
@@ -7536,7 +7575,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 13,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 13,
@@ -7551,17 +7590,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 13,
       "tagId": 7,
-      "value": "Satsuki Morita",
+      "value": "森田皋月",
       "entries": [
         {
-          "value": "Satsuki Morita"
+          "value": "森田皋月"
+        },
+        {
+          "value": "もりた さつき"
         }
       ]
     },
     {
       "characterId": 14,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 14,
@@ -7576,7 +7618,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 14,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 14,
@@ -7591,17 +7633,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 14,
       "tagId": 7,
-      "value": "Ruka Nemoto",
+      "value": "根本流风",
       "entries": [
         {
-          "value": "Ruka Nemoto"
+          "value": "根本流风"
         }
       ]
     },
     {
       "characterId": 15,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 15,
@@ -7616,7 +7658,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 15,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 15,
@@ -7631,17 +7673,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 15,
       "tagId": 7,
-      "value": "Yuna Yoshino",
+      "value": "芳野由奈",
       "entries": [
         {
-          "value": "Yuna Yoshino"
+          "value": "芳野由奈"
         }
       ]
     },
     {
       "characterId": 16,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 16,
@@ -7656,7 +7698,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 16,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 16,
@@ -7671,17 +7713,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 16,
       "tagId": 7,
-      "value": "Yuna Yoshino",
+      "value": "芳野由奈",
       "entries": [
         {
-          "value": "Yuna Yoshino"
+          "value": "芳野由奈"
         }
       ]
     },
     {
       "characterId": 17,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 17,
@@ -7696,7 +7738,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 17,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 17,
@@ -7711,17 +7753,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 17,
       "tagId": 7,
-      "value": "Yuna Yoshino",
+      "value": "芳野由奈",
       "entries": [
         {
-          "value": "Yuna Yoshino"
+          "value": "芳野由奈"
         }
       ]
     },
     {
       "characterId": 18,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 18,
@@ -7736,7 +7778,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 18,
       "tagId": 4,
-      "value": "Benson"
+      "value": "本森级"
     },
     {
       "characterId": 18,
@@ -7751,17 +7793,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 18,
       "tagId": 7,
-      "value": "Manami Numakura",
+      "value": "沼仓爱美",
       "entries": [
         {
-          "value": "Manami Numakura"
+          "value": "沼仓爱美"
         }
       ]
     },
     {
       "characterId": 19,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 19,
@@ -7776,7 +7818,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 19,
       "tagId": 4,
-      "value": "Benson"
+      "value": "本森级"
     },
     {
       "characterId": 19,
@@ -7791,17 +7833,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 19,
       "tagId": 7,
-      "value": "Maria Naganawa",
+      "value": "长绳麻理亚",
       "entries": [
         {
-          "value": "Maria Naganawa"
+          "value": "长绳麻理亚"
+        },
+        {
+          "value": "長縄 まりあ"
+        },
+        {
+          "value": "ながなわ まりあ"
         }
       ]
     },
     {
       "characterId": 20,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 20,
@@ -7816,7 +7864,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 20,
       "tagId": 4,
-      "value": "Sims"
+      "value": "西姆斯级"
     },
     {
       "characterId": 20,
@@ -7831,17 +7879,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 20,
       "tagId": 7,
-      "value": "Mikako Komatsu",
+      "value": "小松未可子",
       "entries": [
         {
-          "value": "Mikako Komatsu"
+          "value": "小松未可子"
+        },
+        {
+          "value": "こまつ みかこ"
         }
       ]
     },
     {
       "characterId": 21,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 21,
@@ -7856,7 +7907,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 21,
       "tagId": 4,
-      "value": "Sims"
+      "value": "西姆斯级"
     },
     {
       "characterId": 21,
@@ -7871,17 +7922,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 21,
       "tagId": 7,
-      "value": "Asuka Itou",
+      "value": "伊藤明日香",
       "entries": [
         {
-          "value": "Asuka Itou"
+          "value": "伊藤明日香"
+        },
+        {
+          "value": "伊藤 あすか"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 22,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 22,
@@ -7896,7 +7953,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 22,
       "tagId": 4,
-      "value": "Cannon"
+      "value": "坎农级"
     },
     {
       "characterId": 22,
@@ -7911,17 +7968,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 22,
       "tagId": 7,
-      "value": "Nozomi Sasaki",
+      "value": "佐佐木望",
       "entries": [
         {
-          "value": "Nozomi Sasaki"
+          "value": "佐佐木望"
+        },
+        {
+          "value": "ささき のぞみ"
         }
       ]
     },
     {
       "characterId": 23,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 23,
@@ -7936,7 +7996,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 23,
       "tagId": 4,
-      "value": "Benson"
+      "value": "本森级"
     },
     {
       "characterId": 23,
@@ -7951,17 +8011,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 23,
       "tagId": 7,
-      "value": "Eri Suzuki",
+      "value": "铃木绘理",
       "entries": [
         {
-          "value": "Eri Suzuki"
+          "value": "铃木绘理"
+        },
+        {
+          "value": "すずき えり"
         }
       ]
     },
     {
       "characterId": 24,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 24,
@@ -7976,7 +8039,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 24,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 24,
@@ -7991,17 +8054,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 24,
       "tagId": 7,
-      "value": "Mariya Ise",
+      "value": "伊濑茉莉也",
       "entries": [
         {
-          "value": "Mariya Ise"
+          "value": "伊濑茉莉也"
+        },
+        {
+          "value": "いせ まりや"
         }
       ]
     },
     {
       "characterId": 25,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 25,
@@ -8016,7 +8082,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 25,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 25,
@@ -8031,17 +8097,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 25,
       "tagId": 7,
-      "value": "Mariya Ise",
+      "value": "伊濑茉莉也",
       "entries": [
         {
-          "value": "Mariya Ise"
+          "value": "伊濑茉莉也"
+        },
+        {
+          "value": "いせ まりや"
         }
       ]
     },
     {
       "characterId": 26,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 26,
@@ -8056,7 +8125,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 26,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 26,
@@ -8071,17 +8140,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 26,
       "tagId": 7,
-      "value": "M・A・O",
+      "value": "市道真央",
       "entries": [
         {
-          "value": "M・A・O"
+          "value": "市道真央"
         }
       ]
     },
     {
       "characterId": 27,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 27,
@@ -8096,7 +8165,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 27,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 27,
@@ -8111,17 +8180,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 27,
       "tagId": 7,
-      "value": "Akane Fujita",
+      "value": "藤田茜",
       "entries": [
         {
-          "value": "Akane Fujita"
+          "value": "藤田茜"
         }
       ]
     },
     {
       "characterId": 28,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 28,
@@ -8136,7 +8205,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 28,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 28,
@@ -8151,17 +8220,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 28,
       "tagId": 7,
-      "value": "Akane Fujita",
+      "value": "藤田茜",
       "entries": [
         {
-          "value": "Akane Fujita"
+          "value": "藤田茜"
         }
       ]
     },
     {
       "characterId": 29,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 29,
@@ -8176,7 +8245,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 29,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 29,
@@ -8191,17 +8260,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 29,
       "tagId": 7,
-      "value": "Sayaka Kaneko",
+      "value": "金子彩花",
       "entries": [
         {
-          "value": "Sayaka Kaneko"
+          "value": "金子彩花"
         }
       ]
     },
     {
       "characterId": 30,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 30,
@@ -8216,7 +8285,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 30,
       "tagId": 4,
-      "value": "Benson"
+      "value": "本森级"
     },
     {
       "characterId": 30,
@@ -8231,17 +8300,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 30,
       "tagId": 7,
-      "value": "Miyuki Kobori",
+      "value": "小堀幸",
       "entries": [
         {
-          "value": "Miyuki Kobori"
+          "value": "小堀幸"
         }
       ]
     },
     {
       "characterId": 31,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 31,
@@ -8256,7 +8325,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 31,
       "tagId": 4,
-      "value": "Benson"
+      "value": "本森级"
     },
     {
       "characterId": 31,
@@ -8271,17 +8340,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 31,
       "tagId": 7,
-      "value": "Miyuki Kobori",
+      "value": "小堀幸",
       "entries": [
         {
-          "value": "Miyuki Kobori"
+          "value": "小堀幸"
         }
       ]
     },
     {
       "characterId": 32,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 32,
@@ -8296,7 +8365,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 32,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 32,
@@ -8311,17 +8380,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 32,
       "tagId": 7,
-      "value": "Sumire Morohoshi",
+      "value": "诸星堇",
       "entries": [
         {
-          "value": "Sumire Morohoshi"
+          "value": "诸星堇"
+        },
+        {
+          "value": "諸星 すみれ"
+        },
+        {
+          "value": "もろほし すみれ"
         }
       ]
     },
     {
       "characterId": 33,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 33,
@@ -8336,7 +8411,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 33,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 33,
@@ -8351,17 +8426,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 33,
       "tagId": 7,
-      "value": "Asuka Oogame",
+      "value": "大龟明日香",
       "entries": [
         {
-          "value": "Asuka Oogame"
+          "value": "大龟明日香"
         }
       ]
     },
     {
       "characterId": 34,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 34,
@@ -8376,7 +8451,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 34,
       "tagId": 4,
-      "value": "Farragut"
+      "value": "法拉格特级"
     },
     {
       "characterId": 34,
@@ -8391,17 +8466,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 34,
       "tagId": 7,
-      "value": "Ayaka Ouhashi",
+      "value": "大桥步夕",
       "entries": [
         {
-          "value": "Ayaka Ouhashi"
+          "value": "大桥步夕"
         }
       ]
     },
     {
       "characterId": 35,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 35,
@@ -8416,7 +8491,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 35,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 35,
@@ -8431,17 +8506,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 35,
       "tagId": 7,
-      "value": "Yoshie Sakai",
+      "value": "坂井芳江",
       "entries": [
         {
-          "value": "Yoshie Sakai"
+          "value": "坂井芳江"
         }
       ]
     },
     {
       "characterId": 36,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 36,
@@ -8456,7 +8531,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 36,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 36,
@@ -8471,17 +8546,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 36,
       "tagId": 7,
-      "value": "Natsume Iwasa",
+      "value": "岩佐夏芽",
       "entries": [
         {
-          "value": "Natsume Iwasa"
+          "value": "岩佐夏芽"
         }
       ]
     },
     {
       "characterId": 37,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 37,
@@ -8496,7 +8571,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 37,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 37,
@@ -8511,17 +8586,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 37,
       "tagId": 7,
-      "value": "Rika Momokawa",
+      "value": "桃河里香",
       "entries": [
         {
-          "value": "Rika Momokawa"
+          "value": "桃河里香"
+        },
+        {
+          "value": "桃河 りか"
+        },
+        {
+          "value": "ももかわ りか"
         }
       ]
     },
     {
       "characterId": 38,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 38,
@@ -8536,7 +8617,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 38,
       "tagId": 4,
-      "value": "Allen M. Sumner"
+      "value": "艾伦·M·萨姆纳级"
     },
     {
       "characterId": 38,
@@ -8551,17 +8632,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 38,
       "tagId": 7,
-      "value": "Miho Okasaki",
+      "value": "冈咲美保",
       "entries": [
         {
-          "value": "Miho Okasaki"
+          "value": "冈咲美保"
+        },
+        {
+          "value": "おかさき みほ"
         }
       ]
     },
     {
       "characterId": 39,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 39,
@@ -8576,7 +8660,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 39,
       "tagId": 4,
-      "value": "Allen M. Sumner"
+      "value": "艾伦·M·萨姆纳级"
     },
     {
       "characterId": 39,
@@ -8591,17 +8675,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 39,
       "tagId": 7,
-      "value": "Hazuki Ogino",
+      "value": "荻野叶月",
       "entries": [
         {
-          "value": "Hazuki Ogino"
+          "value": "荻野叶月"
+        },
+        {
+          "value": "荻野葉月"
         }
       ]
     },
     {
       "characterId": 40,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 40,
@@ -8616,7 +8703,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 40,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 40,
@@ -8631,17 +8718,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 40,
       "tagId": 7,
-      "value": "Shiori Sugiura",
+      "value": "杉浦诗织",
       "entries": [
         {
-          "value": "Shiori Sugiura"
+          "value": "杉浦诗织"
+        },
+        {
+          "value": "杉浦 しおり"
         }
       ]
     },
     {
       "characterId": 41,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 41,
@@ -8656,7 +8746,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 41,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 41,
@@ -8671,17 +8761,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 41,
       "tagId": 7,
-      "value": "Sakura Namiki",
+      "value": "並木樱",
       "entries": [
         {
-          "value": "Sakura Namiki"
+          "value": "並木樱"
+        },
+        {
+          "value": "並木 さくら"
         }
       ]
     },
     {
       "characterId": 42,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 42,
@@ -8696,7 +8789,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 42,
       "tagId": 4,
-      "value": "Allen M. Sumner"
+      "value": "艾伦·M·萨姆纳级"
     },
     {
       "characterId": 42,
@@ -8711,17 +8804,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 42,
       "tagId": 7,
-      "value": "Hiyori Kono",
+      "value": "河野日和",
       "entries": [
         {
-          "value": "Hiyori Kono"
+          "value": "河野日和"
+        },
+        {
+          "value": "河野 ひより"
+        },
+        {
+          "value": "こうの ひより"
         }
       ]
     },
     {
       "characterId": 43,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 43,
@@ -8736,7 +8835,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 43,
       "tagId": 4,
-      "value": "Allen M. Sumner"
+      "value": "艾伦·M·萨姆纳级"
     },
     {
       "characterId": 43,
@@ -8751,17 +8850,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 43,
       "tagId": 7,
-      "value": "Mayuko Kazama",
+      "value": "风间万裕子",
       "entries": [
         {
-          "value": "Mayuko Kazama"
+          "value": "风间万裕子"
+        },
+        {
+          "value": "かざま まゆこ"
+        },
+        {
+          "value": "風間万裕子"
         }
       ]
     },
     {
       "characterId": 44,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 44,
@@ -8776,7 +8881,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 44,
       "tagId": 4,
-      "value": "Edsall"
+      "value": "埃德索尔级"
     },
     {
       "characterId": 44,
@@ -8791,17 +8896,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 44,
       "tagId": 7,
-      "value": "Asuka Itou",
+      "value": "伊藤明日香",
       "entries": [
         {
-          "value": "Asuka Itou"
+          "value": "伊藤明日香"
+        },
+        {
+          "value": "伊藤 あすか"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 45,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 45,
@@ -8816,7 +8927,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 45,
       "tagId": 4,
-      "value": "Allen M. Sumner"
+      "value": "艾伦·M·萨姆纳级"
     },
     {
       "characterId": 45,
@@ -8831,17 +8942,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 45,
       "tagId": 7,
-      "value": "Maria Naganawa",
+      "value": "长绳麻理亚",
       "entries": [
         {
-          "value": "Maria Naganawa"
+          "value": "长绳麻理亚"
+        },
+        {
+          "value": "長縄 まりあ"
+        },
+        {
+          "value": "ながなわ まりあ"
         }
       ]
     },
     {
       "characterId": 46,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 46,
@@ -8856,7 +8973,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 46,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 46,
@@ -8871,17 +8988,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 46,
       "tagId": 7,
-      "value": "Yuina Ito",
+      "value": "伊藤结衣奈",
       "entries": [
         {
-          "value": "Yuina Ito"
+          "value": "伊藤结衣奈"
+        },
+        {
+          "value": "いとう ゆいな"
         }
       ]
     },
     {
       "characterId": 47,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 47,
@@ -8896,7 +9016,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 47,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 47,
@@ -8911,17 +9031,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 47,
       "tagId": 7,
-      "value": "Azusa Tachibana",
+      "value": "橘杏咲",
       "entries": [
         {
-          "value": "Azusa Tachibana"
+          "value": "橘杏咲"
+        },
+        {
+          "value": "たちばな あずさ"
         }
       ]
     },
     {
       "characterId": 48,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 48,
@@ -8936,7 +9059,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 48,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 48,
@@ -8951,17 +9074,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 48,
       "tagId": 7,
-      "value": "Hiyori Miyazaki",
+      "value": "宫崎日和",
       "entries": [
         {
-          "value": "Hiyori Miyazaki"
+          "value": "宫崎日和"
+        },
+        {
+          "value": "宮崎 ヒヨリ"
+        },
+        {
+          "value": "みやざき ひより"
         }
       ]
     },
     {
       "characterId": 49,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 49,
@@ -8976,7 +9105,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 49,
       "tagId": 4,
-      "value": "Omaha"
+      "value": "奥马哈级"
     },
     {
       "characterId": 49,
@@ -8991,17 +9120,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 49,
       "tagId": 7,
-      "value": "Juri Kimura",
+      "value": "木村珠莉",
       "entries": [
         {
-          "value": "Juri Kimura"
+          "value": "木村珠莉"
+        },
+        {
+          "value": "きむら じゅり"
         }
       ]
     },
     {
       "characterId": 50,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 50,
@@ -9016,7 +9148,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 50,
       "tagId": 4,
-      "value": "Omaha"
+      "value": "奥马哈级"
     },
     {
       "characterId": 50,
@@ -9031,17 +9163,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 50,
       "tagId": 7,
-      "value": "Juri Kimura",
+      "value": "木村珠莉",
       "entries": [
         {
-          "value": "Juri Kimura"
+          "value": "木村珠莉"
+        },
+        {
+          "value": "きむら じゅり"
         }
       ]
     },
     {
       "characterId": 51,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 51,
@@ -9056,7 +9191,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 51,
       "tagId": 4,
-      "value": "Brooklyn"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 51,
@@ -9071,17 +9206,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 51,
       "tagId": 7,
-      "value": "Lynn",
+      "value": "りん",
       "entries": [
         {
-          "value": "Lynn"
+          "value": "りん"
         }
       ]
     },
     {
       "characterId": 52,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 52,
@@ -9096,7 +9231,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 52,
       "tagId": 4,
-      "value": "Brooklyn"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 52,
@@ -9111,17 +9246,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 52,
       "tagId": 7,
-      "value": "Lynn",
+      "value": "りん",
       "entries": [
         {
-          "value": "Lynn"
+          "value": "りん"
         }
       ]
     },
     {
       "characterId": 53,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 53,
@@ -9136,7 +9271,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 53,
       "tagId": 4,
-      "value": "Brooklyn"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 53,
@@ -9151,17 +9286,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 53,
       "tagId": 7,
-      "value": "Tomoyo Chuujou",
+      "value": "中条智世",
       "entries": [
         {
-          "value": "Tomoyo Chuujou"
+          "value": "中条智世"
         }
       ]
     },
     {
       "characterId": 54,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 54,
@@ -9176,7 +9311,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 54,
       "tagId": 4,
-      "value": "Atlanta"
+      "value": "亚特兰大级"
     },
     {
       "characterId": 54,
@@ -9191,17 +9326,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 54,
       "tagId": 7,
-      "value": "Kazusa Aranami",
+      "value": "荒浪和沙",
       "entries": [
         {
-          "value": "Kazusa Aranami"
+          "value": "荒浪和沙"
         }
       ]
     },
     {
       "characterId": 55,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 55,
@@ -9216,7 +9351,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 55,
       "tagId": 4,
-      "value": "Atlanta"
+      "value": "亚特兰大级"
     },
     {
       "characterId": 55,
@@ -9231,17 +9366,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 55,
       "tagId": 7,
-      "value": "Juri Kimura",
+      "value": "木村珠莉",
       "entries": [
         {
-          "value": "Juri Kimura"
+          "value": "木村珠莉"
+        },
+        {
+          "value": "きむら じゅり"
         }
       ]
     },
     {
       "characterId": 56,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 56,
@@ -9256,7 +9394,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 56,
       "tagId": 4,
-      "value": "Atlanta"
+      "value": "亚特兰大级"
     },
     {
       "characterId": 56,
@@ -9271,17 +9409,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 56,
       "tagId": 7,
-      "value": "Asuka Itou",
+      "value": "伊藤明日香",
       "entries": [
         {
-          "value": "Asuka Itou"
+          "value": "伊藤明日香"
+        },
+        {
+          "value": "伊藤 あすか"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 57,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 57,
@@ -9296,7 +9440,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 57,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 57,
@@ -9311,17 +9455,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 57,
       "tagId": 7,
-      "value": "Saya Horigome",
+      "value": "堀笼沙耶",
       "entries": [
         {
-          "value": "Saya Horigome"
+          "value": "堀笼沙耶"
+        },
+        {
+          "value": "ほりごめ さや"
         }
       ]
     },
     {
       "characterId": 58,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 58,
@@ -9336,7 +9483,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 58,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 58,
@@ -9351,17 +9498,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 58,
       "tagId": 7,
-      "value": "Saya Horigome",
+      "value": "堀笼沙耶",
       "entries": [
         {
-          "value": "Saya Horigome"
+          "value": "堀笼沙耶"
+        },
+        {
+          "value": "ほりごめ さや"
         }
       ]
     },
     {
       "characterId": 59,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 59,
@@ -9376,7 +9526,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 59,
       "tagId": 4,
-      "value": "Omaha"
+      "value": "奥马哈级"
     },
     {
       "characterId": 59,
@@ -9391,17 +9541,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 59,
       "tagId": 7,
-      "value": "Riko Kohara",
+      "value": "小原莉子",
       "entries": [
         {
-          "value": "Riko Kohara"
+          "value": "小原莉子"
         }
       ]
     },
     {
       "characterId": 60,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 60,
@@ -9416,7 +9566,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 60,
       "tagId": 4,
-      "value": "Brooklyn"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 60,
@@ -9431,17 +9581,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 60,
       "tagId": 7,
-      "value": "Yoko Hikasa",
+      "value": "日笠阳子",
       "entries": [
         {
-          "value": "Yoko Hikasa"
+          "value": "日笠阳子"
+        },
+        {
+          "value": "ひかさ ようこ"
         }
       ]
     },
     {
       "characterId": 61,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 61,
@@ -9456,7 +9609,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 61,
       "tagId": 4,
-      "value": "Brooklyn"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 61,
@@ -9471,17 +9624,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 61,
       "tagId": 7,
-      "value": "Yoko Hikasa",
+      "value": "日笠阳子",
       "entries": [
         {
-          "value": "Yoko Hikasa"
+          "value": "日笠阳子"
+        },
+        {
+          "value": "ひかさ ようこ"
         }
       ]
     },
     {
       "characterId": 62,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 62,
@@ -9496,7 +9652,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 62,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 62,
@@ -9511,17 +9667,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 62,
       "tagId": 7,
-      "value": "Rie Takahashi",
+      "value": "高橋李依",
       "entries": [
         {
-          "value": "Rie Takahashi"
+          "value": "高橋李依"
         }
       ]
     },
     {
       "characterId": 63,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 63,
@@ -9536,7 +9692,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 63,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 63,
@@ -9551,17 +9707,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 63,
       "tagId": 7,
-      "value": "Ari Ozawa",
+      "value": "小泽亚李",
       "entries": [
         {
-          "value": "Ari Ozawa"
+          "value": "小泽亚李"
+        },
+        {
+          "value": "おざわ あり"
+        },
+        {
+          "value": "详情页"
         }
       ]
     },
     {
       "characterId": 64,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 64,
@@ -9576,7 +9738,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 64,
       "tagId": 4,
-      "value": "Omaha"
+      "value": "奥马哈级"
     },
     {
       "characterId": 64,
@@ -9591,17 +9753,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 64,
       "tagId": 7,
-      "value": "Hekiru Shiina",
+      "value": "椎名",
       "entries": [
         {
-          "value": "Hekiru Shiina"
+          "value": "椎名"
+        },
+        {
+          "value": "公式"
+        },
+        {
+          "value": "へきる"
         }
       ]
     },
     {
       "characterId": 65,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 65,
@@ -9616,7 +9784,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 65,
       "tagId": 4,
-      "value": "Omaha"
+      "value": "奥马哈级"
     },
     {
       "characterId": 65,
@@ -9631,17 +9799,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 65,
       "tagId": 7,
-      "value": "Kana Yuuki",
+      "value": "优木加奈",
       "entries": [
         {
-          "value": "Kana Yuuki"
+          "value": "优木加奈"
+        },
+        {
+          "value": "優木 かな"
+        },
+        {
+          "value": "ゆうき かな"
         }
       ]
     },
     {
       "characterId": 66,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 66,
@@ -9656,7 +9830,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 66,
       "tagId": 4,
-      "value": "Brooklyn"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 66,
@@ -9671,17 +9845,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 66,
       "tagId": 7,
-      "value": "Tomoyo Chuujou",
+      "value": "中条智世",
       "entries": [
         {
-          "value": "Tomoyo Chuujou"
+          "value": "中条智世"
         }
       ]
     },
     {
       "characterId": 67,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 67,
@@ -9696,7 +9870,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 67,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 67,
@@ -9711,17 +9885,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 67,
       "tagId": 7,
-      "value": "Saya Horigome",
+      "value": "堀笼沙耶",
       "entries": [
         {
-          "value": "Saya Horigome"
+          "value": "堀笼沙耶"
+        },
+        {
+          "value": "ほりごめ さや"
         }
       ]
     },
     {
       "characterId": 68,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 68,
@@ -9736,7 +9913,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 68,
       "tagId": 4,
-      "value": "Atlanta"
+      "value": "亚特兰大级"
     },
     {
       "characterId": 68,
@@ -9751,17 +9928,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 68,
       "tagId": 7,
-      "value": "Asuka Itou",
+      "value": "伊藤明日香",
       "entries": [
         {
-          "value": "Asuka Itou"
+          "value": "伊藤明日香"
+        },
+        {
+          "value": "伊藤 あすか"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 69,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 69,
@@ -9776,7 +9959,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 69,
       "tagId": 4,
-      "value": "Atlanta"
+      "value": "亚特兰大级"
     },
     {
       "characterId": 69,
@@ -9791,17 +9974,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 69,
       "tagId": 7,
-      "value": "Yuki Shion",
+      "value": "紫苑雪",
       "entries": [
         {
-          "value": "Yuki Shion"
+          "value": "紫苑雪"
         }
       ]
     },
     {
       "characterId": 70,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 70,
@@ -9816,7 +9999,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 70,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 70,
@@ -9831,17 +10014,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 70,
       "tagId": 7,
-      "value": "Sayumi Watabe",
+      "value": "渡部纱弓",
       "entries": [
         {
-          "value": "Sayumi Watabe"
+          "value": "渡部纱弓"
         }
       ]
     },
     {
       "characterId": 71,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 71,
@@ -9856,7 +10039,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 71,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 71,
@@ -9871,17 +10054,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 71,
       "tagId": 7,
-      "value": "Saya Horigome",
+      "value": "堀笼沙耶",
       "entries": [
         {
-          "value": "Saya Horigome"
+          "value": "堀笼沙耶"
+        },
+        {
+          "value": "ほりごめ さや"
         }
       ]
     },
     {
       "characterId": 72,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 72,
@@ -9896,7 +10082,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 72,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 72,
@@ -9911,17 +10097,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 72,
       "tagId": 7,
-      "value": "Kaoru Komatsu",
+      "value": "小松郁",
       "entries": [
         {
-          "value": "Kaoru Komatsu"
+          "value": "小松郁"
         }
       ]
     },
     {
       "characterId": 73,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 73,
@@ -9936,7 +10122,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 73,
       "tagId": 4,
-      "value": "Atlanta"
+      "value": "亚特兰大级"
     },
     {
       "characterId": 73,
@@ -9951,17 +10137,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 73,
       "tagId": 7,
-      "value": "Meiko Kawasaki",
+      "value": "川崎芽衣子",
       "entries": [
         {
-          "value": "Meiko Kawasaki"
+          "value": "川崎芽衣子"
         }
       ]
     },
     {
       "characterId": 74,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 74,
@@ -9976,7 +10162,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 74,
       "tagId": 4,
-      "value": "Omaha"
+      "value": "奥马哈级"
     },
     {
       "characterId": 74,
@@ -9991,17 +10177,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 74,
       "tagId": 7,
-      "value": "Larissa Tago Takeda",
+      "value": "武田羅梨沙多胡",
       "entries": [
         {
-          "value": "Larissa Tago Takeda"
+          "value": "武田羅梨沙多胡"
+        },
+        {
+          "value": "たけだ らりさ たご"
         }
       ]
     },
     {
       "characterId": 75,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 75,
@@ -10016,7 +10205,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 75,
       "tagId": 4,
-      "value": "Brooklyn"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 75,
@@ -10031,17 +10220,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 75,
       "tagId": 7,
-      "value": "Yuu Sasahara",
+      "value": "筱原侑",
       "entries": [
         {
-          "value": "Yuu Sasahara"
+          "value": "筱原侑"
+        },
+        {
+          "value": "ささは ゆう"
+        },
+        {
+          "value": "篠原侑"
         }
       ]
     },
     {
       "characterId": 76,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 76,
@@ -10056,7 +10251,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 76,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 76,
@@ -10071,17 +10266,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 76,
       "tagId": 7,
-      "value": "Aya Yokota",
+      "value": "横田彩",
       "entries": [
         {
-          "value": "Aya Yokota"
+          "value": "横田彩"
+        },
+        {
+          "value": "よこた あや"
         }
       ]
     },
     {
       "characterId": 77,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 77,
@@ -10096,7 +10294,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 77,
       "tagId": 4,
-      "value": "Brooklyn"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 77,
@@ -10111,17 +10309,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 77,
       "tagId": 7,
-      "value": "Yuu Sasahara",
+      "value": "筱原侑",
       "entries": [
         {
-          "value": "Yuu Sasahara"
+          "value": "筱原侑"
+        },
+        {
+          "value": "ささは ゆう"
+        },
+        {
+          "value": "篠原侑"
         }
       ]
     },
     {
       "characterId": 78,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 78,
@@ -10136,7 +10340,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 78,
       "tagId": 4,
-      "value": "Fargo"
+      "value": "法戈级"
     },
     {
       "characterId": 78,
@@ -10151,17 +10355,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 78,
       "tagId": 7,
-      "value": "Akane Misaka",
+      "value": "美坂朱音",
       "entries": [
         {
-          "value": "Akane Misaka"
+          "value": "美坂朱音"
+        },
+        {
+          "value": "みさか あかね"
         }
       ]
     },
     {
       "characterId": 79,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 79,
@@ -10176,7 +10383,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 79,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 79,
@@ -10191,17 +10398,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 79,
       "tagId": 7,
-      "value": "Sae Hiratsuka",
+      "value": "平冢纱依",
       "entries": [
         {
-          "value": "Sae Hiratsuka"
+          "value": "平冢纱依"
+        },
+        {
+          "value": "ひらつか さえ"
+        },
+        {
+          "value": "平塚紗依"
         }
       ]
     },
     {
       "characterId": 80,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 80,
@@ -10216,7 +10429,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 80,
       "tagId": 4,
-      "value": "Cleveland"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 80,
@@ -10231,17 +10444,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 80,
       "tagId": 7,
-      "value": "Nana Hasumi",
+      "value": "羽澄奈奈",
       "entries": [
         {
-          "value": "Nana Hasumi"
+          "value": "羽澄奈奈"
+        },
+        {
+          "value": "羽澄 なな"
+        },
+        {
+          "value": "はすみ"
         }
       ]
     },
     {
       "characterId": 81,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 81,
@@ -10256,7 +10475,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 81,
       "tagId": 4,
-      "value": "Pensacola"
+      "value": "彭萨科拉级"
     },
     {
       "characterId": 81,
@@ -10271,17 +10490,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 81,
       "tagId": 7,
-      "value": "Manaka Iwami",
+      "value": "石见舞菜香",
       "entries": [
         {
-          "value": "Manaka Iwami"
+          "value": "石见舞菜香"
+        },
+        {
+          "value": "いわみ まなか"
         }
       ]
     },
     {
       "characterId": 82,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 82,
@@ -10296,7 +10518,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 82,
       "tagId": 4,
-      "value": "Pensacola"
+      "value": "彭萨科拉级"
     },
     {
       "characterId": 82,
@@ -10311,17 +10533,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 82,
       "tagId": 7,
-      "value": "Manaka Iwami",
+      "value": "石见舞菜香",
       "entries": [
         {
-          "value": "Manaka Iwami"
+          "value": "石见舞菜香"
+        },
+        {
+          "value": "いわみ まなか"
         }
       ]
     },
     {
       "characterId": 83,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 83,
@@ -10336,7 +10561,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 83,
       "tagId": 4,
-      "value": "Northampton"
+      "value": "北安普敦级"
     },
     {
       "characterId": 83,
@@ -10351,17 +10576,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 83,
       "tagId": 7,
-      "value": "Takao Koizumi",
+      "value": "小泉乔生",
       "entries": [
         {
-          "value": "Takao Koizumi"
+          "value": "小泉乔生"
+        },
+        {
+          "value": "小泉喬生"
         }
       ]
     },
     {
       "characterId": 84,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 84,
@@ -10376,7 +10604,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 84,
       "tagId": 4,
-      "value": "Northampton"
+      "value": "北安普敦级"
     },
     {
       "characterId": 84,
@@ -10391,17 +10619,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 84,
       "tagId": 7,
-      "value": "Ruka Nemoto",
+      "value": "根本流风",
       "entries": [
         {
-          "value": "Ruka Nemoto"
+          "value": "根本流风"
         }
       ]
     },
     {
       "characterId": 85,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 85,
@@ -10416,7 +10644,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 85,
       "tagId": 4,
-      "value": "Northampton"
+      "value": "北安普敦级"
     },
     {
       "characterId": 85,
@@ -10431,17 +10659,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 85,
       "tagId": 7,
-      "value": "Aya Yokota",
+      "value": "横田彩",
       "entries": [
         {
-          "value": "Aya Yokota"
+          "value": "横田彩"
+        },
+        {
+          "value": "よこた あや"
         }
       ]
     },
     {
       "characterId": 86,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 86,
@@ -10456,7 +10687,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 86,
       "tagId": 4,
-      "value": "Portland"
+      "value": "波特兰级"
     },
     {
       "characterId": 86,
@@ -10471,17 +10702,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 86,
       "tagId": 7,
-      "value": "Kaori Yoshioka",
+      "value": "吉冈香织",
       "entries": [
         {
-          "value": "Kaori Yoshioka"
+          "value": "吉冈香织"
+        },
+        {
+          "value": "よしおか かおり"
         }
       ]
     },
     {
       "characterId": 87,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 87,
@@ -10496,7 +10730,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 87,
       "tagId": 4,
-      "value": "Portland"
+      "value": "波特兰级"
     },
     {
       "characterId": 87,
@@ -10511,17 +10745,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 87,
       "tagId": 7,
-      "value": "Aya Yokota",
+      "value": "横田彩",
       "entries": [
         {
-          "value": "Aya Yokota"
+          "value": "横田彩"
+        },
+        {
+          "value": "よこた あや"
         }
       ]
     },
     {
       "characterId": 88,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 88,
@@ -10536,7 +10773,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 88,
       "tagId": 4,
-      "value": "New Orleans"
+      "value": "新奥尔良级"
     },
     {
       "characterId": 88,
@@ -10551,17 +10788,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 88,
       "tagId": 7,
-      "value": "Yoshie Sakai",
+      "value": "坂井芳江",
       "entries": [
         {
-          "value": "Yoshie Sakai"
+          "value": "坂井芳江"
         }
       ]
     },
     {
       "characterId": 89,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 89,
@@ -10576,7 +10813,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 89,
       "tagId": 4,
-      "value": "New Orleans"
+      "value": "新奥尔良级"
     },
     {
       "characterId": 89,
@@ -10591,17 +10828,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 89,
       "tagId": 7,
-      "value": "Minami Tsuda",
+      "value": "津田美波",
       "entries": [
         {
-          "value": "Minami Tsuda"
+          "value": "津田美波"
+        },
+        {
+          "value": "つだ みなみ"
         }
       ]
     },
     {
       "characterId": 90,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 90,
@@ -10616,7 +10856,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 90,
       "tagId": 4,
-      "value": "New Orleans"
+      "value": "新奥尔良级"
     },
     {
       "characterId": 90,
@@ -10631,17 +10871,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 90,
       "tagId": 7,
-      "value": "Minami Tsuda",
+      "value": "津田美波",
       "entries": [
         {
-          "value": "Minami Tsuda"
+          "value": "津田美波"
+        },
+        {
+          "value": "つだ みなみ"
         }
       ]
     },
     {
       "characterId": 91,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 91,
@@ -10656,7 +10899,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 91,
       "tagId": 4,
-      "value": "Wichita"
+      "value": "威奇塔级"
     },
     {
       "characterId": 91,
@@ -10671,17 +10914,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 91,
       "tagId": 7,
-      "value": "Nozomi Yamamoto",
+      "value": "山本希望",
       "entries": [
         {
-          "value": "Nozomi Yamamoto"
+          "value": "山本希望"
+        },
+        {
+          "value": "やまもと のぞみ"
         }
       ]
     },
     {
       "characterId": 92,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 92,
@@ -10696,7 +10942,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 92,
       "tagId": 4,
-      "value": "New Orleans"
+      "value": "新奥尔良级"
     },
     {
       "characterId": 92,
@@ -10711,17 +10957,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 92,
       "tagId": 7,
-      "value": "Natsumi Fujiwara",
+      "value": "藤原夏海",
       "entries": [
         {
-          "value": "Natsumi Fujiwara"
+          "value": "藤原夏海"
+        },
+        {
+          "value": "ふじわら なつみ"
         }
       ]
     },
     {
       "characterId": 93,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 93,
@@ -10736,7 +10985,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 93,
       "tagId": 4,
-      "value": "New Orleans"
+      "value": "新奥尔良级"
     },
     {
       "characterId": 93,
@@ -10751,17 +11000,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 93,
       "tagId": 7,
-      "value": "Yu Shimamura",
+      "value": "嶋村侑",
       "entries": [
         {
-          "value": "Yu Shimamura"
+          "value": "嶋村侑"
         }
       ]
     },
     {
       "characterId": 94,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 94,
@@ -10776,7 +11025,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 94,
       "tagId": 4,
-      "value": "New Orleans"
+      "value": "新奥尔良级"
     },
     {
       "characterId": 94,
@@ -10791,17 +11040,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 94,
       "tagId": 7,
-      "value": "Tomomi Mineuchi",
+      "value": "岭内知美",
       "entries": [
         {
-          "value": "Tomomi Mineuchi"
+          "value": "岭内知美"
+        },
+        {
+          "value": "嶺内 ともみ"
+        },
+        {
+          "value": "みねうち ともみ"
         }
       ]
     },
     {
       "characterId": 95,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 95,
@@ -10816,7 +11071,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 95,
       "tagId": 4,
-      "value": "Baltimore"
+      "value": "巴尔的摩级"
     },
     {
       "characterId": 95,
@@ -10831,17 +11086,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 95,
       "tagId": 7,
-      "value": "Minami Takahashi",
+      "value": "高桥未奈美",
       "entries": [
         {
-          "value": "Minami Takahashi"
+          "value": "高桥未奈美"
         }
       ]
     },
     {
       "characterId": 96,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 96,
@@ -10856,7 +11111,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 96,
       "tagId": 4,
-      "value": "Baltimore"
+      "value": "巴尔的摩级"
     },
     {
       "characterId": 96,
@@ -10871,17 +11126,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 96,
       "tagId": 7,
-      "value": "Yuiko Tatsumi",
+      "value": "巽悠衣子",
       "entries": [
         {
-          "value": "Yuiko Tatsumi"
+          "value": "巽悠衣子"
         }
       ]
     },
     {
       "characterId": 97,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 97,
@@ -10896,7 +11151,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 97,
       "tagId": 4,
-      "value": "Baltimore"
+      "value": "巴尔的摩级"
     },
     {
       "characterId": 97,
@@ -10911,17 +11166,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 97,
       "tagId": 7,
-      "value": "Minami Takahashi",
+      "value": "高桥未奈美",
       "entries": [
         {
-          "value": "Minami Takahashi"
+          "value": "高桥未奈美"
         }
       ]
     },
     {
       "characterId": 98,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 98,
@@ -10936,7 +11191,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 98,
       "tagId": 4,
-      "value": "Oregon City"
+      "value": "俄勒冈城级"
     },
     {
       "characterId": 98,
@@ -10951,17 +11206,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 98,
       "tagId": 7,
-      "value": "Takao Koizumi",
+      "value": "小泉乔生",
       "entries": [
         {
-          "value": "Takao Koizumi"
+          "value": "小泉乔生"
+        },
+        {
+          "value": "小泉喬生"
         }
       ]
     },
     {
       "characterId": 99,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 99,
@@ -10976,7 +11234,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 99,
       "tagId": 4,
-      "value": "Northampton"
+      "value": "北安普敦级"
     },
     {
       "characterId": 99,
@@ -10991,17 +11249,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 99,
       "tagId": 7,
-      "value": "Kaori Sadohara",
+      "value": "佐土原香织",
       "entries": [
         {
-          "value": "Kaori Sadohara"
+          "value": "佐土原香织"
+        },
+        {
+          "value": "佐土原 かおり"
+        },
+        {
+          "value": "さどはら かおり"
         }
       ]
     },
     {
       "characterId": 100,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 100,
@@ -11016,7 +11280,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 100,
       "tagId": 4,
-      "value": "Baltimore"
+      "value": "巴尔的摩级"
     },
     {
       "characterId": 100,
@@ -11031,17 +11295,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 100,
       "tagId": 7,
-      "value": "Yuka Saito",
+      "value": "齐藤佑圭",
       "entries": [
         {
-          "value": "Yuka Saito"
+          "value": "齐藤佑圭"
+        },
+        {
+          "value": "さいとう ゆか"
+        },
+        {
+          "value": "斉藤佑圭"
         }
       ]
     },
     {
       "characterId": 101,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 101,
@@ -11071,17 +11341,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 101,
       "tagId": 7,
-      "value": "Rina Hidaka",
+      "value": "日高里菜",
       "entries": [
         {
-          "value": "Rina Hidaka"
+          "value": "日高里菜"
+        },
+        {
+          "value": "ひだか りな"
         }
       ]
     },
     {
       "characterId": 102,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 102,
@@ -11096,7 +11369,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 102,
       "tagId": 4,
-      "value": "Lexington"
+      "value": "列克星敦级"
     },
     {
       "characterId": 102,
@@ -11111,17 +11384,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 102,
       "tagId": 7,
-      "value": "Iori Saeki",
+      "value": "佐伯伊织",
       "entries": [
         {
-          "value": "Iori Saeki"
+          "value": "佐伯伊织"
+        },
+        {
+          "value": "さえき いおり"
+        },
+        {
+          "value": "佐伯伊織"
         }
       ]
     },
     {
       "characterId": 103,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 103,
@@ -11136,7 +11415,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 103,
       "tagId": 4,
-      "value": "Nevada"
+      "value": "内华达级"
     },
     {
       "characterId": 103,
@@ -11151,17 +11430,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 103,
       "tagId": 7,
-      "value": "Yumi Uchiyama",
+      "value": "内山夕实",
       "entries": [
         {
-          "value": "Yumi Uchiyama"
+          "value": "内山夕实"
+        },
+        {
+          "value": "うちやま ゆみ"
+        },
+        {
+          "value": "内山夕実"
         }
       ]
     },
     {
       "characterId": 104,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 104,
@@ -11176,7 +11461,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 104,
       "tagId": 4,
-      "value": "Nevada"
+      "value": "内华达级"
     },
     {
       "characterId": 104,
@@ -11191,17 +11476,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 104,
       "tagId": 7,
-      "value": "Yumi Uchiyama",
+      "value": "内山夕实",
       "entries": [
         {
-          "value": "Yumi Uchiyama"
+          "value": "内山夕实"
+        },
+        {
+          "value": "うちやま ゆみ"
+        },
+        {
+          "value": "内山夕実"
         }
       ]
     },
     {
       "characterId": 105,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 105,
@@ -11216,7 +11507,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 105,
       "tagId": 4,
-      "value": "Pennsylvania"
+      "value": "宾夕法尼亚级"
     },
     {
       "characterId": 105,
@@ -11231,17 +11522,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 105,
       "tagId": 7,
-      "value": "Nozomi Yamane",
+      "value": "山根希美",
       "entries": [
         {
-          "value": "Nozomi Yamane"
+          "value": "山根希美"
+        },
+        {
+          "value": "やまね のぞみ"
         }
       ]
     },
     {
       "characterId": 106,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 106,
@@ -11256,7 +11550,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 106,
       "tagId": 4,
-      "value": "Pennsylvania"
+      "value": "宾夕法尼亚级"
     },
     {
       "characterId": 106,
@@ -11271,17 +11565,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 106,
       "tagId": 7,
-      "value": "Sawako Shirakabe",
+      "value": "白壁爽子",
       "entries": [
         {
-          "value": "Sawako Shirakabe"
+          "value": "白壁爽子"
+        },
+        {
+          "value": "しらかべ さわこ"
         }
       ]
     },
     {
       "characterId": 107,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 107,
@@ -11296,7 +11593,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 107,
       "tagId": 4,
-      "value": "Tennessee"
+      "value": "田纳西级"
     },
     {
       "characterId": 107,
@@ -11311,17 +11608,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 107,
       "tagId": 7,
-      "value": "Rina Satou",
+      "value": "佐藤利奈",
       "entries": [
         {
-          "value": "Rina Satou"
+          "value": "佐藤利奈"
         }
       ]
     },
     {
       "characterId": 108,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 108,
@@ -11336,7 +11633,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 108,
       "tagId": 4,
-      "value": "Tennessee"
+      "value": "田纳西级"
     },
     {
       "characterId": 108,
@@ -11351,17 +11648,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 108,
       "tagId": 7,
-      "value": "Rina Satou",
+      "value": "佐藤利奈",
       "entries": [
         {
-          "value": "Rina Satou"
+          "value": "佐藤利奈"
+        },
+        {
+          "value": "さとう りな"
         }
       ]
     },
     {
       "characterId": 109,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 109,
@@ -11376,7 +11676,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 109,
       "tagId": 4,
-      "value": "Colorado"
+      "value": "科罗拉多级"
     },
     {
       "characterId": 109,
@@ -11391,17 +11691,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 109,
       "tagId": 7,
-      "value": "Rie Suegara",
+      "value": "末柄里恵",
       "entries": [
         {
-          "value": "Rie Suegara"
+          "value": "末柄里恵"
         }
       ]
     },
     {
       "characterId": 110,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 110,
@@ -11416,7 +11716,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 110,
       "tagId": 4,
-      "value": "Colorado"
+      "value": "科罗拉多级"
     },
     {
       "characterId": 110,
@@ -11431,17 +11731,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 110,
       "tagId": 7,
-      "value": "Aya Saitou",
+      "value": "斋藤绫",
       "entries": [
         {
-          "value": "Aya Saitou"
+          "value": "斋藤绫"
         }
       ]
     },
     {
       "characterId": 111,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 111,
@@ -11456,7 +11756,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 111,
       "tagId": 4,
-      "value": "Colorado"
+      "value": "科罗拉多级"
     },
     {
       "characterId": 111,
@@ -11471,17 +11771,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 111,
       "tagId": 7,
-      "value": "Chitose Morinaga",
+      "value": "森永千才",
       "entries": [
         {
-          "value": "Chitose Morinaga"
+          "value": "森永千才"
         }
       ]
     },
     {
       "characterId": 112,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 112,
@@ -11496,7 +11796,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 112,
       "tagId": 4,
-      "value": "North Carolina"
+      "value": "北卡罗来纳级"
     },
     {
       "characterId": 112,
@@ -11511,17 +11811,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 112,
       "tagId": 7,
-      "value": "Yui Horie",
+      "value": "堀江由衣",
       "entries": [
         {
-          "value": "Yui Horie"
+          "value": "堀江由衣"
+        },
+        {
+          "value": "ほりえ よしこ"
+        },
+        {
+          "value": "堀江由子"
         }
       ]
     },
     {
       "characterId": 113,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 113,
@@ -11536,7 +11842,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 113,
       "tagId": 4,
-      "value": "North Carolina"
+      "value": "北卡罗来纳级"
     },
     {
       "characterId": 113,
@@ -11551,17 +11857,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 113,
       "tagId": 7,
-      "value": "Rika Abe",
+      "value": "阿部里果",
       "entries": [
         {
-          "value": "Rika Abe"
+          "value": "阿部里果"
+        },
+        {
+          "value": "あべ りか"
         }
       ]
     },
     {
       "characterId": 114,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 114,
@@ -11576,7 +11885,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 114,
       "tagId": 4,
-      "value": "South Dakota"
+      "value": "南达科他级"
     },
     {
       "characterId": 114,
@@ -11591,17 +11900,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 114,
       "tagId": 7,
-      "value": "Tomoyo Kurosawa",
+      "value": "黑泽朋世",
       "entries": [
         {
-          "value": "Tomoyo Kurosawa"
+          "value": "黑泽朋世"
+        },
+        {
+          "value": "くろさわ ともよ"
         }
       ]
     },
     {
       "characterId": 115,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 115,
@@ -11616,7 +11928,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 115,
       "tagId": 4,
-      "value": "South Dakota"
+      "value": "南达科他级"
     },
     {
       "characterId": 115,
@@ -11631,17 +11943,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 115,
       "tagId": 7,
-      "value": "Makoto Koichi",
+      "value": "小市真琴",
       "entries": [
         {
-          "value": "Makoto Koichi"
+          "value": "小市真琴"
+        },
+        {
+          "value": "こいち まこと"
+        },
+        {
+          "value": "小市眞琴"
         }
       ]
     },
     {
       "characterId": 116,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 116,
@@ -11656,7 +11974,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 116,
       "tagId": 4,
-      "value": "Iowa"
+      "value": "衣阿华级"
     },
     {
       "characterId": 116,
@@ -11671,17 +11989,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 116,
       "tagId": 7,
-      "value": "Miyu Tomita",
+      "value": "富田美忧",
       "entries": [
         {
-          "value": "Miyu Tomita"
+          "value": "富田美忧"
+        },
+        {
+          "value": "とみた みゆ"
+        },
+        {
+          "value": "富田美憂"
         }
       ]
     },
     {
       "characterId": 117,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 117,
@@ -11696,7 +12020,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 117,
       "tagId": 4,
-      "value": "South Dakota"
+      "value": "南达科他级"
     },
     {
       "characterId": 117,
@@ -11711,17 +12035,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 117,
       "tagId": 7,
-      "value": "Rie Takahashi",
+      "value": "高橋李依",
       "entries": [
         {
-          "value": "Rie Takahashi"
+          "value": "高橋李依"
         }
       ]
     },
     {
       "characterId": 118,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 118,
@@ -11736,7 +12060,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 118,
       "tagId": 4,
-      "value": "South Dakota"
+      "value": "南达科他级"
     },
     {
       "characterId": 118,
@@ -11751,17 +12075,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 118,
       "tagId": 7,
-      "value": "Hibiku Yamamura",
+      "value": "山村响",
       "entries": [
         {
-          "value": "Hibiku Yamamura"
+          "value": "山村响"
+        },
+        {
+          "value": "やまむら ひびく"
+        },
+        {
+          "value": "山村響"
         }
       ]
     },
     {
       "characterId": 119,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 119,
@@ -11776,7 +12106,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 119,
       "tagId": 4,
-      "value": "Long Island"
+      "value": "长岛级"
     },
     {
       "characterId": 119,
@@ -11791,17 +12121,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 119,
       "tagId": 7,
-      "value": "Sachiyo Yoshida",
+      "value": "吉田幸代",
       "entries": [
         {
-          "value": "Sachiyo Yoshida"
+          "value": "吉田幸代"
         }
       ]
     },
     {
       "characterId": 120,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 120,
@@ -11816,7 +12146,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 120,
       "tagId": 4,
-      "value": "Bogue"
+      "value": "博格级"
     },
     {
       "characterId": 120,
@@ -11831,17 +12161,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 120,
       "tagId": 7,
-      "value": "Koharu Nogata",
+      "value": "野方小春",
       "entries": [
         {
-          "value": "Koharu Nogata"
+          "value": "野方小春"
+        },
+        {
+          "value": "のがた こはる"
         }
       ]
     },
     {
       "characterId": 121,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 121,
@@ -11856,7 +12189,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 121,
       "tagId": 4,
-      "value": "Casablanca"
+      "value": "卡萨布兰卡级"
     },
     {
       "characterId": 121,
@@ -11871,17 +12204,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 121,
       "tagId": 7,
-      "value": "Ikumi Hasegawa",
+      "value": "长谷川育美",
       "entries": [
         {
-          "value": "Ikumi Hasegawa"
+          "value": "长谷川育美"
+        },
+        {
+          "value": "はせがわ いくみ"
+        },
+        {
+          "value": "長谷川育美"
         }
       ]
     },
     {
       "characterId": 122,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 122,
@@ -11911,17 +12250,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 122,
       "tagId": 7,
-      "value": "Haruka Yoshimura",
+      "value": "佳村遥",
       "entries": [
         {
-          "value": "Haruka Yoshimura"
+          "value": "佳村遥"
+        },
+        {
+          "value": "佳村 はるか"
+        },
+        {
+          "value": "よしむら はるか"
         }
       ]
     },
     {
       "characterId": 123,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 123,
@@ -11936,7 +12281,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 123,
       "tagId": 4,
-      "value": "Lexington"
+      "value": "列克星敦级"
     },
     {
       "characterId": 123,
@@ -11951,17 +12296,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 123,
       "tagId": 7,
-      "value": "Minami Shinoda",
+      "value": "篠田南",
       "entries": [
         {
-          "value": "Minami Shinoda"
+          "value": "篠田南"
+        },
+        {
+          "value": "しのだ みなみ"
         }
       ]
     },
     {
       "characterId": 124,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 124,
@@ -11976,7 +12324,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 124,
       "tagId": 4,
-      "value": "Lexington"
+      "value": "列克星敦级"
     },
     {
       "characterId": 124,
@@ -11991,17 +12339,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 124,
       "tagId": 7,
-      "value": "Sumire Uesaka",
+      "value": "上坂堇",
       "entries": [
         {
-          "value": "Sumire Uesaka"
+          "value": "上坂堇"
+        },
+        {
+          "value": "うえさか すみれ"
+        },
+        {
+          "value": "备注曾经有"
         }
       ]
     },
     {
       "characterId": 125,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 125,
@@ -12016,7 +12370,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 125,
       "tagId": 4,
-      "value": "Ranger"
+      "value": "突击者级"
     },
     {
       "characterId": 125,
@@ -12031,17 +12385,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 125,
       "tagId": 7,
-      "value": "Yuu Asakawa",
+      "value": "浅川悠",
       "entries": [
         {
-          "value": "Yuu Asakawa"
+          "value": "浅川悠"
+        },
+        {
+          "value": "あさかわ ゆう"
         }
       ]
     },
     {
       "characterId": 126,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 126,
@@ -12056,7 +12413,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 126,
       "tagId": 4,
-      "value": "Yorktown"
+      "value": "约克城级"
     },
     {
       "characterId": 126,
@@ -12071,17 +12428,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 126,
       "tagId": 7,
-      "value": "Kana Yuuki",
+      "value": "优木加奈",
       "entries": [
         {
-          "value": "Kana Yuuki"
+          "value": "优木加奈"
+        },
+        {
+          "value": "優木 かな"
+        },
+        {
+          "value": "ゆうき かな"
         }
       ]
     },
     {
       "characterId": 127,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 127,
@@ -12096,7 +12459,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 127,
       "tagId": 4,
-      "value": "Yorktown"
+      "value": "约克城级"
     },
     {
       "characterId": 127,
@@ -12111,17 +12474,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 127,
       "tagId": 7,
-      "value": "Yui Ishikawa",
+      "value": "石川由依",
       "entries": [
         {
-          "value": "Yui Ishikawa"
+          "value": "石川由依"
+        },
+        {
+          "value": "いしかわ ゆい"
         }
       ]
     },
     {
       "characterId": 128,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 128,
@@ -12136,7 +12502,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 128,
       "tagId": 4,
-      "value": "Yorktown"
+      "value": "约克城级"
     },
     {
       "characterId": 128,
@@ -12151,17 +12517,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 128,
       "tagId": 7,
-      "value": "Nozomi Yamamoto",
+      "value": "山本希望",
       "entries": [
         {
-          "value": "Nozomi Yamamoto"
+          "value": "山本希望"
+        },
+        {
+          "value": "やまもと のぞみ"
         }
       ]
     },
     {
       "characterId": 129,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 129,
@@ -12176,7 +12545,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 129,
       "tagId": 4,
-      "value": "Wasp"
+      "value": "胡蜂级"
     },
     {
       "characterId": 129,
@@ -12191,17 +12560,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 129,
       "tagId": 7,
-      "value": "Tomoyo Takayanagi",
+      "value": "高柳知叶",
       "entries": [
         {
-          "value": "Tomoyo Takayanagi"
+          "value": "高柳知叶"
+        },
+        {
+          "value": "たかやなぎ ともよ"
         }
       ]
     },
     {
       "characterId": 130,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 130,
@@ -12216,7 +12588,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 130,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 130,
@@ -12231,17 +12603,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 130,
       "tagId": 7,
-      "value": "Kaori Mizuhashi",
+      "value": "水桥香织",
       "entries": [
         {
-          "value": "Kaori Mizuhashi"
+          "value": "水桥香织"
+        },
+        {
+          "value": "みずはし かおり"
         }
       ]
     },
     {
       "characterId": 131,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 131,
@@ -12256,7 +12631,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 131,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 131,
@@ -12271,17 +12646,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 131,
       "tagId": 7,
-      "value": "Kana Yuuki",
+      "value": "优木加奈",
       "entries": [
         {
-          "value": "Kana Yuuki"
+          "value": "优木加奈"
+        },
+        {
+          "value": "優木 かな"
+        },
+        {
+          "value": "ゆうき かな"
         }
       ]
     },
     {
       "characterId": 132,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 132,
@@ -12296,7 +12677,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 132,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 132,
@@ -12311,17 +12692,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 132,
       "tagId": 7,
-      "value": "Ai Fairouz",
+      "value": "法伊鲁兹·爱",
       "entries": [
         {
-          "value": "Ai Fairouz"
+          "value": "法伊鲁兹·爱"
+        },
+        {
+          "value": "ファイルーズ あい"
+        },
+        {
+          "value": "另一译名菲鲁兹·蓝"
         }
       ]
     },
     {
       "characterId": 133,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 133,
@@ -12336,7 +12723,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 133,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 133,
@@ -12351,17 +12738,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 133,
       "tagId": 7,
-      "value": "Nozomi Yamamoto",
+      "value": "山本希望",
       "entries": [
         {
-          "value": "Nozomi Yamamoto"
+          "value": "山本希望"
+        },
+        {
+          "value": "やまもと のぞみ"
         }
       ]
     },
     {
       "characterId": 134,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 134,
@@ -12376,7 +12766,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 134,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 134,
@@ -12391,17 +12781,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 134,
       "tagId": 7,
-      "value": "Anna Nagase",
+      "value": "永濑安娜",
       "entries": [
         {
-          "value": "Anna Nagase"
+          "value": "永濑安娜"
+        },
+        {
+          "value": "永瀬 アンナ"
+        },
+        {
+          "value": "ながせ あんな"
         }
       ]
     },
     {
       "characterId": 135,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 135,
@@ -12416,7 +12812,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 135,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 135,
@@ -12431,17 +12827,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 135,
       "tagId": 7,
-      "value": "Kana Ichinose",
+      "value": "市之瀨加那",
       "entries": [
         {
-          "value": "Kana Ichinose"
+          "value": "市之瀨加那"
+        },
+        {
+          "value": "いちのせ かな"
+        },
+        {
+          "value": "市瀬加那"
         }
       ]
     },
     {
       "characterId": 136,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 136,
@@ -12456,7 +12858,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 136,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 136,
@@ -12471,17 +12873,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 136,
       "tagId": 7,
-      "value": "Minami Shinoda",
+      "value": "篠田南",
       "entries": [
         {
-          "value": "Minami Shinoda"
+          "value": "篠田南"
+        },
+        {
+          "value": "しのだ みなみ"
         }
       ]
     },
     {
       "characterId": 137,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 137,
@@ -12496,7 +12901,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 137,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 137,
@@ -12511,17 +12916,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 137,
       "tagId": 7,
-      "value": "Kana Ichinose",
+      "value": "市之濑加那",
       "entries": [
         {
-          "value": "Kana Ichinose"
+          "value": "市之濑加那"
         }
       ]
     },
     {
       "characterId": 138,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 138,
@@ -12536,7 +12941,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 138,
       "tagId": 4,
-      "value": "Independence"
+      "value": "独立级"
     },
     {
       "characterId": 138,
@@ -12551,17 +12956,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 138,
       "tagId": 7,
-      "value": "Haruka Yamazaki",
+      "value": "山崎遥",
       "entries": [
         {
-          "value": "Haruka Yamazaki"
+          "value": "山崎遥"
         }
       ]
     },
     {
       "characterId": 139,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 139,
@@ -12576,7 +12981,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 139,
       "tagId": 4,
-      "value": "Independence"
+      "value": "独立级"
     },
     {
       "characterId": 139,
@@ -12591,17 +12996,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 139,
       "tagId": 7,
-      "value": "Shiomi Yukina",
+      "value": "汐見雪菜",
       "entries": [
         {
-          "value": "Shiomi Yukina"
+          "value": "汐見雪菜"
         }
       ]
     },
     {
       "characterId": 140,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 140,
@@ -12616,7 +13021,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 140,
       "tagId": 4,
-      "value": "Independence"
+      "value": "独立级"
     },
     {
       "characterId": 140,
@@ -12631,17 +13036,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 140,
       "tagId": 7,
-      "value": "Seria Fukagawa",
+      "value": "深川芹亚",
       "entries": [
         {
-          "value": "Seria Fukagawa"
+          "value": "深川芹亚"
+        },
+        {
+          "value": "ふかがわ せりあ"
+        },
+        {
+          "value": "深川芹亜"
         }
       ]
     },
     {
       "characterId": 141,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 141,
@@ -12656,7 +13067,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 141,
       "tagId": 4,
-      "value": "Independence"
+      "value": "独立级"
     },
     {
       "characterId": 141,
@@ -12671,17 +13082,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 141,
       "tagId": 7,
-      "value": "Haruka Yoshimura",
+      "value": "佳村遥",
       "entries": [
         {
-          "value": "Haruka Yoshimura"
+          "value": "佳村遥"
+        },
+        {
+          "value": "佳村 はるか"
+        },
+        {
+          "value": "よしむら はるか"
         }
       ]
     },
     {
       "characterId": 142,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 142,
@@ -12696,7 +13113,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 142,
       "tagId": 4,
-      "value": "Independence"
+      "value": "独立级"
     },
     {
       "characterId": 142,
@@ -12711,17 +13128,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 142,
       "tagId": 7,
-      "value": "Akane Fujita",
+      "value": "藤田茜",
       "entries": [
         {
-          "value": "Akane Fujita"
+          "value": "藤田茜"
         }
       ]
     },
     {
       "characterId": 143,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 143,
@@ -12736,7 +13153,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 143,
       "tagId": 4,
-      "value": "Independence"
+      "value": "独立级"
     },
     {
       "characterId": 143,
@@ -12751,17 +13168,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 143,
       "tagId": 7,
-      "value": "Natsu Yorita",
+      "value": "依田菜津",
       "entries": [
         {
-          "value": "Natsu Yorita"
+          "value": "依田菜津"
+        },
+        {
+          "value": "よりた なつ"
         }
       ]
     },
     {
       "characterId": 144,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 144,
@@ -12776,7 +13196,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 144,
       "tagId": 4,
-      "value": "Essex"
+      "value": "埃塞克斯级"
     },
     {
       "characterId": 144,
@@ -12791,17 +13211,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 144,
       "tagId": 7,
-      "value": "Akane Fujita",
+      "value": "藤田茜",
       "entries": [
         {
-          "value": "Akane Fujita"
+          "value": "藤田茜"
         }
       ]
     },
     {
       "characterId": 145,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 145,
@@ -12816,7 +13236,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 145,
       "tagId": 4,
-      "value": "Yorktown"
+      "value": "约克城级"
     },
     {
       "characterId": 145,
@@ -12831,17 +13251,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 145,
       "tagId": 7,
-      "value": "Yui Ishikawa",
+      "value": "石川由依",
       "entries": [
         {
-          "value": "Yui Ishikawa"
+          "value": "石川由依"
+        },
+        {
+          "value": "いしかわ ゆい"
+        },
+        {
+          "value": "年月日"
         }
       ]
     },
     {
       "characterId": 146,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 146,
@@ -12856,7 +13282,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 146,
       "tagId": 4,
-      "value": "Gato"
+      "value": "猫鲨级"
     },
     {
       "characterId": 146,
@@ -12871,17 +13297,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 146,
       "tagId": 7,
-      "value": "Akiko Hasegawa",
+      "value": "长谷川明子",
       "entries": [
         {
-          "value": "Akiko Hasegawa"
+          "value": "长谷川明子"
         }
       ]
     },
     {
       "characterId": 147,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 147,
@@ -12896,7 +13322,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 147,
       "tagId": 4,
-      "value": "Gato"
+      "value": "猫鲨级"
     },
     {
       "characterId": 147,
@@ -12911,17 +13337,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 147,
       "tagId": 7,
-      "value": "Atsumi Tanezaki",
+      "value": "种崎敦美",
       "entries": [
         {
-          "value": "Atsumi Tanezaki"
+          "value": "种崎敦美"
         }
       ]
     },
     {
       "characterId": 148,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 148,
@@ -12936,7 +13362,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 148,
       "tagId": 4,
-      "value": "Gato"
+      "value": "猫鲨级"
     },
     {
       "characterId": 148,
@@ -12951,17 +13377,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 148,
       "tagId": 7,
-      "value": "Yurika Kubo",
+      "value": "久保由利香",
       "entries": [
         {
-          "value": "Yurika Kubo"
+          "value": "久保由利香"
+        },
+        {
+          "value": "另一译名久保百合花"
         }
       ]
     },
     {
       "characterId": 149,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 149,
@@ -12976,7 +13405,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 149,
       "tagId": 4,
-      "value": "Gato"
+      "value": "猫鲨级"
     },
     {
       "characterId": 149,
@@ -12991,17 +13420,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 149,
       "tagId": 7,
-      "value": "Yukina Shuto",
+      "value": "首藤志奈",
       "entries": [
         {
-          "value": "Yukina Shuto"
+          "value": "首藤志奈"
         }
       ]
     },
     {
       "characterId": 150,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 150,
@@ -13016,7 +13445,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 150,
       "tagId": 4,
-      "value": "Gato"
+      "value": "猫鲨级"
     },
     {
       "characterId": 150,
@@ -13031,17 +13460,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 150,
       "tagId": 7,
-      "value": "Atsumi Tanezaki",
+      "value": "种崎敦美",
       "entries": [
         {
-          "value": "Atsumi Tanezaki"
+          "value": "种崎敦美"
         }
       ]
     },
     {
       "characterId": 151,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 151,
@@ -13056,7 +13485,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 151,
       "tagId": 4,
-      "value": "Balao"
+      "value": "巴劳鱵级"
     },
     {
       "characterId": 151,
@@ -13071,17 +13500,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 151,
       "tagId": 7,
-      "value": "Hikaru Akao",
+      "value": "赤尾光",
       "entries": [
         {
-          "value": "Hikaru Akao"
+          "value": "赤尾光"
+        },
+        {
+          "value": "赤尾 ひかる"
         }
       ]
     },
     {
       "characterId": 152,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 152,
@@ -13096,7 +13528,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 152,
       "tagId": 4,
-      "value": "Narwhal"
+      "value": "独角鲸级"
     },
     {
       "characterId": 152,
@@ -13111,17 +13543,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 152,
       "tagId": 7,
-      "value": "Akiho Suzumoto",
+      "value": "凉本秋穗",
       "entries": [
         {
-          "value": "Akiho Suzumoto"
+          "value": "凉本秋穗"
+        },
+        {
+          "value": "涼本 あきほ"
+        },
+        {
+          "value": "すずもと あきほ"
         }
       ]
     },
     {
       "characterId": 153,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 153,
@@ -13136,7 +13574,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 153,
       "tagId": 4,
-      "value": "Gato"
+      "value": "猫鲨级"
     },
     {
       "characterId": 153,
@@ -13151,17 +13589,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 153,
       "tagId": 7,
-      "value": "Ruka Fukagawa",
+      "value": "深川瑠华",
       "entries": [
         {
-          "value": "Ruka Fukagawa"
+          "value": "深川瑠华"
+        },
+        {
+          "value": "ふかがわ るか"
+        },
+        {
+          "value": "深川瑠華"
         }
       ]
     },
     {
       "characterId": 154,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 154,
@@ -13176,7 +13620,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 154,
       "tagId": 4,
-      "value": "Gato"
+      "value": "猫鲨级"
     },
     {
       "characterId": 154,
@@ -13191,17 +13635,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 154,
       "tagId": 7,
-      "value": "Rika Momokawa",
+      "value": "桃河里香",
       "entries": [
         {
-          "value": "Rika Momokawa"
+          "value": "桃河里香"
+        },
+        {
+          "value": "桃河 りか"
+        },
+        {
+          "value": "ももかわ りか"
         }
       ]
     },
     {
       "characterId": 155,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 155,
@@ -13231,17 +13681,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 155,
       "tagId": 7,
-      "value": "Maia",
+      "value": "香月遥",
       "entries": [
         {
-          "value": "Maia"
+          "value": "香月遥"
+        },
+        {
+          "value": "香月 はるか"
         }
       ]
     },
     {
       "characterId": 156,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 156,
@@ -13256,7 +13709,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 156,
       "tagId": 4,
-      "value": "Alaska"
+      "value": "阿拉斯加级"
     },
     {
       "characterId": 156,
@@ -13271,17 +13724,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 156,
       "tagId": 7,
-      "value": "Karin Kagami",
+      "value": "各务华梨",
       "entries": [
         {
-          "value": "Karin Kagami"
+          "value": "各务华梨"
+        },
+        {
+          "value": "かがみ かりん"
+        },
+        {
+          "value": "各務華梨"
         }
       ]
     },
     {
       "characterId": 157,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 157,
@@ -13296,7 +13755,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 157,
       "tagId": 4,
-      "value": "Seattle"
+      "value": "伍斯特级"
     },
     {
       "characterId": 157,
@@ -13311,17 +13770,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 157,
       "tagId": 7,
-      "value": "Tomori Kusunoki",
+      "value": "楠木灯",
       "entries": [
         {
-          "value": "Tomori Kusunoki"
+          "value": "楠木灯"
         }
       ]
     },
     {
       "characterId": 158,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 158,
@@ -13336,7 +13795,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 158,
       "tagId": 4,
-      "value": "Georgia"
+      "value": "衣阿华级"
     },
     {
       "characterId": 158,
@@ -13351,17 +13810,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 158,
       "tagId": 7,
-      "value": "Shino Shimoji",
+      "value": "下地紫野",
       "entries": [
         {
-          "value": "Shino Shimoji"
+          "value": "下地紫野"
         }
       ]
     },
     {
       "characterId": 159,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 159,
@@ -13391,17 +13850,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 159,
       "tagId": 7,
-      "value": "Rina Hidaka",
+      "value": "日高里菜",
       "entries": [
         {
-          "value": "Rina Hidaka"
+          "value": "日高里菜"
+        },
+        {
+          "value": "ひだか りな"
         }
       ]
     },
     {
       "characterId": 160,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 160,
@@ -13416,7 +13878,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 160,
       "tagId": 4,
-      "value": "Kearsarge"
+      "value": "1型"
     },
     {
       "characterId": 160,
@@ -13431,17 +13893,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 160,
       "tagId": 7,
-      "value": "Yoshino Aoyama",
+      "value": "青山吉能",
       "entries": [
         {
-          "value": "Yoshino Aoyama"
+          "value": "青山吉能"
+        },
+        {
+          "value": "あおやま よしの"
         }
       ]
     },
     {
       "characterId": 161,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 161,
@@ -13456,7 +13921,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 161,
       "tagId": 4,
-      "value": "Fletcher"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 161,
@@ -13471,17 +13936,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 161,
       "tagId": 7,
-      "value": "Yurie Igoma",
+      "value": "伊驹百合绘",
       "entries": [
         {
-          "value": "Yurie Igoma"
+          "value": "伊驹百合绘"
+        },
+        {
+          "value": "伊駒 ゆりえ"
+        },
+        {
+          "value": "いごま ゆりえ"
         }
       ]
     },
     {
       "characterId": 162,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 162,
@@ -13496,7 +13967,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 162,
       "tagId": 4,
-      "value": "Kansas"
+      "value": "南达科他级"
     },
     {
       "characterId": 162,
@@ -13511,17 +13982,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 162,
       "tagId": 7,
-      "value": "Risae Matsuda",
+      "value": "松田利冴",
       "entries": [
         {
-          "value": "Risae Matsuda"
+          "value": "松田利冴"
+        },
+        {
+          "value": "まつだ りさえ"
         }
       ]
     },
     {
       "characterId": 163,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 163,
@@ -13536,7 +14010,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 163,
       "tagId": 4,
-      "value": "Amazon"
+      "value": "A级"
     },
     {
       "characterId": 163,
@@ -13551,17 +14025,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 163,
       "tagId": 7,
-      "value": "Yukiko Ayamiya",
+      "value": "绫宫由希子",
       "entries": [
         {
-          "value": "Yukiko Ayamiya"
+          "value": "绫宫由希子"
+        },
+        {
+          "value": "あやみや ゆきこ"
         }
       ]
     },
     {
       "characterId": 164,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 164,
@@ -13591,17 +14068,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 164,
       "tagId": 7,
-      "value": "Kaya Okuno",
+      "value": "奥野香耶",
       "entries": [
         {
-          "value": "Kaya Okuno"
+          "value": "奥野香耶"
+        },
+        {
+          "value": "おくの かや"
         }
       ]
     },
     {
       "characterId": 165,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 165,
@@ -13631,17 +14111,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 165,
       "tagId": 7,
-      "value": "Mami Kamikura",
+      "value": "上仓万实",
       "entries": [
         {
-          "value": "Mami Kamikura"
+          "value": "上仓万实"
+        },
+        {
+          "value": "かみくら まみ"
         }
       ]
     },
     {
       "characterId": 166,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 166,
@@ -13671,17 +14154,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 166,
       "tagId": 7,
-      "value": "Eri Suzuki",
+      "value": "铃木绘理",
       "entries": [
         {
-          "value": "Eri Suzuki"
+          "value": "铃木绘理"
+        },
+        {
+          "value": "すずき えり"
         }
       ]
     },
     {
       "characterId": 167,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 167,
@@ -13711,17 +14197,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 167,
       "tagId": 7,
-      "value": "Eri Suzuki",
+      "value": "铃木绘理",
       "entries": [
         {
-          "value": "Eri Suzuki"
+          "value": "铃木绘理"
+        },
+        {
+          "value": "すずき えり"
         }
       ]
     },
     {
       "characterId": 168,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 168,
@@ -13736,7 +14225,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 168,
       "tagId": 4,
-      "value": "C"
+      "value": "C级"
     },
     {
       "characterId": 168,
@@ -13751,17 +14240,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 168,
       "tagId": 7,
-      "value": "Minori Suzuki",
+      "value": "铃木实里",
       "entries": [
         {
-          "value": "Minori Suzuki"
+          "value": "铃木实里"
+        },
+        {
+          "value": "みのり"
         }
       ]
     },
     {
       "characterId": 169,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 169,
@@ -13776,7 +14268,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 169,
       "tagId": 4,
-      "value": "C"
+      "value": "C级"
     },
     {
       "characterId": 169,
@@ -13791,17 +14283,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 169,
       "tagId": 7,
-      "value": "Minori Suzuki",
+      "value": "铃木实里",
       "entries": [
         {
-          "value": "Minori Suzuki"
+          "value": "铃木实里"
+        },
+        {
+          "value": "みのり"
         }
       ]
     },
     {
       "characterId": 170,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 170,
@@ -13816,7 +14311,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 170,
       "tagId": 4,
-      "value": "C"
+      "value": "C级"
     },
     {
       "characterId": 170,
@@ -13831,17 +14326,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 170,
       "tagId": 7,
-      "value": "Risa Taneda",
+      "value": "種田梨沙",
       "entries": [
         {
-          "value": "Risa Taneda"
+          "value": "種田梨沙"
+        },
+        {
+          "value": "たねだ りさ"
+        },
+        {
+          "value": "年月日解禁并正式开通"
         }
       ]
     },
     {
       "characterId": 171,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 171,
@@ -13856,7 +14357,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 171,
       "tagId": 4,
-      "value": "F"
+      "value": "F级"
     },
     {
       "characterId": 171,
@@ -13871,17 +14372,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 171,
       "tagId": 7,
-      "value": "Yuri Yamaoka",
+      "value": "山冈百合",
       "entries": [
         {
-          "value": "Yuri Yamaoka"
+          "value": "山冈百合"
+        },
+        {
+          "value": "山岡 ゆり"
+        },
+        {
+          "value": "やまおか ゆり"
         }
       ]
     },
     {
       "characterId": 172,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 172,
@@ -13896,7 +14403,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 172,
       "tagId": 4,
-      "value": "F"
+      "value": "F级"
     },
     {
       "characterId": 172,
@@ -13911,17 +14418,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 172,
       "tagId": 7,
-      "value": "Yuuko Gotou",
+      "value": "后藤邑子",
       "entries": [
         {
-          "value": "Yuuko Gotou"
+          "value": "后藤邑子"
+        },
+        {
+          "value": "ごとう ゆうこ"
+        },
+        {
+          "value": "後藤邑子"
         }
       ]
     },
     {
       "characterId": 173,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 173,
@@ -13936,7 +14449,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 173,
       "tagId": 4,
-      "value": "G"
+      "value": "G级"
     },
     {
       "characterId": 173,
@@ -13951,17 +14464,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 173,
       "tagId": 7,
-      "value": "Juri Kimura",
+      "value": "木村珠莉",
       "entries": [
         {
-          "value": "Juri Kimura"
+          "value": "木村珠莉"
+        },
+        {
+          "value": "きむら じゅり"
         }
       ]
     },
     {
       "characterId": 174,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 174,
@@ -13976,7 +14492,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 174,
       "tagId": 4,
-      "value": "G"
+      "value": "G级"
     },
     {
       "characterId": 174,
@@ -13991,17 +14507,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 174,
       "tagId": 7,
-      "value": "Hiromi Igarashi",
+      "value": "五十岚裕美",
       "entries": [
         {
-          "value": "Hiromi Igarashi"
+          "value": "五十岚裕美"
+        },
+        {
+          "value": "いがらし ひろみ"
         }
       ]
     },
     {
       "characterId": 175,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 175,
@@ -14016,7 +14535,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 175,
       "tagId": 4,
-      "value": "H"
+      "value": "H级"
     },
     {
       "characterId": 175,
@@ -14031,17 +14550,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 175,
       "tagId": 7,
-      "value": "Ayaka Nanase",
+      "value": "七濑彩夏",
       "entries": [
         {
-          "value": "Ayaka Nanase"
+          "value": "七濑彩夏"
         }
       ]
     },
     {
       "characterId": 176,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 176,
@@ -14056,7 +14575,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 176,
       "tagId": 4,
-      "value": "H"
+      "value": "H级"
     },
     {
       "characterId": 176,
@@ -14071,17 +14590,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 176,
       "tagId": 7,
-      "value": "Ayaka Nanase",
+      "value": "七濑彩夏",
       "entries": [
         {
-          "value": "Ayaka Nanase"
+          "value": "七濑彩夏"
         }
       ]
     },
     {
       "characterId": 177,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 177,
@@ -14096,7 +14615,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 177,
       "tagId": 4,
-      "value": "J"
+      "value": "J级"
     },
     {
       "characterId": 177,
@@ -14111,17 +14630,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 177,
       "tagId": 7,
-      "value": "Nozomi Yamane",
+      "value": "山根希美",
       "entries": [
         {
-          "value": "Nozomi Yamane"
+          "value": "山根希美"
+        },
+        {
+          "value": "やまね のぞみ"
         }
       ]
     },
     {
       "characterId": 178,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 178,
@@ -14136,7 +14658,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 178,
       "tagId": 4,
-      "value": "J"
+      "value": "J级"
     },
     {
       "characterId": 178,
@@ -14151,17 +14673,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 178,
       "tagId": 7,
-      "value": "Sawako Shirakabe",
+      "value": "白壁爽子",
       "entries": [
         {
-          "value": "Sawako Shirakabe"
+          "value": "白壁爽子"
+        },
+        {
+          "value": "しらかべ さわこ"
         }
       ]
     },
     {
       "characterId": 179,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 179,
@@ -14176,7 +14701,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 179,
       "tagId": 4,
-      "value": "V"
+      "value": "旧V级"
     },
     {
       "characterId": 179,
@@ -14191,17 +14716,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 179,
       "tagId": 7,
-      "value": "Rie Kugimiya",
+      "value": "钉宫理惠",
       "entries": [
         {
-          "value": "Rie Kugimiya"
+          "value": "钉宫理惠"
+        },
+        {
+          "value": "钉宫 理惠 くぎみや りえ"
         }
       ]
     },
     {
       "characterId": 180,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 180,
@@ -14216,7 +14744,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 180,
       "tagId": 4,
-      "value": "J"
+      "value": "J级"
     },
     {
       "characterId": 180,
@@ -14231,17 +14759,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 180,
       "tagId": 7,
-      "value": "Tomoyo Takayanagi",
+      "value": "高柳知叶",
       "entries": [
         {
-          "value": "Tomoyo Takayanagi"
+          "value": "高柳知叶"
+        },
+        {
+          "value": "たかやなぎ ともよ"
         }
       ]
     },
     {
       "characterId": 181,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 181,
@@ -14256,7 +14787,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 181,
       "tagId": 4,
-      "value": "J"
+      "value": "J级"
     },
     {
       "characterId": 181,
@@ -14271,17 +14802,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 181,
       "tagId": 7,
-      "value": "Miho Takauma",
+      "value": "嵩马美步",
       "entries": [
         {
-          "value": "Miho Takauma"
+          "value": "嵩马美步"
         }
       ]
     },
     {
       "characterId": 182,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 182,
@@ -14296,7 +14827,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 182,
       "tagId": 4,
-      "value": "M"
+      "value": "M级"
     },
     {
       "characterId": 182,
@@ -14311,17 +14842,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 182,
       "tagId": 7,
-      "value": "Yumiri Hanamori",
+      "value": "花守由美里",
       "entries": [
         {
-          "value": "Yumiri Hanamori"
+          "value": "花守由美里"
         }
       ]
     },
     {
       "characterId": 183,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 183,
@@ -14336,7 +14867,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 183,
       "tagId": 4,
-      "value": "M"
+      "value": "M级"
     },
     {
       "characterId": 183,
@@ -14351,17 +14882,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 183,
       "tagId": 7,
-      "value": "Yumiri Hanamori",
+      "value": "花守由美里",
       "entries": [
         {
-          "value": "Yumiri Hanamori"
+          "value": "花守由美里"
         }
       ]
     },
     {
       "characterId": 184,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 184,
@@ -14376,7 +14907,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 184,
       "tagId": 4,
-      "value": "E"
+      "value": "E级"
     },
     {
       "characterId": 184,
@@ -14391,17 +14922,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 184,
       "tagId": 7,
-      "value": "Mizuki Yuina",
+      "value": "结名美月",
       "entries": [
         {
-          "value": "Mizuki Yuina"
+          "value": "结名美月"
         }
       ]
     },
     {
       "characterId": 185,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 185,
@@ -14416,7 +14947,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 185,
       "tagId": 4,
-      "value": "Tribal"
+      "value": "部族级"
     },
     {
       "characterId": 185,
@@ -14431,17 +14962,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 185,
       "tagId": 7,
-      "value": "Haruka Takahashi",
+      "value": "高桥春香",
       "entries": [
         {
-          "value": "Haruka Takahashi"
+          "value": "高桥春香"
         }
       ]
     },
     {
       "characterId": 186,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 186,
@@ -14456,7 +14987,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 186,
       "tagId": 4,
-      "value": "I"
+      "value": "I级"
     },
     {
       "characterId": 186,
@@ -14471,17 +15002,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 186,
       "tagId": 7,
-      "value": "Yuuki Takada",
+      "value": "高田忧希",
       "entries": [
         {
-          "value": "Yuuki Takada"
+          "value": "高田忧希"
         }
       ]
     },
     {
       "characterId": 187,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 187,
@@ -14496,7 +15027,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 187,
       "tagId": 4,
-      "value": "J"
+      "value": "J级"
     },
     {
       "characterId": 187,
@@ -14511,17 +15042,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 187,
       "tagId": 7,
-      "value": "Miyuki Satou",
+      "value": "佐藤希",
       "entries": [
         {
-          "value": "Miyuki Satou"
+          "value": "佐藤希"
+        },
+        {
+          "value": "佐藤 みゆ"
         }
       ]
     },
     {
       "characterId": 188,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 188,
@@ -14536,7 +15070,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 188,
       "tagId": 4,
-      "value": "J"
+      "value": "J级"
     },
     {
       "characterId": 188,
@@ -14551,17 +15085,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 188,
       "tagId": 7,
-      "value": "Hina Kino",
+      "value": "木野日菜",
       "entries": [
         {
-          "value": "Hina Kino"
+          "value": "木野日菜"
         }
       ]
     },
     {
       "characterId": 189,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 189,
@@ -14576,7 +15110,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 189,
       "tagId": 4,
-      "value": "H"
+      "value": "H级"
     },
     {
       "characterId": 189,
@@ -14591,17 +15125,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 189,
       "tagId": 7,
-      "value": "Amane Shindou",
+      "value": "进藤天音",
       "entries": [
         {
-          "value": "Amane Shindou"
+          "value": "进藤天音"
+        },
+        {
+          "value": "進藤 あまね"
+        },
+        {
+          "value": "しんどう あまね"
         }
       ]
     },
     {
       "characterId": 190,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 190,
@@ -14616,7 +15156,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 190,
       "tagId": 4,
-      "value": "Tribal"
+      "value": "部族级"
     },
     {
       "characterId": 190,
@@ -14631,17 +15171,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 190,
       "tagId": 7,
-      "value": "Emiri Iwai",
+      "value": "岩井映美里",
       "entries": [
         {
-          "value": "Emiri Iwai"
+          "value": "岩井映美里"
+        },
+        {
+          "value": "いわい えみり"
         }
       ]
     },
     {
       "characterId": 191,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 191,
@@ -14656,7 +15199,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 191,
       "tagId": 4,
-      "value": "Battle"
+      "value": "战斗级"
     },
     {
       "characterId": 191,
@@ -14671,17 +15214,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 191,
       "tagId": 7,
-      "value": "Madoka Yonezawa",
+      "value": "米泽圆",
       "entries": [
         {
-          "value": "Madoka Yonezawa"
+          "value": "米泽圆"
+        },
+        {
+          "value": "よねざわ まどか"
+        },
+        {
+          "value": "米澤円"
         }
       ]
     },
     {
       "characterId": 192,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 192,
@@ -14696,7 +15245,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 192,
       "tagId": 4,
-      "value": "G"
+      "value": "G级"
     },
     {
       "characterId": 192,
@@ -14711,17 +15260,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 192,
       "tagId": 7,
-      "value": "Mai Kanazawa",
+      "value": "金泽舞",
       "entries": [
         {
-          "value": "Mai Kanazawa"
+          "value": "金泽舞"
+        },
+        {
+          "value": "金澤 まい"
+        },
+        {
+          "value": "かなざわ まい"
         }
       ]
     },
     {
       "characterId": 193,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 193,
@@ -14736,7 +15291,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 193,
       "tagId": 4,
-      "value": "Leander"
+      "value": "利安得级"
     },
     {
       "characterId": 193,
@@ -14751,17 +15306,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 193,
       "tagId": 7,
-      "value": "Ibuki Kido",
+      "value": "木户衣吹",
       "entries": [
         {
-          "value": "Ibuki Kido"
+          "value": "木户衣吹"
         }
       ]
     },
     {
       "characterId": 194,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 194,
@@ -14776,7 +15331,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 194,
       "tagId": 4,
-      "value": "Leander"
+      "value": "利安得级"
     },
     {
       "characterId": 194,
@@ -14791,17 +15346,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 194,
       "tagId": 7,
-      "value": "Yuri Yamaoka",
+      "value": "山冈百合",
       "entries": [
         {
-          "value": "Yuri Yamaoka"
+          "value": "山冈百合"
+        },
+        {
+          "value": "山岡 ゆり"
+        },
+        {
+          "value": "やまおか ゆり"
         }
       ]
     },
     {
       "characterId": 195,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 195,
@@ -14816,7 +15377,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 195,
       "tagId": 4,
-      "value": "Leander"
+      "value": "利安得级"
     },
     {
       "characterId": 195,
@@ -14831,17 +15392,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 195,
       "tagId": 7,
-      "value": "Tomoyo Chuujou",
+      "value": "中条智世",
       "entries": [
         {
-          "value": "Tomoyo Chuujou"
+          "value": "中条智世"
         }
       ]
     },
     {
       "characterId": 196,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 196,
@@ -14856,7 +15417,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 196,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 196,
@@ -14871,17 +15432,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 196,
       "tagId": 7,
-      "value": "Ruriko Aoki",
+      "value": "青木琉璃子",
       "entries": [
         {
-          "value": "Ruriko Aoki"
+          "value": "青木琉璃子"
         }
       ]
     },
     {
       "characterId": 197,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 197,
@@ -14911,17 +15472,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 197,
       "tagId": 7,
-      "value": "Ayumi Mano",
+      "value": "真野步",
       "entries": [
         {
-          "value": "Ayumi Mano"
+          "value": "真野步"
+        },
+        {
+          "value": "真野 あゆみ"
         }
       ]
     },
     {
       "characterId": 198,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 198,
@@ -14951,17 +15515,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 198,
       "tagId": 7,
-      "value": "Konomi Kohara",
+      "value": "小原好美",
       "entries": [
         {
-          "value": "Konomi Kohara"
+          "value": "小原好美"
+        },
+        {
+          "value": "こはら このみ"
         }
       ]
     },
     {
       "characterId": 199,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 199,
@@ -14991,17 +15558,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 199,
       "tagId": 7,
-      "value": "Tomomi Tanaka",
+      "value": "田中那実",
       "entries": [
         {
-          "value": "Tomomi Tanaka"
+          "value": "田中那実"
         }
       ]
     },
     {
       "characterId": 200,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 200,
@@ -15031,17 +15598,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 200,
       "tagId": 7,
-      "value": "Reina Ueda",
+      "value": "上田丽奈",
       "entries": [
         {
-          "value": "Reina Ueda"
+          "value": "上田丽奈"
+        },
+        {
+          "value": "うえだ れいな"
         }
       ]
     },
     {
       "characterId": 201,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 201,
@@ -15071,17 +15641,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 201,
       "tagId": 7,
-      "value": "Yuuko Gotou",
+      "value": "后藤邑子",
       "entries": [
         {
-          "value": "Yuuko Gotou"
+          "value": "后藤邑子"
+        },
+        {
+          "value": "ごとう ゆうこ"
+        },
+        {
+          "value": "後藤邑子"
         }
       ]
     },
     {
       "characterId": 202,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 202,
@@ -15111,17 +15687,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 202,
       "tagId": 7,
-      "value": "Yui Horie",
+      "value": "堀江由衣",
       "entries": [
         {
-          "value": "Yui Horie"
+          "value": "堀江由衣"
+        },
+        {
+          "value": "ほりえ よしこ"
+        },
+        {
+          "value": "堀江由子"
         }
       ]
     },
     {
       "characterId": 203,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 203,
@@ -15136,7 +15718,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 203,
       "tagId": 4,
-      "value": "Arethusa"
+      "value": "阿瑞托莎级"
     },
     {
       "characterId": 203,
@@ -15151,17 +15733,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 203,
       "tagId": 7,
-      "value": "Ayaka Suwa",
+      "value": "诹访彩花",
       "entries": [
         {
-          "value": "Ayaka Suwa"
+          "value": "诹访彩花"
         }
       ]
     },
     {
       "characterId": 204,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 204,
@@ -15176,7 +15758,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 204,
       "tagId": 4,
-      "value": "Arethusa"
+      "value": "阿瑞托莎级"
     },
     {
       "characterId": 204,
@@ -15191,17 +15773,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 204,
       "tagId": 7,
-      "value": "Ayaka Suwa",
+      "value": "诹访彩花",
       "entries": [
         {
-          "value": "Ayaka Suwa"
+          "value": "诹访彩花"
         }
       ]
     },
     {
       "characterId": 205,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 205,
@@ -15216,7 +15798,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 205,
       "tagId": 4,
-      "value": "Arethusa"
+      "value": "阿瑞托莎级"
     },
     {
       "characterId": 205,
@@ -15231,17 +15813,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 205,
       "tagId": 7,
-      "value": "Yui Sakakibara",
+      "value": "榊原由依",
       "entries": [
         {
-          "value": "Yui Sakakibara"
+          "value": "榊原由依"
+        },
+        {
+          "value": "さかきばら ゆい"
         }
       ]
     },
     {
       "characterId": 206,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 206,
@@ -15256,7 +15841,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 206,
       "tagId": 4,
-      "value": "Crown Colony"
+      "value": "斐济级"
     },
     {
       "characterId": 206,
@@ -15271,17 +15856,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 206,
       "tagId": 7,
-      "value": "Sawako Hata",
+      "value": "秦佐和子",
       "entries": [
         {
-          "value": "Sawako Hata"
+          "value": "秦佐和子"
+        },
+        {
+          "value": "はた さわこ"
         }
       ]
     },
     {
       "characterId": 207,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 207,
@@ -15296,7 +15884,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 207,
       "tagId": 4,
-      "value": "Crown Colony"
+      "value": "斐济级"
     },
     {
       "characterId": 207,
@@ -15311,17 +15899,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 207,
       "tagId": 7,
-      "value": "Yuuko Sanpei",
+      "value": "三瓶由布子",
       "entries": [
         {
-          "value": "Yuuko Sanpei"
+          "value": "三瓶由布子"
+        },
+        {
+          "value": "さんぺい ゆうこ"
         }
       ]
     },
     {
       "characterId": 208,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 208,
@@ -15351,17 +15942,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 208,
       "tagId": 7,
-      "value": "Yui Horie",
+      "value": "堀江由衣",
       "entries": [
         {
-          "value": "Yui Horie"
+          "value": "堀江由衣"
+        },
+        {
+          "value": "ほりえ よしこ"
+        },
+        {
+          "value": "堀江由子"
         }
       ]
     },
     {
       "characterId": 209,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 209,
@@ -15391,17 +15988,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 209,
       "tagId": 7,
-      "value": "Saori Gotou",
+      "value": "后藤沙绪里",
       "entries": [
         {
-          "value": "Saori Gotou"
+          "value": "后藤沙绪里"
         }
       ]
     },
     {
       "characterId": 210,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 210,
@@ -15416,7 +16013,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 210,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 210,
@@ -15431,17 +16028,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 210,
       "tagId": 7,
-      "value": "Ruriko Aoki",
+      "value": "青木琉璃子",
       "entries": [
         {
-          "value": "Ruriko Aoki"
+          "value": "青木琉璃子"
         }
       ]
     },
     {
       "characterId": 211,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 211,
@@ -15456,7 +16053,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 211,
       "tagId": 4,
-      "value": "Ceres"
+      "value": "谷物女神级"
     },
     {
       "characterId": 211,
@@ -15471,17 +16068,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 211,
       "tagId": 7,
-      "value": "Reika Fujisawa",
+      "value": "藤沢玲香",
       "entries": [
         {
-          "value": "Reika Fujisawa"
+          "value": "藤沢玲香"
+        },
+        {
+          "value": "藤沢 れい"
+        },
+        {
+          "value": "藤沢香"
         }
       ]
     },
     {
       "characterId": 212,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 212,
@@ -15496,7 +16099,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 212,
       "tagId": 4,
-      "value": "Ceres"
+      "value": "谷物女神级"
     },
     {
       "characterId": 212,
@@ -15511,17 +16114,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 212,
       "tagId": 7,
-      "value": "Reika Fujisawa",
+      "value": "国服登记名藤沢玲香",
       "entries": [
         {
-          "value": "Reika Fujisawa"
+          "value": "国服登记名藤沢玲香"
+        },
+        {
+          "value": "れい"
+        },
+        {
+          "value": "日服登记姓名藤沢香"
         }
       ]
     },
     {
       "characterId": 213,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 213,
@@ -15536,7 +16145,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 213,
       "tagId": 4,
-      "value": "Minotaur"
+      "value": "确捷级"
     },
     {
       "characterId": 213,
@@ -15551,17 +16160,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 213,
       "tagId": 7,
-      "value": "Hitomi Oowada",
+      "value": "大和田仁美",
       "entries": [
         {
-          "value": "Hitomi Oowada"
+          "value": "大和田仁美"
+        },
+        {
+          "value": "おおわだ ひとみ"
         }
       ]
     },
     {
       "characterId": 214,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 214,
@@ -15576,7 +16188,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 214,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 214,
@@ -15591,17 +16203,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 214,
       "tagId": 7,
-      "value": "Hisako Kanemoto",
+      "value": "金元寿子",
       "entries": [
         {
-          "value": "Hisako Kanemoto"
+          "value": "金元寿子"
+        },
+        {
+          "value": "かねもと ひさこ"
         }
       ]
     },
     {
       "characterId": 215,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 215,
@@ -15631,17 +16246,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 215,
       "tagId": 7,
-      "value": "Konomi Kohara",
+      "value": "小原好美",
       "entries": [
         {
-          "value": "Konomi Kohara"
+          "value": "小原好美"
+        },
+        {
+          "value": "こはら このみ"
         }
       ]
     },
     {
       "characterId": 216,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 216,
@@ -15671,17 +16289,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 216,
       "tagId": 7,
-      "value": "Tomori Kusunoki",
+      "value": "楠木灯",
       "entries": [
         {
-          "value": "Tomori Kusunoki"
+          "value": "楠木灯"
         }
       ]
     },
     {
       "characterId": 217,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 217,
@@ -15696,7 +16314,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 217,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 217,
@@ -15711,17 +16329,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 217,
       "tagId": 7,
-      "value": "Hiroko Taguchi",
+      "value": "田口宏子",
       "entries": [
         {
-          "value": "Hiroko Taguchi"
+          "value": "田口宏子"
         }
       ]
     },
     {
       "characterId": 218,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 218,
@@ -15736,7 +16354,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 218,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 218,
@@ -15751,17 +16369,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 218,
       "tagId": 7,
-      "value": "Ruriko Aoki",
+      "value": "青木琉璃子",
       "entries": [
         {
-          "value": "Ruriko Aoki"
+          "value": "青木琉璃子"
         }
       ]
     },
     {
       "characterId": 219,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 219,
@@ -15776,7 +16394,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 219,
       "tagId": 4,
-      "value": "Arethusa"
+      "value": "阿瑞托莎级"
     },
     {
       "characterId": 219,
@@ -15791,17 +16409,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 219,
       "tagId": 7,
-      "value": "Kazusa Aranami",
+      "value": "荒浪和沙",
       "entries": [
         {
-          "value": "Kazusa Aranami"
+          "value": "荒浪和沙"
         }
       ]
     },
     {
       "characterId": 220,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 220,
@@ -15816,7 +16434,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 220,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 220,
@@ -15831,17 +16449,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 220,
       "tagId": 7,
-      "value": "Yuu Ayase",
+      "value": "绫濑有",
       "entries": [
         {
-          "value": "Yuu Ayase"
+          "value": "绫濑有"
+        },
+        {
+          "value": "あやせ ゆう"
+        },
+        {
+          "value": "綾瀬有"
         }
       ]
     },
     {
       "characterId": 221,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 221,
@@ -15856,7 +16480,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 221,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 221,
@@ -15871,17 +16495,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 221,
       "tagId": 7,
-      "value": "Hisako Tojo",
+      "value": "东城日沙子",
       "entries": [
         {
-          "value": "Hisako Tojo"
+          "value": "东城日沙子"
+        },
+        {
+          "value": "とうじょう ひさこ"
+        },
+        {
+          "value": "東城日沙子"
         }
       ]
     },
     {
       "characterId": 222,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 222,
@@ -15896,7 +16526,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 222,
       "tagId": 4,
-      "value": "Emerald"
+      "value": "翡翠级"
     },
     {
       "characterId": 222,
@@ -15911,17 +16541,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 222,
       "tagId": 7,
-      "value": "Yukiyo Fujii",
+      "value": "藤井雪代",
       "entries": [
         {
-          "value": "Yukiyo Fujii"
+          "value": "藤井雪代"
+        },
+        {
+          "value": "藤井 ゆきよ"
         }
       ]
     },
     {
       "characterId": 223,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 223,
@@ -15936,7 +16569,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 223,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 223,
@@ -15951,17 +16584,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 223,
       "tagId": 7,
-      "value": "Miyu Takagi",
+      "value": "高木美佑",
       "entries": [
         {
-          "value": "Miyu Takagi"
+          "value": "高木美佑"
+        },
+        {
+          "value": "たかぎ みゆ"
         }
       ]
     },
     {
       "characterId": 224,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 224,
@@ -15991,17 +16627,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 224,
       "tagId": 7,
-      "value": "Mizuki Mano",
+      "value": "真野美月",
       "entries": [
         {
-          "value": "Mizuki Mano"
+          "value": "真野美月"
+        },
+        {
+          "value": "まの みづき"
         }
       ]
     },
     {
       "characterId": 225,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 225,
@@ -16016,7 +16655,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 225,
       "tagId": 4,
-      "value": "Dido"
+      "value": "黛朵级"
     },
     {
       "characterId": 225,
@@ -16031,17 +16670,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 225,
       "tagId": 7,
-      "value": "Yuri Usui",
+      "value": "薄井友里",
       "entries": [
         {
-          "value": "Yuri Usui"
+          "value": "薄井友里"
+        },
+        {
+          "value": "うすい ゆり"
         }
       ]
     },
     {
       "characterId": 226,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 226,
@@ -16056,7 +16698,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 226,
       "tagId": 4,
-      "value": "Crown Colony"
+      "value": "斐济级"
     },
     {
       "characterId": 226,
@@ -16071,17 +16713,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 226,
       "tagId": 7,
-      "value": "Tsugumi Sakuragi",
+      "value": "樱木鸫",
       "entries": [
         {
-          "value": "Tsugumi Sakuragi"
+          "value": "樱木鸫"
+        },
+        {
+          "value": "桜木 つぐみ"
+        },
+        {
+          "value": "樱木亚美"
         }
       ]
     },
     {
       "characterId": 227,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 227,
@@ -16111,17 +16759,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 227,
       "tagId": 7,
-      "value": "Naomi Mukaiyama",
+      "value": "向山直美",
       "entries": [
         {
-          "value": "Naomi Mukaiyama"
+          "value": "向山直美"
+        },
+        {
+          "value": "むかいやま なおみ"
         }
       ]
     },
     {
       "characterId": 228,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 228,
@@ -16151,17 +16802,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 228,
       "tagId": 7,
-      "value": "Ibuki Kido",
+      "value": "木户衣吹",
       "entries": [
         {
-          "value": "Ibuki Kido"
+          "value": "木户衣吹"
         }
       ]
     },
     {
       "characterId": 229,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 229,
@@ -16191,17 +16842,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 229,
       "tagId": 7,
-      "value": "Hisako Kanemoto",
+      "value": "金元寿子",
       "entries": [
         {
-          "value": "Hisako Kanemoto"
+          "value": "金元寿子"
+        },
+        {
+          "value": "かねもと ひさこ"
         }
       ]
     },
     {
       "characterId": 230,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 230,
@@ -16231,17 +16885,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 230,
       "tagId": 7,
-      "value": "Akari Uehara",
+      "value": "上原明里",
       "entries": [
         {
-          "value": "Akari Uehara"
+          "value": "上原明里"
+        },
+        {
+          "value": "うえはら あかり"
         }
       ]
     },
     {
       "characterId": 231,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 231,
@@ -16271,17 +16928,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 231,
       "tagId": 7,
-      "value": "Hiromi Sakuma",
+      "value": "佐久间比吕美",
       "entries": [
         {
-          "value": "Hiromi Sakuma"
+          "value": "佐久间比吕美"
+        },
+        {
+          "value": "さくま ひろみ"
         }
       ]
     },
     {
       "characterId": 232,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 232,
@@ -16311,17 +16971,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 232,
       "tagId": 7,
-      "value": "Manami Numakura",
+      "value": "沼仓爱美",
       "entries": [
         {
-          "value": "Manami Numakura"
+          "value": "沼仓爱美"
         }
       ]
     },
     {
       "characterId": 233,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 233,
@@ -16336,7 +16996,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 233,
       "tagId": 4,
-      "value": "York"
+      "value": "约克级"
     },
     {
       "characterId": 233,
@@ -16351,17 +17011,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 233,
       "tagId": 7,
-      "value": "Nozomi Yamane",
+      "value": "山根希美",
       "entries": [
         {
-          "value": "Nozomi Yamane"
+          "value": "山根希美"
+        },
+        {
+          "value": "やまね のぞみ"
         }
       ]
     },
     {
       "characterId": 234,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 234,
@@ -16376,7 +17039,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 234,
       "tagId": 4,
-      "value": "York"
+      "value": "约克级"
     },
     {
       "characterId": 234,
@@ -16391,17 +17054,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 234,
       "tagId": 7,
-      "value": "Ai Kakuma",
+      "value": "加隈亚衣",
       "entries": [
         {
-          "value": "Ai Kakuma"
+          "value": "加隈亚衣"
+        },
+        {
+          "value": "かくま あい"
         }
       ]
     },
     {
       "characterId": 235,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 235,
@@ -16431,17 +17097,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 235,
       "tagId": 7,
-      "value": "Hikaru Aono",
+      "value": "苍乃辉",
       "entries": [
         {
-          "value": "Hikaru Aono"
+          "value": "苍乃辉"
         }
       ]
     },
     {
       "characterId": 236,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 236,
@@ -16471,17 +17137,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 236,
       "tagId": 7,
-      "value": "Shizuka Ishigami",
+      "value": "石上静香",
       "entries": [
         {
-          "value": "Shizuka Ishigami"
+          "value": "石上静香"
+        },
+        {
+          "value": "いしがみ しずか"
         }
       ]
     },
     {
       "characterId": 237,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 237,
@@ -16511,17 +17180,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 237,
       "tagId": 7,
-      "value": "Kaoru Sakura",
+      "value": "佐仓薰",
       "entries": [
         {
-          "value": "Kaoru Sakura"
+          "value": "佐仓薰"
+        },
+        {
+          "value": "さくら かおる"
+        },
+        {
+          "value": "佐倉薫"
         }
       ]
     },
     {
       "characterId": 238,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 238,
@@ -16536,7 +17211,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 238,
       "tagId": 4,
-      "value": "Renown"
+      "value": "声望级"
     },
     {
       "characterId": 238,
@@ -16551,17 +17226,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 238,
       "tagId": 7,
-      "value": "Ai Kayano",
+      "value": "川澄绫子",
       "entries": [
         {
-          "value": "Ai Kayano"
+          "value": "川澄绫子"
+        },
+        {
+          "value": "かわすみ あやこ"
         }
       ]
     },
     {
       "characterId": 239,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 239,
@@ -16576,7 +17254,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 239,
       "tagId": 4,
-      "value": "Renown"
+      "value": "声望级"
     },
     {
       "characterId": 239,
@@ -16591,17 +17269,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 239,
       "tagId": 7,
-      "value": "Koharu Nogata",
+      "value": "野方小春",
       "entries": [
         {
-          "value": "Koharu Nogata"
+          "value": "野方小春"
+        },
+        {
+          "value": "のがた こはる"
         }
       ]
     },
     {
       "characterId": 240,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 240,
@@ -16616,7 +17297,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 240,
       "tagId": 4,
-      "value": "Admiral"
+      "value": "海军上将级"
     },
     {
       "characterId": 240,
@@ -16631,17 +17312,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 240,
       "tagId": 7,
-      "value": "Atsuko Tanaka",
+      "value": "田中敦子",
       "entries": [
         {
-          "value": "Atsuko Tanaka"
+          "value": "田中敦子"
+        },
+        {
+          "value": "たなか あつこ"
         }
       ]
     },
     {
       "characterId": 241,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 241,
@@ -16656,7 +17340,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 241,
       "tagId": 4,
-      "value": "Renown"
+      "value": "声望级"
     },
     {
       "characterId": 241,
@@ -16671,17 +17355,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 241,
       "tagId": 7,
-      "value": "Ai Kayano",
+      "value": "川澄绫子",
       "entries": [
         {
-          "value": "Ai Kayano"
+          "value": "川澄绫子"
+        },
+        {
+          "value": "かわすみ あやこ"
+        },
+        {
+          "value": "茅野爱衣"
         }
       ]
     },
     {
       "characterId": 242,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 242,
@@ -16696,7 +17386,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 242,
       "tagId": 4,
-      "value": "Queen Elizabeth"
+      "value": "伊丽莎白女王级"
     },
     {
       "characterId": 242,
@@ -16711,17 +17401,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 242,
       "tagId": 7,
-      "value": "Sumire Uesaka",
+      "value": "上坂堇",
       "entries": [
         {
-          "value": "Sumire Uesaka"
+          "value": "上坂堇"
         }
       ]
     },
     {
       "characterId": 243,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 243,
@@ -16736,7 +17426,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 243,
       "tagId": 4,
-      "value": "Queen Elizabeth"
+      "value": "伊丽莎白女王级"
     },
     {
       "characterId": 243,
@@ -16751,17 +17441,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 243,
       "tagId": 7,
-      "value": "Sumire Uesaka",
+      "value": "上坂堇",
       "entries": [
         {
-          "value": "Sumire Uesaka"
+          "value": "上坂堇"
         }
       ]
     },
     {
       "characterId": 244,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 244,
@@ -16776,7 +17466,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 244,
       "tagId": 4,
-      "value": "Nelson"
+      "value": "纳尔逊级"
     },
     {
       "characterId": 244,
@@ -16791,17 +17481,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 244,
       "tagId": 7,
-      "value": "Yuuki Kuwahara",
+      "value": "桑原由气",
       "entries": [
         {
-          "value": "Yuuki Kuwahara"
+          "value": "桑原由气"
+        },
+        {
+          "value": "桑原 由气 くわはら ゆうき"
         }
       ]
     },
     {
       "characterId": 245,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 245,
@@ -16816,7 +17509,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 245,
       "tagId": 4,
-      "value": "Nelson"
+      "value": "纳尔逊级"
     },
     {
       "characterId": 245,
@@ -16831,17 +17524,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 245,
       "tagId": 7,
-      "value": "You Taichi",
+      "value": "大地叶",
       "entries": [
         {
-          "value": "You Taichi"
+          "value": "大地叶"
+        },
+        {
+          "value": "たいち よう"
         }
       ]
     },
     {
       "characterId": 246,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 246,
@@ -16856,7 +17552,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 246,
       "tagId": 4,
-      "value": "King George V"
+      "value": "乔治五世级"
     },
     {
       "characterId": 246,
@@ -16871,17 +17567,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 246,
       "tagId": 7,
-      "value": "Ayako Kawasumi",
+      "value": "川澄绫子",
       "entries": [
         {
-          "value": "Ayako Kawasumi"
+          "value": "川澄绫子"
+        },
+        {
+          "value": "かわすみ あやこ"
         }
       ]
     },
     {
       "characterId": 247,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 247,
@@ -16896,7 +17595,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 247,
       "tagId": 4,
-      "value": "King George V"
+      "value": "乔治五世级"
     },
     {
       "characterId": 247,
@@ -16911,17 +17610,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 247,
       "tagId": 7,
-      "value": "Chinami Hashimoto",
+      "value": "桥本千波",
       "entries": [
         {
-          "value": "Chinami Hashimoto"
+          "value": "桥本千波"
+        },
+        {
+          "value": "はしもと ちなみ"
         }
       ]
     },
     {
       "characterId": 248,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 248,
@@ -16936,7 +17638,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 248,
       "tagId": 4,
-      "value": "King George V"
+      "value": "乔治五世级"
     },
     {
       "characterId": 248,
@@ -16951,17 +17653,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 248,
       "tagId": 7,
-      "value": "Rie Tanaka",
+      "value": "田中理惠",
       "entries": [
         {
-          "value": "Rie Tanaka"
+          "value": "田中理惠"
+        },
+        {
+          "value": "たなか りえ"
         }
       ]
     },
     {
       "characterId": 249,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 249,
@@ -16976,7 +17681,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 249,
       "tagId": 4,
-      "value": "King George V"
+      "value": "乔治五世级"
     },
     {
       "characterId": 249,
@@ -16991,17 +17696,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 249,
       "tagId": 7,
-      "value": "M・A・O",
+      "value": "市道真央",
       "entries": [
         {
-          "value": "M・A・O"
+          "value": "市道真央"
         }
       ]
     },
     {
       "characterId": 250,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 250,
@@ -17016,7 +17721,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 250,
       "tagId": 4,
-      "value": "Queen Elizabeth"
+      "value": "伊丽莎白女王级"
     },
     {
       "characterId": 250,
@@ -17031,17 +17736,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 250,
       "tagId": 7,
-      "value": "Asuka Nishi",
+      "value": "西明日香",
       "entries": [
         {
-          "value": "Asuka Nishi"
+          "value": "西明日香"
         }
       ]
     },
     {
       "characterId": 251,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 251,
@@ -17056,7 +17761,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 251,
       "tagId": 4,
-      "value": "Revenge"
+      "value": "复仇级"
     },
     {
       "characterId": 251,
@@ -17071,17 +17776,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 251,
       "tagId": 7,
-      "value": "Marika Hayase",
+      "value": "早瀬莉花",
       "entries": [
         {
-          "value": "Marika Hayase"
+          "value": "早瀬莉花"
         }
       ]
     },
     {
       "characterId": 252,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 252,
@@ -17096,7 +17801,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 252,
       "tagId": 4,
-      "value": "Vanguard"
+      "value": "前卫级"
     },
     {
       "characterId": 252,
@@ -17111,17 +17816,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 252,
       "tagId": 7,
-      "value": "Yuki Nakashima",
+      "value": "中岛由贵",
       "entries": [
         {
-          "value": "Yuki Nakashima"
+          "value": "中岛由贵"
+        },
+        {
+          "value": "なかしま ゆき"
+        },
+        {
+          "value": "中島由貴"
         }
       ]
     },
     {
       "characterId": 253,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 253,
@@ -17136,7 +17847,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 253,
       "tagId": 4,
-      "value": "Revenge"
+      "value": "复仇级"
     },
     {
       "characterId": 253,
@@ -17151,17 +17862,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 253,
       "tagId": 7,
-      "value": "Arisa Sakuraba",
+      "value": "樱庭有纱",
       "entries": [
         {
-          "value": "Arisa Sakuraba"
+          "value": "樱庭有纱"
+        },
+        {
+          "value": "さくらば ありさ"
+        },
+        {
+          "value": "櫻庭有紗"
         }
       ]
     },
     {
       "characterId": 254,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 254,
@@ -17176,7 +17893,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 254,
       "tagId": 4,
-      "value": "Lion"
+      "value": "狮级"
     },
     {
       "characterId": 254,
@@ -17191,17 +17908,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 254,
       "tagId": 7,
-      "value": "Saori Onishi",
+      "value": "大西沙织",
       "entries": [
         {
-          "value": "Saori Onishi"
+          "value": "大西沙织"
+        },
+        {
+          "value": "おおにし さおり"
+        },
+        {
+          "value": "大西沙織"
         }
       ]
     },
     {
       "characterId": 255,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 255,
@@ -17231,17 +17954,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 255,
       "tagId": 7,
-      "value": "Yuuna Inamura",
+      "value": "稲村優奈",
       "entries": [
         {
-          "value": "Yuuna Inamura"
+          "value": "稲村優奈"
+        },
+        {
+          "value": "汉字稻村优奈"
         }
       ]
     },
     {
       "characterId": 256,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 256,
@@ -17271,17 +17997,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 256,
       "tagId": 7,
-      "value": "Hina Yomiya",
+      "value": "羊宫妃那",
       "entries": [
         {
-          "value": "Hina Yomiya"
+          "value": "羊宫妃那"
+        },
+        {
+          "value": "ようみや ひな"
+        },
+        {
+          "value": "羊宮妃那"
         }
       ]
     },
     {
       "characterId": 257,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 257,
@@ -17311,17 +18043,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 257,
       "tagId": 7,
-      "value": "Ai Kakuma",
+      "value": "加隈亚衣",
       "entries": [
         {
-          "value": "Ai Kakuma"
+          "value": "加隈亚衣"
+        },
+        {
+          "value": "かくま あい"
         }
       ]
     },
     {
       "characterId": 258,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 258,
@@ -17336,7 +18071,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 258,
       "tagId": 4,
-      "value": "Centaur"
+      "value": "半人马级"
     },
     {
       "characterId": 258,
@@ -17351,17 +18086,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 258,
       "tagId": 7,
-      "value": "Aya Uchida",
+      "value": "内田彩",
       "entries": [
         {
-          "value": "Aya Uchida"
+          "value": "内田彩"
         }
       ]
     },
     {
       "characterId": 259,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 259,
@@ -17376,7 +18111,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 259,
       "tagId": 4,
-      "value": "Attacker"
+      "value": "攻击者级"
     },
     {
       "characterId": 259,
@@ -17391,17 +18126,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 259,
       "tagId": 7,
-      "value": "Rui Tanabe",
+      "value": "田辺留依",
       "entries": [
         {
-          "value": "Rui Tanabe"
+          "value": "田辺留依"
         }
       ]
     },
     {
       "characterId": 260,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 260,
@@ -17416,7 +18151,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 260,
       "tagId": 4,
-      "value": "Colossus"
+      "value": "巨像级"
     },
     {
       "characterId": 260,
@@ -17431,17 +18166,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 260,
       "tagId": 7,
-      "value": "Naomi Ohzora",
+      "value": "大空直美",
       "entries": [
         {
-          "value": "Naomi Ohzora"
+          "value": "大空直美"
         }
       ]
     },
     {
       "characterId": 261,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 261,
@@ -17456,7 +18191,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 261,
       "tagId": 4,
-      "value": "Centaur"
+      "value": "半人马级"
     },
     {
       "characterId": 261,
@@ -17471,17 +18206,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 261,
       "tagId": 7,
-      "value": "Nao Shiraki",
+      "value": "白城",
       "entries": [
         {
-          "value": "Nao Shiraki"
+          "value": "白城"
+        },
+        {
+          "value": "なお"
         }
       ]
     },
     {
       "characterId": 262,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 262,
@@ -17496,7 +18234,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 262,
       "tagId": 4,
-      "value": "Colossus"
+      "value": "巨像级"
     },
     {
       "characterId": 262,
@@ -17511,17 +18249,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 262,
       "tagId": 7,
-      "value": "Natsumi Murakami",
+      "value": "村上奈津实",
       "entries": [
         {
-          "value": "Natsumi Murakami"
+          "value": "村上奈津实"
+        },
+        {
+          "value": "むらかみ なつみ"
+        },
+        {
+          "value": "村上奈津実"
         }
       ]
     },
     {
       "characterId": 263,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 263,
@@ -17551,17 +18295,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 263,
       "tagId": 7,
-      "value": "Fumie Mizusawa",
+      "value": "水沢史绘",
       "entries": [
         {
-          "value": "Fumie Mizusawa"
+          "value": "水沢史绘"
         }
       ]
     },
     {
       "characterId": 264,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 264,
@@ -17591,17 +18335,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 264,
       "tagId": 7,
-      "value": "Asuka Itou",
+      "value": "伊藤明日香",
       "entries": [
         {
-          "value": "Asuka Itou"
+          "value": "伊藤明日香"
+        },
+        {
+          "value": "伊藤 あすか"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 265,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 265,
@@ -17616,7 +18366,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 265,
       "tagId": 4,
-      "value": "Illustrious"
+      "value": "光辉级"
     },
     {
       "characterId": 265,
@@ -17631,17 +18381,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 265,
       "tagId": 7,
-      "value": "Sora Amamiya",
+      "value": "雨宮天",
       "entries": [
         {
-          "value": "Sora Amamiya"
+          "value": "雨宮天"
+        },
+        {
+          "value": "あまみや そら"
+        },
+        {
+          "value": "公式"
         }
       ]
     },
     {
       "characterId": 266,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 266,
@@ -17656,7 +18412,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 266,
       "tagId": 4,
-      "value": "Illustrious"
+      "value": "光辉级"
     },
     {
       "characterId": 266,
@@ -17671,17 +18427,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 266,
       "tagId": 7,
-      "value": "Eriko Nakamura",
+      "value": "中村绘里子",
       "entries": [
         {
-          "value": "Eriko Nakamura"
+          "value": "中村绘里子"
+        },
+        {
+          "value": "なかむら えりこ"
         }
       ]
     },
     {
       "characterId": 267,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 267,
@@ -17696,7 +18455,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 267,
       "tagId": 4,
-      "value": "Illustrious"
+      "value": "光辉级"
     },
     {
       "characterId": 267,
@@ -17711,17 +18470,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 267,
       "tagId": 7,
-      "value": "Rie Kugimiya",
+      "value": "钉宫理惠",
       "entries": [
         {
-          "value": "Rie Kugimiya"
+          "value": "钉宫理惠"
+        },
+        {
+          "value": "くぎみや りえ"
         }
       ]
     },
     {
       "characterId": 268,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 268,
@@ -17736,7 +18498,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 268,
       "tagId": 4,
-      "value": "Courageous"
+      "value": "勇敢级"
     },
     {
       "characterId": 268,
@@ -17751,17 +18513,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 268,
       "tagId": 7,
-      "value": "Noriko Shitaya",
+      "value": "下屋则子",
       "entries": [
         {
-          "value": "Noriko Shitaya"
+          "value": "下屋则子"
+        },
+        {
+          "value": "したや のりこ"
         }
       ]
     },
     {
       "characterId": 269,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 269,
@@ -17776,7 +18541,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 269,
       "tagId": 4,
-      "value": "Implacable"
+      "value": "怨仇级"
     },
     {
       "characterId": 269,
@@ -17791,17 +18556,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 269,
       "tagId": 7,
-      "value": "Yukana",
+      "value": "由加奈",
       "entries": [
         {
-          "value": "Yukana"
+          "value": "由加奈"
+        },
+        {
+          "value": "ゆかな"
         }
       ]
     },
     {
       "characterId": 270,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 270,
@@ -17816,7 +18584,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 270,
       "tagId": 4,
-      "value": "Illustrious"
+      "value": "光辉级"
     },
     {
       "characterId": 270,
@@ -17831,17 +18599,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 270,
       "tagId": 7,
-      "value": "Sora Amamiya",
+      "value": "雨宫天",
       "entries": [
         {
-          "value": "Sora Amamiya"
+          "value": "雨宫天"
         }
       ]
     },
     {
       "characterId": 271,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 271,
@@ -17856,7 +18624,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 271,
       "tagId": 4,
-      "value": "Illustrious"
+      "value": "光辉级"
     },
     {
       "characterId": 271,
@@ -17871,17 +18639,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 271,
       "tagId": 7,
-      "value": "Sora Amamiya",
+      "value": "雨宫天",
       "entries": [
         {
-          "value": "Sora Amamiya"
+          "value": "雨宫天"
         }
       ]
     },
     {
       "characterId": 272,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 272,
@@ -17896,7 +18664,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 272,
       "tagId": 4,
-      "value": "Illustrious"
+      "value": "光辉级"
     },
     {
       "characterId": 272,
@@ -17911,17 +18679,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 272,
       "tagId": 7,
-      "value": "Miku Itou",
+      "value": "伊藤美来",
       "entries": [
         {
-          "value": "Miku Itou"
+          "value": "伊藤美来"
+        },
+        {
+          "value": "いとう みく"
         }
       ]
     },
     {
       "characterId": 273,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 273,
@@ -17936,7 +18707,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 273,
       "tagId": 4,
-      "value": "Illustrious"
+      "value": "光辉级"
     },
     {
       "characterId": 273,
@@ -17951,17 +18722,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 273,
       "tagId": 7,
-      "value": "Rie Kugimiya",
+      "value": "钉宫理惠",
       "entries": [
         {
-          "value": "Rie Kugimiya"
+          "value": "钉宫理惠"
+        },
+        {
+          "value": "くぎみや りえ"
         }
       ]
     },
     {
       "characterId": 274,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 274,
@@ -17976,7 +18750,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 274,
       "tagId": 4,
-      "value": "Illustrious"
+      "value": "光辉级"
     },
     {
       "characterId": 274,
@@ -17991,17 +18765,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 274,
       "tagId": 7,
-      "value": "Rie Kugimiya",
+      "value": "钉宫理惠",
       "entries": [
         {
-          "value": "Rie Kugimiya"
+          "value": "钉宫理惠"
+        },
+        {
+          "value": "くぎみや りえ"
         }
       ]
     },
     {
       "characterId": 275,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 275,
@@ -18016,7 +18793,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 275,
       "tagId": 4,
-      "value": "Erebus"
+      "value": "黑暗界级"
     },
     {
       "characterId": 275,
@@ -18031,17 +18808,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 275,
       "tagId": 7,
-      "value": "Saya Horigome",
+      "value": "堀笼沙耶",
       "entries": [
         {
-          "value": "Saya Horigome"
+          "value": "堀笼沙耶"
+        },
+        {
+          "value": "ほりごめ さや"
         }
       ]
     },
     {
       "characterId": 276,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 276,
@@ -18056,7 +18836,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 276,
       "tagId": 4,
-      "value": "Erebus"
+      "value": "黑暗界级"
     },
     {
       "characterId": 276,
@@ -18071,17 +18851,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 276,
       "tagId": 7,
-      "value": "Maia",
+      "value": "香月遥",
       "entries": [
         {
-          "value": "Maia"
+          "value": "香月遥"
+        },
+        {
+          "value": "香月 はるか"
         }
       ]
     },
     {
       "characterId": 277,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 277,
@@ -18096,7 +18879,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 277,
       "tagId": 4,
-      "value": "Roberts"
+      "value": "罗伯茨级"
     },
     {
       "characterId": 277,
@@ -18111,17 +18894,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 277,
       "tagId": 7,
-      "value": "Juri Nagatsuma",
+      "value": "长妻树里",
       "entries": [
         {
-          "value": "Juri Nagatsuma"
+          "value": "长妻树里"
+        },
+        {
+          "value": "ながつま じゅり"
         }
       ]
     },
     {
       "characterId": 278,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 278,
@@ -18151,17 +18937,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 278,
       "tagId": 7,
-      "value": "Mikako Izawa",
+      "value": "井泽美香子",
       "entries": [
         {
-          "value": "Mikako Izawa"
+          "value": "井泽美香子"
+        },
+        {
+          "value": "いざわ みかこ"
         }
       ]
     },
     {
       "characterId": 279,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 279,
@@ -18176,7 +18965,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 279,
       "tagId": 4,
-      "value": "Monarch"
+      "value": "乔治五世级"
     },
     {
       "characterId": 279,
@@ -18191,17 +18980,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 279,
       "tagId": 7,
-      "value": "Miyuki Sawashiro",
+      "value": "泽城美雪",
       "entries": [
         {
-          "value": "Miyuki Sawashiro"
+          "value": "泽城美雪"
+        },
+        {
+          "value": "沢城 みゆき"
+        },
+        {
+          "value": "さわしろ みゆき"
         }
       ]
     },
     {
       "characterId": 280,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 280,
@@ -18231,17 +19026,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 280,
       "tagId": 7,
-      "value": "Shizuka Ishigami",
+      "value": "石上静香",
       "entries": [
         {
-          "value": "Shizuka Ishigami"
+          "value": "石上静香"
+        },
+        {
+          "value": "いしがみ しずか"
         }
       ]
     },
     {
       "characterId": 281,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 281,
@@ -18256,7 +19054,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 281,
       "tagId": 4,
-      "value": "Drake"
+      "value": "丘吉尔型"
     },
     {
       "characterId": 281,
@@ -18271,17 +19069,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 281,
       "tagId": 7,
-      "value": "Asami Imai",
+      "value": "今井麻美",
       "entries": [
         {
-          "value": "Asami Imai"
+          "value": "今井麻美"
         }
       ]
     },
     {
       "characterId": 282,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 282,
@@ -18296,7 +19094,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 282,
       "tagId": 4,
-      "value": "Plymouth"
+      "value": "爱丁堡级"
     },
     {
       "characterId": 282,
@@ -18311,17 +19109,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 282,
       "tagId": 7,
-      "value": "Manatsu Murakami",
+      "value": "村上真夏",
       "entries": [
         {
-          "value": "Manatsu Murakami"
+          "value": "村上真夏"
+        },
+        {
+          "value": "村上 まなつ"
         }
       ]
     },
     {
       "characterId": 283,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 283,
@@ -18351,17 +19152,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 283,
       "tagId": 7,
-      "value": "M・A・O",
+      "value": "市道真央",
       "entries": [
         {
-          "value": "M・A・O"
+          "value": "市道真央"
         }
       ]
     },
     {
       "characterId": 284,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 284,
@@ -18391,17 +19192,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 284,
       "tagId": 7,
-      "value": "Wakana Minami",
+      "value": "美波和嘉菜",
       "entries": [
         {
-          "value": "Wakana Minami"
+          "value": "美波和嘉菜"
+        },
+        {
+          "value": "美波 わかな"
+        },
+        {
+          "value": "简介"
         }
       ]
     },
     {
       "characterId": 285,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 285,
@@ -18431,17 +19238,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 285,
       "tagId": 7,
-      "value": "Misaki Watada",
+      "value": "和多田美咲",
       "entries": [
         {
-          "value": "Misaki Watada"
+          "value": "和多田美咲"
+        },
+        {
+          "value": "わただ みさき"
         }
       ]
     },
     {
       "characterId": 286,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 286,
@@ -18471,17 +19281,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 286,
       "tagId": 7,
-      "value": "You Taichi",
+      "value": "大地叶",
       "entries": [
         {
-          "value": "You Taichi"
+          "value": "大地叶"
+        },
+        {
+          "value": "たいち よう"
         }
       ]
     },
     {
       "characterId": 287,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 287,
@@ -18511,17 +19324,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 287,
       "tagId": 7,
-      "value": "Nozomi Yamamoto",
+      "value": "山本希望",
       "entries": [
         {
-          "value": "Nozomi Yamamoto"
+          "value": "山本希望"
+        },
+        {
+          "value": "やまもと のぞみ"
         }
       ]
     },
     {
       "characterId": 288,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 288,
@@ -18551,17 +19367,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 288,
       "tagId": 7,
-      "value": "Maaya Uchida",
+      "value": "内田真礼",
       "entries": [
         {
-          "value": "Maaya Uchida"
+          "value": "内田真礼"
+        },
+        {
+          "value": "内田 真礼 うちだ まあや"
         }
       ]
     },
     {
       "characterId": 289,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 289,
@@ -18591,17 +19410,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 289,
       "tagId": 7,
-      "value": "Kazusa Aranami",
+      "value": "荒浪和沙",
       "entries": [
         {
-          "value": "Kazusa Aranami"
+          "value": "荒浪和沙"
         }
       ]
     },
     {
       "characterId": 290,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 290,
@@ -18631,17 +19450,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 290,
       "tagId": 7,
-      "value": "Emiri Katou",
+      "value": "加藤英美里",
       "entries": [
         {
-          "value": "Emiri Katou"
+          "value": "加藤英美里"
         }
       ]
     },
     {
       "characterId": 291,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 291,
@@ -18671,17 +19490,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 291,
       "tagId": 7,
-      "value": "Narumi Shinohara",
+      "value": "篠原成美",
       "entries": [
         {
-          "value": "Narumi Shinohara"
+          "value": "篠原成美"
+        },
+        {
+          "value": "しのはら なるみ"
         }
       ]
     },
     {
       "characterId": 292,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 292,
@@ -18711,17 +19533,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 292,
       "tagId": 7,
-      "value": "Natsumi Takamori",
+      "value": "高森奈津美",
       "entries": [
         {
-          "value": "Natsumi Takamori"
+          "value": "高森奈津美"
+        },
+        {
+          "value": "たかもり なつみ"
         }
       ]
     },
     {
       "characterId": 293,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 293,
@@ -18751,17 +19576,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 293,
       "tagId": 7,
-      "value": "Yuuki Kuwahara",
+      "value": "桑原由气",
       "entries": [
         {
-          "value": "Yuuki Kuwahara"
+          "value": "桑原由气"
+        },
+        {
+          "value": "くわはら ゆうき"
         }
       ]
     },
     {
       "characterId": 294,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 294,
@@ -18776,7 +19604,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 294,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 294,
@@ -18791,17 +19619,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 294,
       "tagId": 7,
-      "value": "Kana Yuuki",
+      "value": "优木加奈",
       "entries": [
         {
-          "value": "Kana Yuuki"
+          "value": "优木加奈"
+        },
+        {
+          "value": "優木 かな"
+        },
+        {
+          "value": "ゆうき かな"
         }
       ]
     },
     {
       "characterId": 295,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 295,
@@ -18816,7 +19650,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 295,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 295,
@@ -18831,17 +19665,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 295,
       "tagId": 7,
-      "value": "Yuriko Yano",
+      "value": "谷野悠里子",
       "entries": [
         {
-          "value": "Yuriko Yano"
+          "value": "谷野悠里子"
         }
       ]
     },
     {
       "characterId": 296,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 296,
@@ -18856,7 +19690,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 296,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 296,
@@ -18871,17 +19705,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 296,
       "tagId": 7,
-      "value": "Kanae Ikadai",
+      "value": "筏井",
       "entries": [
         {
-          "value": "Kanae Ikadai"
+          "value": "筏井"
+        },
+        {
+          "value": "かなえ"
         }
       ]
     },
     {
       "characterId": 297,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 297,
@@ -18896,7 +19733,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 297,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 297,
@@ -18911,17 +19748,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 297,
       "tagId": 7,
-      "value": "Emiri Katou",
+      "value": "加藤英美里",
       "entries": [
         {
-          "value": "Emiri Katou"
+          "value": "加藤英美里"
         }
       ]
     },
     {
       "characterId": 298,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 298,
@@ -18936,7 +19773,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 298,
       "tagId": 4,
-      "value": "Hatsuharu"
+      "value": "初春级"
     },
     {
       "characterId": 298,
@@ -18951,17 +19788,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 298,
       "tagId": 7,
-      "value": "Marika Kouno",
+      "value": "高野麻里佳",
       "entries": [
         {
-          "value": "Marika Kouno"
+          "value": "高野麻里佳"
+        },
+        {
+          "value": "こうの まりか"
         }
       ]
     },
     {
       "characterId": 299,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 299,
@@ -18976,7 +19816,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 299,
       "tagId": 4,
-      "value": "Hatsuharu"
+      "value": "初春级"
     },
     {
       "characterId": 299,
@@ -18991,17 +19831,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 299,
       "tagId": 7,
-      "value": "Minami Tanaka",
+      "value": "田中美海",
       "entries": [
         {
-          "value": "Minami Tanaka"
+          "value": "田中美海"
+        },
+        {
+          "value": "たなか みなみ"
         }
       ]
     },
     {
       "characterId": 300,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 300,
@@ -19016,7 +19859,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 300,
       "tagId": 4,
-      "value": "Hatsuharu"
+      "value": "初春级"
     },
     {
       "characterId": 300,
@@ -19031,17 +19874,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 300,
       "tagId": 7,
-      "value": "Natsume Iwasa",
+      "value": "岩佐夏芽",
       "entries": [
         {
-          "value": "Natsume Iwasa"
+          "value": "岩佐夏芽"
         }
       ]
     },
     {
       "characterId": 301,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 301,
@@ -19056,7 +19899,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 301,
       "tagId": 4,
-      "value": "Hatsuharu"
+      "value": "初春级"
     },
     {
       "characterId": 301,
@@ -19071,17 +19914,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 301,
       "tagId": 7,
-      "value": "Karin Isobe",
+      "value": "礒部花凛",
       "entries": [
         {
-          "value": "Karin Isobe"
+          "value": "礒部花凛"
         }
       ]
     },
     {
       "characterId": 302,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 302,
@@ -19096,7 +19939,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 302,
       "tagId": 4,
-      "value": "Hatsuharu"
+      "value": "初春级"
     },
     {
       "characterId": 302,
@@ -19111,17 +19954,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 302,
       "tagId": 7,
-      "value": "Madoka Asahina",
+      "value": "朝日奈丸佳",
       "entries": [
         {
-          "value": "Madoka Asahina"
+          "value": "朝日奈丸佳"
+        },
+        {
+          "value": "あさひな まどか"
         }
       ]
     },
     {
       "characterId": 303,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 303,
@@ -19136,7 +19982,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 303,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 303,
@@ -19151,17 +19997,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 303,
       "tagId": 7,
-      "value": "Yuuko Oono",
+      "value": "大野柚布子",
       "entries": [
         {
-          "value": "Yuuko Oono"
+          "value": "大野柚布子"
+        },
+        {
+          "value": "おおの ゆうこ"
         }
       ]
     },
     {
       "characterId": 304,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 304,
@@ -19176,7 +20025,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 304,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 304,
@@ -19191,17 +20040,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 304,
       "tagId": 7,
-      "value": "Yuuko Oono",
+      "value": "大野柚布子",
       "entries": [
         {
-          "value": "Yuuko Oono"
+          "value": "大野柚布子"
+        },
+        {
+          "value": "おおの ゆうこ"
         }
       ]
     },
     {
       "characterId": 305,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 305,
@@ -19216,7 +20068,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 305,
       "tagId": 4,
-      "value": "Shimakaze"
+      "value": "岛风级"
     },
     {
       "characterId": 305,
@@ -19231,17 +20083,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 305,
       "tagId": 7,
-      "value": "Saori Hayami",
+      "value": "早见沙织",
       "entries": [
         {
-          "value": "Saori Hayami"
+          "value": "早见沙织"
+        },
+        {
+          "value": "はやみ さおり"
+        },
+        {
+          "value": "早見沙織"
         }
       ]
     },
     {
       "characterId": 306,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 306,
@@ -19256,7 +20114,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 306,
       "tagId": 4,
-      "value": "Kamikaze"
+      "value": "神风级"
     },
     {
       "characterId": 306,
@@ -19271,17 +20129,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 306,
       "tagId": 7,
-      "value": "Madoka Asahina",
+      "value": "朝日奈丸佳",
       "entries": [
         {
-          "value": "Madoka Asahina"
+          "value": "朝日奈丸佳"
+        },
+        {
+          "value": "あさひな まどか"
         }
       ]
     },
     {
       "characterId": 307,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 307,
@@ -19296,7 +20157,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 307,
       "tagId": 4,
-      "value": "Kamikaze"
+      "value": "神风级"
     },
     {
       "characterId": 307,
@@ -19311,17 +20172,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 307,
       "tagId": 7,
-      "value": "Madoka Asahina",
+      "value": "朝日奈丸佳",
       "entries": [
         {
-          "value": "Madoka Asahina"
+          "value": "朝日奈丸佳"
+        },
+        {
+          "value": "あさひな まどか"
         }
       ]
     },
     {
       "characterId": 308,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 308,
@@ -19336,7 +20200,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 308,
       "tagId": 4,
-      "value": "Mutsuki"
+      "value": "睦月级"
     },
     {
       "characterId": 308,
@@ -19351,17 +20215,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 308,
       "tagId": 7,
-      "value": "Rumi Ookubo",
+      "value": "大久保瑠美",
       "entries": [
         {
-          "value": "Rumi Ookubo"
+          "value": "大久保瑠美"
+        },
+        {
+          "value": "おおくぼ るみ"
         }
       ]
     },
     {
       "characterId": 309,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 309,
@@ -19376,7 +20243,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 309,
       "tagId": 4,
-      "value": "Mutsuki"
+      "value": "睦月级"
     },
     {
       "characterId": 309,
@@ -19391,17 +20258,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 309,
       "tagId": 7,
-      "value": "Rumi Ookubo",
+      "value": "大久保瑠美",
       "entries": [
         {
-          "value": "Rumi Ookubo"
+          "value": "大久保瑠美"
         }
       ]
     },
     {
       "characterId": 310,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 310,
@@ -19416,7 +20283,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 310,
       "tagId": 4,
-      "value": "Mutsuki"
+      "value": "睦月级"
     },
     {
       "characterId": 310,
@@ -19431,17 +20298,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 310,
       "tagId": 7,
-      "value": "Mako",
+      "value": "樱井真子",
       "entries": [
         {
-          "value": "Mako"
+          "value": "樱井真子"
+        },
+        {
+          "value": "さくらい まこ"
+        },
+        {
+          "value": "休止中"
         }
       ]
     },
     {
       "characterId": 311,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 311,
@@ -19456,7 +20329,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 311,
       "tagId": 4,
-      "value": "Mutsuki"
+      "value": "睦月级"
     },
     {
       "characterId": 311,
@@ -19471,17 +20344,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 311,
       "tagId": 7,
-      "value": "Mako",
+      "value": "樱井真子",
       "entries": [
         {
-          "value": "Mako"
+          "value": "樱井真子"
+        },
+        {
+          "value": "さくらい まこ"
+        },
+        {
+          "value": "休止中"
         }
       ]
     },
     {
       "characterId": 312,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 312,
@@ -19496,7 +20375,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 312,
       "tagId": 4,
-      "value": "Mutsuki"
+      "value": "睦月级"
     },
     {
       "characterId": 312,
@@ -19511,17 +20390,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 312,
       "tagId": 7,
-      "value": "Chiyo Ousaki",
+      "value": "樱咲千依",
       "entries": [
         {
-          "value": "Chiyo Ousaki"
+          "value": "樱咲千依"
         }
       ]
     },
     {
       "characterId": 313,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 313,
@@ -19536,7 +20415,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 313,
       "tagId": 4,
-      "value": "Mutsuki"
+      "value": "睦月级"
     },
     {
       "characterId": 313,
@@ -19551,17 +20430,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 313,
       "tagId": 7,
-      "value": "Chiyo Ousaki",
+      "value": "樱咲千依",
       "entries": [
         {
-          "value": "Chiyo Ousaki"
+          "value": "樱咲千依"
         }
       ]
     },
     {
       "characterId": 314,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 314,
@@ -19576,7 +20455,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 314,
       "tagId": 4,
-      "value": "Mutsuki"
+      "value": "睦月级"
     },
     {
       "characterId": 314,
@@ -19591,17 +20470,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 314,
       "tagId": 7,
-      "value": "Mako",
+      "value": "樱井真子",
       "entries": [
         {
-          "value": "Mako"
+          "value": "樱井真子"
+        },
+        {
+          "value": "さくらい まこ"
+        },
+        {
+          "value": "休止中"
         }
       ]
     },
     {
       "characterId": 315,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 315,
@@ -19631,17 +20516,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 315,
       "tagId": 7,
-      "value": "Haruna Kawai",
+      "value": "河井晴菜",
       "entries": [
         {
-          "value": "Haruna Kawai"
+          "value": "河井晴菜"
+        },
+        {
+          "value": "かわい はるな"
         }
       ]
     },
     {
       "characterId": 316,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 316,
@@ -19671,17 +20559,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 316,
       "tagId": 7,
-      "value": "Haruna Kawai",
+      "value": "河井晴菜",
       "entries": [
         {
-          "value": "Haruna Kawai"
+          "value": "河井晴菜"
+        },
+        {
+          "value": "かわい はるな"
         }
       ]
     },
     {
       "characterId": 317,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 317,
@@ -19711,17 +20602,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 317,
       "tagId": 7,
-      "value": "Yuka Iguchi",
+      "value": "井口裕香",
       "entries": [
         {
-          "value": "Yuka Iguchi"
+          "value": "井口裕香"
+        },
+        {
+          "value": "いぐち ゆか"
         }
       ]
     },
     {
       "characterId": 318,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 318,
@@ -19736,7 +20630,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 318,
       "tagId": 4,
-      "value": "Yuugumo"
+      "value": "夕云级"
     },
     {
       "characterId": 318,
@@ -19751,17 +20645,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 318,
       "tagId": 7,
-      "value": "Azusa Iwakura",
+      "value": "岩仓梓",
       "entries": [
         {
-          "value": "Azusa Iwakura"
+          "value": "岩仓梓"
+        },
+        {
+          "value": "岩倉 あずさ"
         }
       ]
     },
     {
       "characterId": 319,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 319,
@@ -19776,7 +20673,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 319,
       "tagId": 4,
-      "value": "Akizuki"
+      "value": "秋月级"
     },
     {
       "characterId": 319,
@@ -19791,17 +20688,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 319,
       "tagId": 7,
-      "value": "Rumi Ookubo",
+      "value": "大久保瑠美",
       "entries": [
         {
-          "value": "Rumi Ookubo"
+          "value": "大久保瑠美"
         }
       ]
     },
     {
       "characterId": 320,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 320,
@@ -19816,7 +20713,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 320,
       "tagId": 4,
-      "value": "Akizuki"
+      "value": "秋月级"
     },
     {
       "characterId": 320,
@@ -19831,17 +20728,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 320,
       "tagId": 7,
-      "value": "Rei Mochizuki",
+      "value": "持月玲依",
       "entries": [
         {
-          "value": "Rei Mochizuki"
+          "value": "持月玲依"
         }
       ]
     },
     {
       "characterId": 321,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 321,
@@ -19856,7 +20753,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 321,
       "tagId": 4,
-      "value": "Akizuki"
+      "value": "秋月级"
     },
     {
       "characterId": 321,
@@ -19871,17 +20768,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 321,
       "tagId": 7,
-      "value": "Rei Mochizuki",
+      "value": "持月玲依",
       "entries": [
         {
-          "value": "Rei Mochizuki"
+          "value": "持月玲依"
         }
       ]
     },
     {
       "characterId": 322,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 322,
@@ -19896,7 +20793,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 322,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 322,
@@ -19911,17 +20808,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 322,
       "tagId": 7,
-      "value": "Minami Tanaka",
+      "value": "田中美海",
       "entries": [
         {
-          "value": "Minami Tanaka"
+          "value": "田中美海"
+        },
+        {
+          "value": "たなか みなみ"
         }
       ]
     },
     {
       "characterId": 323,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 323,
@@ -19936,7 +20836,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 323,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 323,
@@ -19951,17 +20851,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 323,
       "tagId": 7,
-      "value": "Anju Inami",
+      "value": "伊波杏树",
       "entries": [
         {
-          "value": "Anju Inami"
+          "value": "伊波杏树"
+        },
+        {
+          "value": "いなみ あんじゅ"
+        },
+        {
+          "value": "伊波杏樹"
         }
       ]
     },
     {
       "characterId": 324,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 324,
@@ -19976,7 +20882,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 324,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 324,
@@ -19991,17 +20897,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 324,
       "tagId": 7,
-      "value": "Natsumi Hioka",
+      "value": "日冈夏美",
       "entries": [
         {
-          "value": "Natsumi Hioka"
+          "value": "日冈夏美"
+        },
+        {
+          "value": "ひおか なつみ"
         }
       ]
     },
     {
       "characterId": 325,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 325,
@@ -20016,7 +20925,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 325,
       "tagId": 4,
-      "value": "Kagerou"
+      "value": "阳炎级"
     },
     {
       "characterId": 325,
@@ -20031,17 +20940,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 325,
       "tagId": 7,
-      "value": "Natsumi Hioka",
+      "value": "日冈夏美",
       "entries": [
         {
-          "value": "Natsumi Hioka"
+          "value": "日冈夏美"
+        },
+        {
+          "value": "ひおか なつみ"
         }
       ]
     },
     {
       "characterId": 326,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 326,
@@ -20056,7 +20968,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 326,
       "tagId": 4,
-      "value": "Asashio"
+      "value": "朝潮级"
     },
     {
       "characterId": 326,
@@ -20071,17 +20983,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 326,
       "tagId": 7,
-      "value": "Yuiko Tatsumi",
+      "value": "巽悠衣子",
       "entries": [
         {
-          "value": "Yuiko Tatsumi"
+          "value": "巽悠衣子"
         }
       ]
     },
     {
       "characterId": 327,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 327,
@@ -20096,7 +21008,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 327,
       "tagId": 4,
-      "value": "Asashio"
+      "value": "朝潮级"
     },
     {
       "characterId": 327,
@@ -20111,17 +21023,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 327,
       "tagId": 7,
-      "value": "Hikaru Aono",
+      "value": "苍乃辉",
       "entries": [
         {
-          "value": "Hikaru Aono"
+          "value": "苍乃辉"
         }
       ]
     },
     {
       "characterId": 328,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 328,
@@ -20136,7 +21048,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 328,
       "tagId": 4,
-      "value": "Asashio"
+      "value": "朝潮级"
     },
     {
       "characterId": 328,
@@ -20151,17 +21063,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 328,
       "tagId": 7,
-      "value": "Tamari Hinata",
+      "value": "阳向溜",
       "entries": [
         {
-          "value": "Tamari Hinata"
+          "value": "阳向溜"
         }
       ]
     },
     {
       "characterId": 329,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 329,
@@ -20176,7 +21088,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 329,
       "tagId": 4,
-      "value": "Asashio"
+      "value": "朝潮级"
     },
     {
       "characterId": 329,
@@ -20191,17 +21103,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 329,
       "tagId": 7,
-      "value": "Hikaru Aono",
+      "value": "苍乃辉",
       "entries": [
         {
-          "value": "Hikaru Aono"
+          "value": "苍乃辉"
         }
       ]
     },
     {
       "characterId": 330,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 330,
@@ -20231,17 +21143,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 330,
       "tagId": 7,
-      "value": "Kaoru Komatsu",
+      "value": "小松郁",
       "entries": [
         {
-          "value": "Kaoru Komatsu"
+          "value": "小松郁"
         }
       ]
     },
     {
       "characterId": 331,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 331,
@@ -20256,7 +21168,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 331,
       "tagId": 4,
-      "value": "Kamikaze"
+      "value": "神风级"
     },
     {
       "characterId": 331,
@@ -20271,17 +21183,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 331,
       "tagId": 7,
-      "value": "Madoka Asahina",
+      "value": "朝日奈丸佳",
       "entries": [
         {
-          "value": "Madoka Asahina"
+          "value": "朝日奈丸佳"
+        },
+        {
+          "value": "あさひな まどか"
         }
       ]
     },
     {
       "characterId": 332,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 332,
@@ -20296,7 +21211,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 332,
       "tagId": 4,
-      "value": "Yuugumo"
+      "value": "夕云级"
     },
     {
       "characterId": 332,
@@ -20311,17 +21226,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 332,
       "tagId": 7,
-      "value": "Rui Tanabe",
+      "value": "田辺留依",
       "entries": [
         {
-          "value": "Rui Tanabe"
+          "value": "田辺留依"
         }
       ]
     },
     {
       "characterId": 333,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 333,
@@ -20336,7 +21251,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 333,
       "tagId": 4,
-      "value": "Asashio"
+      "value": "朝潮级"
     },
     {
       "characterId": 333,
@@ -20351,17 +21266,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 333,
       "tagId": 7,
-      "value": "Mariko Takeda",
+      "value": "武田真理子",
       "entries": [
         {
-          "value": "Mariko Takeda"
+          "value": "武田真理子"
+        },
+        {
+          "value": "たけだ まりこ"
         }
       ]
     },
     {
       "characterId": 334,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 334,
@@ -20376,7 +21294,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 334,
       "tagId": 4,
-      "value": "Akizuki"
+      "value": "秋月级"
     },
     {
       "characterId": 334,
@@ -20391,17 +21309,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 334,
       "tagId": 7,
-      "value": "Honoka Kuroki",
+      "value": "黑木穗乃香",
       "entries": [
         {
-          "value": "Honoka Kuroki"
+          "value": "黑木穗乃香"
         }
       ]
     },
     {
       "characterId": 335,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 335,
@@ -20416,7 +21334,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 335,
       "tagId": 4,
-      "value": "Yuugumo"
+      "value": "夕云级"
     },
     {
       "characterId": 335,
@@ -20431,17 +21349,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 335,
       "tagId": 7,
-      "value": "Yomogi Ashitaba",
+      "value": "明日叶",
       "entries": [
         {
-          "value": "Yomogi Ashitaba"
+          "value": "明日叶"
         }
       ]
     },
     {
       "characterId": 336,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 336,
@@ -20456,7 +21374,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 336,
       "tagId": 4,
-      "value": "Akizuki"
+      "value": "秋月级"
     },
     {
       "characterId": 336,
@@ -20471,17 +21389,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 336,
       "tagId": 7,
-      "value": "Kotori Koiwai",
+      "value": "小岩井小鸟",
       "entries": [
         {
-          "value": "Kotori Koiwai"
+          "value": "小岩井小鸟"
         }
       ]
     },
     {
       "characterId": 337,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 337,
@@ -20496,7 +21414,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 337,
       "tagId": 4,
-      "value": "Kamikaze"
+      "value": "神风级"
     },
     {
       "characterId": 337,
@@ -20511,17 +21429,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 337,
       "tagId": 7,
-      "value": "Takako Tanaka",
+      "value": "田中贵子",
       "entries": [
         {
-          "value": "Takako Tanaka"
+          "value": "田中贵子"
+        },
+        {
+          "value": "たなか たかこ"
+        },
+        {
+          "value": "田中貴子"
         }
       ]
     },
     {
       "characterId": 338,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 338,
@@ -20536,7 +21460,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 338,
       "tagId": 4,
-      "value": "Yuugumo"
+      "value": "夕云级"
     },
     {
       "characterId": 338,
@@ -20551,17 +21475,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 338,
       "tagId": 7,
-      "value": "Ayasa Itou",
+      "value": "伊藤彩沙",
       "entries": [
         {
-          "value": "Ayasa Itou"
+          "value": "伊藤彩沙"
+        },
+        {
+          "value": "いとう あやさ"
         }
       ]
     },
     {
       "characterId": 339,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 339,
@@ -20576,7 +21503,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 339,
       "tagId": 4,
-      "value": "Akizuki"
+      "value": "秋月级"
     },
     {
       "characterId": 339,
@@ -20591,17 +21518,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 339,
       "tagId": 7,
-      "value": "Hikaru Iida",
+      "value": "饭田光",
       "entries": [
         {
-          "value": "Hikaru Iida"
+          "value": "饭田光"
+        },
+        {
+          "value": "飯田 ヒカル"
+        },
+        {
+          "value": "いいだ ヒカル"
         }
       ]
     },
     {
       "characterId": 340,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 340,
@@ -20616,7 +21549,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 340,
       "tagId": 4,
-      "value": "Akizuki"
+      "value": "秋月级"
     },
     {
       "characterId": 340,
@@ -20631,17 +21564,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 340,
       "tagId": 7,
-      "value": "Karin Takahashi",
+      "value": "高桥花林",
       "entries": [
         {
-          "value": "Karin Takahashi"
+          "value": "高桥花林"
+        },
+        {
+          "value": "たかはし かりん"
+        },
+        {
+          "value": "高橋花林"
         }
       ]
     },
     {
       "characterId": 341,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 341,
@@ -20656,7 +21595,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 341,
       "tagId": 4,
-      "value": "Kamikaze"
+      "value": "神风级"
     },
     {
       "characterId": 341,
@@ -20671,17 +21610,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 341,
       "tagId": 7,
-      "value": "Mio Nonaka",
+      "value": "野中深爱",
       "entries": [
         {
-          "value": "Mio Nonaka"
+          "value": "野中深爱"
+        },
+        {
+          "value": "のなか みお"
+        },
+        {
+          "value": "野中深愛"
         }
       ]
     },
     {
       "characterId": 342,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 342,
@@ -20696,7 +21641,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 342,
       "tagId": 4,
-      "value": "Yuugumo"
+      "value": "夕云级"
     },
     {
       "characterId": 342,
@@ -20711,17 +21656,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 342,
       "tagId": 7,
-      "value": "Ayano Shibuya",
+      "value": "涩谷彩乃",
       "entries": [
         {
-          "value": "Ayano Shibuya"
+          "value": "涩谷彩乃"
+        },
+        {
+          "value": "しぶや あやの"
+        },
+        {
+          "value": "渋谷彩乃"
         }
       ]
     },
     {
       "characterId": 343,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 343,
@@ -20736,7 +21687,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 343,
       "tagId": 4,
-      "value": "Yuugumo"
+      "value": "夕云级"
     },
     {
       "characterId": 343,
@@ -20751,17 +21702,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 343,
       "tagId": 7,
-      "value": "Mizuki Niizaki",
+      "value": "新崎瑞季",
       "entries": [
         {
-          "value": "Mizuki Niizaki"
+          "value": "新崎瑞季"
+        },
+        {
+          "value": "にいざき みずき"
         }
       ]
     },
     {
       "characterId": 344,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 344,
@@ -20791,17 +21745,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 344,
       "tagId": 7,
-      "value": "Yui Ogura",
+      "value": "小仓唯",
       "entries": [
         {
-          "value": "Yui Ogura"
+          "value": "小仓唯"
         }
       ]
     },
     {
       "characterId": 345,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 345,
@@ -20816,7 +21770,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 345,
       "tagId": 4,
-      "value": "Nagara"
+      "value": "长良级"
     },
     {
       "characterId": 345,
@@ -20831,17 +21785,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 345,
       "tagId": 7,
-      "value": "Akari Kitou",
+      "value": "鬼头明里",
       "entries": [
         {
-          "value": "Akari Kitou"
+          "value": "鬼头明里"
+        },
+        {
+          "value": "きとう あかり"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 346,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 346,
@@ -20856,7 +21816,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 346,
       "tagId": 4,
-      "value": "Nagara"
+      "value": "长良级"
     },
     {
       "characterId": 346,
@@ -20871,17 +21831,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 346,
       "tagId": 7,
-      "value": "Akari Kitou",
+      "value": "鬼头明里",
       "entries": [
         {
-          "value": "Akari Kitou"
+          "value": "鬼头明里"
+        },
+        {
+          "value": "きとう あかり"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 347,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 347,
@@ -20896,7 +21862,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 347,
       "tagId": 4,
-      "value": "Nagara"
+      "value": "长良级"
     },
     {
       "characterId": 347,
@@ -20921,7 +21887,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 348,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 348,
@@ -20936,7 +21902,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 348,
       "tagId": 4,
-      "value": "Nagara"
+      "value": "长良级"
     },
     {
       "characterId": 348,
@@ -20951,17 +21917,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 348,
       "tagId": 7,
-      "value": "Ruriko Noguchi",
+      "value": "野口琉璃子",
       "entries": [
         {
-          "value": "Ruriko Noguchi"
+          "value": "野口琉璃子"
+        },
+        {
+          "value": "のぐち るりこ"
+        },
+        {
+          "value": "野口瑠璃子"
         }
       ]
     },
     {
       "characterId": 349,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 349,
@@ -20976,7 +21948,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 349,
       "tagId": 4,
-      "value": "Nagara"
+      "value": "长良级"
     },
     {
       "characterId": 349,
@@ -20991,17 +21963,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 349,
       "tagId": 7,
-      "value": "Sayuri Yahagi",
+      "value": "矢作沙友里",
       "entries": [
         {
-          "value": "Sayuri Yahagi"
+          "value": "矢作沙友里"
+        },
+        {
+          "value": "やはぎ さゆり"
         }
       ]
     },
     {
       "characterId": 350,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 350,
@@ -21016,7 +21991,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 350,
       "tagId": 4,
-      "value": "Nagara"
+      "value": "长良级"
     },
     {
       "characterId": 350,
@@ -21031,17 +22006,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 350,
       "tagId": 7,
-      "value": "Akari Kitou",
+      "value": "鬼头明里",
       "entries": [
         {
-          "value": "Akari Kitou"
+          "value": "鬼头明里"
+        },
+        {
+          "value": "きとう あかり"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 351,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 351,
@@ -21071,17 +22052,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 351,
       "tagId": 7,
-      "value": "Shizuka Itou",
+      "value": "伊藤静",
       "entries": [
         {
-          "value": "Shizuka Itou"
+          "value": "伊藤静"
         }
       ]
     },
     {
       "characterId": 352,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 352,
@@ -21111,17 +22092,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 352,
       "tagId": 7,
-      "value": "Anna Yamaki",
+      "value": "八巻安奈",
       "entries": [
         {
-          "value": "Anna Yamaki"
+          "value": "八巻安奈"
         }
       ]
     },
     {
       "characterId": 353,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 353,
@@ -21136,7 +22117,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 353,
       "tagId": 4,
-      "value": "Sendai"
+      "value": "川内级"
     },
     {
       "characterId": 353,
@@ -21151,17 +22132,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 353,
       "tagId": 7,
-      "value": "Tomoyo Chuujou",
+      "value": "中条智世",
       "entries": [
         {
-          "value": "Tomoyo Chuujou"
+          "value": "中条智世"
+        },
+        {
+          "value": "爱称 ともよん"
+        },
+        {
+          "value": "注声优的昵称多数是根据其"
         }
       ]
     },
     {
       "characterId": 354,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 354,
@@ -21176,7 +22163,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 354,
       "tagId": 4,
-      "value": "Sendai"
+      "value": "川内级"
     },
     {
       "characterId": 354,
@@ -21191,17 +22178,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 354,
       "tagId": 7,
-      "value": "Hisako Kanemoto",
+      "value": "金元寿子",
       "entries": [
         {
-          "value": "Hisako Kanemoto"
+          "value": "金元寿子"
+        },
+        {
+          "value": "かねもと ひさこ"
         }
       ]
     },
     {
       "characterId": 355,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 355,
@@ -21216,7 +22206,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 355,
       "tagId": 4,
-      "value": "Sendai"
+      "value": "川内级"
     },
     {
       "characterId": 355,
@@ -21231,17 +22221,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 355,
       "tagId": 7,
-      "value": "Konomi Fujimura",
+      "value": "藤村鼓乃美",
       "entries": [
         {
-          "value": "Konomi Fujimura"
+          "value": "藤村鼓乃美"
         }
       ]
     },
     {
       "characterId": 356,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 356,
@@ -21256,7 +22246,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 356,
       "tagId": 4,
-      "value": "Agano"
+      "value": "阿贺野级"
     },
     {
       "characterId": 356,
@@ -21271,17 +22261,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 356,
       "tagId": 7,
-      "value": "Haruka Shiraishi",
+      "value": "白石晴香",
       "entries": [
         {
-          "value": "Haruka Shiraishi"
+          "value": "白石晴香"
+        },
+        {
+          "value": "しらいし はるか"
         }
       ]
     },
     {
       "characterId": 357,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 357,
@@ -21296,7 +22289,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 357,
       "tagId": 4,
-      "value": "Agano"
+      "value": "阿贺野级"
     },
     {
       "characterId": 357,
@@ -21311,17 +22304,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 357,
       "tagId": 7,
-      "value": "Anju Inami",
+      "value": "伊波杏树",
       "entries": [
         {
-          "value": "Anju Inami"
+          "value": "伊波杏树"
+        },
+        {
+          "value": "いなみ あんじゅ"
+        },
+        {
+          "value": "伊波杏樹"
         }
       ]
     },
     {
       "characterId": 358,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 358,
@@ -21336,7 +22335,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 358,
       "tagId": 4,
-      "value": "Agano"
+      "value": "阿贺野级"
     },
     {
       "characterId": 358,
@@ -21351,17 +22350,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 358,
       "tagId": 7,
-      "value": "Aina Suzuki",
+      "value": "铃木爱奈",
       "entries": [
         {
-          "value": "Aina Suzuki"
+          "value": "铃木爱奈"
+        },
+        {
+          "value": "すずき あいな"
+        },
+        {
+          "value": "鈴木愛奈"
         }
       ]
     },
     {
       "characterId": 359,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 359,
@@ -21376,7 +22381,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 359,
       "tagId": 4,
-      "value": "Agano"
+      "value": "阿贺野级"
     },
     {
       "characterId": 359,
@@ -21391,17 +22396,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 359,
       "tagId": 7,
-      "value": "Anju Inami",
+      "value": "伊波杏树",
       "entries": [
         {
-          "value": "Anju Inami"
+          "value": "伊波杏树"
+        },
+        {
+          "value": "いなみ あんじゅ"
+        },
+        {
+          "value": "伊波杏樹"
         }
       ]
     },
     {
       "characterId": 360,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 360,
@@ -21416,7 +22427,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 360,
       "tagId": 4,
-      "value": "Watarase"
+      "value": "改阿贺野级"
     },
     {
       "characterId": 360,
@@ -21431,17 +22442,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 360,
       "tagId": 7,
-      "value": "Hina Suguta",
+      "value": "直田姬奈",
       "entries": [
         {
-          "value": "Hina Suguta"
+          "value": "直田姬奈"
+        },
+        {
+          "value": "すぐた ひな"
+        },
+        {
+          "value": "直田姫奈"
         }
       ]
     },
     {
       "characterId": 361,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 361,
@@ -21456,7 +22473,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 361,
       "tagId": 4,
-      "value": "Sendai"
+      "value": "川内级"
     },
     {
       "characterId": 361,
@@ -21471,17 +22488,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 361,
       "tagId": 7,
-      "value": "Saya Aizawa",
+      "value": "会泽纱弥",
       "entries": [
         {
-          "value": "Saya Aizawa"
+          "value": "会泽纱弥"
+        },
+        {
+          "value": "会沢紗弥"
         }
       ]
     },
     {
       "characterId": 362,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 362,
@@ -21496,7 +22516,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 362,
       "tagId": 4,
-      "value": "Sendai"
+      "value": "川内级"
     },
     {
       "characterId": 362,
@@ -21511,17 +22531,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 362,
       "tagId": 7,
-      "value": "Ayasa Goto",
+      "value": "后藤彩佐",
       "entries": [
         {
-          "value": "Ayasa Goto"
+          "value": "后藤彩佐"
+        },
+        {
+          "value": "ごとう あやさ"
+        },
+        {
+          "value": "後藤彩佐"
         }
       ]
     },
     {
       "characterId": 363,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 363,
@@ -21536,7 +22562,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 363,
       "tagId": 4,
-      "value": "Furutaka"
+      "value": "古鹰级"
     },
     {
       "characterId": 363,
@@ -21551,17 +22577,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 363,
       "tagId": 7,
-      "value": "Akari Kageyama",
+      "value": "影山灯",
       "entries": [
         {
-          "value": "Akari Kageyama"
+          "value": "影山灯"
         }
       ]
     },
     {
       "characterId": 364,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 364,
@@ -21576,7 +22602,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 364,
       "tagId": 4,
-      "value": "Furutaka"
+      "value": "古鹰级"
     },
     {
       "characterId": 364,
@@ -21591,17 +22617,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 364,
       "tagId": 7,
-      "value": "Akari Kageyama",
+      "value": "影山灯",
       "entries": [
         {
-          "value": "Akari Kageyama"
+          "value": "影山灯"
         }
       ]
     },
     {
       "characterId": 365,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 365,
@@ -21616,7 +22642,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 365,
       "tagId": 4,
-      "value": "Aoba"
+      "value": "青叶级"
     },
     {
       "characterId": 365,
@@ -21631,17 +22657,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 365,
       "tagId": 7,
-      "value": "Akari Kageyama",
+      "value": "影山灯",
       "entries": [
         {
-          "value": "Akari Kageyama"
+          "value": "影山灯"
         }
       ]
     },
     {
       "characterId": 366,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 366,
@@ -21656,7 +22682,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 366,
       "tagId": 4,
-      "value": "Aoba"
+      "value": "青叶级"
     },
     {
       "characterId": 366,
@@ -21671,17 +22697,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 366,
       "tagId": 7,
-      "value": "Akari Kageyama",
+      "value": "影山灯",
       "entries": [
         {
-          "value": "Akari Kageyama"
+          "value": "影山灯"
         }
       ]
     },
     {
       "characterId": 367,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 367,
@@ -21696,7 +22722,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 367,
       "tagId": 4,
-      "value": "Tone"
+      "value": "利根级"
     },
     {
       "characterId": 367,
@@ -21711,17 +22737,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 367,
       "tagId": 7,
-      "value": "Yuu Serizawa",
+      "value": "芹泽优",
       "entries": [
         {
-          "value": "Yuu Serizawa"
+          "value": "芹泽优"
+        },
+        {
+          "value": "せりざわ ゆう"
+        },
+        {
+          "value": "芹澤優"
         }
       ]
     },
     {
       "characterId": 368,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 368,
@@ -21736,7 +22768,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 368,
       "tagId": 4,
-      "value": "Myoukou"
+      "value": "妙高级"
     },
     {
       "characterId": 368,
@@ -21751,17 +22783,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 368,
       "tagId": 7,
-      "value": "Eri Suzuki",
+      "value": "铃木绘理",
       "entries": [
         {
-          "value": "Eri Suzuki"
+          "value": "铃木绘理"
+        },
+        {
+          "value": "すずき えり"
         }
       ]
     },
     {
       "characterId": 369,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 369,
@@ -21776,7 +22811,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 369,
       "tagId": 4,
-      "value": "Myoukou"
+      "value": "妙高级"
     },
     {
       "characterId": 369,
@@ -21791,17 +22826,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 369,
       "tagId": 7,
-      "value": "Eri Suzuki",
+      "value": "铃木绘理",
       "entries": [
         {
-          "value": "Eri Suzuki"
+          "value": "铃木绘理"
+        },
+        {
+          "value": "すずき えり"
         }
       ]
     },
     {
       "characterId": 370,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 370,
@@ -21816,7 +22854,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 370,
       "tagId": 4,
-      "value": "Myoukou"
+      "value": "妙高级"
     },
     {
       "characterId": 370,
@@ -21831,17 +22869,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 370,
       "tagId": 7,
-      "value": "Chiwa Saitou",
+      "value": "斋藤千和",
       "entries": [
         {
-          "value": "Chiwa Saitou"
+          "value": "斋藤千和"
+        },
+        {
+          "value": "さいとう ちわ"
+        },
+        {
+          "value": "斎藤千和"
         }
       ]
     },
     {
       "characterId": 371,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 371,
@@ -21856,7 +22900,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 371,
       "tagId": 4,
-      "value": "Myoukou"
+      "value": "妙高级"
     },
     {
       "characterId": 371,
@@ -21871,17 +22915,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 371,
       "tagId": 7,
-      "value": "Hana Hishikawa",
+      "value": "菱川花菜",
       "entries": [
         {
-          "value": "Hana Hishikawa"
+          "value": "菱川花菜"
+        },
+        {
+          "value": "ひしかわ はな"
         }
       ]
     },
     {
       "characterId": 372,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 372,
@@ -21896,7 +22943,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 372,
       "tagId": 4,
-      "value": "Takao"
+      "value": "高雄级"
     },
     {
       "characterId": 372,
@@ -21911,17 +22958,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 372,
       "tagId": 7,
-      "value": "Ai Kakuma",
+      "value": "加隈亚衣",
       "entries": [
         {
-          "value": "Ai Kakuma"
+          "value": "加隈亚衣"
+        },
+        {
+          "value": "かくま あい"
         }
       ]
     },
     {
       "characterId": 373,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 373,
@@ -21936,7 +22986,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 373,
       "tagId": 4,
-      "value": "Takao"
+      "value": "高雄级"
     },
     {
       "characterId": 373,
@@ -21951,17 +23001,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 373,
       "tagId": 7,
-      "value": "Ai Kayano",
+      "value": "大木咲绘子",
       "entries": [
         {
-          "value": "Ai Kayano"
+          "value": "大木咲绘子"
+        },
+        {
+          "value": "おおき さえこ"
+        },
+        {
+          "value": "大木咲絵子"
         }
       ]
     },
     {
       "characterId": 374,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 374,
@@ -21976,7 +23032,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 374,
       "tagId": 4,
-      "value": "Takao"
+      "value": "高雄级"
     },
     {
       "characterId": 374,
@@ -21991,17 +23047,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 374,
       "tagId": 7,
-      "value": "Saori Onishi",
+      "value": "大西沙织",
       "entries": [
         {
-          "value": "Saori Onishi"
+          "value": "大西沙织"
+        },
+        {
+          "value": "おおにし さおり"
+        },
+        {
+          "value": "大西沙織"
         }
       ]
     },
     {
       "characterId": 375,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 375,
@@ -22016,7 +23078,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 375,
       "tagId": 4,
-      "value": "Takao"
+      "value": "高雄级"
     },
     {
       "characterId": 375,
@@ -22031,17 +23093,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 375,
       "tagId": 7,
-      "value": "Ayaka Ouhashi",
+      "value": "大桥彩香",
       "entries": [
         {
-          "value": "Ayaka Ouhashi"
+          "value": "大桥彩香"
         }
       ]
     },
     {
       "characterId": 376,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 376,
@@ -22071,17 +23133,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 376,
       "tagId": 7,
-      "value": "Azumi Waki",
+      "value": "和气杏未",
       "entries": [
         {
-          "value": "Azumi Waki"
+          "value": "和气杏未"
         }
       ]
     },
     {
       "characterId": 377,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 377,
@@ -22111,17 +23173,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 377,
       "tagId": 7,
-      "value": "Azumi Waki",
+      "value": "和气杏未",
       "entries": [
         {
-          "value": "Azumi Waki"
+          "value": "和气杏未"
         }
       ]
     },
     {
       "characterId": 378,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 378,
@@ -22151,17 +23213,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 378,
       "tagId": 7,
-      "value": "Suzuko Mimori",
+      "value": "三森铃子",
       "entries": [
         {
-          "value": "Suzuko Mimori"
+          "value": "三森铃子"
+        },
+        {
+          "value": "三森 すずこ"
+        },
+        {
+          "value": "みもり すずこ"
         }
       ]
     },
     {
       "characterId": 379,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 379,
@@ -22176,7 +23244,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 379,
       "tagId": 4,
-      "value": "Ibuki"
+      "value": "伊吹级"
     },
     {
       "characterId": 379,
@@ -22191,17 +23259,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 379,
       "tagId": 7,
-      "value": "Ayahi Takagaki",
+      "value": "高垣彩阳",
       "entries": [
         {
-          "value": "Ayahi Takagaki"
+          "value": "高垣彩阳"
+        },
+        {
+          "value": "たかがき あやひ"
+        },
+        {
+          "value": "高垣彩陽"
         }
       ]
     },
     {
       "characterId": 380,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 380,
@@ -22216,7 +23290,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 380,
       "tagId": 4,
-      "value": "Kongou"
+      "value": "金刚级"
     },
     {
       "characterId": 380,
@@ -22231,17 +23305,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 380,
       "tagId": 7,
-      "value": "Chiwa Saitou",
+      "value": "斋藤千和",
       "entries": [
         {
-          "value": "Chiwa Saitou"
+          "value": "斋藤千和"
+        },
+        {
+          "value": "さいとう ちわ"
+        },
+        {
+          "value": "斎藤千和"
         }
       ]
     },
     {
       "characterId": 381,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 381,
@@ -22256,7 +23336,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 381,
       "tagId": 4,
-      "value": "Kongou"
+      "value": "金刚级"
     },
     {
       "characterId": 381,
@@ -22271,17 +23351,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 381,
       "tagId": 7,
-      "value": "Eri Kitamura",
+      "value": "喜多村英梨",
       "entries": [
         {
-          "value": "Eri Kitamura"
+          "value": "喜多村英梨"
+        },
+        {
+          "value": "きたむら えり"
+        },
+        {
+          "value": "网站"
         }
       ]
     },
     {
       "characterId": 382,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 382,
@@ -22296,7 +23382,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 382,
       "tagId": 4,
-      "value": "Kongou"
+      "value": "金刚级"
     },
     {
       "characterId": 382,
@@ -22311,17 +23397,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 382,
       "tagId": 7,
-      "value": "Sayaka Harada",
+      "value": "原田彩枫",
       "entries": [
         {
-          "value": "Sayaka Harada"
+          "value": "原田彩枫"
+        },
+        {
+          "value": "はらた さやか"
+        },
+        {
+          "value": "原田彩楓"
         }
       ]
     },
     {
       "characterId": 383,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 383,
@@ -22336,7 +23428,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 383,
       "tagId": 4,
-      "value": "Kongou"
+      "value": "金刚级"
     },
     {
       "characterId": 383,
@@ -22351,17 +23443,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 383,
       "tagId": 7,
-      "value": "Chie Matsuura",
+      "value": "松浦知惠",
       "entries": [
         {
-          "value": "Chie Matsuura"
+          "value": "松浦知惠"
         }
       ]
     },
     {
       "characterId": 384,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 384,
@@ -22376,7 +23468,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 384,
       "tagId": 4,
-      "value": "Amagi"
+      "value": "天城级"
     },
     {
       "characterId": 384,
@@ -22391,17 +23483,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 384,
       "tagId": 7,
-      "value": "Miyuki Sawashiro",
+      "value": "泽城美雪",
       "entries": [
         {
-          "value": "Miyuki Sawashiro"
+          "value": "泽城美雪"
+        },
+        {
+          "value": "沢城 みゆき"
+        },
+        {
+          "value": "さわしろ みゆき"
         }
       ]
     },
     {
       "characterId": 385,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 385,
@@ -22416,7 +23514,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 385,
       "tagId": 4,
-      "value": "Kongou"
+      "value": "金刚级"
     },
     {
       "characterId": 385,
@@ -22431,17 +23529,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 385,
       "tagId": 7,
-      "value": "Eri Kitamura",
+      "value": "喜多村英梨",
       "entries": [
         {
-          "value": "Eri Kitamura"
+          "value": "喜多村英梨"
+        },
+        {
+          "value": "きたむら えり"
+        },
+        {
+          "value": "网站"
         }
       ]
     },
     {
       "characterId": 386,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 386,
@@ -22456,7 +23560,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 386,
       "tagId": 4,
-      "value": "Amagi"
+      "value": "天城级"
     },
     {
       "characterId": 386,
@@ -22471,17 +23575,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 386,
       "tagId": 7,
-      "value": "Miyuki Sawashiro",
+      "value": "泽城美雪",
       "entries": [
         {
-          "value": "Miyuki Sawashiro"
+          "value": "泽城美雪"
+        },
+        {
+          "value": "沢城 みゆき"
+        },
+        {
+          "value": "さわしろ みゆき"
         }
       ]
     },
     {
       "characterId": 387,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 387,
@@ -22496,7 +23606,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 387,
       "tagId": 4,
-      "value": "Kongou"
+      "value": "金刚级"
     },
     {
       "characterId": 387,
@@ -22511,17 +23621,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 387,
       "tagId": 7,
-      "value": "Chiwa Saitou",
+      "value": "斋藤千和",
       "entries": [
         {
-          "value": "Chiwa Saitou"
+          "value": "斋藤千和"
+        },
+        {
+          "value": "さいとう ちわ"
+        },
+        {
+          "value": "斎藤千和"
         }
       ]
     },
     {
       "characterId": 388,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 388,
@@ -22536,7 +23652,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 388,
       "tagId": 4,
-      "value": "Fusou"
+      "value": "扶桑级"
     },
     {
       "characterId": 388,
@@ -22551,17 +23667,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 388,
       "tagId": 7,
-      "value": "Ami Koshimizu",
+      "value": "小清水亚美",
       "entries": [
         {
-          "value": "Ami Koshimizu"
+          "value": "小清水亚美"
         }
       ]
     },
     {
       "characterId": 389,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 389,
@@ -22576,7 +23692,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 389,
       "tagId": 4,
-      "value": "Fusou"
+      "value": "扶桑级"
     },
     {
       "characterId": 389,
@@ -22591,17 +23707,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 389,
       "tagId": 7,
-      "value": "Ami Koshimizu",
+      "value": "小清水亚美",
       "entries": [
         {
-          "value": "Ami Koshimizu"
+          "value": "小清水亚美"
         }
       ]
     },
     {
       "characterId": 390,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 390,
@@ -22616,7 +23732,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 390,
       "tagId": 4,
-      "value": "Ise"
+      "value": "伊势级"
     },
     {
       "characterId": 390,
@@ -22631,17 +23747,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 390,
       "tagId": 7,
-      "value": "Mutsumi Tamura",
+      "value": "田村睦心",
       "entries": [
         {
-          "value": "Mutsumi Tamura"
+          "value": "田村睦心"
+        },
+        {
+          "value": "たむら むつみ"
         }
       ]
     },
     {
       "characterId": 391,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 391,
@@ -22656,7 +23775,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 391,
       "tagId": 4,
-      "value": "Ise"
+      "value": "伊势级"
     },
     {
       "characterId": 391,
@@ -22671,17 +23790,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 391,
       "tagId": 7,
-      "value": "Akeno Watanabe",
+      "value": "渡边明乃",
       "entries": [
         {
-          "value": "Akeno Watanabe"
+          "value": "渡边明乃"
+        },
+        {
+          "value": "わたなべ あけの"
         }
       ]
     },
     {
       "characterId": 392,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 392,
@@ -22696,7 +23818,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 392,
       "tagId": 4,
-      "value": "Nagato"
+      "value": "长门型"
     },
     {
       "characterId": 392,
@@ -22711,17 +23833,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 392,
       "tagId": 7,
-      "value": "Misaki Kuno",
+      "value": "久野美咲",
       "entries": [
         {
-          "value": "Misaki Kuno"
+          "value": "久野美咲"
+        },
+        {
+          "value": "くの みさき"
+        },
+        {
+          "value": "大泽"
         }
       ]
     },
     {
       "characterId": 393,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 393,
@@ -22736,7 +23864,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 393,
       "tagId": 4,
-      "value": "Nagato"
+      "value": "长门型"
     },
     {
       "characterId": 393,
@@ -22751,17 +23879,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 393,
       "tagId": 7,
-      "value": "Tomoyo Kurosawa",
+      "value": "黑泽朋世",
       "entries": [
         {
-          "value": "Tomoyo Kurosawa"
+          "value": "黑泽朋世"
+        },
+        {
+          "value": "くろさわ ともよ"
         }
       ]
     },
     {
       "characterId": 394,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 394,
@@ -22776,7 +23907,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 394,
       "tagId": 4,
-      "value": "Tosa"
+      "value": "加贺级"
     },
     {
       "characterId": 394,
@@ -22791,17 +23922,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 394,
       "tagId": 7,
-      "value": "Ai Kayano",
+      "value": "井口裕香",
       "entries": [
         {
-          "value": "Ai Kayano"
+          "value": "井口裕香"
+        },
+        {
+          "value": "いぐち ゆか"
+        },
+        {
+          "value": "茅野爱衣"
         }
       ]
     },
     {
       "characterId": 395,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 395,
@@ -22816,7 +23953,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 395,
       "tagId": 4,
-      "value": "Tosa"
+      "value": "加贺级"
     },
     {
       "characterId": 395,
@@ -22831,17 +23968,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 395,
       "tagId": 7,
-      "value": "Miyuki Sawashiro",
+      "value": "泽城美雪",
       "entries": [
         {
-          "value": "Miyuki Sawashiro"
+          "value": "泽城美雪"
+        },
+        {
+          "value": "沢城 みゆき"
+        },
+        {
+          "value": "さわしろ みゆき"
         }
       ]
     },
     {
       "characterId": 396,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 396,
@@ -22856,7 +23999,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 396,
       "tagId": 4,
-      "value": "Yamato"
+      "value": "大和级"
     },
     {
       "characterId": 396,
@@ -22871,17 +24014,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 396,
       "tagId": 7,
-      "value": "Lynn",
+      "value": "りん",
       "entries": [
         {
-          "value": "Lynn"
+          "value": "りん"
         }
       ]
     },
     {
       "characterId": 397,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 397,
@@ -22896,7 +24039,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 397,
       "tagId": 4,
-      "value": "Mikasa"
+      "value": "敷岛级"
     },
     {
       "characterId": 397,
@@ -22911,17 +24054,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 397,
       "tagId": 7,
-      "value": "Sayaka Ohara",
+      "value": "大原沙耶香",
       "entries": [
         {
-          "value": "Sayaka Ohara"
+          "value": "大原沙耶香"
+        },
+        {
+          "value": "おおはら さやか"
         }
       ]
     },
     {
       "characterId": 398,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 398,
@@ -22936,7 +24082,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 398,
       "tagId": 4,
-      "value": "Kii"
+      "value": "纪伊级"
     },
     {
       "characterId": 398,
@@ -22951,17 +24097,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 398,
       "tagId": 7,
-      "value": "Sayaka Kaneko",
+      "value": "金子彩花",
       "entries": [
         {
-          "value": "Sayaka Kaneko"
+          "value": "金子彩花"
         }
       ]
     },
     {
       "characterId": 399,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 399,
@@ -22976,7 +24122,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 399,
       "tagId": 4,
-      "value": "Kii"
+      "value": "纪伊级"
     },
     {
       "characterId": 399,
@@ -22991,17 +24137,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 399,
       "tagId": 7,
-      "value": "Shion Wakayama",
+      "value": "若山诗音",
       "entries": [
         {
-          "value": "Shion Wakayama"
+          "value": "若山诗音"
+        },
+        {
+          "value": "わかやま しおん"
+        },
+        {
+          "value": "若山詩音"
         }
       ]
     },
     {
       "characterId": 400,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 400,
@@ -23016,7 +24168,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 400,
       "tagId": 4,
-      "value": "Kii"
+      "value": "纪伊级"
     },
     {
       "characterId": 400,
@@ -23031,17 +24183,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 400,
       "tagId": 7,
-      "value": "Aya Endou",
+      "value": "遠藤綾",
       "entries": [
         {
-          "value": "Aya Endou"
+          "value": "遠藤綾"
+        },
+        {
+          "value": "えんどう あや"
         }
       ]
     },
     {
       "characterId": 401,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 401,
@@ -23056,7 +24211,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 401,
       "tagId": 4,
-      "value": "Kii"
+      "value": "纪伊级"
     },
     {
       "characterId": 401,
@@ -23071,17 +24226,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 401,
       "tagId": 7,
-      "value": "Haruka Chisuga",
+      "value": "千菅春香",
       "entries": [
         {
-          "value": "Haruka Chisuga"
+          "value": "千菅春香"
+        },
+        {
+          "value": "ちすが はるか"
         }
       ]
     },
     {
       "characterId": 402,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 402,
@@ -23096,7 +24254,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 402,
       "tagId": 4,
-      "value": "Hiyou"
+      "value": "飞鹰级"
     },
     {
       "characterId": 402,
@@ -23111,17 +24269,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 402,
       "tagId": 7,
-      "value": "Seiko Yoshida",
+      "value": "吉田圣子",
       "entries": [
         {
-          "value": "Seiko Yoshida"
+          "value": "吉田圣子"
         }
       ]
     },
     {
       "characterId": 403,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 403,
@@ -23136,7 +24294,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 403,
       "tagId": 4,
-      "value": "Hiyou"
+      "value": "飞鹰级"
     },
     {
       "characterId": 403,
@@ -23151,17 +24309,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 403,
       "tagId": 7,
-      "value": "Seiko Yoshida",
+      "value": "吉田圣子",
       "entries": [
         {
-          "value": "Seiko Yoshida"
+          "value": "吉田圣子"
         }
       ]
     },
     {
       "characterId": 404,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 404,
@@ -23191,17 +24349,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 404,
       "tagId": 7,
-      "value": "Chiaki Takahashi",
+      "value": "高桥智秋",
       "entries": [
         {
-          "value": "Chiaki Takahashi"
+          "value": "高桥智秋"
+        },
+        {
+          "value": "たかはし ちあき"
         }
       ]
     },
     {
       "characterId": 405,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 405,
@@ -23216,7 +24377,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 405,
       "tagId": 4,
-      "value": "Zuihou"
+      "value": "千岁级"
     },
     {
       "characterId": 405,
@@ -23231,17 +24392,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 405,
       "tagId": 7,
-      "value": "Hika Tsukishiro",
+      "value": "月城日花",
       "entries": [
         {
-          "value": "Hika Tsukishiro"
+          "value": "月城日花"
+        },
+        {
+          "value": "つきしろ ひか"
         }
       ]
     },
     {
       "characterId": 406,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 406,
@@ -23256,7 +24420,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 406,
       "tagId": 4,
-      "value": "Shouhou"
+      "value": "祥凤级"
     },
     {
       "characterId": 406,
@@ -23271,17 +24435,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 406,
       "tagId": 7,
-      "value": "Hiromi Sugioka",
+      "value": "河野洋美",
       "entries": [
         {
-          "value": "Hiromi Sugioka"
+          "value": "河野洋美"
+        },
+        {
+          "value": "こうの ひろみ"
         }
       ]
     },
     {
       "characterId": 407,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 407,
@@ -23311,17 +24478,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 407,
       "tagId": 7,
-      "value": "Aya Suzaki",
+      "value": "洲崎绫",
       "entries": [
         {
-          "value": "Aya Suzaki"
+          "value": "洲崎绫"
         }
       ]
     },
     {
       "characterId": 408,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 408,
@@ -23336,7 +24503,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 408,
       "tagId": 4,
-      "value": "Zuihou"
+      "value": "千岁级"
     },
     {
       "characterId": 408,
@@ -23351,17 +24518,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 408,
       "tagId": 7,
-      "value": "Juri Nagatsuma",
+      "value": "长妻树里",
       "entries": [
         {
-          "value": "Juri Nagatsuma"
+          "value": "长妻树里"
+        },
+        {
+          "value": "ながつま じゅり"
         }
       ]
     },
     {
       "characterId": 409,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 409,
@@ -23376,7 +24546,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 409,
       "tagId": 4,
-      "value": "Zuihou"
+      "value": "千岁级"
     },
     {
       "characterId": 409,
@@ -23391,17 +24561,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 409,
       "tagId": 7,
-      "value": "Hitomi Sekine",
+      "value": "关根瞳",
       "entries": [
         {
-          "value": "Hitomi Sekine"
+          "value": "关根瞳"
         }
       ]
     },
     {
       "characterId": 410,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 410,
@@ -23416,7 +24586,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 410,
       "tagId": 4,
-      "value": "Zuihou"
+      "value": "千岁级"
     },
     {
       "characterId": 410,
@@ -23431,17 +24601,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 410,
       "tagId": 7,
-      "value": "Hitomi Sekine",
+      "value": "关根瞳",
       "entries": [
         {
-          "value": "Hitomi Sekine"
+          "value": "关根瞳"
         }
       ]
     },
     {
       "characterId": 411,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 411,
@@ -23471,17 +24641,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 411,
       "tagId": 7,
-      "value": "Mai Nakahara",
+      "value": "中原麻衣",
       "entries": [
         {
-          "value": "Mai Nakahara"
+          "value": "中原麻衣"
         }
       ]
     },
     {
       "characterId": 412,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 412,
@@ -23511,17 +24681,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 412,
       "tagId": 7,
-      "value": "Ai Kayano",
+      "value": "井口裕香",
       "entries": [
         {
-          "value": "Ai Kayano"
+          "value": "井口裕香"
+        },
+        {
+          "value": "いぐち ゆか"
+        },
+        {
+          "value": "茅野爱衣"
         }
       ]
     },
     {
       "characterId": 413,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 413,
@@ -23551,17 +24727,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 413,
       "tagId": 7,
-      "value": "Karin Mitarai",
+      "value": "御手洗果林",
       "entries": [
         {
-          "value": "Karin Mitarai"
+          "value": "御手洗果林"
         }
       ]
     },
     {
       "characterId": 414,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 414,
@@ -23591,17 +24767,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 414,
       "tagId": 7,
-      "value": "Shizuka Ishigami",
+      "value": "石上静香",
       "entries": [
         {
-          "value": "Shizuka Ishigami"
+          "value": "石上静香"
+        },
+        {
+          "value": "いしがみ しずか"
         }
       ]
     },
     {
       "characterId": 415,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 415,
@@ -23616,7 +24795,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 415,
       "tagId": 4,
-      "value": "Shoukaku"
+      "value": "翔鹤级"
     },
     {
       "characterId": 415,
@@ -23631,17 +24810,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 415,
       "tagId": 7,
-      "value": "Risa Taneda",
+      "value": "種田梨沙",
       "entries": [
         {
-          "value": "Risa Taneda"
+          "value": "種田梨沙"
+        },
+        {
+          "value": "たねだ りさ"
+        },
+        {
+          "value": "年月日解禁并正式开通"
         }
       ]
     },
     {
       "characterId": 416,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 416,
@@ -23656,7 +24841,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 416,
       "tagId": 4,
-      "value": "Shoukaku"
+      "value": "翔鹤级"
     },
     {
       "characterId": 416,
@@ -23671,17 +24856,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 416,
       "tagId": 7,
-      "value": "Risa Taneda",
+      "value": "種田梨沙",
       "entries": [
         {
-          "value": "Risa Taneda"
+          "value": "種田梨沙"
+        },
+        {
+          "value": "たねだ りさ"
         }
       ]
     },
     {
       "characterId": 417,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 417,
@@ -23711,17 +24899,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 417,
       "tagId": 7,
-      "value": "Aoi Yuuki",
+      "value": "悠木碧",
       "entries": [
         {
-          "value": "Aoi Yuuki"
+          "value": "悠木碧"
+        },
+        {
+          "value": "ゆうき あおい"
+        },
+        {
+          "value": "八武"
         }
       ]
     },
     {
       "characterId": 418,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 418,
@@ -23736,7 +24930,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 418,
       "tagId": 4,
-      "value": "Yamato"
+      "value": "大和级"
     },
     {
       "characterId": 418,
@@ -23751,17 +24945,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 418,
       "tagId": 7,
-      "value": "Mamiko Noto",
+      "value": "能登麻美子",
       "entries": [
         {
-          "value": "Mamiko Noto"
+          "value": "能登麻美子"
+        },
+        {
+          "value": "のと まみこ"
         }
       ]
     },
     {
       "characterId": 419,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 419,
@@ -23791,17 +24988,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 419,
       "tagId": 7,
-      "value": "Mai Nakahara",
+      "value": "中原麻衣",
       "entries": [
         {
-          "value": "Mai Nakahara"
+          "value": "中原麻衣"
         }
       ]
     },
     {
       "characterId": 420,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 420,
@@ -23831,17 +25028,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 420,
       "tagId": 7,
-      "value": "Mai Nakahara",
+      "value": "中原麻衣",
       "entries": [
         {
-          "value": "Mai Nakahara"
+          "value": "中原麻衣"
         }
       ]
     },
     {
       "characterId": 421,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 421,
@@ -23871,17 +25068,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 421,
       "tagId": 7,
-      "value": "Aoi Yuuki",
+      "value": "悠木碧",
       "entries": [
         {
-          "value": "Aoi Yuuki"
+          "value": "悠木碧"
+        },
+        {
+          "value": "ゆうき あおい"
+        },
+        {
+          "value": "八武"
         }
       ]
     },
     {
       "characterId": 422,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 422,
@@ -23896,7 +25099,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 422,
       "tagId": 4,
-      "value": "Unryuu"
+      "value": "云龙级"
     },
     {
       "characterId": 422,
@@ -23911,17 +25114,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 422,
       "tagId": 7,
-      "value": "Megumi Toda",
+      "value": "户田惠",
       "entries": [
         {
-          "value": "Megumi Toda"
+          "value": "户田惠"
+        },
+        {
+          "value": "戸田 めぐみ"
+        },
+        {
+          "value": "とだ めぐみ"
         }
       ]
     },
     {
       "characterId": 423,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 423,
@@ -23951,17 +25160,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 423,
       "tagId": 7,
-      "value": "Aoi Yuuki",
+      "value": "悠木碧",
       "entries": [
         {
-          "value": "Aoi Yuuki"
+          "value": "悠木碧"
+        },
+        {
+          "value": "ゆうき あおい"
+        },
+        {
+          "value": "八武"
         }
       ]
     },
     {
       "characterId": 424,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 424,
@@ -23976,7 +25191,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 424,
       "tagId": 4,
-      "value": "Yamato"
+      "value": "大和级"
     },
     {
       "characterId": 424,
@@ -23991,17 +25206,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 424,
       "tagId": 7,
-      "value": "Mamiko Noto",
+      "value": "能登麻美子",
       "entries": [
         {
-          "value": "Mamiko Noto"
+          "value": "能登麻美子"
+        },
+        {
+          "value": "のと まみこ"
         }
       ]
     },
     {
       "characterId": 425,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 425,
@@ -24016,7 +25234,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 425,
       "tagId": 4,
-      "value": "Amagi(CV)"
+      "value": "天城级"
     },
     {
       "characterId": 425,
@@ -24031,17 +25249,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 425,
       "tagId": 7,
-      "value": "Miyuki Sawashiro",
+      "value": "泽城美雪",
       "entries": [
         {
-          "value": "Miyuki Sawashiro"
+          "value": "泽城美雪"
+        },
+        {
+          "value": "沢城 みゆき"
+        },
+        {
+          "value": "さわしろ みゆき"
         }
       ]
     },
     {
       "characterId": 426,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 426,
@@ -24071,17 +25295,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 426,
       "tagId": 7,
-      "value": "Shiori Izawa",
+      "value": "井泽诗织",
       "entries": [
         {
-          "value": "Shiori Izawa"
+          "value": "井泽诗织"
+        },
+        {
+          "value": "いざわ しおり"
+        },
+        {
+          "value": "井澤詩織"
         }
       ]
     },
     {
       "characterId": 427,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 427,
@@ -24096,7 +25326,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 427,
       "tagId": 4,
-      "value": "Type B1"
+      "value": "巡潜乙型"
     },
     {
       "characterId": 427,
@@ -24111,17 +25341,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 427,
       "tagId": 7,
-      "value": "Yui Ogura",
+      "value": "小仓唯",
       "entries": [
         {
-          "value": "Yui Ogura"
+          "value": "小仓唯"
         }
       ]
     },
     {
       "characterId": 428,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 428,
@@ -24136,7 +25366,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 428,
       "tagId": 4,
-      "value": "Type B1"
+      "value": "巡潜乙型"
     },
     {
       "characterId": 428,
@@ -24151,17 +25381,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 428,
       "tagId": 7,
-      "value": "Kaori Ishihara",
+      "value": "石原夏织",
       "entries": [
         {
-          "value": "Kaori Ishihara"
+          "value": "石原夏织"
         }
       ]
     },
     {
       "characterId": 429,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 429,
@@ -24176,7 +25406,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 429,
       "tagId": 4,
-      "value": "Type B3"
+      "value": "巡潜乙型"
     },
     {
       "characterId": 429,
@@ -24191,17 +25421,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 429,
       "tagId": 7,
-      "value": "Tomori Kusunoki",
+      "value": "楠木灯",
       "entries": [
         {
-          "value": "Tomori Kusunoki"
+          "value": "楠木灯"
         }
       ]
     },
     {
       "characterId": 430,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 430,
@@ -24216,7 +25446,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 430,
       "tagId": 4,
-      "value": "Type B1"
+      "value": "巡潜乙型"
     },
     {
       "characterId": 430,
@@ -24231,17 +25461,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 430,
       "tagId": 7,
-      "value": "Kaori Ishihara",
+      "value": "石原夏织",
       "entries": [
         {
-          "value": "Kaori Ishihara"
+          "value": "石原夏织"
         }
       ]
     },
     {
       "characterId": 431,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 431,
@@ -24256,7 +25486,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 431,
       "tagId": 4,
-      "value": "Type B3"
+      "value": "巡潜乙型"
     },
     {
       "characterId": 431,
@@ -24271,17 +25501,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 431,
       "tagId": 7,
-      "value": "Naomi Mukaiyama",
+      "value": "向山直美",
       "entries": [
         {
-          "value": "Naomi Mukaiyama"
+          "value": "向山直美"
+        },
+        {
+          "value": "むかいやま なおみ"
         }
       ]
     },
     {
       "characterId": 432,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 432,
@@ -24296,7 +25529,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 432,
       "tagId": 4,
-      "value": "Kaidai"
+      "value": "型a型"
     },
     {
       "characterId": 432,
@@ -24311,17 +25544,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 432,
       "tagId": 7,
-      "value": "Sakura Tange",
+      "value": "丹下樱",
       "entries": [
         {
-          "value": "Sakura Tange"
+          "value": "丹下樱"
         }
       ]
     },
     {
       "characterId": 433,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 433,
@@ -24351,17 +25584,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 433,
       "tagId": 7,
-      "value": "Sumire Uesaka",
+      "value": "上坂堇",
       "entries": [
         {
-          "value": "Sumire Uesaka"
+          "value": "上坂堇"
         }
       ]
     },
     {
       "characterId": 434,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 434,
@@ -24376,7 +25609,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 434,
       "tagId": 4,
-      "value": "Type AM"
+      "value": "巡潜甲型"
     },
     {
       "characterId": 434,
@@ -24391,17 +25624,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 434,
       "tagId": 7,
-      "value": "Kanako Yanagihara",
+      "value": "柳原可奈子",
       "entries": [
         {
-          "value": "Kanako Yanagihara"
+          "value": "柳原可奈子"
         }
       ]
     },
     {
       "characterId": 435,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 435,
@@ -24416,7 +25649,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 435,
       "tagId": 4,
-      "value": "I-400"
+      "value": "潜特型"
     },
     {
       "characterId": 435,
@@ -24431,17 +25664,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 435,
       "tagId": 7,
-      "value": "Minori Ozawa",
+      "value": "小泽实里",
       "entries": [
         {
-          "value": "Minori Ozawa"
+          "value": "小泽实里"
+        },
+        {
+          "value": "おざわ みのり"
+        },
+        {
+          "value": "小澤"
         }
       ]
     },
     {
       "characterId": 436,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 436,
@@ -24471,17 +25710,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 436,
       "tagId": 7,
-      "value": "Reina Kondou",
+      "value": "近藤玲奈",
       "entries": [
         {
-          "value": "Reina Kondou"
+          "value": "近藤玲奈"
         }
       ]
     },
     {
       "characterId": 437,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 437,
@@ -24496,7 +25735,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 437,
       "tagId": 4,
-      "value": "Ibuki"
+      "value": "伊吹级"
     },
     {
       "characterId": 437,
@@ -24511,17 +25750,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 437,
       "tagId": 7,
-      "value": "Misato Fukuen",
+      "value": "福圆美里",
       "entries": [
         {
-          "value": "Misato Fukuen"
+          "value": "福圆美里"
+        },
+        {
+          "value": "ふくえん みさと"
         }
       ]
     },
     {
       "characterId": 438,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 438,
@@ -24536,7 +25778,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 438,
       "tagId": 4,
-      "value": "Izumo"
+      "value": "大和级"
     },
     {
       "characterId": 438,
@@ -24551,17 +25793,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 438,
       "tagId": 7,
-      "value": "Reina Ueda",
+      "value": "上田丽奈",
       "entries": [
         {
-          "value": "Reina Ueda"
+          "value": "上田丽奈"
+        },
+        {
+          "value": "うえだ れいな"
         }
       ]
     },
     {
       "characterId": 439,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 439,
@@ -24576,7 +25821,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 439,
       "tagId": 4,
-      "value": "Kitakaze"
+      "value": "超秋月级"
     },
     {
       "characterId": 439,
@@ -24591,17 +25836,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 439,
       "tagId": 7,
-      "value": "Sakura Tange",
+      "value": "丹下樱",
       "entries": [
         {
-          "value": "Sakura Tange"
+          "value": "丹下樱"
         }
       ]
     },
     {
       "characterId": 440,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 440,
@@ -24616,7 +25861,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 440,
       "tagId": 4,
-      "value": "Azuma"
+      "value": "B-65超甲型"
     },
     {
       "characterId": 440,
@@ -24631,17 +25876,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 440,
       "tagId": 7,
-      "value": "Kiyono Yasuno",
+      "value": "安野希世乃",
       "entries": [
         {
-          "value": "Kiyono Yasuno"
+          "value": "安野希世乃"
+        },
+        {
+          "value": "やすの きよの"
+        },
+        {
+          "value": "公式"
         }
       ]
     },
     {
       "characterId": 441,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 441,
@@ -24656,7 +25907,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 441,
       "tagId": 4,
-      "value": "Hakuryuu"
+      "value": "SG-15超级"
     },
     {
       "characterId": 441,
@@ -24671,17 +25922,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 441,
       "tagId": 7,
-      "value": "Satomi Satou",
+      "value": "佐藤聪美",
       "entries": [
         {
-          "value": "Satomi Satou"
+          "value": "佐藤聪美"
+        },
+        {
+          "value": "さとう さとみ"
+        },
+        {
+          "value": "佐藤聡美"
         }
       ]
     },
     {
       "characterId": 442,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 442,
@@ -24696,7 +25953,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 442,
       "tagId": 4,
-      "value": "Shimanto"
+      "value": "150mm主炮防空型"
     },
     {
       "characterId": 442,
@@ -24711,17 +25968,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 442,
       "tagId": 7,
-      "value": "Hime Sawada",
+      "value": "泽田姬",
       "entries": [
         {
-          "value": "Hime Sawada"
+          "value": "泽田姬"
+        },
+        {
+          "value": "さわだ ひめ"
+        },
+        {
+          "value": "澤田姫"
         }
       ]
     },
     {
       "characterId": 443,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 443,
@@ -24751,17 +26014,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 443,
       "tagId": 7,
-      "value": "Hina Tachibana",
+      "value": "立花日菜",
       "entries": [
         {
-          "value": "Hina Tachibana"
+          "value": "立花日菜"
+        },
+        {
+          "value": "たちばな ひな"
         }
       ]
     },
     {
       "characterId": 444,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 444,
@@ -24776,7 +26042,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 444,
       "tagId": 4,
-      "value": "Type 1934"
+      "value": "1934型"
     },
     {
       "characterId": 444,
@@ -24791,17 +26057,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 444,
       "tagId": 7,
-      "value": "Natsumi Takamori",
+      "value": "高森奈津美",
       "entries": [
         {
-          "value": "Natsumi Takamori"
+          "value": "高森奈津美"
+        },
+        {
+          "value": "たかもり なつみ"
         }
       ]
     },
     {
       "characterId": 445,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 445,
@@ -24816,7 +26085,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 445,
       "tagId": 4,
-      "value": "Type 1934"
+      "value": "1934型"
     },
     {
       "characterId": 445,
@@ -24831,17 +26100,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 445,
       "tagId": 7,
-      "value": "Maki Kawase",
+      "value": "河濑茉希",
       "entries": [
         {
-          "value": "Maki Kawase"
+          "value": "河濑茉希"
         }
       ]
     },
     {
       "characterId": 446,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 446,
@@ -24856,7 +26125,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 446,
       "tagId": 4,
-      "value": "Type 1934A"
+      "value": "1934A型"
     },
     {
       "characterId": 446,
@@ -24871,17 +26140,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 446,
       "tagId": 7,
-      "value": "Mai Kanno",
+      "value": "菅野真衣",
       "entries": [
         {
-          "value": "Mai Kanno"
+          "value": "菅野真衣"
+        },
+        {
+          "value": "かんの まい"
         }
       ]
     },
     {
       "characterId": 447,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 447,
@@ -24896,7 +26168,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 447,
       "tagId": 4,
-      "value": "Type 1934A"
+      "value": "1934A型"
     },
     {
       "characterId": 447,
@@ -24911,17 +26183,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 447,
       "tagId": 7,
-      "value": "Momoka Terasawa",
+      "value": "寺泽百花",
       "entries": [
         {
-          "value": "Momoka Terasawa"
+          "value": "寺泽百花"
+        },
+        {
+          "value": "てらさわ ももか"
+        },
+        {
+          "value": "寺澤百花"
         }
       ]
     },
     {
       "characterId": 448,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 448,
@@ -24936,7 +26214,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 448,
       "tagId": 4,
-      "value": "Type 1934A"
+      "value": "1934A型"
     },
     {
       "characterId": 448,
@@ -24951,17 +26229,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 448,
       "tagId": 7,
-      "value": "Rie Hikisaka",
+      "value": "引坂理绘",
       "entries": [
         {
-          "value": "Rie Hikisaka"
+          "value": "引坂理绘"
+        },
+        {
+          "value": "ひきさか りえ"
+        },
+        {
+          "value": "引坂理絵"
         }
       ]
     },
     {
       "characterId": 449,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 449,
@@ -24976,7 +26260,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 449,
       "tagId": 4,
-      "value": "Type 1934A"
+      "value": "1934A型"
     },
     {
       "characterId": 449,
@@ -24991,17 +26275,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 449,
       "tagId": 7,
-      "value": "Mayu Sagara",
+      "value": "相良茉优",
       "entries": [
         {
-          "value": "Mayu Sagara"
+          "value": "相良茉优"
+        },
+        {
+          "value": "さがら まゆ"
+        },
+        {
+          "value": "相良茉優"
         }
       ]
     },
     {
       "characterId": 450,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 450,
@@ -25016,7 +26306,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 450,
       "tagId": 4,
-      "value": "Type 1936"
+      "value": "1936型"
     },
     {
       "characterId": 450,
@@ -25031,17 +26321,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 450,
       "tagId": 7,
-      "value": "Yuuki Takada",
+      "value": "高田忧希",
       "entries": [
         {
-          "value": "Yuuki Takada"
+          "value": "高田忧希"
         }
       ]
     },
     {
       "characterId": 451,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 451,
@@ -25056,7 +26346,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 451,
       "tagId": 4,
-      "value": "Type 1936"
+      "value": "1936型"
     },
     {
       "characterId": 451,
@@ -25071,17 +26361,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 451,
       "tagId": 7,
-      "value": "Rina Hidaka",
+      "value": "日高里菜",
       "entries": [
         {
-          "value": "Rina Hidaka"
+          "value": "日高里菜"
+        },
+        {
+          "value": "ひだか りな"
         }
       ]
     },
     {
       "characterId": 452,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 452,
@@ -25096,7 +26389,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 452,
       "tagId": 4,
-      "value": "Type 1936"
+      "value": "1936型"
     },
     {
       "characterId": 452,
@@ -25111,17 +26404,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 452,
       "tagId": 7,
-      "value": "Rina Hidaka",
+      "value": "日高里菜",
       "entries": [
         {
-          "value": "Rina Hidaka"
+          "value": "日高里菜"
+        },
+        {
+          "value": "ひだか りな"
         }
       ]
     },
     {
       "characterId": 453,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 453,
@@ -25136,7 +26432,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 453,
       "tagId": 4,
-      "value": "Type 1936"
+      "value": "1936型"
     },
     {
       "characterId": 453,
@@ -25151,17 +26447,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 453,
       "tagId": 7,
-      "value": "Rina Hidaka",
+      "value": "日高里菜",
       "entries": [
         {
-          "value": "Rina Hidaka"
+          "value": "日高里菜"
+        },
+        {
+          "value": "ひだか りな"
         }
       ]
     },
     {
       "characterId": 454,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 454,
@@ -25176,7 +26475,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 454,
       "tagId": 4,
-      "value": "Type 1936A"
+      "value": "1936A型"
     },
     {
       "characterId": 454,
@@ -25191,17 +26490,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 454,
       "tagId": 7,
-      "value": "Rika Abe",
+      "value": "阿部里果",
       "entries": [
         {
-          "value": "Rika Abe"
+          "value": "阿部里果"
+        },
+        {
+          "value": "あべ りか"
         }
       ]
     },
     {
       "characterId": 455,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 455,
@@ -25216,7 +26518,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 455,
       "tagId": 4,
-      "value": "Type 1936A"
+      "value": "1936A型"
     },
     {
       "characterId": 455,
@@ -25231,17 +26533,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 455,
       "tagId": 7,
-      "value": "Yukina Shuto",
+      "value": "首藤志奈",
       "entries": [
         {
-          "value": "Yukina Shuto"
+          "value": "首藤志奈"
         }
       ]
     },
     {
       "characterId": 456,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 456,
@@ -25256,7 +26558,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 456,
       "tagId": 4,
-      "value": "Type 1936A"
+      "value": "1936A型"
     },
     {
       "characterId": 456,
@@ -25271,17 +26573,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 456,
       "tagId": 7,
-      "value": "Rika Abe",
+      "value": "阿部里果",
       "entries": [
         {
-          "value": "Rika Abe"
+          "value": "阿部里果"
+        },
+        {
+          "value": "あべ りか"
         }
       ]
     },
     {
       "characterId": 457,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 457,
@@ -25296,7 +26601,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 457,
       "tagId": 4,
-      "value": "Type 1936A"
+      "value": "1936A型"
     },
     {
       "characterId": 457,
@@ -25311,17 +26616,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 457,
       "tagId": 7,
-      "value": "Satomi Amano",
+      "value": "天野聪美",
       "entries": [
         {
-          "value": "Satomi Amano"
+          "value": "天野聪美"
         }
       ]
     },
     {
       "characterId": 458,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 458,
@@ -25336,7 +26641,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 458,
       "tagId": 4,
-      "value": "Type 1936A"
+      "value": "1936A型"
     },
     {
       "characterId": 458,
@@ -25351,17 +26656,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 458,
       "tagId": 7,
-      "value": "Chisa Kimura",
+      "value": "木村千咲",
       "entries": [
         {
-          "value": "Chisa Kimura"
+          "value": "木村千咲"
         }
       ]
     },
     {
       "characterId": 459,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 459,
@@ -25376,7 +26681,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 459,
       "tagId": 4,
-      "value": "Type 1936B"
+      "value": "1936B型"
     },
     {
       "characterId": 459,
@@ -25391,17 +26696,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 459,
       "tagId": 7,
-      "value": "Ayaka Ouhashi",
+      "value": "大桥彩香",
       "entries": [
         {
-          "value": "Ayaka Ouhashi"
+          "value": "大桥彩香"
         }
       ]
     },
     {
       "characterId": 460,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 460,
@@ -25416,7 +26721,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 460,
       "tagId": 4,
-      "value": "Type 1936B"
+      "value": "1936B型"
     },
     {
       "characterId": 460,
@@ -25431,17 +26736,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 460,
       "tagId": 7,
-      "value": "Sayuri Hara",
+      "value": "原紗友里",
       "entries": [
         {
-          "value": "Sayuri Hara"
+          "value": "原紗友里"
+        },
+        {
+          "value": "はら さゆり"
+        },
+        {
+          "value": "目前在更新"
         }
       ]
     },
     {
       "characterId": 461,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 461,
@@ -25456,7 +26767,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 461,
       "tagId": 4,
-      "value": "Type 1936B"
+      "value": "1936B型"
     },
     {
       "characterId": 461,
@@ -25471,17 +26782,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 461,
       "tagId": 7,
-      "value": "Yuu Sasahara",
+      "value": "筱原侑",
       "entries": [
         {
-          "value": "Yuu Sasahara"
+          "value": "筱原侑"
+        },
+        {
+          "value": "ささは ゆう"
+        },
+        {
+          "value": "篠原侑"
         }
       ]
     },
     {
       "characterId": 462,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 462,
@@ -25496,7 +26813,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 462,
       "tagId": 4,
-      "value": "Type 1936C"
+      "value": "1936C型"
     },
     {
       "characterId": 462,
@@ -25511,17 +26828,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 462,
       "tagId": 7,
-      "value": "Minori Chihara",
+      "value": "茅原实里",
       "entries": [
         {
-          "value": "Minori Chihara"
+          "value": "茅原实里"
         }
       ]
     },
     {
       "characterId": 463,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 463,
@@ -25536,7 +26853,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 463,
       "tagId": 4,
-      "value": "Type 1936C"
+      "value": "1936C型"
     },
     {
       "characterId": 463,
@@ -25551,17 +26868,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 463,
       "tagId": 7,
-      "value": "Nozomi Nishida",
+      "value": "西田望見",
       "entries": [
         {
-          "value": "Nozomi Nishida"
+          "value": "西田望見"
+        },
+        {
+          "value": "にしだ のぞみ"
+        },
+        {
+          "value": "西田望见"
         }
       ]
     },
     {
       "characterId": 464,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 464,
@@ -25576,7 +26899,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 464,
       "tagId": 4,
-      "value": "Type 1944"
+      "value": "1944型"
     },
     {
       "characterId": 464,
@@ -25591,17 +26914,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 464,
       "tagId": 7,
-      "value": "Satomi Arai",
+      "value": "新井里美",
       "entries": [
         {
-          "value": "Satomi Arai"
+          "value": "新井里美"
+        },
+        {
+          "value": "あらい さとみ"
         }
       ]
     },
     {
       "characterId": 465,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 465,
@@ -25616,7 +26942,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 465,
       "tagId": 4,
-      "value": "Type 1937J"
+      "value": "1937J型"
     },
     {
       "characterId": 465,
@@ -25631,17 +26957,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 465,
       "tagId": 7,
-      "value": "Anzu Haruno",
+      "value": "春野杏",
       "entries": [
         {
-          "value": "Anzu Haruno"
+          "value": "春野杏"
+        },
+        {
+          "value": "はるの あんず"
         }
       ]
     },
     {
       "characterId": 466,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 466,
@@ -25656,7 +26985,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 466,
       "tagId": 4,
-      "value": "Königsberg"
+      "value": "柯尼斯堡级"
     },
     {
       "characterId": 466,
@@ -25671,17 +27000,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 466,
       "tagId": 7,
-      "value": "Ryouko Ono",
+      "value": "小野凉子",
       "entries": [
         {
-          "value": "Ryouko Ono"
+          "value": "小野凉子"
+        },
+        {
+          "value": "おの りょうこ"
         }
       ]
     },
     {
       "characterId": 467,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 467,
@@ -25696,7 +27028,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 467,
       "tagId": 4,
-      "value": "Königsberg"
+      "value": "柯尼斯堡级"
     },
     {
       "characterId": 467,
@@ -25711,17 +27043,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 467,
       "tagId": 7,
-      "value": "Ryouko Ono",
+      "value": "小野凉子",
       "entries": [
         {
-          "value": "Ryouko Ono"
+          "value": "小野凉子"
+        },
+        {
+          "value": "おの りょうこ"
         }
       ]
     },
     {
       "characterId": 468,
       "tagId": 1,
-      "value": "普通"
+      "value": "N"
     },
     {
       "characterId": 468,
@@ -25736,7 +27071,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 468,
       "tagId": 4,
-      "value": "Königsberg"
+      "value": "柯尼斯堡级"
     },
     {
       "characterId": 468,
@@ -25751,17 +27086,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 468,
       "tagId": 7,
-      "value": "Ryouko Ono",
+      "value": "小野凉子",
       "entries": [
         {
-          "value": "Ryouko Ono"
+          "value": "小野凉子"
+        },
+        {
+          "value": "おの りょうこ"
         }
       ]
     },
     {
       "characterId": 469,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 469,
@@ -25776,7 +27114,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 469,
       "tagId": 4,
-      "value": "Leipzig"
+      "value": "莱比锡级"
     },
     {
       "characterId": 469,
@@ -25791,17 +27129,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 469,
       "tagId": 7,
-      "value": "Ryouko Ono",
+      "value": "小野凉子",
       "entries": [
         {
-          "value": "Ryouko Ono"
+          "value": "小野凉子"
+        },
+        {
+          "value": "おの りょうこ"
         }
       ]
     },
     {
       "characterId": 470,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 470,
@@ -25816,7 +27157,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 470,
       "tagId": 4,
-      "value": "Leipzig"
+      "value": "莱比锡级"
     },
     {
       "characterId": 470,
@@ -25831,17 +27172,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 470,
       "tagId": 7,
-      "value": "Hikaru Toono",
+      "value": "远野光",
       "entries": [
         {
-          "value": "Hikaru Toono"
+          "value": "远野光"
+        },
+        {
+          "value": "遠野 ひかる"
         }
       ]
     },
     {
       "characterId": 471,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 471,
@@ -25856,7 +27200,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 471,
       "tagId": 4,
-      "value": "M (German)"
+      "value": "M级"
     },
     {
       "characterId": 471,
@@ -25871,17 +27215,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 471,
       "tagId": 7,
-      "value": "Satsumi Matsuda",
+      "value": "松田飒水",
       "entries": [
         {
-          "value": "Satsumi Matsuda"
+          "value": "松田飒水"
+        },
+        {
+          "value": "まつだ さつみ"
+        },
+        {
+          "value": "松田颯水"
         }
       ]
     },
     {
       "characterId": 472,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 472,
@@ -25896,7 +27246,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 472,
       "tagId": 4,
-      "value": "Dresden"
+      "value": "德累斯顿级"
     },
     {
       "characterId": 472,
@@ -25911,17 +27261,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 472,
       "tagId": 7,
-      "value": "Honoka Inoue",
+      "value": "井上穗乃花",
       "entries": [
         {
-          "value": "Honoka Inoue"
+          "value": "井上穗乃花"
+        },
+        {
+          "value": "井上 ほの"
+        },
+        {
+          "value": "井上花"
         }
       ]
     },
     {
       "characterId": 473,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 473,
@@ -25936,7 +27292,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 473,
       "tagId": 4,
-      "value": "Pillau"
+      "value": "皮劳级"
     },
     {
       "characterId": 473,
@@ -25951,17 +27307,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 473,
       "tagId": 7,
-      "value": "Shiori Mikami",
+      "value": "三上枝织",
       "entries": [
         {
-          "value": "Shiori Mikami"
+          "value": "三上枝织"
+        },
+        {
+          "value": "みかみ しおり"
+        },
+        {
+          "value": "三上枝織"
         }
       ]
     },
     {
       "characterId": 474,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 474,
@@ -25976,7 +27338,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 474,
       "tagId": 4,
-      "value": "M (German)"
+      "value": "M级"
     },
     {
       "characterId": 474,
@@ -25991,17 +27353,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 474,
       "tagId": 7,
-      "value": "Hyosei",
+      "value": "氷青",
       "entries": [
         {
-          "value": "Hyosei"
+          "value": "氷青"
+        },
+        {
+          "value": "ひょうせい"
         }
       ]
     },
     {
       "characterId": 475,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 475,
@@ -26016,7 +27381,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 475,
       "tagId": 4,
-      "value": "M (German)"
+      "value": "M级"
     },
     {
       "characterId": 475,
@@ -26031,17 +27396,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 475,
       "tagId": 7,
-      "value": "Saeko Ooki",
+      "value": "大木咲绘子",
       "entries": [
         {
-          "value": "Saeko Ooki"
+          "value": "大木咲绘子"
+        },
+        {
+          "value": "おおき さえこ"
+        },
+        {
+          "value": "大木咲絵子"
         }
       ]
     },
     {
       "characterId": 476,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 476,
@@ -26056,7 +27427,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 476,
       "tagId": 4,
-      "value": "Admiral Hipper"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 476,
@@ -26071,17 +27442,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 476,
       "tagId": 7,
-      "value": "Yuri Yamaoka",
+      "value": "山冈百合",
       "entries": [
         {
-          "value": "Yuri Yamaoka"
+          "value": "山冈百合"
+        },
+        {
+          "value": "山岡 ゆり"
+        },
+        {
+          "value": "やまおか ゆり"
         }
       ]
     },
     {
       "characterId": 477,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 477,
@@ -26096,7 +27473,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 477,
       "tagId": 4,
-      "value": "Admiral Hipper"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 477,
@@ -26111,17 +27488,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 477,
       "tagId": 7,
-      "value": "Haruka Shiraishi",
+      "value": "白石晴香",
       "entries": [
         {
-          "value": "Haruka Shiraishi"
+          "value": "白石晴香"
+        },
+        {
+          "value": "しらいし はるか"
         }
       ]
     },
     {
       "characterId": 478,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 478,
@@ -26136,7 +27516,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 478,
       "tagId": 4,
-      "value": "Admiral Hipper"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 478,
@@ -26151,17 +27531,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 478,
       "tagId": 7,
-      "value": "Ayane Sakura",
+      "value": "佐仓绫音",
       "entries": [
         {
-          "value": "Ayane Sakura"
+          "value": "佐仓绫音"
+        },
+        {
+          "value": "さくら あやね"
+        },
+        {
+          "value": "佐倉綾音"
         }
       ]
     },
     {
       "characterId": 479,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 479,
@@ -26176,7 +27562,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 479,
       "tagId": 4,
-      "value": "Deutschland"
+      "value": "德意志级"
     },
     {
       "characterId": 479,
@@ -26191,17 +27577,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 479,
       "tagId": 7,
-      "value": "Sumire Uesaka",
+      "value": "上坂",
       "entries": [
         {
-          "value": "Sumire Uesaka"
+          "value": "上坂"
+        },
+        {
+          "value": "すみれ"
         }
       ]
     },
     {
       "characterId": 480,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 480,
@@ -26216,7 +27605,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 480,
       "tagId": 4,
-      "value": "Deutschland"
+      "value": "德意志级"
     },
     {
       "characterId": 480,
@@ -26231,17 +27620,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 480,
       "tagId": 7,
-      "value": "Mai Fuchigami",
+      "value": "渊上舞",
       "entries": [
         {
-          "value": "Mai Fuchigami"
+          "value": "渊上舞"
+        },
+        {
+          "value": "汉语汉字写法"
+        },
+        {
+          "value": "渕上舞"
         }
       ]
     },
     {
       "characterId": 481,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 481,
@@ -26256,7 +27651,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 481,
       "tagId": 4,
-      "value": "Admiral Hipper"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 481,
@@ -26271,17 +27666,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 481,
       "tagId": 7,
-      "value": "Yuri Yamaoka",
+      "value": "山冈百合",
       "entries": [
         {
-          "value": "Yuri Yamaoka"
+          "value": "山冈百合"
         }
       ]
     },
     {
       "characterId": 482,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 482,
@@ -26311,17 +27706,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 482,
       "tagId": 7,
-      "value": "Satomi Satou",
+      "value": "佐藤聪美",
       "entries": [
         {
-          "value": "Satomi Satou"
+          "value": "佐藤聪美"
         }
       ]
     },
     {
       "characterId": 483,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 483,
@@ -26336,7 +27731,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 483,
       "tagId": 4,
-      "value": "P"
+      "value": "P级"
     },
     {
       "characterId": 483,
@@ -26351,17 +27746,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 483,
       "tagId": 7,
-      "value": "Hiyori Nitta",
+      "value": "新田",
       "entries": [
         {
-          "value": "Hiyori Nitta"
+          "value": "新田"
+        },
+        {
+          "value": "ひより"
         }
       ]
     },
     {
       "characterId": 484,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 484,
@@ -26376,7 +27774,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 484,
       "tagId": 4,
-      "value": "P"
+      "value": "P级"
     },
     {
       "characterId": 484,
@@ -26391,17 +27789,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 484,
       "tagId": 7,
-      "value": "Natsuko Hara",
+      "value": "原奈津子",
       "entries": [
         {
-          "value": "Natsuko Hara"
+          "value": "原奈津子"
+        },
+        {
+          "value": "はら なつこ"
         }
       ]
     },
     {
       "characterId": 485,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 485,
@@ -26416,7 +27817,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 485,
       "tagId": 4,
-      "value": "Roon (1903)"
+      "value": "罗恩级"
     },
     {
       "characterId": 485,
@@ -26431,17 +27832,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 485,
       "tagId": 7,
-      "value": "Akira Sekine",
+      "value": "关根明良",
       "entries": [
         {
-          "value": "Akira Sekine"
+          "value": "关根明良"
+        },
+        {
+          "value": "せきね あきら"
+        },
+        {
+          "value": "関根明良"
         }
       ]
     },
     {
       "characterId": 486,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 486,
@@ -26456,7 +27863,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 486,
       "tagId": 4,
-      "value": "Admiral Hipper"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 486,
@@ -26471,17 +27878,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 486,
       "tagId": 7,
-      "value": "Ayane Sakura",
+      "value": "佐仓绫音",
       "entries": [
         {
-          "value": "Ayane Sakura"
+          "value": "佐仓绫音"
+        },
+        {
+          "value": "さくら あやね"
+        },
+        {
+          "value": "佐倉綾音"
         }
       ]
     },
     {
       "characterId": 487,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 487,
@@ -26496,7 +27909,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 487,
       "tagId": 4,
-      "value": "Deutschland"
+      "value": "德意志级"
     },
     {
       "characterId": 487,
@@ -26511,17 +27924,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 487,
       "tagId": 7,
-      "value": "Mai Fuchigami",
+      "value": "渕上舞",
       "entries": [
         {
-          "value": "Mai Fuchigami"
+          "value": "渕上舞"
         }
       ]
     },
     {
       "characterId": 488,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 488,
@@ -26536,7 +27949,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 488,
       "tagId": 4,
-      "value": "P"
+      "value": "P级"
     },
     {
       "characterId": 488,
@@ -26551,17 +27964,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 488,
       "tagId": 7,
-      "value": "Kiyono Yasuno",
+      "value": "安野希世乃",
       "entries": [
         {
-          "value": "Kiyono Yasuno"
+          "value": "安野希世乃"
+        },
+        {
+          "value": "やすの きよの"
+        },
+        {
+          "value": "公式"
         }
       ]
     },
     {
       "characterId": 489,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 489,
@@ -26576,7 +27995,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 489,
       "tagId": 4,
-      "value": "Admiral Hipper"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 489,
@@ -26591,17 +28010,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 489,
       "tagId": 7,
-      "value": "Ayane Sakura",
+      "value": "佐仓绫音",
       "entries": [
         {
-          "value": "Ayane Sakura"
+          "value": "佐仓绫音"
+        },
+        {
+          "value": "さくら あやね"
+        },
+        {
+          "value": "佐倉綾音"
         }
       ]
     },
     {
       "characterId": 490,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 490,
@@ -26616,7 +28041,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 490,
       "tagId": 4,
-      "value": "Ägir"
+      "value": "O级"
     },
     {
       "characterId": 490,
@@ -26631,17 +28056,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 490,
       "tagId": 7,
-      "value": "Ayane Sakura",
+      "value": "佐仓绫音",
       "entries": [
         {
-          "value": "Ayane Sakura"
+          "value": "佐仓绫音"
+        },
+        {
+          "value": "さくら あやね"
+        },
+        {
+          "value": "佐倉綾音"
         }
       ]
     },
     {
       "characterId": 491,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 491,
@@ -26656,7 +28087,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 491,
       "tagId": 4,
-      "value": "Scharnhorst"
+      "value": "沙恩霍斯特级"
     },
     {
       "characterId": 491,
@@ -26671,17 +28102,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 491,
       "tagId": 7,
-      "value": "Ayaka Fukuhara",
+      "value": "福原绫香",
       "entries": [
         {
-          "value": "Ayaka Fukuhara"
+          "value": "福原绫香"
+        },
+        {
+          "value": "ふくはら あやか"
         }
       ]
     },
     {
       "characterId": 492,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 492,
@@ -26696,7 +28130,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 492,
       "tagId": 4,
-      "value": "Scharnhorst"
+      "value": "沙恩霍斯特级"
     },
     {
       "characterId": 492,
@@ -26711,17 +28145,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 492,
       "tagId": 7,
-      "value": "Minami Shinoda",
+      "value": "篠田南",
       "entries": [
         {
-          "value": "Minami Shinoda"
+          "value": "篠田南"
+        },
+        {
+          "value": "しのだ みなみ"
         }
       ]
     },
     {
       "characterId": 493,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 493,
@@ -26751,17 +28188,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 493,
       "tagId": 7,
-      "value": "Minami Tsuda",
+      "value": "津田美波",
       "entries": [
         {
-          "value": "Minami Tsuda"
+          "value": "津田美波"
+        },
+        {
+          "value": "つだ みなみ"
         }
       ]
     },
     {
       "characterId": 494,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 494,
@@ -26776,7 +28216,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 494,
       "tagId": 4,
-      "value": "Derfflinger"
+      "value": "德弗林格尔级"
     },
     {
       "characterId": 494,
@@ -26791,17 +28231,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 494,
       "tagId": 7,
-      "value": "Yuki Tanaka",
+      "value": "田中有纪",
       "entries": [
         {
-          "value": "Yuki Tanaka"
+          "value": "田中有纪"
+        },
+        {
+          "value": "たなか ゆき"
+        },
+        {
+          "value": "田中有紀"
         }
       ]
     },
     {
       "characterId": 495,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 495,
@@ -26816,7 +28262,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 495,
       "tagId": 4,
-      "value": "O"
+      "value": "O级"
     },
     {
       "characterId": 495,
@@ -26831,17 +28277,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 495,
       "tagId": 7,
-      "value": "Aimi",
+      "value": "愛美",
       "entries": [
         {
-          "value": "Aimi"
+          "value": "愛美"
+        },
+        {
+          "value": "あいみ"
+        },
+        {
+          "value": "简介"
         }
       ]
     },
     {
       "characterId": 496,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 496,
@@ -26856,7 +28308,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 496,
       "tagId": 4,
-      "value": "O"
+      "value": "O级"
     },
     {
       "characterId": 496,
@@ -26871,17 +28323,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 496,
       "tagId": 7,
-      "value": "Sumi Tomomi Jiena",
+      "value": "鹫见友美",
       "entries": [
         {
-          "value": "Sumi Tomomi Jiena"
+          "value": "鹫见友美"
+        },
+        {
+          "value": "すみ ともみ ジェナ"
+        },
+        {
+          "value": "鷲見友美"
         }
       ]
     },
     {
       "characterId": 497,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 497,
@@ -26911,17 +28369,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 497,
       "tagId": 7,
-      "value": "Yuuki Hirose",
+      "value": "广濑有纪",
       "entries": [
         {
-          "value": "Yuuki Hirose"
+          "value": "广濑有纪"
+        },
+        {
+          "value": "広瀬 ゆうき"
+        },
+        {
+          "value": "ひろせ ゆうき"
         }
       ]
     },
     {
       "characterId": 498,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 498,
@@ -26936,7 +28400,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 498,
       "tagId": 4,
-      "value": "Bismarck"
+      "value": "俾斯麦级"
     },
     {
       "characterId": 498,
@@ -26951,17 +28415,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 498,
       "tagId": 7,
-      "value": "Ayaka Fukuhara",
+      "value": "福原绫香",
       "entries": [
         {
-          "value": "Ayaka Fukuhara"
+          "value": "福原绫香"
+        },
+        {
+          "value": "ふくはら あやか"
         }
       ]
     },
     {
       "characterId": 499,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 499,
@@ -26976,7 +28443,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 499,
       "tagId": 4,
-      "value": "Bismarck"
+      "value": "俾斯麦级"
     },
     {
       "characterId": 499,
@@ -26991,17 +28458,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 499,
       "tagId": 7,
-      "value": "Atsuko Tanaka",
+      "value": "田中敦子",
       "entries": [
         {
-          "value": "Atsuko Tanaka"
+          "value": "田中敦子"
+        },
+        {
+          "value": "たなか あつこ"
         }
       ]
     },
     {
       "characterId": 500,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 500,
@@ -27016,7 +28486,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 500,
       "tagId": 4,
-      "value": "Ulrich von Hutten"
+      "value": "H-39型"
     },
     {
       "characterId": 500,
@@ -27031,17 +28501,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 500,
       "tagId": 7,
-      "value": "Hibiku Yamamura",
+      "value": "山村响",
       "entries": [
         {
-          "value": "Hibiku Yamamura"
+          "value": "山村响"
+        },
+        {
+          "value": "やまむら ひびく"
+        },
+        {
+          "value": "山村響"
         }
       ]
     },
     {
       "characterId": 501,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 501,
@@ -27056,7 +28532,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 501,
       "tagId": 4,
-      "value": "Helgoland"
+      "value": "赫尔戈兰级"
     },
     {
       "characterId": 501,
@@ -27071,17 +28547,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 501,
       "tagId": 7,
-      "value": "Riho Sugiyama",
+      "value": "杉山里穗",
       "entries": [
         {
-          "value": "Riho Sugiyama"
+          "value": "杉山里穗"
+        },
+        {
+          "value": "すぎやま りほ"
+        },
+        {
+          "value": "杉山里穂"
         }
       ]
     },
     {
       "characterId": 502,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 502,
@@ -27096,7 +28578,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 502,
       "tagId": 4,
-      "value": "Bismarck"
+      "value": "俾斯麦级"
     },
     {
       "characterId": 502,
@@ -27111,17 +28593,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 502,
       "tagId": 7,
-      "value": "Ayaka Fukuhara",
+      "value": "福原綾香",
       "entries": [
         {
-          "value": "Ayaka Fukuhara"
+          "value": "福原綾香"
+        },
+        {
+          "value": "ふくはら あやか"
         }
       ]
     },
     {
       "characterId": 503,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 503,
@@ -27136,7 +28621,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 503,
       "tagId": 4,
-      "value": "Friedrich der Große"
+      "value": "H-39型"
     },
     {
       "characterId": 503,
@@ -27151,17 +28636,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 503,
       "tagId": 7,
-      "value": "Hitomi Nabatame",
+      "value": "生天目仁美",
       "entries": [
         {
-          "value": "Hitomi Nabatame"
+          "value": "生天目仁美"
+        },
+        {
+          "value": "なばため ひとみ"
         }
       ]
     },
     {
       "characterId": 504,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 504,
@@ -27176,7 +28664,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 504,
       "tagId": 4,
-      "value": "Weser"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 504,
@@ -27191,17 +28679,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 504,
       "tagId": 7,
-      "value": "Rimi Nishimoto",
+      "value": "西本",
       "entries": [
         {
-          "value": "Rimi Nishimoto"
+          "value": "西本"
+        },
+        {
+          "value": "りみ"
         }
       ]
     },
     {
       "characterId": 505,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 505,
@@ -27216,7 +28707,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 505,
       "tagId": 4,
-      "value": "Jade"
+      "value": "亚德级"
     },
     {
       "characterId": 505,
@@ -27231,17 +28722,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 505,
       "tagId": 7,
-      "value": "Nene Hieda",
+      "value": "稗田宁宁",
       "entries": [
         {
-          "value": "Nene Hieda"
+          "value": "稗田宁宁"
+        },
+        {
+          "value": "ひえだ ねね"
+        },
+        {
+          "value": "稗田寧"
         }
       ]
     },
     {
       "characterId": 506,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 506,
@@ -27256,7 +28753,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 506,
       "tagId": 4,
-      "value": "Jade"
+      "value": "亚德级"
     },
     {
       "characterId": 506,
@@ -27271,17 +28768,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 506,
       "tagId": 7,
-      "value": "Arisa Aihara",
+      "value": "愛原",
       "entries": [
         {
-          "value": "Arisa Aihara"
+          "value": "愛原"
+        },
+        {
+          "value": "あいはら ありさ"
         }
       ]
     },
     {
       "characterId": 507,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 507,
@@ -27296,7 +28796,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 507,
       "tagId": 4,
-      "value": "Graf Zeppelin"
+      "value": "齐柏林伯爵级"
     },
     {
       "characterId": 507,
@@ -27311,17 +28811,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 507,
       "tagId": 7,
-      "value": "Ai Kayano",
+      "value": "内山夕实",
       "entries": [
         {
-          "value": "Ai Kayano"
+          "value": "内山夕实"
+        },
+        {
+          "value": "うちやま ゆみ"
+        },
+        {
+          "value": "内山夕実"
         }
       ]
     },
     {
       "characterId": 508,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 508,
@@ -27336,7 +28842,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 508,
       "tagId": 4,
-      "value": "Graf Zeppelin"
+      "value": "齐柏林伯爵级"
     },
     {
       "characterId": 508,
@@ -27351,17 +28857,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 508,
       "tagId": 7,
-      "value": "Ai Kayano",
+      "value": "茅野爱衣",
       "entries": [
         {
-          "value": "Ai Kayano"
+          "value": "茅野爱衣"
+        },
+        {
+          "value": "かやの あい"
+        },
+        {
+          "value": "简介"
         }
       ]
     },
     {
       "characterId": 509,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 509,
@@ -27376,7 +28888,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 509,
       "tagId": 4,
-      "value": "Graf Zeppelin"
+      "value": "齐柏林伯爵级"
     },
     {
       "characterId": 509,
@@ -27391,17 +28903,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 509,
       "tagId": 7,
-      "value": "Yumi Hara",
+      "value": "原由实",
       "entries": [
         {
-          "value": "Yumi Hara"
+          "value": "原由实"
+        },
+        {
+          "value": "はら ゆみ"
+        },
+        {
+          "value": "原由実"
         }
       ]
     },
     {
       "characterId": 510,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 510,
@@ -27431,17 +28949,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 510,
       "tagId": 7,
-      "value": "Ayumi Tsunematsu",
+      "value": "恒松步",
       "entries": [
         {
-          "value": "Ayumi Tsunematsu"
+          "value": "恒松步"
+        },
+        {
+          "value": "恒松 あゆみ"
+        },
+        {
+          "value": "つねまつ あゆみ"
         }
       ]
     },
     {
       "characterId": 511,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 511,
@@ -27456,7 +28980,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 511,
       "tagId": 4,
-      "value": "Type VIIC"
+      "value": "VIIC型"
     },
     {
       "characterId": 511,
@@ -27471,17 +28995,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 511,
       "tagId": 7,
-      "value": "Haruka Yamazaki",
+      "value": "山崎遥",
       "entries": [
         {
-          "value": "Haruka Yamazaki"
+          "value": "山崎遥"
         }
       ]
     },
     {
       "characterId": 512,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 512,
@@ -27496,7 +29020,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 512,
       "tagId": 4,
-      "value": "Type VIIB"
+      "value": "VIIB型"
     },
     {
       "characterId": 512,
@@ -27511,17 +29035,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 512,
       "tagId": 7,
-      "value": "Azumi Asakura",
+      "value": "浅仓杏美",
       "entries": [
         {
-          "value": "Azumi Asakura"
+          "value": "浅仓杏美"
         }
       ]
     },
     {
       "characterId": 513,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 513,
@@ -27536,7 +29060,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 513,
       "tagId": 4,
-      "value": "Type VIIC"
+      "value": "VIIC型"
     },
     {
       "characterId": 513,
@@ -27551,17 +29075,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 513,
       "tagId": 7,
-      "value": "Azumi Asakura",
+      "value": "浅仓杏美",
       "entries": [
         {
-          "value": "Azumi Asakura"
+          "value": "浅仓杏美"
         }
       ]
     },
     {
       "characterId": 514,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 514,
@@ -27576,7 +29100,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 514,
       "tagId": 4,
-      "value": "Type VIIC"
+      "value": "VIIC型"
     },
     {
       "characterId": 514,
@@ -27591,17 +29115,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 514,
       "tagId": 7,
-      "value": "Ayaka Fukuhara",
+      "value": "福原绫香",
       "entries": [
         {
-          "value": "Ayaka Fukuhara"
+          "value": "福原绫香"
+        },
+        {
+          "value": "ふくはら あやか"
         }
       ]
     },
     {
       "characterId": 515,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 515,
@@ -27616,7 +29143,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 515,
       "tagId": 4,
-      "value": "Type VIIB"
+      "value": "VIIB型"
     },
     {
       "characterId": 515,
@@ -27631,17 +29158,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 515,
       "tagId": 7,
-      "value": "Rimo Hasegawa",
+      "value": "长谷川里桃",
       "entries": [
         {
-          "value": "Rimo Hasegawa"
+          "value": "长谷川里桃"
         }
       ]
     },
     {
       "characterId": 516,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 516,
@@ -27656,7 +29183,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 516,
       "tagId": 4,
-      "value": "Type VIIB"
+      "value": "VIIB型"
     },
     {
       "characterId": 516,
@@ -27671,17 +29198,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 516,
       "tagId": 7,
-      "value": "Sayumi Suzushiro",
+      "value": "铃代纱弓",
       "entries": [
         {
-          "value": "Sayumi Suzushiro"
+          "value": "铃代纱弓"
+        },
+        {
+          "value": "すずしろ さゆみ"
+        },
+        {
+          "value": "鈴代紗弓"
         }
       ]
     },
     {
       "characterId": 517,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 517,
@@ -27696,7 +29229,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 517,
       "tagId": 4,
-      "value": "Type IXC"
+      "value": "IXC型"
     },
     {
       "characterId": 517,
@@ -27711,17 +29244,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 517,
       "tagId": 7,
-      "value": "Ayaka Suwa",
+      "value": "诹访彩花",
       "entries": [
         {
-          "value": "Ayaka Suwa"
+          "value": "诹访彩花"
         }
       ]
     },
     {
       "characterId": 518,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 518,
@@ -27736,7 +29269,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 518,
       "tagId": 4,
-      "value": "Type IXB"
+      "value": "IXB型"
     },
     {
       "characterId": 518,
@@ -27751,17 +29284,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 518,
       "tagId": 7,
-      "value": "Manaka Iwami",
+      "value": "石见舞菜香",
       "entries": [
         {
-          "value": "Manaka Iwami"
+          "value": "石见舞菜香"
+        },
+        {
+          "value": "いわみ まなか"
         }
       ]
     },
     {
       "characterId": 519,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 519,
@@ -27776,7 +29312,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 519,
       "tagId": 4,
-      "value": "Type VIIC"
+      "value": "VIIC型"
     },
     {
       "characterId": 519,
@@ -27791,17 +29327,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 519,
       "tagId": 7,
-      "value": "Mayu Mineda",
+      "value": "峰田茉优",
       "entries": [
         {
-          "value": "Mayu Mineda"
+          "value": "峰田茉优"
         }
       ]
     },
     {
       "characterId": 520,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 520,
@@ -27816,7 +29352,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 520,
       "tagId": 4,
-      "value": "Type IXA"
+      "value": "IXA型"
     },
     {
       "characterId": 520,
@@ -27831,17 +29367,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 520,
       "tagId": 7,
-      "value": "Ayaka Nanase",
+      "value": "七濑彩夏",
       "entries": [
         {
-          "value": "Ayaka Nanase"
+          "value": "七濑彩夏"
         }
       ]
     },
     {
       "characterId": 521,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 521,
@@ -27856,7 +29392,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 521,
       "tagId": 4,
-      "value": "Type VIIC"
+      "value": "VIIC型"
     },
     {
       "characterId": 521,
@@ -27871,17 +29407,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 521,
       "tagId": 7,
-      "value": "Ayaka Fujimoto",
+      "value": "藤本彩花",
       "entries": [
         {
-          "value": "Ayaka Fujimoto"
+          "value": "藤本彩花"
         }
       ]
     },
     {
       "characterId": 522,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 522,
@@ -27896,7 +29432,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 522,
       "tagId": 4,
-      "value": "Type VIIC"
+      "value": "VIIC型"
     },
     {
       "characterId": 522,
@@ -27911,17 +29447,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 522,
       "tagId": 7,
-      "value": "Mayuka Nomura",
+      "value": "野村真悠华",
       "entries": [
         {
-          "value": "Mayuka Nomura"
+          "value": "野村真悠华"
+        },
+        {
+          "value": "のむら まゆか"
+        },
+        {
+          "value": "野村真悠華"
         }
       ]
     },
     {
       "characterId": 523,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 523,
@@ -27936,7 +29478,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 523,
       "tagId": 4,
-      "value": "Type VIIA"
+      "value": "VIIA型"
     },
     {
       "characterId": 523,
@@ -27951,17 +29493,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 523,
       "tagId": 7,
-      "value": "Anzu Haruno",
+      "value": "春野杏",
       "entries": [
         {
-          "value": "Anzu Haruno"
+          "value": "春野杏"
+        },
+        {
+          "value": "はるの あんず"
         }
       ]
     },
     {
       "characterId": 524,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 524,
@@ -27976,7 +29521,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 524,
       "tagId": 4,
-      "value": "Type VIIC"
+      "value": "VIIC型"
     },
     {
       "characterId": 524,
@@ -27991,17 +29536,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 524,
       "tagId": 7,
-      "value": "Azusa Aoi",
+      "value": "葵梓",
       "entries": [
         {
-          "value": "Azusa Aoi"
+          "value": "葵梓"
+        },
+        {
+          "value": "葵 あずさ"
+        },
+        {
+          "value": "あおい あずさ"
         }
       ]
     },
     {
       "characterId": 525,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 525,
@@ -28031,17 +29582,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 525,
       "tagId": 7,
-      "value": "Satomi Satou",
+      "value": "佐藤聪美",
       "entries": [
         {
-          "value": "Satomi Satou"
+          "value": "佐藤聪美"
+        },
+        {
+          "value": "さとう さとみ"
         }
       ]
     },
     {
       "characterId": 526,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 526,
@@ -28056,7 +29610,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 526,
       "tagId": 4,
-      "value": "Friedrich der Große"
+      "value": "H-39型"
     },
     {
       "characterId": 526,
@@ -28071,17 +29625,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 526,
       "tagId": 7,
-      "value": "Hitomi Nabatame",
+      "value": "生天目仁美",
       "entries": [
         {
-          "value": "Hitomi Nabatame"
+          "value": "生天目仁美"
+        },
+        {
+          "value": "なばため ひとみ"
         }
       ]
     },
     {
       "characterId": 527,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 527,
@@ -28111,17 +29668,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 527,
       "tagId": 7,
-      "value": "Yuuko Kaida",
+      "value": "甲斐田裕子",
       "entries": [
         {
-          "value": "Yuuko Kaida"
+          "value": "甲斐田裕子"
         }
       ]
     },
     {
       "characterId": 528,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 528,
@@ -28151,17 +29708,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 528,
       "tagId": 7,
-      "value": "Yuki Matsuoka",
+      "value": "松冈由贵",
       "entries": [
         {
-          "value": "Yuki Matsuoka"
+          "value": "松冈由贵"
         }
       ]
     },
     {
       "characterId": 529,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 529,
@@ -28176,7 +29733,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 529,
       "tagId": 4,
-      "value": "Ägir"
+      "value": "O级"
     },
     {
       "characterId": 529,
@@ -28191,17 +29748,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 529,
       "tagId": 7,
-      "value": "Ayane Sakura",
+      "value": "佐仓绫音",
       "entries": [
         {
-          "value": "Ayane Sakura"
+          "value": "佐仓绫音"
+        },
+        {
+          "value": "さくら あやね"
+        },
+        {
+          "value": "佐倉綾音"
         }
       ]
     },
     {
       "characterId": 530,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 530,
@@ -28216,7 +29779,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 530,
       "tagId": 4,
-      "value": "August von Parseval"
+      "value": "齐柏林伯爵级"
     },
     {
       "characterId": 530,
@@ -28231,17 +29794,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 530,
       "tagId": 7,
-      "value": "Rika Tachibana",
+      "value": "立花理香",
       "entries": [
         {
-          "value": "Rika Tachibana"
+          "value": "立花理香"
+        },
+        {
+          "value": "たちばな りか"
         }
       ]
     },
     {
       "characterId": 531,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 531,
@@ -28271,17 +29837,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 531,
       "tagId": 7,
-      "value": "Momo Asakura",
+      "value": "麻仓桃",
       "entries": [
         {
-          "value": "Momo Asakura"
+          "value": "麻仓桃"
+        },
+        {
+          "value": "麻倉 もも"
+        },
+        {
+          "value": "あさくら もも"
         }
       ]
     },
     {
       "characterId": 532,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 532,
@@ -28296,7 +29868,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 532,
       "tagId": 4,
-      "value": "Felix Schultz"
+      "value": "1938A型"
     },
     {
       "characterId": 532,
@@ -28311,17 +29883,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 532,
       "tagId": 7,
-      "value": "Shuka Saito",
+      "value": "斉藤朱夏",
       "entries": [
         {
-          "value": "Shuka Saito"
+          "value": "斉藤朱夏"
+        },
+        {
+          "value": "さいとう しゅか"
         }
       ]
     },
     {
       "characterId": 533,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 533,
@@ -28351,17 +29926,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 533,
       "tagId": 7,
-      "value": "Eriko Matsui",
+      "value": "松井惠理子",
       "entries": [
         {
-          "value": "Eriko Matsui"
+          "value": "松井惠理子"
+        },
+        {
+          "value": "まつい えりこ"
         }
       ]
     },
     {
       "characterId": 534,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 534,
@@ -28376,7 +29954,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 534,
       "tagId": 4,
-      "value": "Mecklenburg"
+      "value": "H-39型"
     },
     {
       "characterId": 534,
@@ -28391,17 +29969,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 534,
       "tagId": 7,
-      "value": "Mariya Ise",
+      "value": "伊濑茉莉也",
       "entries": [
         {
-          "value": "Mariya Ise"
+          "value": "伊濑茉莉也"
+        },
+        {
+          "value": "いせ まりや"
         }
       ]
     },
     {
       "characterId": 535,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 535,
@@ -28416,7 +29997,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 535,
       "tagId": 4,
-      "value": "Anshan"
+      "value": "鞍山级"
     },
     {
       "characterId": 535,
@@ -28431,17 +30012,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 535,
       "tagId": 7,
-      "value": "Kana Asumi",
+      "value": "唐雅菁",
       "entries": [
         {
-          "value": "Kana Asumi"
+          "value": "唐雅菁"
+        },
+        {
+          "value": "あすみ かな"
+        },
+        {
+          "value": "阿澄佳奈"
         }
       ]
     },
     {
       "characterId": 536,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 536,
@@ -28456,7 +30043,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 536,
       "tagId": 4,
-      "value": "Anshan"
+      "value": "鞍山级"
     },
     {
       "characterId": 536,
@@ -28471,17 +30058,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 536,
       "tagId": 7,
-      "value": "Kana Asumi",
+      "value": "阿澄佳奈",
       "entries": [
         {
-          "value": "Kana Asumi"
+          "value": "阿澄佳奈"
+        },
+        {
+          "value": "あすみ かな"
         }
       ]
     },
     {
       "characterId": 537,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 537,
@@ -28496,7 +30086,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 537,
       "tagId": 4,
-      "value": "Anshan"
+      "value": "鞍山级"
     },
     {
       "characterId": 537,
@@ -28511,17 +30101,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 537,
       "tagId": 7,
-      "value": "Kaori Mizuhashi",
+      "value": "花玲",
       "entries": [
         {
-          "value": "Kaori Mizuhashi"
+          "value": "花玲"
+        },
+        {
+          "value": "みずはし かおり"
+        },
+        {
+          "value": "水桥香织"
         }
       ]
     },
     {
       "characterId": 538,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 538,
@@ -28536,7 +30132,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 538,
       "tagId": 4,
-      "value": "Anshan"
+      "value": "鞍山级"
     },
     {
       "characterId": 538,
@@ -28551,17 +30147,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 538,
       "tagId": 7,
-      "value": "Kaori Mizuhashi",
+      "value": "王晓彤",
       "entries": [
         {
-          "value": "Kaori Mizuhashi"
+          "value": "王晓彤"
+        },
+        {
+          "value": "みずはし かおり"
+        },
+        {
+          "value": "水桥香织"
         }
       ]
     },
     {
       "characterId": 539,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 539,
@@ -28576,7 +30178,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 539,
       "tagId": 4,
-      "value": "Lung Wu"
+      "value": "类V-25外贸型"
     },
     {
       "characterId": 539,
@@ -28591,17 +30193,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 539,
       "tagId": 7,
-      "value": "Amane Makino",
+      "value": "牧野天音",
       "entries": [
         {
-          "value": "Amane Makino"
+          "value": "牧野天音"
+        },
+        {
+          "value": "まきの あまね"
+        },
+        {
+          "value": "皛四白"
         }
       ]
     },
     {
       "characterId": 540,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 540,
@@ -28616,7 +30224,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 540,
       "tagId": 4,
-      "value": "Lung Wu"
+      "value": "类V-25外贸型"
     },
     {
       "characterId": 540,
@@ -28631,17 +30239,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 540,
       "tagId": 7,
-      "value": "Amane Makino",
+      "value": "牧野天音",
       "entries": [
         {
-          "value": "Amane Makino"
+          "value": "牧野天音"
+        },
+        {
+          "value": "まきの あまね"
+        },
+        {
+          "value": "陈婷婷"
         }
       ]
     },
     {
       "characterId": 541,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 541,
@@ -28656,7 +30270,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 541,
       "tagId": 4,
-      "value": "Fei Yuen"
+      "value": "长风级"
     },
     {
       "characterId": 541,
@@ -28671,17 +30285,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 541,
       "tagId": 7,
-      "value": "Rie Haduki",
+      "value": "羽月理惠",
       "entries": [
         {
-          "value": "Rie Haduki"
+          "value": "羽月理惠"
+        },
+        {
+          "value": "はづき りえ"
+        },
+        {
+          "value": "羽月理恵"
         }
       ]
     },
     {
       "characterId": 542,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 542,
@@ -28696,7 +30316,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 542,
       "tagId": 4,
-      "value": "Fei Yuen"
+      "value": "长风级"
     },
     {
       "characterId": 542,
@@ -28711,17 +30331,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 542,
       "tagId": 7,
-      "value": "Rie Haduki",
+      "value": "羽月理惠",
       "entries": [
         {
-          "value": "Rie Haduki"
+          "value": "羽月理惠"
+        },
+        {
+          "value": "はづき りえ"
+        },
+        {
+          "value": "羽月理恵"
         }
       ]
     },
     {
       "characterId": 543,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 543,
@@ -28736,7 +30362,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 543,
       "tagId": 4,
-      "value": "Fei Yuen"
+      "value": "长风级"
     },
     {
       "characterId": 543,
@@ -28751,17 +30377,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 543,
       "tagId": 7,
-      "value": "Rie Haduki",
+      "value": "羽月理惠",
       "entries": [
         {
-          "value": "Rie Haduki"
+          "value": "羽月理惠"
+        },
+        {
+          "value": "はづき りえ"
+        },
+        {
+          "value": "羽月理恵"
         }
       ]
     },
     {
       "characterId": 544,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 544,
@@ -28791,17 +30423,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 544,
       "tagId": 7,
-      "value": "Yuu Asakawa",
+      "value": "杜冥鸦",
       "entries": [
         {
-          "value": "Yuu Asakawa"
+          "value": "杜冥鸦"
+        },
+        {
+          "value": "あさかわ ゆう"
+        },
+        {
+          "value": "浅川悠"
         }
       ]
     },
     {
       "characterId": 545,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 545,
@@ -28816,7 +30454,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 545,
       "tagId": 4,
-      "value": "Ning Hai"
+      "value": "宁海级"
     },
     {
       "characterId": 545,
@@ -28831,17 +30469,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 545,
       "tagId": 7,
-      "value": "Marie Miyake",
+      "value": "站日配三宅麻理恵",
       "entries": [
         {
-          "value": "Marie Miyake"
+          "value": "站日配三宅麻理恵"
+        },
+        {
+          "value": "みやけ まりえ"
         }
       ]
     },
     {
       "characterId": 546,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 546,
@@ -28856,7 +30497,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 546,
       "tagId": 4,
-      "value": "Ning Hai"
+      "value": "宁海级"
     },
     {
       "characterId": 546,
@@ -28871,17 +30512,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 546,
       "tagId": 7,
-      "value": "Misaki Kuno",
+      "value": "站日配久野美咲",
       "entries": [
         {
-          "value": "Misaki Kuno"
+          "value": "站日配久野美咲"
+        },
+        {
+          "value": "くの みさき"
+        },
+        {
+          "value": "大泽"
         }
       ]
     },
     {
       "characterId": 547,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 547,
@@ -28896,7 +30543,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 547,
       "tagId": 4,
-      "value": "Chao Ho"
+      "value": "肇和级"
     },
     {
       "characterId": 547,
@@ -28911,17 +30558,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 547,
       "tagId": 7,
-      "value": "Yuuka Morishima",
+      "value": "宴宁",
       "entries": [
         {
-          "value": "Yuuka Morishima"
+          "value": "宴宁"
+        },
+        {
+          "value": "站日配森嶋優花"
         }
       ]
     },
     {
       "characterId": 548,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 548,
@@ -28936,7 +30586,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 548,
       "tagId": 4,
-      "value": "Chao Ho"
+      "value": "肇和级"
     },
     {
       "characterId": 548,
@@ -28951,17 +30601,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 548,
       "tagId": 7,
-      "value": "Yuuka Morishima",
+      "value": "多多",
       "entries": [
         {
-          "value": "Yuuka Morishima"
+          "value": "多多"
+        },
+        {
+          "value": "站日配森嶋優花"
         }
       ]
     },
     {
       "characterId": 549,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 549,
@@ -28976,7 +30629,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 549,
       "tagId": 4,
-      "value": "Hai Chi"
+      "value": "海天级"
     },
     {
       "characterId": 549,
@@ -28991,17 +30644,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 549,
       "tagId": 7,
-      "value": "Arisa Date",
+      "value": "菊花花",
       "entries": [
         {
-          "value": "Arisa Date"
+          "value": "菊花花"
+        },
+        {
+          "value": "だて ありさ"
+        },
+        {
+          "value": "伊达朱里纱"
         }
       ]
     },
     {
       "characterId": 550,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 550,
@@ -29016,7 +30675,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 550,
       "tagId": 4,
-      "value": "Hai Chi"
+      "value": "海天级"
     },
     {
       "characterId": 550,
@@ -29031,17 +30690,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 550,
       "tagId": 7,
-      "value": "Arisa Date",
+      "value": "陈阳日配伊达朱里纱",
       "entries": [
         {
-          "value": "Arisa Date"
+          "value": "陈阳日配伊达朱里纱"
+        },
+        {
+          "value": "だて ありさ"
+        },
+        {
+          "value": "伊達朱里紗"
         }
       ]
     },
     {
       "characterId": 551,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 551,
@@ -29071,17 +30736,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 551,
       "tagId": 7,
-      "value": "Mikoi Sasaki",
+      "value": "佐佐木未来",
       "entries": [
         {
-          "value": "Mikoi Sasaki"
+          "value": "佐佐木未来"
+        },
+        {
+          "value": "ささき みこい"
+        },
+        {
+          "value": "陈雨"
         }
       ]
     },
     {
       "characterId": 552,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 552,
@@ -29096,7 +30767,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 552,
       "tagId": 4,
-      "value": "Hai Yung"
+      "value": "海容级"
     },
     {
       "characterId": 552,
@@ -29111,17 +30782,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 552,
       "tagId": 7,
-      "value": "Hinano Sakikawa",
+      "value": "咲川雏乃",
       "entries": [
         {
-          "value": "Hinano Sakikawa"
+          "value": "咲川雏乃"
+        },
+        {
+          "value": "咲川 ひなの"
+        },
+        {
+          "value": "阿妄站空间"
         }
       ]
     },
     {
       "characterId": 553,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 553,
@@ -29151,17 +30828,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 553,
       "tagId": 7,
-      "value": "Saku Mizuno",
+      "value": "水野朔",
       "entries": [
         {
-          "value": "Saku Mizuno"
+          "value": "水野朔"
+        },
+        {
+          "value": "みずの さく"
+        },
+        {
+          "value": "徐慧"
         }
       ]
     },
     {
       "characterId": 554,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 554,
@@ -29191,17 +30874,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 554,
       "tagId": 7,
-      "value": "Ai Matayoshi",
+      "value": "又吉爱",
       "entries": [
         {
-          "value": "Ai Matayoshi"
+          "value": "又吉爱"
+        },
+        {
+          "value": "またよし あい"
+        },
+        {
+          "value": "又吉愛"
         }
       ]
     },
     {
       "characterId": 555,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 555,
@@ -29231,17 +30920,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 555,
       "tagId": 7,
-      "value": "Manaka Iwami",
+      "value": "龟娘",
       "entries": [
         {
-          "value": "Manaka Iwami"
+          "value": "龟娘"
+        },
+        {
+          "value": "いわみ まなか"
+        },
+        {
+          "value": "站日配石见舞菜香"
         }
       ]
     },
     {
       "characterId": 556,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 556,
@@ -29271,17 +30966,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 556,
       "tagId": 7,
-      "value": "Yuka Nukui",
+      "value": "贯井柚佳",
       "entries": [
         {
-          "value": "Yuka Nukui"
+          "value": "贯井柚佳"
+        },
+        {
+          "value": "ぬくい ゆか"
+        },
+        {
+          "value": "貫井柚佳"
         }
       ]
     },
     {
       "characterId": 557,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 557,
@@ -29296,7 +30997,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 557,
       "tagId": 4,
-      "value": "Ting An"
+      "value": "定安级"
     },
     {
       "characterId": 557,
@@ -29311,17 +31012,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 557,
       "tagId": 7,
-      "value": "Chiemi Tanaka",
+      "value": "田中千惠美",
       "entries": [
         {
-          "value": "Chiemi Tanaka"
+          "value": "田中千惠美"
+        },
+        {
+          "value": "田中 ちえ"
+        },
+        {
+          "value": "田中美"
         }
       ]
     },
     {
       "characterId": 558,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 558,
@@ -29351,17 +31058,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 558,
       "tagId": 7,
-      "value": "Akina Homoto",
+      "value": "张琦",
       "entries": [
         {
-          "value": "Akina Homoto"
+          "value": "张琦"
+        },
+        {
+          "value": "ほうもと あきな"
+        },
+        {
+          "value": "法元明菜"
         }
       ]
     },
     {
       "characterId": 559,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 559,
@@ -29376,7 +31089,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 559,
       "tagId": 4,
-      "value": "Soldati"
+      "value": "索尔达蒂级"
     },
     {
       "characterId": 559,
@@ -29391,17 +31104,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 559,
       "tagId": 7,
-      "value": "Rika Tachibana",
+      "value": "立花理香",
       "entries": [
         {
-          "value": "Rika Tachibana"
+          "value": "立花理香"
+        },
+        {
+          "value": "たちばな りか"
         }
       ]
     },
     {
       "characterId": 560,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 560,
@@ -29416,7 +31132,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 560,
       "tagId": 4,
-      "value": "Alfredo Oriani"
+      "value": "诗人级"
     },
     {
       "characterId": 560,
@@ -29431,17 +31147,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 560,
       "tagId": 7,
-      "value": "Misaki Yoshioka",
+      "value": "吉岡美咲",
       "entries": [
         {
-          "value": "Misaki Yoshioka"
+          "value": "吉岡美咲"
+        },
+        {
+          "value": "よしおか みさき"
         }
       ]
     },
     {
       "characterId": 561,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 561,
@@ -29456,7 +31175,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 561,
       "tagId": 4,
-      "value": "Maestrale"
+      "value": "西北风级"
     },
     {
       "characterId": 561,
@@ -29471,17 +31190,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 561,
       "tagId": 7,
-      "value": "Airi Eino",
+      "value": "永野爱理",
       "entries": [
         {
-          "value": "Airi Eino"
+          "value": "永野爱理"
+        },
+        {
+          "value": "えいの あいり"
+        },
+        {
+          "value": "永野愛理"
         }
       ]
     },
     {
       "characterId": 562,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 562,
@@ -29496,7 +31221,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 562,
       "tagId": 4,
-      "value": "Maestrale"
+      "value": "西北风级"
     },
     {
       "characterId": 562,
@@ -29511,17 +31236,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 562,
       "tagId": 7,
-      "value": "Airi Eino",
+      "value": "永野爱理",
       "entries": [
         {
-          "value": "Airi Eino"
+          "value": "永野爱理"
+        },
+        {
+          "value": "えいの あいり"
+        },
+        {
+          "value": "永野愛理"
         }
       ]
     },
     {
       "characterId": 563,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 563,
@@ -29536,7 +31267,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 563,
       "tagId": 4,
-      "value": "Navigatori"
+      "value": "航海家级"
     },
     {
       "characterId": 563,
@@ -29551,17 +31282,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 563,
       "tagId": 7,
-      "value": "Aoi Koga",
+      "value": "古贺葵",
       "entries": [
         {
-          "value": "Aoi Koga"
+          "value": "古贺葵"
+        },
+        {
+          "value": "こが あおい"
+        },
+        {
+          "value": "古賀葵"
         }
       ]
     },
     {
       "characterId": 564,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 564,
@@ -29576,7 +31313,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 564,
       "tagId": 4,
-      "value": "Capitani Romani"
+      "value": "罗马统帅级"
     },
     {
       "characterId": 564,
@@ -29591,17 +31328,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 564,
       "tagId": 7,
-      "value": "Saya Aizawa",
+      "value": "会泽纱弥",
       "entries": [
         {
-          "value": "Saya Aizawa"
+          "value": "会泽纱弥"
+        },
+        {
+          "value": "会沢紗弥"
         }
       ]
     },
     {
       "characterId": 565,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 565,
@@ -29616,7 +31356,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 565,
       "tagId": 4,
-      "value": "Alfredo Oriani"
+      "value": "诗人级"
     },
     {
       "characterId": 565,
@@ -29631,17 +31371,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 565,
       "tagId": 7,
-      "value": "Yuko Natsuyoshi",
+      "value": "夏吉优子",
       "entries": [
         {
-          "value": "Yuko Natsuyoshi"
+          "value": "夏吉优子"
+        },
+        {
+          "value": "夏吉 ゆうこ"
+        },
+        {
+          "value": "なつよし ゆうこ"
         }
       ]
     },
     {
       "characterId": 566,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 566,
@@ -29656,7 +31402,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 566,
       "tagId": 4,
-      "value": "Navigatori"
+      "value": "航海家级"
     },
     {
       "characterId": 566,
@@ -29671,17 +31417,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 566,
       "tagId": 7,
-      "value": "Maria Sashide",
+      "value": "指出毬亜",
       "entries": [
         {
-          "value": "Maria Sashide"
+          "value": "指出毬亜"
+        },
+        {
+          "value": "さしで まりあ"
         }
       ]
     },
     {
       "characterId": 567,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 567,
@@ -29696,7 +31445,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 567,
       "tagId": 4,
-      "value": "Capitani Romani"
+      "value": "罗马统帅级"
     },
     {
       "characterId": 567,
@@ -29711,17 +31460,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 567,
       "tagId": 7,
-      "value": "Riho Tsuda",
+      "value": "津田里穗",
       "entries": [
         {
-          "value": "Riho Tsuda"
+          "value": "津田里穗"
         }
       ]
     },
     {
       "characterId": 568,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 568,
@@ -29736,7 +31485,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 568,
       "tagId": 4,
-      "value": "Alfredo Oriani"
+      "value": "诗人级"
     },
     {
       "characterId": 568,
@@ -29751,17 +31500,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 568,
       "tagId": 7,
-      "value": "Yuko Natsuyoshi",
+      "value": "夏吉优子",
       "entries": [
         {
-          "value": "Yuko Natsuyoshi"
+          "value": "夏吉优子"
+        },
+        {
+          "value": "夏吉 ゆうこ"
+        },
+        {
+          "value": "なつよし ゆうこ"
         }
       ]
     },
     {
       "characterId": 569,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 569,
@@ -29776,7 +31531,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 569,
       "tagId": 4,
-      "value": "Duca degli Abruzzi"
+      "value": "佣兵队长级"
     },
     {
       "characterId": 569,
@@ -29791,17 +31546,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 569,
       "tagId": 7,
-      "value": "Hiromi Hirata",
+      "value": "平田宏美",
       "entries": [
         {
-          "value": "Hiromi Hirata"
+          "value": "平田宏美"
+        },
+        {
+          "value": "ひらた ひろみ"
         }
       ]
     },
     {
       "characterId": 570,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 570,
@@ -29816,7 +31574,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 570,
       "tagId": 4,
-      "value": "Duca degli Abruzzi"
+      "value": "佣兵队长级"
     },
     {
       "characterId": 570,
@@ -29831,17 +31589,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 570,
       "tagId": 7,
-      "value": "Megumi Toda",
+      "value": "户田惠",
       "entries": [
         {
-          "value": "Megumi Toda"
+          "value": "户田惠"
+        },
+        {
+          "value": "戸田 めぐみ"
+        },
+        {
+          "value": "とだ めぐみ"
         }
       ]
     },
     {
       "characterId": 571,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 571,
@@ -29856,7 +31620,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 571,
       "tagId": 4,
-      "value": "Giussano"
+      "value": "佣兵队长级"
     },
     {
       "characterId": 571,
@@ -29871,17 +31635,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 571,
       "tagId": 7,
-      "value": "Yuri Fujimoto",
+      "value": "藤本侑里",
       "entries": [
         {
-          "value": "Yuri Fujimoto"
+          "value": "藤本侑里"
+        },
+        {
+          "value": "ふじもと ゆり"
         }
       ]
     },
     {
       "characterId": 572,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 572,
@@ -29896,7 +31663,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 572,
       "tagId": 4,
-      "value": "Trento"
+      "value": "特伦托级"
     },
     {
       "characterId": 572,
@@ -29911,17 +31678,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 572,
       "tagId": 7,
-      "value": "Sakura Nakamura",
+      "value": "中村樱",
       "entries": [
         {
-          "value": "Sakura Nakamura"
+          "value": "中村樱"
+        },
+        {
+          "value": "なかむら さくら"
+        },
+        {
+          "value": "中村桜"
         }
       ]
     },
     {
       "characterId": 573,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 573,
@@ -29936,7 +31709,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 573,
       "tagId": 4,
-      "value": "Zara"
+      "value": "扎拉级"
     },
     {
       "characterId": 573,
@@ -29951,17 +31724,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 573,
       "tagId": 7,
-      "value": "Atsumi Tanezaki",
+      "value": "种崎敦美",
       "entries": [
         {
-          "value": "Atsumi Tanezaki"
+          "value": "种崎敦美"
         }
       ]
     },
     {
       "characterId": 574,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 574,
@@ -29976,7 +31749,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 574,
       "tagId": 4,
-      "value": "Zara"
+      "value": "扎拉级"
     },
     {
       "characterId": 574,
@@ -29991,17 +31764,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 574,
       "tagId": 7,
-      "value": "Atsumi Tanezaki",
+      "value": "种崎敦美",
       "entries": [
         {
-          "value": "Atsumi Tanezaki"
+          "value": "种崎敦美"
         }
       ]
     },
     {
       "characterId": 575,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 575,
@@ -30016,7 +31789,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 575,
       "tagId": 4,
-      "value": "Trento"
+      "value": "特伦托级"
     },
     {
       "characterId": 575,
@@ -30031,17 +31804,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 575,
       "tagId": 7,
-      "value": "Sakura Nakamura",
+      "value": "中村樱",
       "entries": [
         {
-          "value": "Sakura Nakamura"
+          "value": "中村樱"
+        },
+        {
+          "value": "なかむら さくら"
+        },
+        {
+          "value": "中村桜"
         }
       ]
     },
     {
       "characterId": 576,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 576,
@@ -30056,7 +31835,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 576,
       "tagId": 4,
-      "value": "Bolzano"
+      "value": "博尔扎诺级"
     },
     {
       "characterId": 576,
@@ -30071,17 +31850,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 576,
       "tagId": 7,
-      "value": "Ryoko Maekawa",
+      "value": "前川涼子",
       "entries": [
         {
-          "value": "Ryoko Maekawa"
+          "value": "前川涼子"
+        },
+        {
+          "value": "まえかわ りょうこ"
         }
       ]
     },
     {
       "characterId": 577,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 577,
@@ -30096,7 +31878,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 577,
       "tagId": 4,
-      "value": "Zara"
+      "value": "扎拉级"
     },
     {
       "characterId": 577,
@@ -30111,17 +31893,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 577,
       "tagId": 7,
-      "value": "Kotomi Aihara",
+      "value": "蓝原琴美",
       "entries": [
         {
-          "value": "Kotomi Aihara"
+          "value": "蓝原琴美"
+        },
+        {
+          "value": "藍原 ことみ"
         }
       ]
     },
     {
       "characterId": 578,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 578,
@@ -30136,7 +31921,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 578,
       "tagId": 4,
-      "value": "Vittorio Veneto"
+      "value": "维托里奥·维内托级"
     },
     {
       "characterId": 578,
@@ -30151,17 +31936,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 578,
       "tagId": 7,
-      "value": "Mamiko Noto",
+      "value": "能登麻美子",
       "entries": [
         {
-          "value": "Mamiko Noto"
+          "value": "能登麻美子"
+        },
+        {
+          "value": "のと まみこ"
         }
       ]
     },
     {
       "characterId": 579,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 579,
@@ -30176,7 +31964,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 579,
       "tagId": 4,
-      "value": "Vittorio Veneto"
+      "value": "维托里奥·维内托级"
     },
     {
       "characterId": 579,
@@ -30191,17 +31979,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 579,
       "tagId": 7,
-      "value": "Shizuka Itou",
+      "value": "伊藤静",
       "entries": [
         {
-          "value": "Shizuka Itou"
+          "value": "伊藤静"
         }
       ]
     },
     {
       "characterId": 580,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 580,
@@ -30216,7 +32004,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 580,
       "tagId": 4,
-      "value": "Vittorio Veneto"
+      "value": "维托里奥·维内托级"
     },
     {
       "characterId": 580,
@@ -30231,17 +32019,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 580,
       "tagId": 7,
-      "value": "Yui Kondou",
+      "value": "近藤唯",
       "entries": [
         {
-          "value": "Yui Kondou"
+          "value": "近藤唯"
+        },
+        {
+          "value": "こんどう ゆい"
         }
       ]
     },
     {
       "characterId": 581,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 581,
@@ -30256,7 +32047,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 581,
       "tagId": 4,
-      "value": "Conte di Cavour"
+      "value": "加富尔伯爵级"
     },
     {
       "characterId": 581,
@@ -30271,17 +32062,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 581,
       "tagId": 7,
-      "value": "Ayaka Shimizu",
+      "value": "清水彩香",
       "entries": [
         {
-          "value": "Ayaka Shimizu"
+          "value": "清水彩香"
         }
       ]
     },
     {
       "characterId": 582,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 582,
@@ -30296,7 +32087,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 582,
       "tagId": 4,
-      "value": "Conte di Cavour"
+      "value": "加富尔伯爵级"
     },
     {
       "characterId": 582,
@@ -30311,17 +32102,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 582,
       "tagId": 7,
-      "value": "Ayaka Shimizu",
+      "value": "清水彩香",
       "entries": [
         {
-          "value": "Ayaka Shimizu"
+          "value": "清水彩香"
         }
       ]
     },
     {
       "characterId": 583,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 583,
@@ -30336,7 +32127,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 583,
       "tagId": 4,
-      "value": "Andrea Doria"
+      "value": "安德烈亚·多利亚级"
     },
     {
       "characterId": 583,
@@ -30351,17 +32142,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 583,
       "tagId": 7,
-      "value": "Haruno Fujiwara",
+      "value": "富士原晴乃",
       "entries": [
         {
-          "value": "Haruno Fujiwara"
+          "value": "富士原晴乃"
+        },
+        {
+          "value": "ふじわら はるの"
         }
       ]
     },
     {
       "characterId": 584,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 584,
@@ -30391,17 +32185,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 584,
       "tagId": 7,
-      "value": "Ayaka Asai",
+      "value": "朝井彩加",
       "entries": [
         {
-          "value": "Ayaka Asai"
+          "value": "朝井彩加"
+        },
+        {
+          "value": "あさい あやか"
         }
       ]
     },
     {
       "characterId": 585,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 585,
@@ -30431,17 +32228,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 585,
       "tagId": 7,
-      "value": "Rei Mochizuki",
+      "value": "持月玲依",
       "entries": [
         {
-          "value": "Rei Mochizuki"
+          "value": "持月玲依"
+        },
+        {
+          "value": "もちづき れい"
         }
       ]
     },
     {
       "characterId": 586,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 586,
@@ -30456,7 +32256,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 586,
       "tagId": 4,
-      "value": "Vittorio Veneto"
+      "value": "维托里奥·维内托级"
     },
     {
       "characterId": 586,
@@ -30471,17 +32271,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 586,
       "tagId": 7,
-      "value": "Nichika Oomori",
+      "value": "大森日雅",
       "entries": [
         {
-          "value": "Nichika Oomori"
+          "value": "大森日雅"
+        },
+        {
+          "value": "おおもり にちか"
         }
       ]
     },
     {
       "characterId": 587,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 587,
@@ -30496,7 +32299,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 587,
       "tagId": 4,
-      "value": "Brin"
+      "value": "布林级"
     },
     {
       "characterId": 587,
@@ -30511,17 +32314,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 587,
       "tagId": 7,
-      "value": "Kaede Hondo",
+      "value": "本渡枫",
       "entries": [
         {
-          "value": "Kaede Hondo"
+          "value": "本渡枫"
+        },
+        {
+          "value": "ほんど かえで"
+        },
+        {
+          "value": "本渡楓"
         }
       ]
     },
     {
       "characterId": 588,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 588,
@@ -30536,7 +32345,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 588,
       "tagId": 4,
-      "value": "Marconi"
+      "value": "马可尼级"
     },
     {
       "characterId": 588,
@@ -30551,17 +32360,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 588,
       "tagId": 7,
-      "value": "Wakana Maruoka",
+      "value": "丸冈和佳奈",
       "entries": [
         {
-          "value": "Wakana Maruoka"
+          "value": "丸冈和佳奈"
+        },
+        {
+          "value": "まるおか わかな"
+        },
+        {
+          "value": "丸岡和佳奈"
         }
       ]
     },
     {
       "characterId": 589,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 589,
@@ -30576,7 +32391,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 589,
       "tagId": 4,
-      "value": "Marconi"
+      "value": "马可尼级"
     },
     {
       "characterId": 589,
@@ -30591,17 +32406,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 589,
       "tagId": 7,
-      "value": "Asaki Yuikawa",
+      "value": "结川麻希",
       "entries": [
         {
-          "value": "Asaki Yuikawa"
+          "value": "结川麻希"
+        },
+        {
+          "value": "結川 あさき"
         }
       ]
     },
     {
       "characterId": 590,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 590,
@@ -30631,17 +32449,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 590,
       "tagId": 7,
-      "value": "Sashika Misawa",
+      "value": "三泽纱千香",
       "entries": [
         {
-          "value": "Sashika Misawa"
+          "value": "三泽纱千香"
+        },
+        {
+          "value": "みさわ さちか"
+        },
+        {
+          "value": "三澤紗千香"
         }
       ]
     },
     {
       "characterId": 591,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 591,
@@ -30671,17 +32495,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 591,
       "tagId": 7,
-      "value": "Sayumi Suzushiro",
+      "value": "铃代纱弓",
       "entries": [
         {
-          "value": "Sayumi Suzushiro"
+          "value": "铃代纱弓"
+        },
+        {
+          "value": "すずしろ さゆみ"
+        },
+        {
+          "value": "鈴代紗弓"
         }
       ]
     },
     {
       "characterId": 592,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 592,
@@ -30696,7 +32526,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 592,
       "tagId": 4,
-      "value": "Vittorio Cuniberti"
+      "value": "西北风级"
     },
     {
       "characterId": 592,
@@ -30711,17 +32541,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 592,
       "tagId": 7,
-      "value": "Non Harusaki",
+      "value": "春咲暖",
       "entries": [
         {
-          "value": "Non Harusaki"
+          "value": "春咲暖"
+        },
+        {
+          "value": "はるさき のん"
         }
       ]
     },
     {
       "characterId": 593,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 593,
@@ -30736,7 +32569,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 593,
       "tagId": 4,
-      "value": "Gnevny"
+      "value": "7型"
     },
     {
       "characterId": 593,
@@ -30751,17 +32584,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 593,
       "tagId": 7,
-      "value": "Chiyo Tomaru",
+      "value": "都丸",
       "entries": [
         {
-          "value": "Chiyo Tomaru"
+          "value": "都丸"
+        },
+        {
+          "value": "ちよ"
         }
       ]
     },
     {
       "characterId": 594,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 594,
@@ -30776,7 +32612,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 594,
       "tagId": 4,
-      "value": "Leningrad"
+      "value": "38型"
     },
     {
       "characterId": 594,
@@ -30791,17 +32627,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 594,
       "tagId": 7,
-      "value": "Yuuko Hara",
+      "value": "原優子",
       "entries": [
         {
-          "value": "Yuuko Hara"
+          "value": "原優子"
         }
       ]
     },
     {
       "characterId": 595,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 595,
@@ -30816,7 +32652,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 595,
       "tagId": 4,
-      "value": "Tashkent"
+      "value": "20-I型"
     },
     {
       "characterId": 595,
@@ -30831,17 +32667,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 595,
       "tagId": 7,
-      "value": "Shiori Izawa",
+      "value": "井泽诗织",
       "entries": [
         {
-          "value": "Shiori Izawa"
+          "value": "井泽诗织"
+        },
+        {
+          "value": "いざわ しおり"
+        },
+        {
+          "value": "井澤詩織"
         }
       ]
     },
     {
       "characterId": 596,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 596,
@@ -30856,7 +32698,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 596,
       "tagId": 4,
-      "value": "Tashkent"
+      "value": "20-I型"
     },
     {
       "characterId": 596,
@@ -30871,17 +32713,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 596,
       "tagId": 7,
-      "value": "Shiori Izawa",
+      "value": "井泽诗织",
       "entries": [
         {
-          "value": "Shiori Izawa"
+          "value": "井泽诗织"
+        },
+        {
+          "value": "いざわ しおり"
+        },
+        {
+          "value": "井澤詩織"
         }
       ]
     },
     {
       "characterId": 597,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 597,
@@ -30896,7 +32744,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 597,
       "tagId": 4,
-      "value": "Gnevny"
+      "value": "7型"
     },
     {
       "characterId": 597,
@@ -30911,17 +32759,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 597,
       "tagId": 7,
-      "value": "Momoki Kakimura",
+      "value": "柿村桃希",
       "entries": [
         {
-          "value": "Momoki Kakimura"
+          "value": "柿村桃希"
         }
       ]
     },
     {
       "characterId": 598,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 598,
@@ -30936,7 +32784,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 598,
       "tagId": 4,
-      "value": "Gnevny"
+      "value": "7型"
     },
     {
       "characterId": 598,
@@ -30951,17 +32799,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 598,
       "tagId": 7,
-      "value": "Marina Yamada",
+      "value": "山田麻莉奈",
       "entries": [
         {
-          "value": "Marina Yamada"
+          "value": "山田麻莉奈"
         }
       ]
     },
     {
       "characterId": 599,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 599,
@@ -30976,7 +32824,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 599,
       "tagId": 4,
-      "value": "Gnevny"
+      "value": "7型"
     },
     {
       "characterId": 599,
@@ -30991,17 +32839,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 599,
       "tagId": 7,
-      "value": "Yurie Kozakai",
+      "value": "小坂井祐莉絵",
       "entries": [
         {
-          "value": "Yurie Kozakai"
+          "value": "小坂井祐莉絵"
         }
       ]
     },
     {
       "characterId": 600,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 600,
@@ -31016,7 +32864,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 600,
       "tagId": 4,
-      "value": "Storozhevoy"
+      "value": "7-U型"
     },
     {
       "characterId": 600,
@@ -31031,17 +32879,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 600,
       "tagId": 7,
-      "value": "Miharu Hanai",
+      "value": "花井美春",
       "entries": [
         {
-          "value": "Miharu Hanai"
+          "value": "花井美春"
+        },
+        {
+          "value": "はない みはる"
         }
       ]
     },
     {
       "characterId": 601,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 601,
@@ -31056,7 +32907,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 601,
       "tagId": 4,
-      "value": "Kiev"
+      "value": "48型"
     },
     {
       "characterId": 601,
@@ -31071,17 +32922,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 601,
       "tagId": 7,
-      "value": "Himika Akaneya",
+      "value": "茜屋日海夏",
       "entries": [
         {
-          "value": "Himika Akaneya"
+          "value": "茜屋日海夏"
+        },
+        {
+          "value": "あかねや ひみか"
         }
       ]
     },
     {
       "characterId": 602,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 602,
@@ -31096,7 +32950,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 602,
       "tagId": 4,
-      "value": "Ognevoy"
+      "value": "30-K型"
     },
     {
       "characterId": 602,
@@ -31111,17 +32965,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 602,
       "tagId": 7,
-      "value": "Narumi Kaho",
+      "value": "佳穗成美",
       "entries": [
         {
-          "value": "Narumi Kaho"
+          "value": "佳穗成美"
+        },
+        {
+          "value": "かほ なるみ"
+        },
+        {
+          "value": "佳穂成美"
         }
       ]
     },
     {
       "characterId": 603,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 603,
@@ -31136,7 +32996,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 603,
       "tagId": 4,
-      "value": "Storozhevoy"
+      "value": "7-U型"
     },
     {
       "characterId": 603,
@@ -31151,17 +33011,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 603,
       "tagId": 7,
-      "value": "Marika",
+      "value": "中谷茉莉花",
       "entries": [
         {
-          "value": "Marika"
+          "value": "中谷茉莉花"
+        },
+        {
+          "value": "なかたに まりか"
         }
       ]
     },
     {
       "characterId": 604,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 604,
@@ -31176,7 +33039,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 604,
       "tagId": 4,
-      "value": "Pallada"
+      "value": "帕拉达级"
     },
     {
       "characterId": 604,
@@ -31191,17 +33054,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 604,
       "tagId": 7,
-      "value": "Marie Miyake",
+      "value": "三宅麻理恵",
       "entries": [
         {
-          "value": "Marie Miyake"
+          "value": "三宅麻理恵"
+        },
+        {
+          "value": "みやけ まりえ"
         }
       ]
     },
     {
       "characterId": 605,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 605,
@@ -31216,7 +33082,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 605,
       "tagId": 4,
-      "value": "Bogatyr"
+      "value": "博加特里级"
     },
     {
       "characterId": 605,
@@ -31231,17 +33097,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 605,
       "tagId": 7,
-      "value": "Maya Yoshioka",
+      "value": "吉岡麻耶",
       "entries": [
         {
-          "value": "Maya Yoshioka"
+          "value": "吉岡麻耶"
         }
       ]
     },
     {
       "characterId": 606,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 606,
@@ -31256,7 +33122,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 606,
       "tagId": 4,
-      "value": "Chapayev"
+      "value": "68-K型"
     },
     {
       "characterId": 606,
@@ -31271,17 +33137,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 606,
       "tagId": 7,
-      "value": "Masumi Tazawa",
+      "value": "田澤茉純",
       "entries": [
         {
-          "value": "Masumi Tazawa"
+          "value": "田澤茉純"
         }
       ]
     },
     {
       "characterId": 607,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 607,
@@ -31296,7 +33162,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 607,
       "tagId": 4,
-      "value": "Kirov"
+      "value": "26型"
     },
     {
       "characterId": 607,
@@ -31311,17 +33177,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 607,
       "tagId": 7,
-      "value": "Sumire Uesaka",
+      "value": "上坂",
       "entries": [
         {
-          "value": "Sumire Uesaka"
+          "value": "上坂"
+        },
+        {
+          "value": "すみれ"
         }
       ]
     },
     {
       "characterId": 608,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 608,
@@ -31336,7 +33205,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 608,
       "tagId": 4,
-      "value": "Chapayev"
+      "value": "68-K型"
     },
     {
       "characterId": 608,
@@ -31351,17 +33220,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 608,
       "tagId": 7,
-      "value": "Rio Tsuchiya",
+      "value": "土屋李央",
       "entries": [
         {
-          "value": "Rio Tsuchiya"
+          "value": "土屋李央"
+        },
+        {
+          "value": "つちや りお"
         }
       ]
     },
     {
       "characterId": 609,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 609,
@@ -31376,7 +33248,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 609,
       "tagId": 4,
-      "value": "Omaha"
+      "value": "奥马哈级"
     },
     {
       "characterId": 609,
@@ -31391,17 +33263,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 609,
       "tagId": 7,
-      "value": "Konomi Kohara",
+      "value": "小原好美",
       "entries": [
         {
-          "value": "Konomi Kohara"
+          "value": "小原好美"
+        },
+        {
+          "value": "こはら このみ"
         }
       ]
     },
     {
       "characterId": 610,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 610,
@@ -31416,7 +33291,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 610,
       "tagId": 4,
-      "value": "Kirov"
+      "value": "26型"
     },
     {
       "characterId": 610,
@@ -31431,17 +33306,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 610,
       "tagId": 7,
-      "value": "Ran Haruka",
+      "value": "春花",
       "entries": [
         {
-          "value": "Ran Haruka"
+          "value": "春花"
+        },
+        {
+          "value": "らん"
         }
       ]
     },
     {
       "characterId": 611,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 611,
@@ -31456,7 +33334,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 611,
       "tagId": 4,
-      "value": "Bogatyr"
+      "value": "博加特里级"
     },
     {
       "characterId": 611,
@@ -31471,17 +33349,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 611,
       "tagId": 7,
-      "value": "Mami Uchida",
+      "value": "内田爱美",
       "entries": [
         {
-          "value": "Mami Uchida"
+          "value": "内田爱美"
+        },
+        {
+          "value": "うちだ まみ"
+        },
+        {
+          "value": "内田愛美"
         }
       ]
     },
     {
       "characterId": 612,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 612,
@@ -31496,7 +33380,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 612,
       "tagId": 4,
-      "value": "Admiral Hipper"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 612,
@@ -31511,17 +33395,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 612,
       "tagId": 7,
-      "value": "Noriko Shitaya",
+      "value": "下屋则子",
       "entries": [
         {
-          "value": "Noriko Shitaya"
+          "value": "下屋则子"
+        },
+        {
+          "value": "したや のりこ"
         }
       ]
     },
     {
       "characterId": 613,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 613,
@@ -31551,17 +33438,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 613,
       "tagId": 7,
-      "value": "Rika Kinugawa",
+      "value": "衣川里佳",
       "entries": [
         {
-          "value": "Rika Kinugawa"
+          "value": "衣川里佳"
+        },
+        {
+          "value": "きぬがわ りか"
         }
       ]
     },
     {
       "characterId": 614,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 614,
@@ -31576,7 +33466,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 614,
       "tagId": 4,
-      "value": "Gangut"
+      "value": "甘古特级"
     },
     {
       "characterId": 614,
@@ -31591,17 +33481,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 614,
       "tagId": 7,
-      "value": "Fuyuka Ono",
+      "value": "大浦冬华",
       "entries": [
         {
-          "value": "Fuyuka Ono"
+          "value": "大浦冬华"
+        },
+        {
+          "value": "緒乃冬華"
         }
       ]
     },
     {
       "characterId": 615,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 615,
@@ -31616,7 +33509,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 615,
       "tagId": 4,
-      "value": "Sovetsky Soyuz"
+      "value": "23型"
     },
     {
       "characterId": 615,
@@ -31631,17 +33524,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 615,
       "tagId": 7,
-      "value": "Haruka Tomatsu",
+      "value": "户松遥",
       "entries": [
         {
-          "value": "Haruka Tomatsu"
+          "value": "户松遥"
+        },
+        {
+          "value": "とまつ はるか"
+        },
+        {
+          "value": "戸松遥"
         }
       ]
     },
     {
       "characterId": 616,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 616,
@@ -31656,7 +33555,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 616,
       "tagId": 4,
-      "value": "Sovetsky Soyuz"
+      "value": "23型"
     },
     {
       "characterId": 616,
@@ -31671,17 +33570,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 616,
       "tagId": 7,
-      "value": "Asami Seto",
+      "value": "瀬戸麻沙美",
       "entries": [
         {
-          "value": "Asami Seto"
+          "value": "瀬戸麻沙美"
+        },
+        {
+          "value": "せと あさみ"
         }
       ]
     },
     {
       "characterId": 617,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 617,
@@ -31696,7 +33598,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 617,
       "tagId": 4,
-      "value": "Sovetsky Soyuz"
+      "value": "23型"
     },
     {
       "characterId": 617,
@@ -31711,17 +33613,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 617,
       "tagId": 7,
-      "value": "Manami Numakura",
+      "value": "沼倉愛美",
       "entries": [
         {
-          "value": "Manami Numakura"
+          "value": "沼倉愛美"
         }
       ]
     },
     {
       "characterId": 618,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 618,
@@ -31736,7 +33638,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 618,
       "tagId": 4,
-      "value": "Revenge"
+      "value": "复仇级"
     },
     {
       "characterId": 618,
@@ -31751,17 +33653,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 618,
       "tagId": 7,
-      "value": "Miyu Kubota",
+      "value": "久保田未梦",
       "entries": [
         {
-          "value": "Miyu Kubota"
+          "value": "久保田未梦"
+        },
+        {
+          "value": "くぼた みゆ"
+        },
+        {
+          "value": "久保田未夢"
         }
       ]
     },
     {
       "characterId": 619,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 619,
@@ -31776,7 +33684,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 619,
       "tagId": 4,
-      "value": "Gangut"
+      "value": "甘古特级"
     },
     {
       "characterId": 619,
@@ -31791,17 +33699,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 619,
       "tagId": 7,
-      "value": "Miyu Kubota",
+      "value": "久保田未夢",
       "entries": [
         {
-          "value": "Miyu Kubota"
+          "value": "久保田未夢"
+        },
+        {
+          "value": "くぼた みゆ"
         }
       ]
     },
     {
       "characterId": 620,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 620,
@@ -31816,7 +33727,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 620,
       "tagId": 4,
-      "value": "Gangut"
+      "value": "甘古特级"
     },
     {
       "characterId": 620,
@@ -31831,17 +33742,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 620,
       "tagId": 7,
-      "value": "Sawako Hata",
+      "value": "秦佐和子",
       "entries": [
         {
-          "value": "Sawako Hata"
+          "value": "秦佐和子"
+        },
+        {
+          "value": "はた さわこ"
         }
       ]
     },
     {
       "characterId": 621,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 621,
@@ -31856,7 +33770,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 621,
       "tagId": 4,
-      "value": "Kazan"
+      "value": "21型"
     },
     {
       "characterId": 621,
@@ -31871,17 +33785,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 621,
       "tagId": 7,
-      "value": "Yuka Terasaki",
+      "value": "寺崎裕香",
       "entries": [
         {
-          "value": "Yuka Terasaki"
+          "value": "寺崎裕香"
+        },
+        {
+          "value": "てらさき ゆか"
         }
       ]
     },
     {
       "characterId": 622,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 622,
@@ -31896,7 +33813,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 622,
       "tagId": 4,
-      "value": "Volga"
+      "value": "72型"
     },
     {
       "characterId": 622,
@@ -31911,17 +33828,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 622,
       "tagId": 7,
-      "value": "Noriko Shibasaki",
+      "value": "芝崎典子",
       "entries": [
         {
-          "value": "Noriko Shibasaki"
+          "value": "芝崎典子"
+        },
+        {
+          "value": "しばさき のりこ"
         }
       ]
     },
     {
       "characterId": 623,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 623,
@@ -31936,7 +33856,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 623,
       "tagId": 4,
-      "value": "Kronshtadt"
+      "value": "69型"
     },
     {
       "characterId": 623,
@@ -31951,17 +33871,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 623,
       "tagId": 7,
-      "value": "Kaede Hondo",
+      "value": "本渡枫",
       "entries": [
         {
-          "value": "Kaede Hondo"
+          "value": "本渡枫"
+        },
+        {
+          "value": "ほんど かえで"
+        },
+        {
+          "value": "本渡楓"
         }
       ]
     },
     {
       "characterId": 624,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 624,
@@ -31976,7 +33902,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 624,
       "tagId": 4,
-      "value": "Chkalov"
+      "value": "71B型"
     },
     {
       "characterId": 624,
@@ -31991,17 +33917,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 624,
       "tagId": 7,
-      "value": "Ryoka Yuzuki",
+      "value": "柚木凉香",
       "entries": [
         {
-          "value": "Ryoka Yuzuki"
+          "value": "柚木凉香"
+        },
+        {
+          "value": "ゆずき りょうか"
         }
       ]
     },
     {
       "characterId": 625,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 625,
@@ -32016,7 +33945,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 625,
       "tagId": 4,
-      "value": "Admiral Nakhimov"
+      "value": "23AV型"
     },
     {
       "characterId": 625,
@@ -32031,17 +33960,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 625,
       "tagId": 7,
-      "value": "Chika Anzai",
+      "value": "安济知佳",
       "entries": [
         {
-          "value": "Chika Anzai"
+          "value": "安济知佳"
+        },
+        {
+          "value": "あんざい ちか"
+        },
+        {
+          "value": "安済知佳"
         }
       ]
     },
     {
       "characterId": 626,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 626,
@@ -32056,7 +33991,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 626,
       "tagId": 4,
-      "value": "Dmitri Donskoi"
+      "value": "65型"
     },
     {
       "characterId": 626,
@@ -32071,17 +34006,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 626,
       "tagId": 7,
-      "value": "Miyari Nemoto",
+      "value": "根本京里",
       "entries": [
         {
-          "value": "Miyari Nemoto"
+          "value": "根本京里"
+        },
+        {
+          "value": "ねもと みやり"
         }
       ]
     },
     {
       "characterId": 627,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 627,
@@ -32096,7 +34034,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 627,
       "tagId": 4,
-      "value": "Le Fantasque"
+      "value": "空想级"
     },
     {
       "characterId": 627,
@@ -32111,17 +34049,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 627,
       "tagId": 7,
-      "value": "Sora Amamiya",
+      "value": "雨宫天",
       "entries": [
         {
-          "value": "Sora Amamiya"
+          "value": "雨宫天"
+        },
+        {
+          "value": "あまみや そら"
         }
       ]
     },
     {
       "characterId": 628,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 628,
@@ -32136,7 +34077,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 628,
       "tagId": 4,
-      "value": "L'Adroit"
+      "value": "机敏级"
     },
     {
       "characterId": 628,
@@ -32151,17 +34092,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 628,
       "tagId": 7,
-      "value": "Akiko Hasegawa",
+      "value": "长谷川明子",
       "entries": [
         {
-          "value": "Akiko Hasegawa"
+          "value": "长谷川明子"
         }
       ]
     },
     {
       "characterId": 629,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 629,
@@ -32176,7 +34117,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 629,
       "tagId": 4,
-      "value": "Le Hardi"
+      "value": "大胆级"
     },
     {
       "characterId": 629,
@@ -32191,17 +34132,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 629,
       "tagId": 7,
-      "value": "Mai Goto",
+      "value": "后藤麻衣",
       "entries": [
         {
-          "value": "Mai Goto"
+          "value": "后藤麻衣"
+        },
+        {
+          "value": "ごとう まい"
+        },
+        {
+          "value": "别称"
         }
       ]
     },
     {
       "characterId": 630,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 630,
@@ -32216,7 +34163,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 630,
       "tagId": 4,
-      "value": "Le Hardi"
+      "value": "大胆级"
     },
     {
       "characterId": 630,
@@ -32231,17 +34178,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 630,
       "tagId": 7,
-      "value": "Mai Goto",
+      "value": "后藤麻衣",
       "entries": [
         {
-          "value": "Mai Goto"
+          "value": "后藤麻衣"
+        },
+        {
+          "value": "ごとう まい"
+        },
+        {
+          "value": "别称"
         }
       ]
     },
     {
       "characterId": 631,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 631,
@@ -32256,7 +34209,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 631,
       "tagId": 4,
-      "value": "L'Intrépide"
+      "value": "大胆级"
     },
     {
       "characterId": 631,
@@ -32271,17 +34224,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 631,
       "tagId": 7,
-      "value": "Saya Aizawa",
+      "value": "会泽纱弥",
       "entries": [
         {
-          "value": "Saya Aizawa"
+          "value": "会泽纱弥"
+        },
+        {
+          "value": "会沢紗弥"
         }
       ]
     },
     {
       "characterId": 632,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 632,
@@ -32296,7 +34252,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 632,
       "tagId": 4,
-      "value": "Le Fantasque"
+      "value": "空想级"
     },
     {
       "characterId": 632,
@@ -32311,17 +34267,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 632,
       "tagId": 7,
-      "value": "Kaori Maeda",
+      "value": "前田佳织里",
       "entries": [
         {
-          "value": "Kaori Maeda"
+          "value": "前田佳织里"
+        },
+        {
+          "value": "まえだ かおり"
+        },
+        {
+          "value": "前田佳織里"
         }
       ]
     },
     {
       "characterId": 633,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 633,
@@ -32336,7 +34298,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 633,
       "tagId": 4,
-      "value": "Vauquelin"
+      "value": "沃克兰级"
     },
     {
       "characterId": 633,
@@ -32351,17 +34313,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 633,
       "tagId": 7,
-      "value": "Minami Fujii",
+      "value": "藤井美波",
       "entries": [
         {
-          "value": "Minami Fujii"
+          "value": "藤井美波"
+        },
+        {
+          "value": "ふじい みなみ"
         }
       ]
     },
     {
       "characterId": 634,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 634,
@@ -32376,7 +34341,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 634,
       "tagId": 4,
-      "value": "Le Hardi"
+      "value": "大胆级"
     },
     {
       "characterId": 634,
@@ -32391,17 +34356,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 634,
       "tagId": 7,
-      "value": "Mai Goto",
+      "value": "后藤麻衣",
       "entries": [
         {
-          "value": "Mai Goto"
+          "value": "后藤麻衣"
+        },
+        {
+          "value": "ごとう まい"
+        },
+        {
+          "value": "别称"
         }
       ]
     },
     {
       "characterId": 635,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 635,
@@ -32431,17 +34402,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 635,
       "tagId": 7,
-      "value": "Reina Ueda",
+      "value": "上田丽奈",
       "entries": [
         {
-          "value": "Reina Ueda"
+          "value": "上田丽奈"
+        },
+        {
+          "value": "うえだ れいな"
         }
       ]
     },
     {
       "characterId": 636,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 636,
@@ -32471,17 +34445,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 636,
       "tagId": 7,
-      "value": "Atsumi Tanezaki",
+      "value": "种崎敦美",
       "entries": [
         {
-          "value": "Atsumi Tanezaki"
+          "value": "种崎敦美"
         }
       ]
     },
     {
       "characterId": 637,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 637,
@@ -32496,7 +34470,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 637,
       "tagId": 4,
-      "value": "De Grasse"
+      "value": "德·格拉斯级"
     },
     {
       "characterId": 637,
@@ -32511,17 +34485,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 637,
       "tagId": 7,
-      "value": "Aya Yamane",
+      "value": "山根绮",
       "entries": [
         {
-          "value": "Aya Yamane"
+          "value": "山根绮"
+        },
+        {
+          "value": "やまねあや"
+        },
+        {
+          "value": "山根綺"
         }
       ]
     },
     {
       "characterId": 638,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 638,
@@ -32536,7 +34516,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 638,
       "tagId": 4,
-      "value": "Duguay-Trouin"
+      "value": "迪盖·特鲁因级"
     },
     {
       "characterId": 638,
@@ -32551,17 +34531,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 638,
       "tagId": 7,
-      "value": "Marika Tachibana",
+      "value": "橘茉莉花",
       "entries": [
         {
-          "value": "Marika Tachibana"
+          "value": "橘茉莉花"
+        },
+        {
+          "value": "たちばな まりか"
+        },
+        {
+          "value": "鈴木毬花"
         }
       ]
     },
     {
       "characterId": 639,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 639,
@@ -32576,7 +34562,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 639,
       "tagId": 4,
-      "value": "Suffren"
+      "value": "絮弗伦级"
     },
     {
       "characterId": 639,
@@ -32591,17 +34577,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 639,
       "tagId": 7,
-      "value": "Fūka Izumi",
+      "value": "和泉风花",
       "entries": [
         {
-          "value": "Fūka Izumi"
+          "value": "和泉风花"
+        },
+        {
+          "value": "いずみ ふか"
+        },
+        {
+          "value": "和泉風花"
         }
       ]
     },
     {
       "characterId": 640,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 640,
@@ -32631,17 +34623,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 640,
       "tagId": 7,
-      "value": "Sayaka Kikuchi",
+      "value": "菊池纱矢香",
       "entries": [
         {
-          "value": "Sayaka Kikuchi"
+          "value": "菊池纱矢香"
+        },
+        {
+          "value": "きくち さやか"
+        },
+        {
+          "value": "菊池紗矢香"
         }
       ]
     },
     {
       "characterId": 641,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 641,
@@ -32656,7 +34654,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 641,
       "tagId": 4,
-      "value": "Duquesne"
+      "value": "迪凯纳级"
     },
     {
       "characterId": 641,
@@ -32671,17 +34669,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 641,
       "tagId": 7,
-      "value": "Rie Kawamura",
+      "value": "河村梨惠",
       "entries": [
         {
-          "value": "Rie Kawamura"
+          "value": "河村梨惠"
+        },
+        {
+          "value": "かわむら りえ"
+        },
+        {
+          "value": "河村梨恵"
         }
       ]
     },
     {
       "characterId": 642,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 642,
@@ -32711,17 +34715,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 642,
       "tagId": 7,
-      "value": "Coco Hayashi",
+      "value": "林鼓子",
       "entries": [
         {
-          "value": "Coco Hayashi"
+          "value": "林鼓子"
+        },
+        {
+          "value": "はやし ここ"
         }
       ]
     },
     {
       "characterId": 643,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 643,
@@ -32736,7 +34743,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 643,
       "tagId": 4,
-      "value": "Richelieu"
+      "value": "黎塞留级"
     },
     {
       "characterId": 643,
@@ -32751,17 +34758,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 643,
       "tagId": 7,
-      "value": "Marina Inoue",
+      "value": "井上麻里奈",
       "entries": [
         {
-          "value": "Marina Inoue"
+          "value": "井上麻里奈"
+        },
+        {
+          "value": "いのうえ まりな"
         }
       ]
     },
     {
       "characterId": 644,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 644,
@@ -32776,7 +34786,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 644,
       "tagId": 4,
-      "value": "Lyon"
+      "value": "里昂级"
     },
     {
       "characterId": 644,
@@ -32791,17 +34801,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 644,
       "tagId": 7,
-      "value": "Karin Isobe",
+      "value": "礒部花凛",
       "entries": [
         {
-          "value": "Karin Isobe"
+          "value": "礒部花凛"
+        },
+        {
+          "value": "いそべ かりん"
+        },
+        {
+          "value": "礒部花凜"
         }
       ]
     },
     {
       "characterId": 645,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 645,
@@ -32816,7 +34832,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 645,
       "tagId": 4,
-      "value": "Alsace"
+      "value": "阿尔萨斯级"
     },
     {
       "characterId": 645,
@@ -32831,17 +34847,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 645,
       "tagId": 7,
-      "value": "Aki Toyosaki",
+      "value": "丰崎爱生",
       "entries": [
         {
-          "value": "Aki Toyosaki"
+          "value": "丰崎爱生"
+        },
+        {
+          "value": "とよさき あき"
+        },
+        {
+          "value": "豊崎愛生"
         }
       ]
     },
     {
       "characterId": 646,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 646,
@@ -32856,7 +34878,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 646,
       "tagId": 4,
-      "value": "Independence"
+      "value": "独立级"
     },
     {
       "characterId": 646,
@@ -32871,17 +34893,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 646,
       "tagId": 7,
-      "value": "Yuu Wakui",
+      "value": "和久井优",
       "entries": [
         {
-          "value": "Yuu Wakui"
+          "value": "和久井优"
+        },
+        {
+          "value": "わくい ゆう"
+        },
+        {
+          "value": "和久井優"
         }
       ]
     },
     {
       "characterId": 647,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 647,
@@ -32896,7 +34924,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 647,
       "tagId": 4,
-      "value": "Béarn"
+      "value": "诺曼底级"
     },
     {
       "characterId": 647,
@@ -32911,17 +34939,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 647,
       "tagId": 7,
-      "value": "Asami Takano",
+      "value": "高野麻美",
       "entries": [
         {
-          "value": "Asami Takano"
+          "value": "高野麻美"
+        },
+        {
+          "value": "たかの あさみ"
+        },
+        {
+          "value": "髙野麻美"
         }
       ]
     },
     {
       "characterId": 648,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 648,
@@ -32936,7 +34970,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 648,
       "tagId": 4,
-      "value": "Joffre"
+      "value": "霞飞级"
     },
     {
       "characterId": 648,
@@ -32951,17 +34985,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 648,
       "tagId": 7,
-      "value": "Yuka Nukui",
+      "value": "贯井柚佳",
       "entries": [
         {
-          "value": "Yuka Nukui"
+          "value": "贯井柚佳"
+        },
+        {
+          "value": "ぬくい ゆか"
+        },
+        {
+          "value": "貫井柚佳"
         }
       ]
     },
     {
       "characterId": 649,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 649,
@@ -32991,17 +35031,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 649,
       "tagId": 7,
-      "value": "Manami Numakura",
+      "value": "沼仓爱美",
       "entries": [
         {
-          "value": "Manami Numakura"
+          "value": "沼仓爱美"
         }
       ]
     },
     {
       "characterId": 650,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 650,
@@ -33031,17 +35071,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 650,
       "tagId": 7,
-      "value": "Asami Seto",
+      "value": "瀬戸麻沙美",
       "entries": [
         {
-          "value": "Asami Seto"
+          "value": "瀬戸麻沙美"
+        },
+        {
+          "value": "せと あさみ"
         }
       ]
     },
     {
       "characterId": 651,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 651,
@@ -33056,7 +35099,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 651,
       "tagId": 4,
-      "value": "Champagne"
+      "value": "黎塞留级"
     },
     {
       "characterId": 651,
@@ -33071,17 +35114,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 651,
       "tagId": 7,
-      "value": "Lynn",
+      "value": "りん",
       "entries": [
         {
-          "value": "Lynn"
+          "value": "りん"
         }
       ]
     },
     {
       "characterId": 652,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 652,
@@ -33096,7 +35139,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 652,
       "tagId": 4,
-      "value": "Brest"
+      "value": "敦刻尔克级"
     },
     {
       "characterId": 652,
@@ -33111,17 +35154,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 652,
       "tagId": 7,
-      "value": "Sayaka Senbongi",
+      "value": "千本木彩花",
       "entries": [
         {
-          "value": "Sayaka Senbongi"
+          "value": "千本木彩花"
+        },
+        {
+          "value": "せんぼんぎ さやか"
         }
       ]
     },
     {
       "characterId": 653,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 653,
@@ -33151,17 +35197,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 653,
       "tagId": 7,
-      "value": "Megumi Han",
+      "value": "潘惠美",
       "entries": [
         {
-          "value": "Megumi Han"
+          "value": "潘惠美"
+        },
+        {
+          "value": "潘 めぐみ"
+        },
+        {
+          "value": "はん めぐみ"
         }
       ]
     },
     {
       "characterId": 654,
       "tagId": 1,
-      "value": "稀有"
+      "value": "R"
     },
     {
       "characterId": 654,
@@ -33176,7 +35228,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 654,
       "tagId": 4,
-      "value": "L'Adroit"
+      "value": "机敏级"
     },
     {
       "characterId": 654,
@@ -33191,17 +35243,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 654,
       "tagId": 7,
-      "value": "Akiko Hasegawa",
+      "value": "长谷川明子",
       "entries": [
         {
-          "value": "Akiko Hasegawa"
+          "value": "长谷川明子"
         }
       ]
     },
     {
       "characterId": 655,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 655,
@@ -33216,7 +35268,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 655,
       "tagId": 4,
-      "value": "Vauquelin"
+      "value": "沃克兰级"
     },
     {
       "characterId": 655,
@@ -33231,17 +35283,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 655,
       "tagId": 7,
-      "value": "Eri Yukimura",
+      "value": "幸村惠理",
       "entries": [
         {
-          "value": "Eri Yukimura"
+          "value": "幸村惠理"
         }
       ]
     },
     {
       "characterId": 656,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 656,
@@ -33256,7 +35308,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 656,
       "tagId": 4,
-      "value": "Vauquelin"
+      "value": "沃克兰级"
     },
     {
       "characterId": 656,
@@ -33271,17 +35323,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 656,
       "tagId": 7,
-      "value": "Eri Yukimura",
+      "value": "幸村惠理",
       "entries": [
         {
-          "value": "Eri Yukimura"
+          "value": "幸村惠理"
         }
       ]
     },
     {
       "characterId": 657,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 657,
@@ -33296,7 +35348,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 657,
       "tagId": 4,
-      "value": "Vauquelin"
+      "value": "沃克兰级"
     },
     {
       "characterId": 657,
@@ -33311,17 +35363,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 657,
       "tagId": 7,
-      "value": "Yuka Iwahashi",
+      "value": "岩桥由佳",
       "entries": [
         {
-          "value": "Yuka Iwahashi"
+          "value": "岩桥由佳"
+        },
+        {
+          "value": "いわはし ゆか"
+        },
+        {
+          "value": "岩橋由佳"
         }
       ]
     },
     {
       "characterId": 658,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 658,
@@ -33336,7 +35394,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 658,
       "tagId": 4,
-      "value": "Le Hardi"
+      "value": "大胆级"
     },
     {
       "characterId": 658,
@@ -33351,17 +35409,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 658,
       "tagId": 7,
-      "value": "Miria Takagishi",
+      "value": "高岸美里亜",
       "entries": [
         {
-          "value": "Miria Takagishi"
+          "value": "高岸美里亜"
+        },
+        {
+          "value": "たかぎし みりあ"
         }
       ]
     },
     {
       "characterId": 659,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 659,
@@ -33376,7 +35437,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 659,
       "tagId": 4,
-      "value": "Le Hardi"
+      "value": "大胆级"
     },
     {
       "characterId": 659,
@@ -33391,17 +35452,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 659,
       "tagId": 7,
-      "value": "Minami Kurisaka",
+      "value": "栗坂南美",
       "entries": [
         {
-          "value": "Minami Kurisaka"
+          "value": "栗坂南美"
+        },
+        {
+          "value": "くりさか みなみ"
         }
       ]
     },
     {
       "characterId": 660,
       "tagId": 1,
-      "value": "海上传奇"
+      "value": "UR"
     },
     {
       "characterId": 660,
@@ -33416,7 +35480,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 660,
       "tagId": 4,
-      "value": "Mogador"
+      "value": "莫加多尔级"
     },
     {
       "characterId": 660,
@@ -33431,17 +35495,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 660,
       "tagId": 7,
-      "value": "Mari Hino",
+      "value": "日野麻里",
       "entries": [
         {
-          "value": "Mari Hino"
+          "value": "日野麻里"
+        },
+        {
+          "value": "日野 まり"
+        },
+        {
+          "value": "ひの まり"
         }
       ]
     },
     {
       "characterId": 661,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 661,
@@ -33456,7 +35526,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 661,
       "tagId": 4,
-      "value": "Le Fantasque"
+      "value": "空想级"
     },
     {
       "characterId": 661,
@@ -33471,17 +35541,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 661,
       "tagId": 7,
-      "value": "Haruka Shiraishi",
+      "value": "白石晴香",
       "entries": [
         {
-          "value": "Haruka Shiraishi"
+          "value": "白石晴香"
         }
       ]
     },
     {
       "characterId": 662,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 662,
@@ -33496,7 +35566,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 662,
       "tagId": 4,
-      "value": "Le Fantasque"
+      "value": "空想级"
     },
     {
       "characterId": 662,
@@ -33511,17 +35581,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 662,
       "tagId": 7,
-      "value": "Haruka Shiraishi",
+      "value": "白石晴香",
       "entries": [
         {
-          "value": "Haruka Shiraishi"
+          "value": "白石晴香"
         }
       ]
     },
     {
       "characterId": 663,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 663,
@@ -33536,7 +35606,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 663,
       "tagId": 4,
-      "value": "Le Fantasque"
+      "value": "空想级"
     },
     {
       "characterId": 663,
@@ -33551,17 +35621,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 663,
       "tagId": 7,
-      "value": "Ayumi Tsuji",
+      "value": "辻步美",
       "entries": [
         {
-          "value": "Ayumi Tsuji"
+          "value": "辻步美"
+        },
+        {
+          "value": "辻 あゆみ"
         }
       ]
     },
     {
       "characterId": 664,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 664,
@@ -33576,7 +35649,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 664,
       "tagId": 4,
-      "value": "Le Fantasque"
+      "value": "空想级"
     },
     {
       "characterId": 664,
@@ -33591,17 +35664,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 664,
       "tagId": 7,
-      "value": "Akari Miyazaki",
+      "value": "宫咲明里",
       "entries": [
         {
-          "value": "Akari Miyazaki"
+          "value": "宫咲明里"
+        },
+        {
+          "value": "宮咲 あかり"
+        },
+        {
+          "value": "みやざき あかり"
         }
       ]
     },
     {
       "characterId": 665,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 665,
@@ -33616,7 +35695,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 665,
       "tagId": 4,
-      "value": "La Galissonnière"
+      "value": "拉·加利索尼埃级"
     },
     {
       "characterId": 665,
@@ -33631,17 +35710,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 665,
       "tagId": 7,
-      "value": "Yui Makino",
+      "value": "牧野由依",
       "entries": [
         {
-          "value": "Yui Makino"
+          "value": "牧野由依"
         }
       ]
     },
     {
       "characterId": 666,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 666,
@@ -33656,7 +35735,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 666,
       "tagId": 4,
-      "value": "La Galissonnière"
+      "value": "拉·加利索尼埃级"
     },
     {
       "characterId": 666,
@@ -33671,17 +35750,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 666,
       "tagId": 7,
-      "value": "Yui Makino",
+      "value": "牧野由依",
       "entries": [
         {
-          "value": "Yui Makino"
+          "value": "牧野由依"
         }
       ]
     },
     {
       "characterId": 667,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 667,
@@ -33696,7 +35775,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 667,
       "tagId": 4,
-      "value": "Suffren"
+      "value": "絮弗伦级"
     },
     {
       "characterId": 667,
@@ -33711,17 +35790,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 667,
       "tagId": 7,
-      "value": "Aino Shimada",
+      "value": "岛田爱野",
       "entries": [
         {
-          "value": "Aino Shimada"
+          "value": "岛田爱野"
+        },
+        {
+          "value": "しまだ あいの"
+        },
+        {
+          "value": "島田愛野"
         }
       ]
     },
     {
       "characterId": 668,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 668,
@@ -33751,17 +35836,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 668,
       "tagId": 7,
-      "value": "Shizuka Itou",
+      "value": "伊藤静",
       "entries": [
         {
-          "value": "Shizuka Itou"
+          "value": "伊藤静"
         }
       ]
     },
     {
       "characterId": 669,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 669,
@@ -33776,7 +35861,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 669,
       "tagId": 4,
-      "value": "Suffren"
+      "value": "絮弗伦级"
     },
     {
       "characterId": 669,
@@ -33791,17 +35876,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 669,
       "tagId": 7,
-      "value": "Emi Hirayama",
+      "value": "平山笑美",
       "entries": [
         {
-          "value": "Emi Hirayama"
+          "value": "平山笑美"
+        },
+        {
+          "value": "ひらやま えみ"
         }
       ]
     },
     {
       "characterId": 670,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 670,
@@ -33816,7 +35904,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 670,
       "tagId": 4,
-      "value": "Dunkerque"
+      "value": "敦刻尔克级"
     },
     {
       "characterId": 670,
@@ -33831,17 +35919,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 670,
       "tagId": 7,
-      "value": "Sayaka Harada",
+      "value": "原田彩枫",
       "entries": [
         {
-          "value": "Sayaka Harada"
+          "value": "原田彩枫"
+        },
+        {
+          "value": "はらた さやか"
+        },
+        {
+          "value": "原田彩楓"
         }
       ]
     },
     {
       "characterId": 671,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 671,
@@ -33856,7 +35950,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 671,
       "tagId": 4,
-      "value": "Dunkerque"
+      "value": "敦刻尔克级"
     },
     {
       "characterId": 671,
@@ -33871,17 +35965,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 671,
       "tagId": 7,
-      "value": "Ikumi Hasegawa",
+      "value": "长谷川育美",
       "entries": [
         {
-          "value": "Ikumi Hasegawa"
+          "value": "长谷川育美"
+        },
+        {
+          "value": "はせがわ いくみ"
+        },
+        {
+          "value": "長谷川育美"
         }
       ]
     },
     {
       "characterId": 672,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 672,
@@ -33896,7 +35996,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 672,
       "tagId": 4,
-      "value": "Richelieu"
+      "value": "黎塞留级"
     },
     {
       "characterId": 672,
@@ -33911,17 +36011,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 672,
       "tagId": 7,
-      "value": "Marina Inoue",
+      "value": "井上麻里奈",
       "entries": [
         {
-          "value": "Marina Inoue"
+          "value": "井上麻里奈"
         }
       ]
     },
     {
       "characterId": 673,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 673,
@@ -33936,7 +36036,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 673,
       "tagId": 4,
-      "value": "Richelieu"
+      "value": "黎塞留级"
     },
     {
       "characterId": 673,
@@ -33951,17 +36051,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 673,
       "tagId": 7,
-      "value": "Yurina Amami",
+      "value": "天海由梨奈",
       "entries": [
         {
-          "value": "Yurina Amami"
+          "value": "天海由梨奈"
+        },
+        {
+          "value": "あまみ ゆりな"
         }
       ]
     },
     {
       "characterId": 674,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 674,
@@ -33976,7 +36079,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 674,
       "tagId": 4,
-      "value": "Richelieu"
+      "value": "黎塞留级"
     },
     {
       "characterId": 674,
@@ -33991,17 +36094,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 674,
       "tagId": 7,
-      "value": "Mikako Komatsu",
+      "value": "小松未可子",
       "entries": [
         {
-          "value": "Mikako Komatsu"
+          "value": "小松未可子"
+        },
+        {
+          "value": "こまつ みかこ"
         }
       ]
     },
     {
       "characterId": 675,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 675,
@@ -34016,7 +36122,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 675,
       "tagId": 4,
-      "value": "Joffre"
+      "value": "霞飞级"
     },
     {
       "characterId": 675,
@@ -34031,17 +36137,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 675,
       "tagId": 7,
-      "value": "Ayumi Mano",
+      "value": "真野步",
       "entries": [
         {
-          "value": "Ayumi Mano"
+          "value": "真野步"
+        },
+        {
+          "value": "真野 あゆみ"
         }
       ]
     },
     {
       "characterId": 676,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 676,
@@ -34056,7 +36165,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 676,
       "tagId": 4,
-      "value": "Richelieu"
+      "value": "黎塞留级"
     },
     {
       "characterId": 676,
@@ -34071,17 +36180,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 676,
       "tagId": 7,
-      "value": "Mikako Komatsu",
+      "value": "小松未可子",
       "entries": [
         {
-          "value": "Mikako Komatsu"
+          "value": "小松未可子"
+        },
+        {
+          "value": "こまつ みかこ"
         }
       ]
     },
     {
       "characterId": 677,
       "tagId": 1,
-      "value": "最高方案"
+      "value": "PR"
     },
     {
       "characterId": 677,
@@ -34096,7 +36208,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 677,
       "tagId": 4,
-      "value": "Alsace"
+      "value": "阿尔萨斯级"
     },
     {
       "characterId": 677,
@@ -34121,7 +36233,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 678,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 678,
@@ -34136,7 +36248,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 678,
       "tagId": 4,
-      "value": "Admiralen"
+      "value": "海军上将级"
     },
     {
       "characterId": 678,
@@ -34151,17 +36263,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 678,
       "tagId": 7,
-      "value": "Haruna Mikawa",
+      "value": "三川华月",
       "entries": [
         {
-          "value": "Haruna Mikawa"
+          "value": "三川华月"
+        },
+        {
+          "value": "みかわ はるな"
+        },
+        {
+          "value": "三川華月"
         }
       ]
     },
     {
       "characterId": 679,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 679,
@@ -34176,7 +36294,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 679,
       "tagId": 4,
-      "value": "De Zeven Provinciën"
+      "value": "七省级"
     },
     {
       "characterId": 679,
@@ -34191,17 +36309,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 679,
       "tagId": 7,
-      "value": "Kana Hanaiwa",
+      "value": "花岩香奈",
       "entries": [
         {
-          "value": "Kana Hanaiwa"
+          "value": "花岩香奈"
+        },
+        {
+          "value": "ハナイワ カナ"
         }
       ]
     },
     {
       "characterId": 680,
       "tagId": 1,
-      "value": "决战方案"
+      "value": "DR"
     },
     {
       "characterId": 680,
@@ -34231,17 +36352,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 680,
       "tagId": 7,
-      "value": "Kikuko Inoue",
+      "value": "井上喜久子",
       "entries": [
         {
-          "value": "Kikuko Inoue"
+          "value": "井上喜久子"
+        },
+        {
+          "value": "いのうえ きくこ"
         }
       ]
     },
     {
       "characterId": 681,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 681,
@@ -34256,7 +36380,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 681,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 681,
@@ -34271,17 +36395,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 681,
       "tagId": 7,
-      "value": "Marina Inoue",
+      "value": "井上麻里奈",
       "entries": [
         {
-          "value": "Marina Inoue"
+          "value": "井上麻里奈"
+        },
+        {
+          "value": "いのうえ まりな"
         }
       ]
     },
     {
       "characterId": 682,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 682,
@@ -34296,7 +36423,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 682,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 682,
@@ -34311,17 +36438,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 682,
       "tagId": 7,
-      "value": "Misuzu Togashi",
+      "value": "富樫美铃",
       "entries": [
         {
-          "value": "Misuzu Togashi"
+          "value": "富樫美铃"
+        },
+        {
+          "value": "とがし みすず"
+        },
+        {
+          "value": "富樫美鈴"
         }
       ]
     },
     {
       "characterId": 683,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 683,
@@ -34336,7 +36469,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 683,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 683,
@@ -34351,17 +36484,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 683,
       "tagId": 7,
-      "value": "Ayana Taketatsu",
+      "value": "竹达彩奈",
       "entries": [
         {
-          "value": "Ayana Taketatsu"
+          "value": "竹达彩奈"
+        },
+        {
+          "value": "たけたつ あやな"
+        },
+        {
+          "value": "竹達彩奈"
         }
       ]
     },
     {
       "characterId": 684,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 684,
@@ -34376,7 +36515,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 684,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 684,
@@ -34391,17 +36530,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 684,
       "tagId": 7,
-      "value": "Iori Nomizu",
+      "value": "野水伊织",
       "entries": [
         {
-          "value": "Iori Nomizu"
+          "value": "野水伊织"
+        },
+        {
+          "value": "のみず いおり"
+        },
+        {
+          "value": "野水伊織"
         }
       ]
     },
     {
       "characterId": 685,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 685,
@@ -34416,7 +36561,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 685,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 685,
@@ -34431,17 +36576,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 685,
       "tagId": 7,
-      "value": "Asami Sanada",
+      "value": "真田麻美",
       "entries": [
         {
-          "value": "Asami Sanada"
+          "value": "真田麻美"
+        },
+        {
+          "value": "真田 アサミ"
+        },
+        {
+          "value": "さなだ あさみ"
         }
       ]
     },
     {
       "characterId": 686,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 686,
@@ -34456,7 +36607,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 686,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 686,
@@ -34471,20 +36622,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 686,
       "tagId": 7,
-      "value": "Maaya Uchida",
+      "value": "内田真礼",
       "entries": [
         {
-          "value": "Maaya Uchida"
+          "value": "内田真礼"
         },
         {
-          "value": "Sarah Emi Bridcutt"
+          "value": "内田 真礼 うちだ まあや"
+        },
+        {
+          "value": "布里德卡特·塞拉·惠美"
         }
       ]
     },
     {
       "characterId": 687,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 687,
@@ -34499,7 +36653,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 687,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 687,
@@ -34514,17 +36668,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 687,
       "tagId": 7,
-      "value": "Aimi Tanaka",
+      "value": "田中",
       "entries": [
         {
-          "value": "Aimi Tanaka"
+          "value": "田中"
+        },
+        {
+          "value": "あいみ"
         }
       ]
     },
     {
       "characterId": 688,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 688,
@@ -34539,7 +36696,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 688,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 688,
@@ -34554,17 +36711,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 688,
       "tagId": 7,
-      "value": "Wakana Kuramochi",
+      "value": "仓持若菜",
       "entries": [
         {
-          "value": "Wakana Kuramochi"
+          "value": "仓持若菜"
+        },
+        {
+          "value": "くらもち わかな"
+        },
+        {
+          "value": "倉持若菜"
         }
       ]
     },
     {
       "characterId": 689,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 689,
@@ -34579,7 +36742,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 689,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 689,
@@ -34594,17 +36757,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 689,
       "tagId": 7,
-      "value": "Yuka Hinata",
+      "value": "陽向葵",
       "entries": [
         {
-          "value": "Yuka Hinata"
+          "value": "陽向葵"
+        },
+        {
+          "value": "ひなた ゅか"
         }
       ]
     },
     {
       "characterId": 690,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 690,
@@ -34619,7 +36785,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 690,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 690,
@@ -34634,17 +36800,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 690,
       "tagId": 7,
-      "value": "Hinata Sato",
+      "value": "佐藤日向",
       "entries": [
         {
-          "value": "Hinata Sato"
+          "value": "佐藤日向"
+        },
+        {
+          "value": "さとう ひなた"
         }
       ]
     },
     {
       "characterId": 691,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 691,
@@ -34659,7 +36828,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 691,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 691,
@@ -34674,17 +36843,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 691,
       "tagId": 7,
-      "value": "Rina Kawaguchi",
+      "value": "川口莉奈",
       "entries": [
         {
-          "value": "Rina Kawaguchi"
+          "value": "川口莉奈"
+        },
+        {
+          "value": "かわぐち りな"
         }
       ]
     },
     {
       "characterId": 692,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 692,
@@ -34714,17 +36886,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 692,
       "tagId": 7,
-      "value": "Ikumi Hayama",
+      "value": "叶山郁美",
       "entries": [
         {
-          "value": "Ikumi Hayama"
+          "value": "叶山郁美"
+        },
+        {
+          "value": "葉山 いくみ"
+        },
+        {
+          "value": "はやま いくみ"
         }
       ]
     },
     {
       "characterId": 693,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 693,
@@ -34739,7 +36917,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 693,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 693,
@@ -34754,17 +36932,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 693,
       "tagId": 7,
-      "value": "Sora Tokui",
+      "value": "德井青空",
       "entries": [
         {
-          "value": "Sora Tokui"
+          "value": "德井青空"
+        },
+        {
+          "value": "とくい そら"
+        },
+        {
+          "value": "徳井青空"
         }
       ]
     },
     {
       "characterId": 694,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 694,
@@ -34779,7 +36963,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 694,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 694,
@@ -34794,17 +36978,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 694,
       "tagId": 7,
-      "value": "Tsubame Yuzuki",
+      "value": "柚木燕",
       "entries": [
         {
-          "value": "Tsubame Yuzuki"
+          "value": "柚木燕"
+        },
+        {
+          "value": "柚木 つばめ"
         }
       ]
     },
     {
       "characterId": 695,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 695,
@@ -34819,7 +37006,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 695,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 695,
@@ -34834,17 +37021,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 695,
       "tagId": 7,
-      "value": "Konomi Inagaki",
+      "value": "稻垣好",
       "entries": [
         {
-          "value": "Konomi Inagaki"
+          "value": "稻垣好"
+        },
+        {
+          "value": "いながき このみ"
+        },
+        {
+          "value": "稲垣好"
         }
       ]
     },
     {
       "characterId": 696,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 696,
@@ -34859,7 +37052,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 696,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 696,
@@ -34874,17 +37067,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 696,
       "tagId": 7,
-      "value": "Ryouko Jyuni",
+      "value": "十二稜子",
       "entries": [
         {
-          "value": "Ryouko Jyuni"
+          "value": "十二稜子"
+        },
+        {
+          "value": "じゅうに りょうこ"
         }
       ]
     },
     {
       "characterId": 697,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 697,
@@ -34899,7 +37095,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 697,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 697,
@@ -34914,17 +37110,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 697,
       "tagId": 7,
-      "value": "Asuka Shioiri",
+      "value": "汐入明日香",
       "entries": [
         {
-          "value": "Asuka Shioiri"
+          "value": "汐入明日香"
+        },
+        {
+          "value": "汐入 あすか"
+        },
+        {
+          "value": "しおいり あすか"
         }
       ]
     },
     {
       "characterId": 698,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 698,
@@ -34954,17 +37156,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 698,
       "tagId": 7,
-      "value": "Amachi Haru",
+      "value": "天知遥",
       "entries": [
         {
-          "value": "Amachi Haru"
+          "value": "天知遥"
+        },
+        {
+          "value": "あまち はる"
+        },
+        {
+          "value": "网站"
         }
       ]
     },
     {
       "characterId": 699,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 699,
@@ -34994,17 +37202,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 699,
       "tagId": 7,
-      "value": "Yano Yumika",
+      "value": "矢野优美华",
       "entries": [
         {
-          "value": "Yano Yumika"
+          "value": "矢野优美华"
+        },
+        {
+          "value": "やの ゆみか"
+        },
+        {
+          "value": "矢野優美華"
         }
       ]
     },
     {
       "characterId": 700,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 700,
@@ -35034,17 +37248,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 700,
       "tagId": 7,
-      "value": "Narumi Aisaka",
+      "value": "逢坂成美",
       "entries": [
         {
-          "value": "Narumi Aisaka"
+          "value": "逢坂成美"
+        },
+        {
+          "value": "あいさか なるみ"
+        },
+        {
+          "value": "网站"
         }
       ]
     },
     {
       "characterId": 701,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 701,
@@ -35074,17 +37294,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 701,
       "tagId": 7,
-      "value": "Ozawa Rena",
+      "value": "小泽丽那",
       "entries": [
         {
-          "value": "Ozawa Rena"
+          "value": "小泽丽那"
+        },
+        {
+          "value": "おざわ れな"
+        },
+        {
+          "value": "小澤麗那"
         }
       ]
     },
     {
       "characterId": 702,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 702,
@@ -35114,17 +37340,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 702,
       "tagId": 7,
-      "value": "Yamada Misuzu",
+      "value": "山田美铃",
       "entries": [
         {
-          "value": "Yamada Misuzu"
+          "value": "山田美铃"
+        },
+        {
+          "value": "やまだ みすず"
+        },
+        {
+          "value": "山田美鈴"
         }
       ]
     },
     {
       "characterId": 703,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 703,
@@ -35154,17 +37386,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 703,
       "tagId": 7,
-      "value": "Ayaki Nanase",
+      "value": "七濑彩夏",
       "entries": [
         {
-          "value": "Ayaki Nanase"
+          "value": "七濑彩夏"
+        },
+        {
+          "value": "ななせ あやか"
+        },
+        {
+          "value": "七瀬彩夏"
         }
       ]
     },
     {
       "characterId": 704,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 704,
@@ -35194,17 +37432,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 704,
       "tagId": 7,
-      "value": "Yuuko Gotou",
+      "value": "后藤邑子",
       "entries": [
         {
-          "value": "Yuuko Gotou"
+          "value": "后藤邑子"
+        },
+        {
+          "value": "ごとう ゆうこ"
+        },
+        {
+          "value": "後藤邑子"
         }
       ]
     },
     {
       "characterId": 705,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 705,
@@ -35234,17 +37478,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 705,
       "tagId": 7,
-      "value": "Madoka Asahina",
+      "value": "朝日奈丸佳",
       "entries": [
         {
-          "value": "Madoka Asahina"
+          "value": "朝日奈丸佳"
+        },
+        {
+          "value": "あさひな まどか"
         }
       ]
     },
     {
       "characterId": 706,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 706,
@@ -35274,17 +37521,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 706,
       "tagId": 7,
-      "value": "Sumire Morohoshi",
+      "value": "诸星堇",
       "entries": [
         {
-          "value": "Sumire Morohoshi"
+          "value": "诸星堇"
+        },
+        {
+          "value": "諸星 すみれ"
+        },
+        {
+          "value": "もろほし すみれ"
         }
       ]
     },
     {
       "characterId": 707,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 707,
@@ -35314,17 +37567,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 707,
       "tagId": 7,
-      "value": "Rie Kugimiya",
+      "value": "钉宫理惠",
       "entries": [
         {
-          "value": "Rie Kugimiya"
+          "value": "钉宫理惠"
+        },
+        {
+          "value": "钉宫 理惠 くぎみや りえ"
         }
       ]
     },
     {
       "characterId": 708,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 708,
@@ -35354,17 +37610,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 708,
       "tagId": 7,
-      "value": "Mariko Takeda",
+      "value": "武田真理子",
       "entries": [
         {
-          "value": "Mariko Takeda"
+          "value": "武田真理子"
+        },
+        {
+          "value": "たけだ まりこ"
         }
       ]
     },
     {
       "characterId": 709,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 709,
@@ -35394,17 +37653,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 709,
       "tagId": 7,
-      "value": "Juri Kimura",
+      "value": "木村珠莉",
       "entries": [
         {
-          "value": "Juri Kimura"
+          "value": "木村珠莉"
+        },
+        {
+          "value": "きむら じゅり"
         }
       ]
     },
     {
       "characterId": 710,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 710,
@@ -35434,17 +37696,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 710,
       "tagId": 7,
-      "value": "Yuka Iguchi",
+      "value": "井口裕香",
       "entries": [
         {
-          "value": "Yuka Iguchi"
+          "value": "井口裕香"
+        },
+        {
+          "value": "いぐち ゆか"
         }
       ]
     },
     {
       "characterId": 711,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 711,
@@ -35474,17 +37739,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 711,
       "tagId": 7,
-      "value": "Natsumi Takamori",
+      "value": "高森奈津美",
       "entries": [
         {
-          "value": "Natsumi Takamori"
+          "value": "高森奈津美"
+        },
+        {
+          "value": "たかもり なつみ"
         }
       ]
     },
     {
       "characterId": 712,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 712,
@@ -35524,7 +37792,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 713,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 713,
@@ -35554,17 +37822,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 713,
       "tagId": 7,
-      "value": "Tomoyo Chuujou",
+      "value": "中条智世",
       "entries": [
         {
-          "value": "Tomoyo Chuujou"
+          "value": "中条智世"
+        },
+        {
+          "value": "ちゅうじょう ともよ"
         }
       ]
     },
     {
       "characterId": 714,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 714,
@@ -35594,17 +37865,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 714,
       "tagId": 7,
-      "value": "Hekiru Shiina",
+      "value": "椎名",
       "entries": [
         {
-          "value": "Hekiru Shiina"
+          "value": "椎名"
+        },
+        {
+          "value": "公式"
+        },
+        {
+          "value": "へきる"
         }
       ]
     },
     {
       "characterId": 715,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 715,
@@ -35644,7 +37921,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 716,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 716,
@@ -35674,17 +37951,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 716,
       "tagId": 7,
-      "value": "Yui Makino",
+      "value": "牧野由依",
       "entries": [
         {
-          "value": "Yui Makino"
+          "value": "牧野由依"
         }
       ]
     },
     {
       "characterId": 717,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 717,
@@ -35714,17 +37991,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 717,
       "tagId": 7,
-      "value": "Hisako Kanemoto",
+      "value": "金元寿子",
       "entries": [
         {
-          "value": "Hisako Kanemoto"
+          "value": "金元寿子"
+        },
+        {
+          "value": "かねもと ひさこ"
         }
       ]
     },
     {
       "characterId": 718,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 718,
@@ -35754,17 +38034,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 718,
       "tagId": 7,
-      "value": "Sumire Uesaka",
+      "value": "上坂",
       "entries": [
         {
-          "value": "Sumire Uesaka"
+          "value": "上坂"
+        },
+        {
+          "value": "すみれ"
         }
       ]
     },
     {
       "characterId": 719,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 719,
@@ -35794,17 +38077,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 719,
       "tagId": 7,
-      "value": "Maya Yoshioka",
+      "value": "吉岡麻耶",
       "entries": [
         {
-          "value": "Maya Yoshioka"
+          "value": "吉岡麻耶"
         }
       ]
     },
     {
       "characterId": 720,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 720,
@@ -35834,17 +38117,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 720,
       "tagId": 7,
-      "value": "Sasahara Yuu",
+      "value": "筱原侑",
       "entries": [
         {
-          "value": "Sasahara Yuu"
+          "value": "筱原侑"
+        },
+        {
+          "value": "ささは ゆう"
+        },
+        {
+          "value": "篠原侑"
         }
       ]
     },
     {
       "characterId": 721,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 721,
@@ -35874,17 +38163,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 721,
       "tagId": 7,
-      "value": "Saya Horigome",
+      "value": "堀笼沙耶",
       "entries": [
         {
-          "value": "Saya Horigome"
+          "value": "堀笼沙耶"
+        },
+        {
+          "value": "ほりごめ さや"
         }
       ]
     },
     {
       "characterId": 722,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 722,
@@ -35914,17 +38206,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 722,
       "tagId": 7,
-      "value": "Sakura Nakamura",
+      "value": "中村樱",
       "entries": [
         {
-          "value": "Sakura Nakamura"
+          "value": "中村樱"
+        },
+        {
+          "value": "なかむら さくら"
+        },
+        {
+          "value": "中村桜"
         }
       ]
     },
     {
       "characterId": 723,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 723,
@@ -35964,7 +38262,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 724,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 724,
@@ -36004,7 +38302,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 725,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 725,
@@ -36034,17 +38332,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 725,
       "tagId": 7,
-      "value": "Nozomi Yamamoto",
+      "value": "山本希望",
       "entries": [
         {
-          "value": "Nozomi Yamamoto"
+          "value": "山本希望"
+        },
+        {
+          "value": "やまもと のぞみ"
         }
       ]
     },
     {
       "characterId": 726,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 726,
@@ -36074,17 +38375,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 726,
       "tagId": 7,
-      "value": "Yuri Yamaoka",
+      "value": "山冈百合",
       "entries": [
         {
-          "value": "Yuri Yamaoka"
+          "value": "山冈百合"
+        },
+        {
+          "value": "山岡 ゆり"
+        },
+        {
+          "value": "やまおか ゆり"
         }
       ]
     },
     {
       "characterId": 727,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 727,
@@ -36114,17 +38421,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 727,
       "tagId": 7,
-      "value": "Ryoko Maekawa",
+      "value": "前川涼子",
       "entries": [
         {
-          "value": "Ryoko Maekawa"
+          "value": "前川涼子"
+        },
+        {
+          "value": "まえかわ りょうこ"
         }
       ]
     },
     {
       "characterId": 728,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 728,
@@ -36154,17 +38464,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 728,
       "tagId": 7,
-      "value": "Minami Shinoda",
+      "value": "篠田南",
       "entries": [
         {
-          "value": "Minami Shinoda"
+          "value": "篠田南"
+        },
+        {
+          "value": "しのだ みなみ"
         }
       ]
     },
     {
       "characterId": 729,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 729,
@@ -36194,17 +38507,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 729,
       "tagId": 7,
-      "value": "Ayaka Fukuhara",
+      "value": "福原绫香",
       "entries": [
         {
-          "value": "Ayaka Fukuhara"
+          "value": "福原绫香"
+        },
+        {
+          "value": "ふくはら あやか"
         }
       ]
     },
     {
       "characterId": 730,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 730,
@@ -36234,17 +38550,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 730,
       "tagId": 7,
-      "value": "Koharu Nogata",
+      "value": "野方小春",
       "entries": [
         {
-          "value": "Koharu Nogata"
+          "value": "野方小春"
+        },
+        {
+          "value": "のがた こはる"
         }
       ]
     },
     {
       "characterId": 731,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 731,
@@ -36274,17 +38593,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 731,
       "tagId": 7,
-      "value": "Ayako Kawasumi",
+      "value": "川澄绫子",
       "entries": [
         {
-          "value": "Ayako Kawasumi"
+          "value": "川澄绫子"
+        },
+        {
+          "value": "かわすみ あやこ"
         }
       ]
     },
     {
       "characterId": 732,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 732,
@@ -36314,17 +38636,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 732,
       "tagId": 7,
-      "value": "Eri Kitamura",
+      "value": "喜多村英梨",
       "entries": [
         {
-          "value": "Eri Kitamura"
+          "value": "喜多村英梨"
+        },
+        {
+          "value": "きたむら えり"
+        },
+        {
+          "value": "网站"
         }
       ]
     },
     {
       "characterId": 733,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 733,
@@ -36354,17 +38682,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 733,
       "tagId": 7,
-      "value": "Sayaka Harada",
+      "value": "原田彩枫",
       "entries": [
         {
-          "value": "Sayaka Harada"
+          "value": "原田彩枫"
+        },
+        {
+          "value": "はらた さやか"
+        },
+        {
+          "value": "原田彩楓"
         }
       ]
     },
     {
       "characterId": 734,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 734,
@@ -36394,17 +38728,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 734,
       "tagId": 7,
-      "value": "Ami Koshimizu",
+      "value": "小清水亚美",
       "entries": [
         {
-          "value": "Ami Koshimizu"
+          "value": "小清水亚美"
+        },
+        {
+          "value": "こしみず あみ"
+        },
+        {
+          "value": "小清水亜美"
         }
       ]
     },
     {
       "characterId": 735,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 735,
@@ -36434,17 +38774,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 735,
       "tagId": 7,
-      "value": "Ami Koshimizu",
+      "value": "小清水亚美",
       "entries": [
         {
-          "value": "Ami Koshimizu"
+          "value": "小清水亚美"
+        },
+        {
+          "value": "こしみず あみ"
+        },
+        {
+          "value": "小清水亜美"
         }
       ]
     },
     {
       "characterId": 736,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 736,
@@ -36474,17 +38820,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 736,
       "tagId": 7,
-      "value": "Sawako Shirakabe",
+      "value": "白壁爽子",
       "entries": [
         {
-          "value": "Sawako Shirakabe"
+          "value": "白壁爽子"
+        },
+        {
+          "value": "しらかべ さわこ"
         }
       ]
     },
     {
       "characterId": 737,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 737,
@@ -36514,17 +38863,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 737,
       "tagId": 7,
-      "value": "Sumire Uesaka",
+      "value": "上坂堇",
       "entries": [
         {
-          "value": "Sumire Uesaka"
+          "value": "上坂堇"
         }
       ]
     },
     {
       "characterId": 738,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 738,
@@ -36554,17 +38903,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 738,
       "tagId": 7,
-      "value": "You Taichi",
+      "value": "大地叶",
       "entries": [
         {
-          "value": "You Taichi"
+          "value": "大地叶"
+        },
+        {
+          "value": "たいち よう"
         }
       ]
     },
     {
       "characterId": 739,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 739,
@@ -36594,17 +38946,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 739,
       "tagId": 7,
-      "value": "Misaki Kuno",
+      "value": "久野美咲",
       "entries": [
         {
-          "value": "Misaki Kuno"
+          "value": "久野美咲"
+        },
+        {
+          "value": "くの みさき"
+        },
+        {
+          "value": "大泽"
         }
       ]
     },
     {
       "characterId": 740,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 740,
@@ -36634,17 +38992,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 740,
       "tagId": 7,
-      "value": "Ayaka Shimizu",
+      "value": "清水彩香",
       "entries": [
         {
-          "value": "Ayaka Shimizu"
+          "value": "清水彩香"
         }
       ]
     },
     {
       "characterId": 741,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 741,
@@ -36674,17 +39032,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 741,
       "tagId": 7,
-      "value": "Haruno Fujiwara",
+      "value": "富士原晴乃",
       "entries": [
         {
-          "value": "Haruno Fujiwara"
+          "value": "富士原晴乃"
+        },
+        {
+          "value": "ふじわら はるの"
         }
       ]
     },
     {
       "characterId": 742,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 742,
@@ -36714,17 +39075,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 742,
       "tagId": 7,
-      "value": "Yumi Uchiyama",
+      "value": "内山夕实",
       "entries": [
         {
-          "value": "Yumi Uchiyama"
+          "value": "内山夕实"
+        },
+        {
+          "value": "うちやま ゆみ"
+        },
+        {
+          "value": "内山夕実"
         }
       ]
     },
     {
       "characterId": 743,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 743,
@@ -36754,17 +39121,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 743,
       "tagId": 7,
-      "value": "Seiko Yoshida",
+      "value": "吉田圣子",
       "entries": [
         {
-          "value": "Seiko Yoshida"
+          "value": "吉田圣子"
+        },
+        {
+          "value": "よしだ せいこ"
+        },
+        {
+          "value": "吉田聖子"
         }
       ]
     },
     {
       "characterId": 744,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 744,
@@ -36794,17 +39167,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 744,
       "tagId": 7,
-      "value": "Seiko Yoshida",
+      "value": "吉田圣子",
       "entries": [
         {
-          "value": "Seiko Yoshida"
+          "value": "吉田圣子"
+        },
+        {
+          "value": "よしだ せいこ"
+        },
+        {
+          "value": "吉田聖子"
         }
       ]
     },
     {
       "characterId": 745,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 745,
@@ -36834,17 +39213,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 745,
       "tagId": 7,
-      "value": "Shiomi Yukina",
+      "value": "汐見雪菜",
       "entries": [
         {
-          "value": "Shiomi Yukina"
+          "value": "汐見雪菜"
         }
       ]
     },
     {
       "characterId": 746,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 746,
@@ -36884,7 +39263,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 747,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 747,
@@ -36914,17 +39293,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 747,
       "tagId": 7,
-      "value": "Shizuka Ishigami",
+      "value": "石上静香",
       "entries": [
         {
-          "value": "Shizuka Ishigami"
+          "value": "石上静香"
+        },
+        {
+          "value": "いしがみ しずか"
         }
       ]
     },
     {
       "characterId": 748,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 748,
@@ -36954,17 +39336,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 748,
       "tagId": 7,
-      "value": "Asuka Itou",
+      "value": "伊藤明日香",
       "entries": [
         {
-          "value": "Asuka Itou"
+          "value": "伊藤明日香"
+        },
+        {
+          "value": "伊藤 あすか"
+        },
+        {
+          "value": "爱称"
         }
       ]
     },
     {
       "characterId": 749,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 749,
@@ -36994,17 +39382,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 749,
       "tagId": 7,
-      "value": "Karin Mitarai",
+      "value": "御手洗果林",
       "entries": [
         {
-          "value": "Karin Mitarai"
+          "value": "御手洗果林"
+        },
+        {
+          "value": "御手洗 かりん"
+        },
+        {
+          "value": "みたらい かりん"
         }
       ]
     },
     {
       "characterId": 750,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 750,
@@ -37034,17 +39428,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 750,
       "tagId": 7,
-      "value": "Asami Takano",
+      "value": "高野麻美",
       "entries": [
         {
-          "value": "Asami Takano"
+          "value": "高野麻美"
+        },
+        {
+          "value": "たかの あさみ"
+        },
+        {
+          "value": "髙野麻美"
         }
       ]
     },
     {
       "characterId": 751,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 751,
@@ -37074,17 +39474,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 751,
       "tagId": 7,
-      "value": "Aoi Yuuki",
+      "value": "悠木碧",
       "entries": [
         {
-          "value": "Aoi Yuuki"
+          "value": "悠木碧"
+        },
+        {
+          "value": "ゆうき あおい"
+        },
+        {
+          "value": "八武"
         }
       ]
     },
     {
       "characterId": 752,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 752,
@@ -37114,17 +39520,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 752,
       "tagId": 7,
-      "value": "Nozomi Yamamoto",
+      "value": "山本希望",
       "entries": [
         {
-          "value": "Nozomi Yamamoto"
+          "value": "山本希望"
+        },
+        {
+          "value": "やまもと のぞみ"
         }
       ]
     },
     {
       "characterId": 753,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 753,
@@ -37154,17 +39563,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 753,
       "tagId": 7,
-      "value": "Noriko Shitaya",
+      "value": "下屋则子",
       "entries": [
         {
-          "value": "Noriko Shitaya"
+          "value": "下屋则子"
+        },
+        {
+          "value": "したや のりこ"
         }
       ]
     },
     {
       "characterId": 754,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 754,
@@ -37194,17 +39606,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 754,
       "tagId": 7,
-      "value": "Yui Ishikawa",
+      "value": "优木加奈",
       "entries": [
         {
-          "value": "Yui Ishikawa"
+          "value": "优木加奈"
+        },
+        {
+          "value": "優木 かな"
+        },
+        {
+          "value": "ゆうき かな"
         }
       ]
     },
     {
       "characterId": 755,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 755,
@@ -37234,17 +39652,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 755,
       "tagId": 7,
-      "value": "Ayaka Fukuhara",
+      "value": "福原綾香",
       "entries": [
         {
-          "value": "Ayaka Fukuhara"
+          "value": "福原綾香"
+        },
+        {
+          "value": "ふくはら あやか"
         }
       ]
     },
     {
       "characterId": 756,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 756,
@@ -37274,17 +39695,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 756,
       "tagId": 7,
-      "value": "Maia",
+      "value": "香月遥",
       "entries": [
         {
-          "value": "Maia"
+          "value": "香月遥"
+        },
+        {
+          "value": "香月 はるか"
         }
       ]
     },
     {
       "characterId": 757,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 757,
@@ -37314,17 +39738,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 757,
       "tagId": 7,
-      "value": "Saya Horigome",
+      "value": "堀笼沙耶",
       "entries": [
         {
-          "value": "Saya Horigome"
+          "value": "堀笼沙耶"
+        },
+        {
+          "value": "ほりごめ さや"
         }
       ]
     },
     {
       "characterId": 758,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 758,
@@ -37339,7 +39766,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 758,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 758,
@@ -37354,17 +39781,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 758,
       "tagId": 7,
-      "value": "Rie Tanaka",
+      "value": "田中理惠",
       "entries": [
         {
-          "value": "Rie Tanaka"
+          "value": "田中理惠"
+        },
+        {
+          "value": "たなか りえ"
         }
       ]
     },
     {
       "characterId": 759,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 759,
@@ -37379,7 +39809,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 759,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 759,
@@ -37394,17 +39824,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 759,
       "tagId": 7,
-      "value": "Asami Imai",
+      "value": "今井麻美",
       "entries": [
         {
-          "value": "Asami Imai"
+          "value": "今井麻美"
         }
       ]
     },
     {
       "characterId": 760,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 760,
@@ -37419,7 +39849,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 760,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 760,
@@ -37434,17 +39864,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 760,
       "tagId": 7,
-      "value": "Kana Asumi",
+      "value": "阿澄佳奈",
       "entries": [
         {
-          "value": "Kana Asumi"
+          "value": "阿澄佳奈"
+        },
+        {
+          "value": "あすみ かな"
         }
       ]
     },
     {
       "characterId": 761,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 761,
@@ -37459,7 +39892,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 761,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 761,
@@ -37474,17 +39907,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 761,
       "tagId": 7,
-      "value": "Rina Satou",
+      "value": "佐藤利奈",
       "entries": [
         {
-          "value": "Rina Satou"
+          "value": "佐藤利奈"
+        },
+        {
+          "value": "さとう りな"
         }
       ]
     },
     {
       "characterId": 762,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 762,
@@ -37499,7 +39935,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 762,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 762,
@@ -37514,17 +39950,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 762,
       "tagId": 7,
-      "value": "Rie Tanaka",
+      "value": "田中理惠",
       "entries": [
         {
-          "value": "Rie Tanaka"
+          "value": "田中理惠"
+        },
+        {
+          "value": "たなか りえ"
         }
       ]
     },
     {
       "characterId": 763,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 763,
@@ -37539,7 +39978,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 763,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 763,
@@ -37554,17 +39993,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 763,
       "tagId": 7,
-      "value": "Asami Imai",
+      "value": "今井麻美",
       "entries": [
         {
-          "value": "Asami Imai"
+          "value": "今井麻美"
         }
       ]
     },
     {
       "characterId": 764,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 764,
@@ -37579,7 +40018,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 764,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 764,
@@ -37594,17 +40033,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 764,
       "tagId": 7,
-      "value": "Kana Asumi",
+      "value": "阿澄佳奈",
       "entries": [
         {
-          "value": "Kana Asumi"
+          "value": "阿澄佳奈"
+        },
+        {
+          "value": "あすみ かな"
         }
       ]
     },
     {
       "characterId": 765,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 765,
@@ -37619,7 +40061,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 765,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 765,
@@ -37634,17 +40076,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 765,
       "tagId": 7,
-      "value": "Rina Satou",
+      "value": "佐藤利奈",
       "entries": [
         {
-          "value": "Rina Satou"
+          "value": "佐藤利奈"
+        },
+        {
+          "value": "さとう りな"
         }
       ]
     },
     {
       "characterId": 766,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 766,
@@ -37659,7 +40104,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 766,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 766,
@@ -37684,7 +40129,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 767,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 767,
@@ -37699,7 +40144,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 767,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 767,
@@ -37724,7 +40169,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 768,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 768,
@@ -37739,7 +40184,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 768,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 768,
@@ -37764,7 +40209,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 769,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 769,
@@ -37779,7 +40224,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 769,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 769,
@@ -37804,7 +40249,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 770,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 770,
@@ -37819,7 +40264,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 770,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 770,
@@ -37834,17 +40279,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 770,
       "tagId": 7,
-      "value": "Shirakami Fubuki",
+      "value": "白上吹雪",
       "entries": [
         {
-          "value": "Shirakami Fubuki"
+          "value": "白上吹雪"
+        },
+        {
+          "value": "フブキ"
         }
       ]
     },
     {
       "characterId": 771,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 771,
@@ -37859,7 +40307,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 771,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 771,
@@ -37874,17 +40322,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 771,
       "tagId": 7,
-      "value": "Tokino Sora",
+      "value": "时乃空",
       "entries": [
         {
-          "value": "Tokino Sora"
+          "value": "时乃空"
+        },
+        {
+          "value": "ときのそら"
         }
       ]
     },
     {
       "characterId": 772,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 772,
@@ -37899,7 +40350,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 772,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 772,
@@ -37914,17 +40365,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 772,
       "tagId": 7,
-      "value": "Minato Aqua",
+      "value": "湊阿库娅",
       "entries": [
         {
-          "value": "Minato Aqua"
+          "value": "湊阿库娅"
+        },
+        {
+          "value": "あくあ"
         }
       ]
     },
     {
       "characterId": 773,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 773,
@@ -37939,7 +40393,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 773,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 773,
@@ -37954,17 +40408,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 773,
       "tagId": 7,
-      "value": "Natsuiro Matsuri",
+      "value": "夏色祭",
       "entries": [
         {
-          "value": "Natsuiro Matsuri"
+          "value": "夏色祭"
+        },
+        {
+          "value": "まつり"
         }
       ]
     },
     {
       "characterId": 774,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 774,
@@ -37979,7 +40436,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 774,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 774,
@@ -37994,17 +40451,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 774,
       "tagId": 7,
-      "value": "Nakiri Ayame",
+      "value": "百鬼绫目",
       "entries": [
         {
-          "value": "Nakiri Ayame"
+          "value": "百鬼绫目"
+        },
+        {
+          "value": "あやめ"
         }
       ]
     },
     {
       "characterId": 775,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 775,
@@ -38019,7 +40479,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 775,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 775,
@@ -38034,17 +40494,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 775,
       "tagId": 7,
-      "value": "Murasaki Shion",
+      "value": "紫咲诗音",
       "entries": [
         {
-          "value": "Murasaki Shion"
+          "value": "紫咲诗音"
+        },
+        {
+          "value": "シオン"
         }
       ]
     },
     {
       "characterId": 776,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 776,
@@ -38059,7 +40522,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 776,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 776,
@@ -38074,17 +40537,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 776,
       "tagId": 7,
-      "value": "Ookami Mio",
+      "value": "大神澪",
       "entries": [
         {
-          "value": "Ookami Mio"
+          "value": "大神澪"
+        },
+        {
+          "value": "ミオ"
         }
       ]
     },
     {
       "characterId": 777,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 777,
@@ -38099,7 +40565,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 777,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 777,
@@ -38114,17 +40580,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 777,
       "tagId": 7,
-      "value": "Mai Aizawa",
+      "value": "相沢舞",
       "entries": [
         {
-          "value": "Mai Aizawa"
+          "value": "相沢舞"
+        },
+        {
+          "value": "相沢 舞 あいざわ まい"
+        },
+        {
+          "value": "部落格"
         }
       ]
     },
     {
       "characterId": 778,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 778,
@@ -38139,7 +40611,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 778,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 778,
@@ -38154,17 +40626,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 778,
       "tagId": 7,
-      "value": "Ai Nonaka",
+      "value": "野中藍",
       "entries": [
         {
-          "value": "Ai Nonaka"
+          "value": "野中藍"
+        },
+        {
+          "value": "野中 藍 のなか あい"
         }
       ]
     },
     {
       "characterId": 779,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 779,
@@ -38179,7 +40654,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 779,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 779,
@@ -38194,17 +40669,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 779,
       "tagId": 7,
-      "value": "Houko Kuwashima",
+      "value": "桑島法子",
       "entries": [
         {
-          "value": "Houko Kuwashima"
+          "value": "桑島法子"
+        },
+        {
+          "value": "くわしま ほうこ"
+        },
+        {
+          "value": "朗読夜今年休"
         }
       ]
     },
     {
       "characterId": 780,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 780,
@@ -38219,7 +40700,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 780,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 780,
@@ -38234,17 +40715,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 780,
       "tagId": 7,
-      "value": "Minami Tsuda",
+      "value": "津田美波",
       "entries": [
         {
-          "value": "Minami Tsuda"
+          "value": "津田美波"
+        },
+        {
+          "value": "つだ みなみ"
+        },
+        {
+          "value": "相关"
         }
       ]
     },
     {
       "characterId": 781,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 781,
@@ -38259,7 +40746,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 781,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 781,
@@ -38274,17 +40761,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 781,
       "tagId": 7,
-      "value": "Maaya Uchida",
+      "value": "内田真礼",
       "entries": [
         {
-          "value": "Maaya Uchida"
+          "value": "内田真礼"
+        },
+        {
+          "value": "内田 真礼 うちだ まあや"
         }
       ]
     },
     {
       "characterId": 782,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 782,
@@ -38299,7 +40789,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 782,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 782,
@@ -38314,17 +40804,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 782,
       "tagId": 7,
-      "value": "Akemi Satou",
+      "value": "佐藤朱",
       "entries": [
         {
-          "value": "Akemi Satou"
+          "value": "佐藤朱"
+        },
+        {
+          "value": "昵称 あけち"
+        },
+        {
+          "value": "青二"
         }
       ]
     },
     {
       "characterId": 783,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 783,
@@ -38339,7 +40835,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 783,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 783,
@@ -38354,17 +40850,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 783,
       "tagId": 7,
-      "value": "Eri Yukimura",
+      "value": "幸村恵理",
       "entries": [
         {
-          "value": "Eri Yukimura"
+          "value": "幸村恵理"
+        },
+        {
+          "value": "幸村 恵理 ゆきむら えり"
         }
       ]
     },
     {
       "characterId": 784,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 784,
@@ -38379,7 +40878,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 784,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 784,
@@ -38394,17 +40893,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 784,
       "tagId": 7,
-      "value": "Shiori Mikami",
+      "value": "三上枝织",
       "entries": [
         {
-          "value": "Shiori Mikami"
+          "value": "三上枝织"
         }
       ]
     },
     {
       "characterId": 785,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 785,
@@ -38419,7 +40918,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 785,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 785,
@@ -38434,17 +40933,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 785,
       "tagId": 7,
-      "value": "Saori Onishi",
+      "value": "大西沙织",
       "entries": [
         {
-          "value": "Saori Onishi"
+          "value": "大西沙织"
+        },
+        {
+          "value": "おおにし さおり"
+        },
+        {
+          "value": "大西沙織"
         }
       ]
     },
     {
       "characterId": 786,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 786,
@@ -38459,7 +40964,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 786,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 786,
@@ -38474,17 +40979,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 786,
       "tagId": 7,
-      "value": "Eriko Nakamura",
+      "value": "中村绘里子",
       "entries": [
         {
-          "value": "Eriko Nakamura"
+          "value": "中村绘里子"
+        },
+        {
+          "value": "なかむら えりこ"
+        },
+        {
+          "value": "中村繪里子"
         }
       ]
     },
     {
       "characterId": 787,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 787,
@@ -38499,7 +41010,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 787,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 787,
@@ -38514,17 +41025,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 787,
       "tagId": 7,
-      "value": "Asami Imai",
+      "value": "今井麻美",
       "entries": [
         {
-          "value": "Asami Imai"
+          "value": "今井麻美"
+        },
+        {
+          "value": "いまい あさみ"
         }
       ]
     },
     {
       "characterId": 788,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 788,
@@ -38539,7 +41053,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 788,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 788,
@@ -38554,17 +41068,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 788,
       "tagId": 7,
-      "value": "Rie Kugimiya",
+      "value": "钉宫理惠",
       "entries": [
         {
-          "value": "Rie Kugimiya"
+          "value": "钉宫理惠"
+        },
+        {
+          "value": "くぎみや りえ"
+        },
+        {
+          "value": "釘宮理恵"
         }
       ]
     },
     {
       "characterId": 789,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 789,
@@ -38579,7 +41099,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 789,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 789,
@@ -38594,17 +41114,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 789,
       "tagId": 7,
-      "value": "Chiaki Takahashi",
+      "value": "高桥智秋",
       "entries": [
         {
-          "value": "Chiaki Takahashi"
+          "value": "高桥智秋"
+        },
+        {
+          "value": "たかはし ちあき"
         }
       ]
     },
     {
       "characterId": 790,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 790,
@@ -38619,7 +41142,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 790,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 790,
@@ -38634,17 +41157,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 790,
       "tagId": 7,
-      "value": "Naomi Wakabayashi",
+      "value": "若林直美",
       "entries": [
         {
-          "value": "Naomi Wakabayashi"
+          "value": "若林直美"
+        },
+        {
+          "value": "わかばやし なおみ"
         }
       ]
     },
     {
       "characterId": 791,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 791,
@@ -38659,7 +41185,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 791,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 791,
@@ -38674,17 +41200,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 791,
       "tagId": 7,
-      "value": "Asami Shimoda",
+      "value": "下田麻美",
       "entries": [
         {
-          "value": "Asami Shimoda"
+          "value": "下田麻美"
+        },
+        {
+          "value": "しもだ あさみ"
         }
       ]
     },
     {
       "characterId": 792,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 792,
@@ -38699,7 +41228,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 792,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 792,
@@ -38714,17 +41243,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 792,
       "tagId": 7,
-      "value": "Asami Shimoda",
+      "value": "下田麻美",
       "entries": [
         {
-          "value": "Asami Shimoda"
+          "value": "下田麻美"
+        },
+        {
+          "value": "しもだ あさみ"
         }
       ]
     },
     {
       "characterId": 793,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 793,
@@ -38739,7 +41271,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 793,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 793,
@@ -38754,17 +41286,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 793,
       "tagId": 7,
-      "value": "Yume Miyamoto",
+      "value": "宮本侑芽",
       "entries": [
         {
-          "value": "Yume Miyamoto"
+          "value": "宮本侑芽"
         }
       ]
     },
     {
       "characterId": 794,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 794,
@@ -38779,7 +41311,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 794,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 794,
@@ -38794,17 +41326,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 794,
       "tagId": 7,
-      "value": "Reina Ueda",
+      "value": "上田丽奈",
       "entries": [
         {
-          "value": "Reina Ueda"
+          "value": "上田丽奈"
+        },
+        {
+          "value": "うえだ れいな"
+        },
+        {
+          "value": "上田麗奈"
         }
       ]
     },
     {
       "characterId": 795,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 795,
@@ -38819,7 +41357,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 795,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 795,
@@ -38834,17 +41372,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 795,
       "tagId": 7,
-      "value": "Akari Kitou",
+      "value": "鬼头明里",
       "entries": [
         {
-          "value": "Akari Kitou"
+          "value": "鬼头明里"
+        },
+        {
+          "value": "きとう あかり"
+        },
+        {
+          "value": "鬼頭明里"
         }
       ]
     },
     {
       "characterId": 796,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 796,
@@ -38859,7 +41403,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 796,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 796,
@@ -38874,17 +41418,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 796,
       "tagId": 7,
-      "value": "Suzuko Mimori",
+      "value": "三森铃子",
       "entries": [
         {
-          "value": "Suzuko Mimori"
+          "value": "三森铃子"
+        },
+        {
+          "value": "三森 みもり"
+        },
+        {
+          "value": "すずこ みもり"
         }
       ]
     },
     {
       "characterId": 797,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 797,
@@ -38899,7 +41449,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 797,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 797,
@@ -38914,17 +41464,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 797,
       "tagId": 7,
-      "value": "Shion Wakayama",
+      "value": "若山诗音",
       "entries": [
         {
-          "value": "Shion Wakayama"
+          "value": "若山诗音"
+        },
+        {
+          "value": "わかやま しおん"
+        },
+        {
+          "value": "若山詩音"
         }
       ]
     },
     {
       "characterId": 798,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 798,
@@ -38939,7 +41495,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 798,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 798,
@@ -38954,17 +41510,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 798,
       "tagId": 7,
-      "value": "Chika Anzai",
+      "value": "安济知佳",
       "entries": [
         {
-          "value": "Chika Anzai"
+          "value": "安济知佳"
+        },
+        {
+          "value": "あんざい ちか"
+        },
+        {
+          "value": "安済知佳"
         }
       ]
     },
     {
       "characterId": 799,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 799,
@@ -38979,7 +41541,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 799,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 799,
@@ -38994,17 +41556,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 799,
       "tagId": 7,
-      "value": "Ayaka Suwa",
+      "value": "诹访彩花",
       "entries": [
         {
-          "value": "Ayaka Suwa"
+          "value": "诹访彩花"
+        },
+        {
+          "value": "すわ あやか"
+        },
+        {
+          "value": "諏訪彩花"
         }
       ]
     },
     {
       "characterId": 800,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 800,
@@ -39019,7 +41587,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 800,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 800,
@@ -39034,17 +41602,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 800,
       "tagId": 7,
-      "value": "Karin Takahashi",
+      "value": "高桥花林",
       "entries": [
         {
-          "value": "Karin Takahashi"
+          "value": "高桥花林"
+        },
+        {
+          "value": "たかはし かりん"
+        },
+        {
+          "value": "高橋花林"
         }
       ]
     },
     {
       "characterId": 801,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 801,
@@ -39059,7 +41633,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 801,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 801,
@@ -39074,17 +41648,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 801,
       "tagId": 7,
-      "value": "Maaya Uchida",
+      "value": "内田真礼",
       "entries": [
         {
-          "value": "Maaya Uchida"
+          "value": "内田真礼"
+        },
+        {
+          "value": "内田 真礼 うちだ まあや"
         }
       ]
     },
     {
       "characterId": 802,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 802,
@@ -39099,7 +41676,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 802,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 802,
@@ -39114,17 +41691,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 802,
       "tagId": 7,
-      "value": "Yuri Noguchi",
+      "value": "のぐち ゆり",
       "entries": [
         {
-          "value": "Yuri Noguchi"
+          "value": "のぐち ゆり"
         }
       ]
     },
     {
       "characterId": 803,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 803,
@@ -39139,7 +41716,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 803,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 803,
@@ -39154,17 +41731,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 803,
       "tagId": 7,
-      "value": "Hitomi Oowada",
+      "value": "大和田仁美",
       "entries": [
         {
-          "value": "Hitomi Oowada"
+          "value": "大和田仁美"
+        },
+        {
+          "value": "おおわだ ひとみ"
         }
       ]
     },
     {
       "characterId": 804,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 804,
@@ -39179,7 +41759,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 804,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 804,
@@ -39194,17 +41774,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 804,
       "tagId": 7,
-      "value": "Naomi Ohzora",
+      "value": "大空直美",
       "entries": [
         {
-          "value": "Naomi Ohzora"
+          "value": "大空直美"
         }
       ]
     },
     {
       "characterId": 805,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 805,
@@ -39219,7 +41799,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 805,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 805,
@@ -39234,17 +41814,17 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 805,
       "tagId": 7,
-      "value": "Haruka Terui",
+      "value": "照井春佳",
       "entries": [
         {
-          "value": "Haruka Terui"
+          "value": "照井春佳"
         }
       ]
     },
     {
       "characterId": 806,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 806,
@@ -39259,7 +41839,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 806,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 806,
@@ -39274,17 +41854,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 806,
       "tagId": 7,
-      "value": "Yukiyo Fujii",
+      "value": "藤井",
       "entries": [
         {
-          "value": "Yukiyo Fujii"
+          "value": "藤井"
+        },
+        {
+          "value": "ゆきよ"
         }
       ]
     },
     {
       "characterId": 807,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 807,
@@ -39299,7 +41882,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 807,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 807,
@@ -39314,17 +41897,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 807,
       "tagId": 7,
-      "value": "Hina Yomiya",
+      "value": "羊宫妃那",
       "entries": [
         {
-          "value": "Hina Yomiya"
+          "value": "羊宫妃那"
+        },
+        {
+          "value": "ようみや ひな"
+        },
+        {
+          "value": "羊宮妃那"
         }
       ]
     },
     {
       "characterId": 808,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 808,
@@ -39339,7 +41928,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 808,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 808,
@@ -39354,17 +41943,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 808,
       "tagId": 7,
-      "value": "Hitomi Harada",
+      "value": "原田瞳",
       "entries": [
         {
-          "value": "Hitomi Harada"
+          "value": "原田瞳"
+        },
+        {
+          "value": "原田 ひとみ"
         }
       ]
     },
     {
       "characterId": 809,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 809,
@@ -39379,7 +41971,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 809,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 809,
@@ -39394,17 +41986,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 809,
       "tagId": 7,
-      "value": "Asami Imai",
+      "value": "今井麻美",
       "entries": [
         {
-          "value": "Asami Imai"
+          "value": "今井麻美"
+        },
+        {
+          "value": "いまい あさみ"
         }
       ]
     },
     {
       "characterId": 810,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 810,
@@ -39419,7 +42014,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 810,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 810,
@@ -39434,17 +42029,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 810,
       "tagId": 7,
-      "value": "Eri Kitamura",
+      "value": "喜多村英梨",
       "entries": [
         {
-          "value": "Eri Kitamura"
+          "value": "喜多村英梨"
+        },
+        {
+          "value": "きたむら えり"
+        },
+        {
+          "value": "网站"
         }
       ]
     },
     {
       "characterId": 811,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 811,
@@ -39459,7 +42060,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 811,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 811,
@@ -39474,17 +42075,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 811,
       "tagId": 7,
-      "value": "Yumi Hara",
+      "value": "原由实",
       "entries": [
         {
-          "value": "Yumi Hara"
+          "value": "原由实"
+        },
+        {
+          "value": "はら ゆみ"
+        },
+        {
+          "value": "原由実"
         }
       ]
     },
     {
       "characterId": 812,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 812,
@@ -39499,7 +42106,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 812,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 812,
@@ -39514,17 +42121,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 812,
       "tagId": 7,
-      "value": "Kana Asumi",
+      "value": "阿澄佳奈",
       "entries": [
         {
-          "value": "Kana Asumi"
+          "value": "阿澄佳奈"
+        },
+        {
+          "value": "あすみ かな"
         }
       ]
     },
     {
       "characterId": 813,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 813,
@@ -39539,7 +42149,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 813,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 813,
@@ -39554,17 +42164,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 813,
       "tagId": 7,
-      "value": "Sayuri Yahagi",
+      "value": "矢作沙友里",
       "entries": [
         {
-          "value": "Sayuri Yahagi"
+          "value": "矢作沙友里"
+        },
+        {
+          "value": "やはぎ さゆり"
         }
       ]
     },
     {
       "characterId": 814,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 814,
@@ -39579,7 +42192,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 814,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 814,
@@ -39594,17 +42207,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 814,
       "tagId": 7,
-      "value": "Rika Tachibana",
+      "value": "立花理香",
       "entries": [
         {
-          "value": "Rika Tachibana"
+          "value": "立花理香"
+        },
+        {
+          "value": "たちばな りか"
         }
       ]
     },
     {
       "characterId": 815,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 815,
@@ -39619,7 +42235,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 815,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 815,
@@ -39634,17 +42250,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 815,
       "tagId": 7,
-      "value": "Haruka Tomatsu",
+      "value": "户松遥",
       "entries": [
         {
-          "value": "Haruka Tomatsu"
+          "value": "户松遥"
+        },
+        {
+          "value": "とまつ はるか"
+        },
+        {
+          "value": "戸松遥"
         }
       ]
     },
     {
       "characterId": 816,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 816,
@@ -39659,7 +42281,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 816,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 816,
@@ -39674,17 +42296,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 816,
       "tagId": 7,
-      "value": "Kanae Ito",
+      "value": "伊藤加奈惠",
       "entries": [
         {
-          "value": "Kanae Ito"
+          "value": "伊藤加奈惠"
+        },
+        {
+          "value": "伊藤 かな"
+        },
+        {
+          "value": "伊藤恵"
         }
       ]
     },
     {
       "characterId": 817,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 817,
@@ -39699,7 +42327,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 817,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 817,
@@ -39714,17 +42342,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 817,
       "tagId": 7,
-      "value": "Aki Toyosaki",
+      "value": "丰崎爱生",
       "entries": [
         {
-          "value": "Aki Toyosaki"
+          "value": "丰崎爱生"
+        },
+        {
+          "value": "とよさき あき"
+        },
+        {
+          "value": "豊崎愛生"
         }
       ]
     },
     {
       "characterId": 818,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 818,
@@ -39739,7 +42373,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 818,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 818,
@@ -39754,17 +42388,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 818,
       "tagId": 7,
-      "value": "Misato Fukuen",
+      "value": "福圆美里",
       "entries": [
         {
-          "value": "Misato Fukuen"
+          "value": "福圆美里"
+        },
+        {
+          "value": "ふくえん みさと"
+        },
+        {
+          "value": "福圓美里"
         }
       ]
     },
     {
       "characterId": 819,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 819,
@@ -39779,7 +42419,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 819,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 819,
@@ -39794,17 +42434,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 819,
       "tagId": 7,
-      "value": "Sayuri Yahagi",
+      "value": "矢作沙友里",
       "entries": [
         {
-          "value": "Sayuri Yahagi"
+          "value": "矢作沙友里"
+        },
+        {
+          "value": "やはぎ さゆり"
         }
       ]
     },
     {
       "characterId": 820,
       "tagId": 1,
-      "value": "精锐"
+      "value": "SR"
     },
     {
       "characterId": 820,
@@ -39819,7 +42462,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 820,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 820,
@@ -39834,17 +42477,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 820,
       "tagId": 7,
-      "value": "Kaori Nazuka",
+      "value": "名冢佳织",
       "entries": [
         {
-          "value": "Kaori Nazuka"
+          "value": "名冢佳织"
+        },
+        {
+          "value": "なづか かおり"
+        },
+        {
+          "value": "名塚佳織"
         }
       ]
     },
     {
       "characterId": 821,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 821,
@@ -39859,7 +42508,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 821,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 821,
@@ -39874,17 +42523,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 821,
       "tagId": 7,
-      "value": "Kana Hanawaza",
+      "value": "花泽香菜",
       "entries": [
         {
-          "value": "Kana Hanawaza"
+          "value": "花泽香菜"
+        },
+        {
+          "value": "はなざわ かな"
+        },
+        {
+          "value": "花澤香菜"
         }
       ]
     },
     {
       "characterId": 822,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 822,
@@ -39899,7 +42554,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 822,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 822,
@@ -39914,17 +42569,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 822,
       "tagId": 7,
-      "value": "Miyuki Sawashiro",
+      "value": "泽城美雪",
       "entries": [
         {
-          "value": "Miyuki Sawashiro"
+          "value": "泽城美雪"
+        },
+        {
+          "value": "沢城 みゆき"
+        },
+        {
+          "value": "さわしろ みゆき"
         }
       ]
     },
     {
       "characterId": 823,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 823,
@@ -39939,7 +42600,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 823,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 823,
@@ -39954,17 +42615,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 823,
       "tagId": 7,
-      "value": "Wakana Kuramochi",
+      "value": "仓持若菜",
       "entries": [
         {
-          "value": "Wakana Kuramochi"
+          "value": "仓持若菜"
+        },
+        {
+          "value": "くらもち わかな"
+        },
+        {
+          "value": "倉持若菜"
         }
       ]
     },
     {
       "characterId": 824,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 824,
@@ -39979,7 +42646,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 824,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 824,
@@ -39994,17 +42661,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 824,
       "tagId": 7,
-      "value": "Kaori Maeda",
+      "value": "前田佳织里",
       "entries": [
         {
-          "value": "Kaori Maeda"
+          "value": "前田佳织里"
+        },
+        {
+          "value": "まえだ かおり"
+        },
+        {
+          "value": "前田佳織里"
         }
       ]
     },
     {
       "characterId": 825,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 825,
@@ -40019,7 +42692,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 825,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 825,
@@ -40034,17 +42707,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 825,
       "tagId": 7,
-      "value": "Mikako Komatsu",
+      "value": "小松未可子",
       "entries": [
         {
-          "value": "Mikako Komatsu"
+          "value": "小松未可子"
+        },
+        {
+          "value": "こまつ みかこ"
         }
       ]
     },
     {
       "characterId": 826,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 826,
@@ -40059,7 +42735,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 826,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 826,
@@ -40074,17 +42750,20 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 826,
       "tagId": 7,
-      "value": "Yoshino Aoyama",
+      "value": "青山吉能",
       "entries": [
         {
-          "value": "Yoshino Aoyama"
+          "value": "青山吉能"
+        },
+        {
+          "value": "あおやま よしの"
         }
       ]
     },
     {
       "characterId": 827,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 827,
@@ -40099,7 +42778,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 827,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 827,
@@ -40114,17 +42793,23 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 827,
       "tagId": 7,
-      "value": "Inori Minase",
+      "value": "水濑祈",
       "entries": [
         {
-          "value": "Inori Minase"
+          "value": "水濑祈"
+        },
+        {
+          "value": "水瀬 いのり"
+        },
+        {
+          "value": "みなせ いのり"
         }
       ]
     },
     {
       "characterId": 828,
       "tagId": 1,
-      "value": "超稀有"
+      "value": "SSR"
     },
     {
       "characterId": 828,
@@ -40139,7 +42824,7 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 828,
       "tagId": 4,
-      "value": "No Class"
+      "value": "无舰级"
     },
     {
       "characterId": 828,
@@ -40154,10 +42839,16 @@ const bundledCatalog0: LocalCatalog = {
     {
       "characterId": 828,
       "tagId": 7,
-      "value": "Saori Hayami",
+      "value": "早见沙织",
       "entries": [
         {
-          "value": "Saori Hayami"
+          "value": "早见沙织"
+        },
+        {
+          "value": "はやみ さおり"
+        },
+        {
+          "value": "早見沙織"
         }
       ]
     }
@@ -40168,9 +42859,9 @@ export const bundledOfficialCatalogs: ReadonlyArray<BundledOfficialCatalog> = [
   {
     name: "航一把题库",
     path: "db/航一把题库.csv",
-    sha256: "70ee4438179fa5e5c21decbb3238c6c21d520c642e5d699cc2df1cd99c9fd64f",
-    gitCommitSha: "70ee4438179fa5e5c21decbb3238c6c21d520c642e5d699cc2df1cd99c9fd64f",
-    gitCommitDate: "",
+    sha256: "b73fe83413273665bee523c4fb16652e3b6d3fdbca158ff521253ec844bd4362",
+    gitCommitSha: "a2c277e57ac2bcb0667be968301eecdfc6b50b66",
+    gitCommitDate: "2026-09-14",
     catalog: bundledCatalog0,
   },
 ];

@@ -16,6 +16,8 @@ import {
   type LocalCatalog,
 } from "../app/local-catalog";
 import {
+  CHALLENGE_EPOCH,
+  challengeNumber,
   createNextTenMatchGame,
   createLocalGame,
   createNextUnlimitedGame,
@@ -975,4 +977,10 @@ test("按类匹配（多标签）允许只填写大类并通过 CSV 导入", () 
     },
   );
   assert.match(exportCatalogCsv(imported), /导入舰船,,是,妖怪/);
+});
+
+test("每日挑战编号从上线首日算起", () => {
+  assert.equal(challengeNumber(CHALLENGE_EPOCH), 1);
+  assert.equal(challengeNumber("2026-09-15"), 2);
+  assert.equal(challengeNumber("2026-10-14"), 31);
 });

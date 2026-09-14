@@ -28,6 +28,17 @@ const TAG_COLUMNS = [
   { name: "声优", kind: "exact-multi" },
 ];
 
+/** 原版稀有度 → 玩家惯用的英文缩写（与原版数据一一对应）。 */
+const RARITY_LABELS = new Map([
+  ["Normal", "N"],
+  ["Rare", "R"],
+  ["Elite", "SR"],
+  ["Super Rare", "SSR"],
+  ["Ultra Rare", "UR"],
+  ["Priority", "PR"],
+  ["Decisive", "DR"],
+]);
+
 /** 原版建造时间里的获取方式标签 → 国服说法。Drop Only 与原版一样并入“无法建造”。 */
 const TIMER_LABELS = new Map([
   ["Cannot be constructed", "无法建造"],
@@ -36,6 +47,13 @@ const TIMER_LABELS = new Map([
   ["Cruise Missions", "巡游"],
   ["META Showdown", "META 作战"],
 ]);
+
+/** 声优字段里的噪声词：用来切分名字与社交账号、节目名。 */
+const VOICE_NOISE = /(?:微博|推特|简历|B站|b站|5sing|事务所|公开|个人|介绍|主页|官网|官方|直播|频道|访谈|博客|音乐|平台|账号|节目|电台|广播|粉丝|贴吧|论坛|媒体|社交|碧蓝|航线|IG|FB)/g;
+/** 声优字段里的角色标记前缀。 */
+const VOICE_PREFIX = /^(中配|日配|艺名|本名|旧名|CV)\s*[：:]\s*/;
+/** 舰级里的描述词：这些是舰种说明而不是舰级名。 */
+const CLASS_DESCRIPTOR = /^(轻型|重型|大型|中型|小型|装甲|护航|实验|试验|试作|量产|计划|改装|正规|高速|低速|条约|泛用|特殊|新锐|旧式|飞机维修)/;
 
 /** 归一化后仍然对不上的联动/特殊形态，单独列出。 */
 const MANUAL_PAGE_MAP = new Map([
@@ -151,6 +169,75 @@ function stripNavyPrefix(name) {
   return name.trim().replace(/^[A-Z]{2,6}\s+/, "").trim();
 }
 
+/**
+ * 从 bwiki 的「型号」字段提取中文舰级。
+ * 「高雄级重巡洋舰一番舰」→「高雄级」；「战列舰F 俾斯麦级战列舰1号舰」→「俾斯麦级」；
+ * 「最上型重巡洋舰一番舰」→「最上型」。取不到时返回空串，由调用方回退到原版英文舰级。
+ */
+function chineseShipClass(model) {
+  const match = /([\u4e00-\u9fa5A-Za-z0-9－·\-]{1,10}?[级型])/.exec((model ?? "").trim());
+  if (!match) return "";
+  const value = match[1];
+  // 「轻型」「护航」这类是舰种描述而不是舰级名
+  if (CLASS_DESCRIPTOR.test(value)) return "";
+  // 「XX吨重巡洋舰方案改型」「1047工程超重型」这类是设计方案名，也不是舰级
+  if (/[舰艇船吨案程]/.test(value)) return "";
+  return value;
+}
+
+/**
+ * 解析 bwiki 的 CV 字段，返回至多三个写法：中文名、日文写法、次中文名（多声优时）。
+ * 字段格式很杂，例如：
+ *   加隈 亚衣（かくま あい Kakuma Ai）推特 / 碧蓝广播
+ *   长绳麻理亚 / 長縄 まりあ / ながなわ まりあ / Maria Naganawa / 个人推特 / 事务所简历
+ *   中配：张琦 / 个人微博 日配：法元 明菜 / ほうもと あきな / Houmoto Akina
+ */
+function parseVoiceActors(raw) {
+  const source = raw ?? "";
+  const stripped = source
+    .replace(/https?:\/\/\S+/g, " ")
+    .replace(/twi:\S+/gi, " ")
+    // 假名单独提取，先剥离，避免「内田 真礼 うちだ まあや」这类中日混排干扰
+    .replace(/[\u3040-\u30ff]+/g, " ")
+    .replace(/[A-Za-z][A-Za-z.'\-]*(?:\s+[A-Za-z][A-Za-z.'\-]*)*/g, " ");
+
+  const chinese = [];
+  for (const rawPart of stripped.split(/[/／、,，（）()|[\]]/)) {
+    // 噪声词当分隔符：名字可能在噪声词之前（「中条 智世 个人推特」），
+    // 也可能在之后（「个人官网 布里德卡特·塞拉·惠美」），所以逐段扫描而不是只取一段
+    for (const candidate of rawPart.split(VOICE_NOISE)) {
+      // 先压掉空格与数字符号（「石川 由依」「内田彩 1986.7.23-」），再整段取中文
+      const compact = candidate.trim().replace(VOICE_PREFIX, "").replace(/[\s：:（）()\[\]0-9.\-]+/g, "");
+      for (const match of compact.matchAll(/[\u4e00-\u9fa5·]{2,12}/g)) {
+        const name = match[0].replace(/^·+|·+$/g, "");
+        if (name.length < 2 || chinese.includes(name)) continue;
+        chinese.push(name);
+      }
+    }
+  }
+
+  // 日文写法优先取「汉字 + 假名」的组合，例如「長縄 まりあ」
+  const japanese = (/([\u4e00-\u9fa5]{1,5}(?:[\s·][\u4e00-\u9fa5]{1,5})?[\s·][\u3040-\u30ff]{2,}(?:[\s·][\u3040-\u30ff]{2,})?)/.exec(source)?.[1] ?? "")
+    .replace(/\s+/g, " ")
+    .trim();
+  const kana = [...source.matchAll(/[\u3040-\u30ff]{2,}(?:[\s·][\u3040-\u30ff]{2,})*/g)]
+    .map((match) => match[0].replace(/\s+/g, " ").trim())
+    .sort((left, right) => right.length - left.length)[0] ?? "";
+
+  const values = [];
+  const push = (value) => {
+    if (!value || values.length >= 3) return;
+    if (values.some((existing) => existing.includes(value) || value.includes(existing))) return;
+    values.push(value);
+  };
+  push(chinese[0]);
+  push(japanese || kana);
+  for (const name of chinese.slice(1)) push(name);
+  push(kana);
+
+  return values;
+}
+
 function toIsoDateFromOrdinal(text) {
   const match = /(\d{4})\u5e74(\d{1,2})\u6708(\d{1,2})\u65e5/.exec(text ?? "");
   if (!match) return null;
@@ -226,6 +313,24 @@ async function main() {
   const rows = [];
   const pageUsage = new Map();
 
+  // 第一轮：为每个英文舰级选出最一致的中文译名（同舰级的船应当给出同一个「XX级」）
+  const classVotes = new Map();
+  for (const ship of Object.values(dleData)) {
+    const page = findPage(indexes, ship.name);
+    const chineseClass = chineseShipClass(ships[page]?.["型号"]);
+    if (!chineseClass) continue;
+    const votes = classVotes.get(ship.class) ?? new Map();
+    votes.set(chineseClass, (votes.get(chineseClass) ?? 0) + 1);
+    classVotes.set(ship.class, votes);
+  }
+  const classLabels = new Map();
+  for (const [englishClass, votes] of classVotes) {
+    const total = [...votes.values()].reduce((sum, count) => sum + count, 0);
+    const [bestLabel, bestCount] = [...votes.entries()].sort((left, right) => right[1] - left[1])[0];
+    // 一致率太低说明这个英文舰级没有统一的中文写法，保留英文
+    if (bestLabel && bestCount / total >= 0.6) classLabels.set(englishClass, bestLabel);
+  }
+
   for (const [id, ship] of Object.entries(dleData)) {
     const page = findPage(indexes, ship.name);
     const wiki = page ? ships[page] : null;
@@ -254,21 +359,24 @@ async function main() {
     }
 
     const timer = TIMER_LABELS.get(ship.timer) ?? ship.timer;
-    // 原版用 " & " 连接多位声优，这里转成 CSV 的多标签写法，比较时任意一位相同即算命中
-    const voiceActors = ship.VA
-      .split(" & ")
-      .map((name) => name.trim())
-      .filter(Boolean)
-      .join(" | ");
+    const rarity = RARITY_LABELS.get(ship.rarity) ?? ship.rarity;
+    const shipClass = classLabels.get(ship.class)
+      ?? (ship.class === "No Class" ? "无舰级" : ship.class);
+
+    // 声优转成中文名 + 日文写法，多项之间任意一项相同即算命中
+    const voiceValues = parseVoiceActors(wiki?.["CV"]);
+    const voiceActors = voiceValues.length
+      ? voiceValues.join(" | ")
+      : ship.VA.split(" & ").map((name) => name.trim()).filter(Boolean).join(" | ");
 
     rows.push([
       chineseName,
       [...aliases].join("、"),
       "是",
-      wiki?.["稀有度"] ?? "",
+      rarity,
       wiki?.["阵营"] ?? "",
       wiki?.["类型"] ?? "",
-      ship.class,
+      shipClass,
       timer,
       eventValue,
       voiceActors,
@@ -289,6 +397,9 @@ async function main() {
 
   console.log(`已写入 ${outputPath}`);
   console.log(`  船只总数：${rows.length}`);
+  console.log(`  稀有度：${[...new Set(rows.map((row) => row[3]))].sort().join(" / ")}`);
+  console.log(`  舰级中文译名：${rows.filter((row) => /[\u4e00-\u9fa5]/.test(row[6])).length}/${rows.length}`);
+  console.log(`  声优中文名：${rows.filter((row) => /[\u4e00-\u9fa5]/.test(row[9])).length}/${rows.length}`);
   console.log(`  实装活动：日期+活动名 ${withEventName}，仅日期 ${withDateOnly}，无活动 ${noEvent}`);
   console.log(`  未匹配 wiki 页面：${unmatched.length}`);
   if (unmatched.length) console.log(`    ${unmatched.join("、")}`);

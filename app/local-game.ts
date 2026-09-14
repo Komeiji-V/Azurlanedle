@@ -182,9 +182,12 @@ export function shanghaiDay(date = new Date()): string {
   return `${values.year}-${values.month}-${values.day}`;
 }
 
+/** 挑战编号的起点：上线首日记为 #1，之后每天 +1。 */
+export const CHALLENGE_EPOCH = "2026-09-14";
+
 export function challengeNumber(day: string): number {
   return Math.floor(
-    (Date.parse(`${day}T00:00:00+08:00`) - Date.parse("2024-01-01T00:00:00+08:00")) / 86400000,
+    (Date.parse(`${day}T00:00:00+08:00`) - Date.parse(`${CHALLENGE_EPOCH}T00:00:00+08:00`)) / 86400000,
   ) + 1;
 }
 

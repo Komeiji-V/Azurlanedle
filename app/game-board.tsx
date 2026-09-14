@@ -36,11 +36,10 @@ import {
 import { evaluateGame, prepareShips, type EvalResult } from "./azurlane-eval";
 import { splitOrderedDisplay } from "./game-core";
 
-type PageTheme = "hang" | "chi";
-
-const THEME_STORAGE_KEY = "hangyiba:theme:v1";
 const CONTINUOUS_MODES: LocalGameMode[] = ["unlimited", "custom"];
 const EVALUATION_DELAY_MS = 60;
+/** TODO: GitHub 仓库建好后，把这里替换成真实地址（页脚会显示它） */
+const REPOSITORY_URL = "https://github.com/your-account/hangyiba";
 const TEN_MATCH_DIFFICULTIES: Array<{ value: TenMatchDifficulty; label: string; detail: string }> = [
   { value: "easy", label: "Easy", detail: "答案只从可建造舰船中抽取 · 猜错扣时 1/1/2/3/4/5/6s · 猜对 +50s" },
   { value: "normal", label: "Normal", detail: "猜错扣时 1/2/3/5/7/9/11s · 猜对 +40s" },
@@ -63,7 +62,6 @@ export function GameBoard() {
   const [showHistory, setShowHistory] = useState(false);
   const [gameRecords, setGameRecords] = useState<GameRecord[]>([]);
   const [activeGameSessionIds, setActiveGameSessionIds] = useState<Set<string>>(() => new Set());
-  const [pageTheme, setPageTheme] = useState<PageTheme>("hang");
   const [catalogChoices, setCatalogChoices] = useState<CatalogRecord[]>([]);
   const [playCatalogId, setPlayCatalogId] = useState("");
   const [showCatalogMenu, setShowCatalogMenu] = useState(false);
@@ -142,28 +140,6 @@ export function GameBoard() {
     initialize();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
-
-  useEffect(() => {
-    const savedTheme = window.localStorage.getItem(THEME_STORAGE_KEY);
-    if (savedTheme === "chi") {
-      // Theme preference is intentionally restored after hydration.
-      // eslint-disable-next-line react-hooks/set-state-in-effect
-      setPageTheme("chi");
-    }
-  }, []);
-
-  useEffect(() => {
-    document.documentElement.dataset.theme = pageTheme;
-    return () => {
-      delete document.documentElement.dataset.theme;
-    };
-  }, [pageTheme]);
-
-  useEffect(() => {
-    document.title = pageTheme === "chi"
-      ? "赤一把｜猜碧蓝航线舰船"
-      : "航一把｜猜碧蓝航线舰船";
-  }, [pageTheme]);
 
   useEffect(() => {
     gameRef.current = game;
@@ -405,13 +381,6 @@ export function GameBoard() {
     }, EVALUATION_DELAY_MS);
   }
 
-  function togglePageTheme() {
-    setPageTheme((currentTheme) => {
-      const nextTheme = currentTheme === "hang" ? "chi" : "hang";
-      window.localStorage.setItem(THEME_STORAGE_KEY, nextTheme);
-      return nextTheme;
-    });
-  }
 
   function changePlayCatalog(catalogId: string) {
     setShowCatalogMenu(false);
@@ -437,7 +406,6 @@ export function GameBoard() {
     setShowHistory(true);
   }
 
-  const isChiTheme = pageTheme === "chi";
   const challengeTitle = mode === "daily"
     ? `每日挑战 #${game?.challengeNumber ?? "—"}`
     : mode === "ten"
@@ -447,22 +415,12 @@ export function GameBoard() {
         : "自定义模式";
 
   return (
-    <main className={`game-shell theme-${pageTheme}`}>
+    <main className="game-shell">
       <div className="mist mist-one" />
       <div className="mist mist-two" />
       <header className="topbar">
         <p className="challenge">{challengeTitle}</p>
         <div className="topbar-actions">
-          <button
-            className="theme-toggle"
-            type="button"
-            aria-pressed={isChiTheme}
-            aria-label={isChiTheme ? "切换到航一把主题" : "切换到赤一把主题"}
-            onClick={togglePageTheme}
-          >
-            <span className="theme-gem" aria-hidden="true" />
-            {isChiTheme ? "航一把" : "赤一把"}
-          </button>
           <a className="admin-link" href="admin/">标签后台</a>
           <button className="ghost-button" onClick={() => { setShowHistory(false); setShowHelp(true); }}>游戏玩法</button>
           <button className="ghost-button" onClick={openHistory}>游玩历史</button>
@@ -473,10 +431,10 @@ export function GameBoard() {
         <div className="crystal-wings" aria-hidden="true">
           {Array.from({ length: 12 }, (_, index) => <i key={index} />)}
         </div>
-        <div className="crest" aria-hidden="true">{isChiTheme ? "赤" : "航"}</div>
-        <p className="eyebrow">{isChiTheme ? "Crimson axis ship puzzle" : "Azur Lane ship puzzle"}</p>
-        <h1>{isChiTheme ? "赤一把" : "航一把"}</h1>
-        <p className="subtitle">{isChiTheme ? "猜出隐藏的那艘舰船" : "猜出隐藏的那艘舰船"}</p>
+        <div className="crest" aria-hidden="true">航</div>
+        <p className="eyebrow">"Azur Lane ship puzzle"</p>
+        <h1>航一把</h1>
+        <p className="subtitle">猜出隐藏的那艘舰船</p>
       </section>
 
       <section className="status-strip" aria-label="今日挑战状态">
@@ -777,7 +735,11 @@ export function GameBoard() {
       )}
       </div>
 
-      <footer>碧蓝航线同人猜船游戏 · 基于东一把改造</footer>
+      <footer>
+        <a href={REPOSITORY_URL} target="_blank" rel="noreferrer">
+          {REPOSITORY_URL.replace(/^https?:\/\//, "")}
+        </a>
+      </footer>
 
       {showHelp && (
         <div className="modal-backdrop" onClick={() => setShowHelp(false)}>

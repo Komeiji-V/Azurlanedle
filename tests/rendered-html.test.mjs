@@ -26,7 +26,6 @@ test("玩家首页使用真实游戏组件和正式元数据", async () => {
   assert.match(updateCenter, /checkCatalog\(false/);
   assert.match(updateCenter, /官方题库有更新/);
   assert.match(updateCenter, /当前题库基线.*DEFAULT_CATALOG_VERSION/);
-  assert.match(game, /document\.documentElement\.dataset\.theme = pageTheme/);
   assert.match(game, /\["daily", "ten", "unlimited", "custom"\]/);
   assert.match(game, /塞壬准备了十番变化，你能全部猜出吗？/);
   assert.match(game, /getTenMatchRemainingMs/);
@@ -46,7 +45,6 @@ test("玩家首页使用真实游戏组件和正式元数据", async () => {
   assert.match(styles, /\.ten-match-difficulty/);
   assert.ok(game.indexOf('className="mode-switch"') < game.indexOf('className="custom-game-options"'));
   assert.match(styles, /\.countdown-timer\.timer-low b/);
-  assert.match(styles, /html\[data-theme="chi"\] \.update-panel/);
   assert.match(styles, /\.history-list::\-webkit-scrollbar-thumb/);
   assert.match(styles, /scrollbar-color:\s*var\(--red\)\s+var\(--paper-deep\)/);
   assert.match(styles, /\.history-list::\-webkit-scrollbar-button\s*\{[^}]*display:\s*none/);
