@@ -1,0 +1,43 @@
+{
+  "name": "hangyiba",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "predev": "node scripts/generate_default_catalog.mjs",
+    "dev": "vinext dev",
+    "prebuild": "node scripts/generate_default_catalog.mjs",
+    "build": "node scripts/build-static.mjs",
+    "prestart": "node scripts/generate_default_catalog.mjs",
+    "start": "vinext start",
+    "prelint": "node scripts/generate_default_catalog.mjs",
+    "test": "node scripts/generate_default_catalog.mjs --check && npm run build && node --test tests/rendered-html.test.mjs && node --require ./scripts/tsx-userinfo-fallback.cjs --import tsx --test tests/game-core.test.ts tests/local-game.test.ts tests/azurlane-eval.test.ts tests/default-catalog-update.test.ts tests/app-update.test.ts",
+    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
+    "catalog:fetch": "node scripts/fetch-bwiki-data.mjs",
+    "catalog:build": "node scripts/build-catalog-csv.mjs"
+  },
+  "dependencies": {
+    "next": "16.2.6",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.2.1",
+    "@types/node": "22.19.19",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "6.0.2",
+    "@vitejs/plugin-rsc": "0.5.26",
+    "eslint": "9.39.4",
+    "eslint-config-next": "16.2.6",
+    "react-server-dom-webpack": "19.2.6",
+    "tailwindcss": "4.2.1",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3",
+    "vinext": "0.0.50",
+    "vite": "8.0.13"
+  },
+  "type": "module"
+}

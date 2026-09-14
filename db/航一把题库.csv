@@ -1,0 +1,829 @@
+﻿舰船名,别名,启用,稀有度（类型：exact）,阵营（类型：exact）,舰种（类型：exact）,舰级（类型：exact）,建造时间（类型：ordered）,实装活动（类型：ordered）,声优（类型：exact-multi）
+泛用型布里,Universal Bulin,是,精锐,其他,驱逐,Bulin,无法建造,无活动,Asami Shimoda
+试作型布里MKII,Trial Bulin MKII、Prototype Bulin MKII,是,超稀有,其他,驱逐,Bulin,无法建造,无活动,Asami Shimoda
+特装型布里MKIII,Specialized Bulin MKIII、Specialized Bulin Custom MKIII,是,海上传奇,其他,驱逐,Bulin,无法建造,无活动,Asami Shimoda
+杜威,Dewey,是,稀有,白鹰,驱逐,Farragut,无法建造,无活动,Miyuri Shimabukuro
+卡辛,Cassin,是,普通,白鹰,驱逐,Mahan,00:23:00,无活动,Nana Harumura
+唐斯,Downes,是,普通,白鹰,驱逐,Mahan,00:23:00,无活动,Ayano Niina
+格里德利,Gridley,是,稀有,白鹰,驱逐,Gridley,无法建造,无活动,Narumi Shinohara
+克雷文,Craven,是,普通,白鹰,驱逐,Gridley,00:25:00,无活动,Ayano Niina
+麦考尔,McCall,是,普通,白鹰,驱逐,Gridley,00:25:00,无活动,Nana Harumura
+莫里,Maury,是,精锐,白鹰,驱逐,Gridley,00:25:00,无活动,Konomi Kohara
+弗莱彻,Fletcher,是,稀有,白鹰,驱逐,Fletcher,00:28:00,无活动,Manaka Iwami
+威廉·D·波特,William D. Porter,是,海上传奇,白鹰,驱逐,Fletcher,无法建造,2025-12-18 响彻于天穹之音,Sumire Morohoshi
+查尔斯·奥斯本,Charles Ausburne,是,精锐,白鹰,驱逐,Fletcher,无法建造,无活动,Satsuki Morita
+撒切尔,Thatcher,是,稀有,白鹰,驱逐,Fletcher,无法建造,无活动,Ruka Nemoto
+奥利克,Aulick,是,普通,白鹰,驱逐,Fletcher,00:28:00,无活动,Yuna Yoshino
+富特,Foote,是,普通,白鹰,驱逐,Fletcher,00:28:00,无活动,Yuna Yoshino
+斯彭斯,Spence,是,普通,白鹰,驱逐,Fletcher,00:28:00,无活动,Yuna Yoshino
+本森,Benson,是,稀有,白鹰,驱逐,Benson,无法建造,无活动,Manami Numakura
+拉菲,Laffey,是,精锐,白鹰,驱逐,Benson,00:27:00,无活动,Maria Naganawa
+西姆斯,Sims,是,稀有,白鹰,驱逐,Sims,无法建造,无活动,Mikako Komatsu
+哈曼,Hammann,是,稀有,白鹰,驱逐,Sims,00:26:00,无活动,Asuka Itou
+埃尔德里奇,Eldridge,是,超稀有,白鹰,驱逐,Cannon,无法建造,无活动,Nozomi Sasaki
+贝利,Bailey,是,稀有,白鹰,驱逐,Benson,无法建造,无活动,Eri Suzuki
+拉德福特,Radford,是,稀有,白鹰,驱逐,Fletcher,无法建造,无活动,Mariya Ise
+杰金斯,Jenkins,是,稀有,白鹰,驱逐,Fletcher,无法建造,无活动,Mariya Ise
+尼古拉斯,Nicholas,是,精锐,白鹰,驱逐,Fletcher,无法建造,无活动,M・A・O
+布什,Bush,是,稀有,白鹰,驱逐,Fletcher,无法建造,无活动,Akane Fujita
+黑泽伍德,Hazelwood,是,稀有,白鹰,驱逐,Fletcher,无法建造,无活动,Akane Fujita
+贝奇,Bache,是,稀有,白鹰,驱逐,Fletcher,00:28:00,无活动,Sayaka Kaneko
+霍比,Hobby,是,稀有,白鹰,驱逐,Benson,00:27:00,2018-10-25 复刻：坠落之翼,Miyuki Kobori
+科尔克,Kalk,是,稀有,白鹰,驱逐,Benson,00:27:00,2018-10-25 复刻：坠落之翼,Miyuki Kobori
+金伯利,Kimberly,是,稀有,白鹰,驱逐,Fletcher,00:28:00,2019-01-24 复刻：凛冬王冠,Sumire Morohoshi
+马拉尼,Mullany,是,精锐,白鹰,驱逐,Fletcher,00:28:00,2019-01-24 复刻：凛冬王冠,Asuka Oogame
+艾尔温,Aylwin,是,稀有,白鹰,驱逐,Farragut,无法建造,2019-07-31 箱庭疗法,Ayaka Ouhashi
+斯坦利,Stanly,是,稀有,白鹰,驱逐,Fletcher,00:28:00,无活动,Yoshie Sakai
+斯莫利,Smalley,是,稀有,白鹰,驱逐,Fletcher,00:28:00,无活动,Natsume Iwasa
+哈尔西·鲍威尔,Halsey Powell,是,稀有,白鹰,驱逐,Fletcher,00:28:00,2020-01-21,Rika Momokawa
+库珀,Cooper,是,精锐,白鹰,驱逐,Allen M. Sumner,00:29:00,2020-03-26 微层混合,Miho Okasaki
+艾伦·萨姆纳,Allen M. Sumner,是,超稀有,白鹰,驱逐,Allen M. Sumner,00:29:00,2021-03-25 复刻：箱庭疗法,Hazuki Ogino
+史蒂芬·波特,Stephen Potter,是,精锐,白鹰,驱逐,Fletcher,00:28:00,2021-03-25 复刻：箱庭疗法,Shiori Sugiura
+莫里森,赛普拉斯、Morrison,是,精锐,白鹰,驱逐,Fletcher,无法建造,2021-05-27 镜位螺旋,Sakura Namiki
+英格拉罕,格拉哈姆、Ingraham,是,超稀有,白鹰,驱逐,Allen M. Sumner,00:29:00,2021-08-19 复刻：微层混合,Hiyori Kono
+布里斯托尔,Bristol,是,超稀有,白鹰,驱逐,Allen M. Sumner,00:29:00,2022-01-27,Mayuko Kazama
+哈曼II,Hammann II,是,精锐,白鹰,驱逐,Edsall,00:15:00,2022-12-22 定向折叠,Asuka Itou
+拉菲II,Laffey II,是,海上传奇,白鹰,驱逐,Allen M. Sumner,无法建造,2023-12-21 星海逐光,Maria Naganawa
+贝尔,Bell,是,精锐,白鹰,驱逐,Fletcher,00:28:00,2024-08-15 铁翼擎风,Yuina Ito
+米勒,Miller,是,精锐,白鹰,驱逐,Fletcher,00:28:00,2025-03-27 深谷来信,Azusa Tachibana
+克拉伦斯·K·布朗森,Clarence K. Bronson,是,精锐,白鹰,驱逐,Fletcher,无法建造,2025-12-18 响彻于天穹之音,Hiyori Miyazaki
+奥马哈,Omaha,是,普通,白鹰,轻巡,Omaha,01:05:00,无活动,Juri Kimura
+罗利,Raleigh,是,普通,白鹰,轻巡,Omaha,01:05:00,无活动,Juri Kimura
+布鲁克林,Brooklyn,是,稀有,白鹰,轻巡,Brooklyn,01:15:00,无活动,Lynn
+菲尼克斯,Phoenix,是,稀有,白鹰,轻巡,Brooklyn,01:15:00,无活动,Lynn
+海伦娜,Helena,是,精锐,白鹰,轻巡,Brooklyn,无法建造,无活动,Tomoyo Chuujou
+亚特兰大,Atlanta,是,稀有,白鹰,轻巡,Atlanta,01:10:00,无活动,Kazusa Aranami
+朱诺,Juneau,是,稀有,白鹰,轻巡,Atlanta,01:10:00,无活动,Juri Kimura
+圣地亚哥,圣戴安娜、San Diego,是,超稀有,白鹰,轻巡,Atlanta,01:10:00,无活动,Asuka Itou
+克利夫兰,Cleveland,是,精锐,白鹰,轻巡,Cleveland,无法建造,无活动,Saya Horigome
+哥伦比亚,Columbia,是,精锐,白鹰,轻巡,Cleveland,无法建造,无活动,Saya Horigome
+里士满,Richmond,是,普通,白鹰,轻巡,Omaha,无法建造,无活动,Riko Kohara
+火奴鲁鲁,Honolulu,是,稀有,白鹰,轻巡,Brooklyn,无法建造,无活动,Yoko Hikasa
+圣路易斯,St. Louis,是,精锐,白鹰,轻巡,Brooklyn,01:15:00,无活动,Yoko Hikasa
+蒙彼利埃,Montpelier,是,超稀有,白鹰,轻巡,Cleveland,01:25:00,无活动,Rie Takahashi
+丹佛,Denver,是,精锐,白鹰,轻巡,Cleveland,01:25:00,无活动,Ari Ozawa
+孟菲斯,Memphis,是,稀有,白鹰,轻巡,Omaha,无法建造,无活动,Hekiru Shiina
+康克德,Concord,是,稀有,白鹰,轻巡,Omaha,01:05:00,无活动,Kana Yuuki
+小海伦娜,Lena,是,精锐,白鹰,轻巡,Brooklyn,01:10:00,2019-05-23 铁血、音符&誓言,Tomoyo Chuujou
+小克利夫兰,Clevelad,是,精锐,白鹰,轻巡,Cleveland,01:20:00,2019-05-23 铁血、音符&誓言,Saya Horigome
+小圣地亚哥,小圣戴安娜、Li'l Sandy,是,精锐,白鹰,轻巡,Atlanta,无法建造,2019-05-23 铁血、音符&誓言,Asuka Itou
+圣胡安,San Juan,是,稀有,白鹰,轻巡,Atlanta,无法建造,2019-07-31 箱庭疗法,Yuki Shion
+伯明翰,Birmingham,是,精锐,白鹰,轻巡,Cleveland,01:25:00,2019-07-31 箱庭疗法,Sayumi Watabe
+克利夫兰(μ兵装),Cleveland、Cleveland µ,是,精锐,白鹰,轻巡,Cleveland,01:25:00,2019-10-31,Saya Horigome
+比洛克西,Biloxi,是,精锐,白鹰,轻巡,Cleveland,01:25:00,2020-01-21,Kaoru Komatsu
+里诺,Reno,是,超稀有,白鹰,轻巡,Atlanta,01:10:00,2020-03-26 微层混合,Meiko Kawasaki
+马布尔黑德,Marblehead,是,稀有,白鹰,轻巡,Omaha,01:05:00,2020-03-26 微层混合,Larissa Tago Takeda
+博伊西,树城、Boise,是,精锐,白鹰,轻巡,Brooklyn,01:15:00,2021-05-27 镜位螺旋,Yuu Sasahara
+休斯敦II,Houston II,是,超稀有,白鹰,轻巡,Cleveland,无法建造,无活动,Aya Yokota
+博伊西(μ兵装),树城(μ兵装)、Boise、Boise µ,是,精锐,白鹰,轻巡,Brooklyn,01:15:00,2024-04-25 共鸣的PASSION,Yuu Sasahara
+法戈,Fargo,是,超稀有,白鹰,轻巡,Fargo,01:26:00,2024-08-15 铁翼擎风,Akane Misaka
+圣塔菲,Santa Fe,是,超稀有,白鹰,轻巡,Cleveland,01:25:00,2025-03-27 深谷来信,Sae Hiratsuka
+帕萨迪纳,Pasadena,是,精锐,白鹰,轻巡,Cleveland,01:25:00,2025-12-18 响彻于天穹之音,Nana Hasumi
+彭萨科拉,Pensacola,是,普通,白鹰,重巡,Pensacola,01:20:00,无活动,Manaka Iwami
+盐湖城,Salt Lake City,是,普通,白鹰,重巡,Pensacola,无法建造,无活动,Manaka Iwami
+北安普敦,Northampton,是,稀有,白鹰,重巡,Northampton,01:40:00,无活动,Takao Koizumi
+芝加哥,Chicago,是,稀有,白鹰,重巡,Northampton,01:40:00,无活动,Ruka Nemoto
+休斯敦,Houston,是,精锐,白鹰,重巡,Northampton,01:40:00,无活动,Aya Yokota
+波特兰,Portland,是,稀有,白鹰,重巡,Portland,01:50:00,无活动,Kaori Yoshioka
+印第安纳波利斯,Indianapolis,是,精锐,白鹰,重巡,Portland,01:50:00,无活动,Aya Yokota
+阿斯托利亚,Astoria,是,精锐,白鹰,重巡,New Orleans,无法建造,2018-07-17,Yoshie Sakai
+昆西,Quincy,是,精锐,白鹰,重巡,New Orleans,无法建造,2018-07-17,Minami Tsuda
+文森斯,Vincennes,是,精锐,白鹰,重巡,New Orleans,无法建造,2018-07-17,Minami Tsuda
+威奇塔,Wichita,是,精锐,白鹰,重巡,Wichita,02:30:00,无活动,Nozomi Yamamoto
+新奥尔良,New Orleans,是,超稀有,白鹰,重巡,New Orleans,无法建造,无活动,Natsumi Fujiwara
+明尼阿波利斯,Minneapolis,是,超稀有,白鹰,重巡,New Orleans,无法建造,2018-10-25 复刻：坠落之翼,Yu Shimamura
+旧金山,雾城、San Francisco,是,超稀有,白鹰,重巡,New Orleans,01:56:00,2021-05-27 镜位螺旋,Tomomi Mineuchi
+巴尔的摩,Baltimore,是,超稀有,白鹰,重巡,Baltimore,02:00:00,2019-07-31 箱庭疗法,Minami Takahashi
+布莱默顿,Bremerton,是,超稀有,白鹰,重巡,Baltimore,02:00:00,2020-03-26 微层混合,Yuiko Tatsumi
+巴尔的摩(μ兵装),Baltimore、Baltimore µ,是,精锐,白鹰,重巡,Baltimore,02:00:00,2020-10-29,Minami Takahashi
+北安普敦II,Northampton II,是,超稀有,白鹰,重巡,Oregon City,02:00:00,2022-12-22 定向折叠,Takao Koizumi
+路易斯维尔,Louisville,是,精锐,白鹰,重巡,Northampton,无法建造,2023-12-21 星海逐光,Kaori Sadohara
+匹兹堡,Pittsburgh,是,超稀有,白鹰,重巡,Baltimore,02:00:00,2024-08-15 铁翼擎风,Yuka Saito
+小安克雷奇,Little Anchorage,是,精锐,白鹰,重巡,Anchorage,无法建造,2025-04-24 扬起郁金之旗,Rina Hidaka
+星座,Constellation,是,超稀有,白鹰,战巡,Lexington,04:16:30,2023-12-21 星海逐光,Iori Saeki
+内华达,Nevada,是,普通,白鹰,战列,Nevada,04:00:00,无活动,Yumi Uchiyama
+俄克拉荷马,Oklahoma,是,普通,白鹰,战列,Nevada,04:00:00,无活动,Yumi Uchiyama
+宾夕法尼亚,Pennsylvania,是,稀有,白鹰,战列,Pennsylvania,04:10:00,无活动,Nozomi Yamane
+亚利桑那,Arizona,是,精锐,白鹰,战列,Pennsylvania,04:10:00,无活动,Sawako Shirakabe
+田纳西,Tennessee,是,稀有,白鹰,战列,Tennessee,04:20:00,无活动,Rina Satou
+加利福尼亚,California,是,稀有,白鹰,战列,Tennessee,04:20:00,无活动,Rina Satou
+科罗拉多,Colorado,是,精锐,白鹰,战列,Colorado,无法建造,2017-12-28 坠落之翼,Rie Suegara
+马里兰,Maryland,是,精锐,白鹰,战列,Colorado,无法建造,2017-12-28 坠落之翼,Aya Saitou
+西弗吉尼亚,West Virginia,是,精锐,白鹰,战列,Colorado,无法建造,2017-12-28 坠落之翼,Chitose Morinaga
+北卡罗来纳,North Carolina,是,超稀有,白鹰,战列,North Carolina,无法建造,2017-12-28 坠落之翼,Yui Horie
+华盛顿,Washington,是,超稀有,白鹰,战列,North Carolina,无法建造,2017-12-28 坠落之翼,Rika Abe
+南达科他,South Dakota,是,超稀有,白鹰,战列,South Dakota,无法建造,无活动,Tomoyo Kurosawa
+印第安纳,Indiana,是,超稀有,白鹰,战列,South Dakota,05:00:00,2024-08-15 铁翼擎风,Makoto Koichi
+新泽西,花园、New Jersey,是,海上传奇,白鹰,战列,Iowa,06:30:00,2021-05-27 镜位螺旋,Miyu Tomita
+马萨诸塞,Massachusetts,是,超稀有,白鹰,战列,South Dakota,无法建造,2018-07-26 光与影的鸢尾之华,Rie Takahashi
+阿拉巴马,Alabama,是,超稀有,白鹰,战列,South Dakota,05:00:00,2019-07-31 箱庭疗法,Hibiku Yamamura
+长岛,Long Island,是,稀有,白鹰,轻航,Long Island,02:15:00,无活动,Sachiyo Yoshida
+博格,Bogue,是,普通,白鹰,轻航,Bogue,02:20:00,无活动,Koharu Nogata
+卡萨布兰卡,Casablanca,是,稀有,白鹰,轻航,Casablanca,无法建造,2020-03-26 微层混合,Ikumi Hasegawa
+兰利,Langley,是,普通,白鹰,轻航,Langley,02:00:00,无活动,Haruka Yoshimura
+列克星敦,Lexington,是,精锐,白鹰,航母,Lexington,03:40:00,无活动,Minami Shinoda
+萨拉托加,Saratoga,是,精锐,白鹰,航母,Lexington,03:40:00,无活动,Sumire Uesaka
+突击者,Ranger,是,普通,白鹰,轻航,Ranger,02:40:00,无活动,Yuu Asakawa
+约克城,Yorktown,是,精锐,白鹰,航母,Yorktown,04:20:00,无活动,Kana Yuuki
+企业,Enterprise,是,超稀有,白鹰,航母,Yorktown,04:20:00,无活动,Yui Ishikawa
+大黄蜂,Hornet,是,精锐,白鹰,航母,Yorktown,04:20:00,无活动,Nozomi Yamamoto
+胡蜂,Wasp,是,稀有,白鹰,航母,Wasp,无法建造,2017-12-28 坠落之翼,Tomoyo Takayanagi
+埃塞克斯,Essex,是,超稀有,白鹰,航母,Essex,04:25:00,2018-09-14,Kaori Mizuhashi
+约克城II,Yorktown II,是,海上传奇,白鹰,航母,Essex,04:25:00,2022-12-22 定向折叠,Kana Yuuki
+无畏,Intrepid,是,超稀有,白鹰,航母,Essex,04:25:00,2020-03-26 微层混合,Ai Fairouz
+大黄蜂II,Hornet II,是,超稀有,白鹰,航母,Essex,04:25:00,2022-12-22 定向折叠,Nozomi Yamamoto
+富兰克林,Franklin,是,超稀有,白鹰,航母,Essex,04:25:00,2025-03-27 深谷来信,Anna Nagase
+提康德罗加,卡莉永、Ticonderoga,是,超稀有,白鹰,航母,Essex,04:25:00,2021-05-27 镜位螺旋,Kana Ichinose
+列克星敦II,Lexington II,是,海上传奇,白鹰,航母,Essex,04:25:00,2025-12-18 响彻于天穹之音,Minami Shinoda
+邦克山,Bunker Hill,是,超稀有,白鹰,航母,Essex,无法建造,无活动,Kana Ichinose
+独立,Independence,是,精锐,白鹰,轻航,Independence,无法建造,2019-02-28,Haruka Yamazaki
+普林斯顿,Princeton,是,精锐,白鹰,轻航,Independence,02:06:40,2020-10-12,Shiomi Yukina
+科本斯,Cowpens,是,超稀有,白鹰,轻航,Independence,02:06:40,2025-12-18 响彻于天穹之音,Seria Fukagawa
+兰利II,Langley II,是,精锐,白鹰,轻航,Independence,无法建造,2022-12-22 定向折叠,Haruka Yoshimura
+巴丹,Bataan,是,精锐,白鹰,轻航,Independence,无法建造,2019-07-31 箱庭疗法,Akane Fujita
+圣哈辛托,San Jacinto,是,精锐,白鹰,轻航,Independence,02:06:40,2023-12-21 星海逐光,Natsu Yorita
+香格里拉,Shangri-La,是,超稀有,白鹰,航母,Essex,04:25:00,2019-02-28,Akane Fujita
+小企业,Little Enterprise,是,精锐,白鹰,航母,Yorktown,04:30:00,2021-05-27 镜位螺旋,Yui Ishikawa
+鲦鱼,Dace,是,精锐,白鹰,潜艇,Gato,无法建造,无活动,Akiko Hasegawa
+大青花鱼,Albacore,是,超稀有,白鹰,潜艇,Gato,无法建造,2018-09-14,Atsumi Tanezaki
+棘鳍,Cavalla,是,超稀有,白鹰,潜艇,Gato,无法建造,2019-07-31 箱庭疗法,Yurika Kubo
+蓝鳃鱼,Bluegill,是,精锐,白鹰,潜艇,Gato,无法建造,2020-03-26 微层混合,Yukina Shuto
+大青花鱼(μ兵装),Albacore、Albacore µ,是,精锐,白鹰,潜艇,Gato,00:24:00,2020-10-29,Atsumi Tanezaki
+射水鱼,喷水鱼、Archerfish,是,超稀有,白鹰,潜艇,Balao,00:25:00,2021-05-27 镜位螺旋,Hikaru Akao
+鹦鹉螺,Nautilus,是,精锐,白鹰,潜艇,Narwhal,00:23:00,2021-08-19 复刻：微层混合,Akiho Suzumoto
+松鲷,Flasher,是,超稀有,白鹰,潜艇,Gato,00:24:00,2023-12-21 星海逐光,Ruka Fukagawa
+鲱鱼,Herring,是,精锐,白鹰,潜艇,Gato,无法建造,2024-08-15 铁翼擎风,Rika Momokawa
+女灶神,Vestal,是,精锐,白鹰,维修,Vestal,02:00:00,无活动,Maia
+关岛,Guam,是,海上传奇,白鹰,超巡,Alaska,04:11:40,2023-12-21 星海逐光,Karin Kagami
+西雅图,Seattle,是,最高方案,白鹰,轻巡,Seattle,科研,2019-04-18,Tomori Kusunoki
+佐治亚,Georgia,是,最高方案,白鹰,战列,Georgia,科研,2019-04-18,Shino Shimoji
+安克雷奇,Anchorage,是,最高方案,白鹰,重巡,Anchorage,科研,2021-07-08,Rina Hidaka
+奇尔沙治,Kearsarge,是,决战方案,白鹰,航战,Kearsarge,科研,2023-07-13,Yoshino Aoyama
+哈尔福德,Halford,是,最高方案,白鹰,驱逐,Fletcher,科研,2024-07-18 轻量化复刻：泠誓光庭,Yurie Igoma
+堪萨斯,Kansas,是,最高方案,白鹰,战列,Kansas,科研,2025-07-10,Risae Matsuda
+女将,Amazon,是,稀有,皇家,驱逐,Amazon,00:19:00,无活动,Yukiko Ayamiya
+阿卡司塔,Acasta,是,稀有,皇家,驱逐,A and B,00:19:00,2017-10-26,Kaya Okuno
+热心,Ardent,是,稀有,皇家,驱逐,A and B,00:19:00,2017-10-26,Mami Kamikura
+小猎兔犬,Beagle,是,普通,皇家,驱逐,A and B,00:20:00,无活动,Eri Suzuki
+大斗犬,Bulldog,是,普通,皇家,驱逐,A and B,00:20:00,无活动,Eri Suzuki
+彗星,Comet,是,普通,皇家,驱逐,C,00:21:00,无活动,Minori Suzuki
+新月,Crescent,是,普通,皇家,驱逐,C,00:21:00,无活动,Minori Suzuki
+小天鹅,Cygnet,是,普通,皇家,驱逐,C,00:21:00,无活动,Risa Taneda
+狐提,Foxhound,是,普通,皇家,驱逐,F,00:24:00,无活动,Yuri Yamaoka
+命运女神,Fortune,是,稀有,皇家,驱逐,F,无法建造,无活动,Yuuko Gotou
+格伦维尔,Grenville,是,精锐,皇家,驱逐,G,00:25:00,2019-01-24 复刻：凛冬王冠,Juri Kimura
+萤火虫,Glowworm,是,精锐,皇家,驱逐,G,无法建造,无活动,Hiromi Igarashi
+勇敢,Hardy,是,精锐,皇家,驱逐,H,00:26:00,2019-03-07,Ayaka Nanase
+猎人,Hunter,是,稀有,皇家,驱逐,H,无法建造,2019-03-07,Ayaka Nanase
+标枪,Javelin,是,精锐,皇家,驱逐,J,00:27:00,无活动,Nozomi Yamane
+天后,Juno,是,稀有,皇家,驱逐,J,无法建造,无活动,Sawako Shirakabe
+吸血鬼,Vampire,是,精锐,皇家,驱逐,V,无法建造,2017-06-08,Rie Kugimiya
+丘比特,Jupiter,是,稀有,皇家,驱逐,J,00:27:00,无活动,Tomoyo Takayanagi
+泽西,Jersey,是,稀有,皇家,驱逐,J,00:27:00,无活动,Miho Takauma
+无敌,Matchless,是,精锐,皇家,驱逐,M,无法建造,2018-02-26 凛冬王冠,Yumiri Hanamori
+火枪手,Musketeer,是,精锐,皇家,驱逐,M,无法建造,2018-02-26 凛冬王冠,Yumiri Hanamori
+回声,Echo,是,稀有,皇家,驱逐,E,00:28:00,2019-05-23 铁血、音符&誓言,Mizuki Yuina
+爱斯基摩人,Eskimo,是,精锐,皇家,驱逐,Tribal,00:29:00,2020-06-03,Haruka Takahashi
+伊卡洛斯,Icarus,是,精锐,皇家,驱逐,I,无法建造,2020-07-23 永夜幻光,Yuuki Takada
+贾维斯,Jervis,是,超稀有,皇家,驱逐,J,00:27:00,2022-05-26 泠誓光庭,Miyuki Satou
+雅努斯,Janus,是,超稀有,皇家,驱逐,J,00:27:00,2022-10-27,Hina Kino
+英雄,Hero,是,精锐,皇家,驱逐,H,无法建造,2023-02-23 湮烬尘墟,Amane Shindou
+努比亚人,Nubian,是,超稀有,皇家,驱逐,Tribal,00:29:00,2024-03-28,Emiri Iwai
+特拉法尔加,Trafalgar,是,海上传奇,皇家,驱逐,Battle,无法建造,2025-05-20 高塔上的蔷薇,Madoka Yonezawa
+勇气,Gallant,是,精锐,皇家,驱逐,G,00:25:00,2025-05-20 高塔上的蔷薇,Mai Kanazawa
+利安得,Leander,是,普通,皇家,轻巡,Leander,01:15:00,无活动,Ibuki Kido
+阿基里斯,Achilles,是,稀有,皇家,轻巡,Leander,01:15:00,无活动,Yuri Yamaoka
+阿贾克斯,Ajax,是,稀有,皇家,轻巡,Leander,01:15:00,无活动,Tomoyo Chuujou
+黛朵,Dido,是,超稀有,皇家,轻巡,Dido,00:55:00,2020-01-21,Ruriko Aoki
+南安普顿,Southampton,是,稀有,皇家,轻巡,Town,01:25:00,无活动,Ayumi Mano
+谢菲尔德,Sheffield,是,精锐,皇家,轻巡,Town,无法建造,2018-02-26 凛冬王冠,Konomi Kohara
+曼彻斯特,Manchester,是,精锐,皇家,轻巡,Town,01:25:00,2022-10-27,Tomomi Tanaka
+格罗斯特,Gloucester,是,精锐,皇家,轻巡,Town,01:25:00,2020-01-21,Reina Ueda
+爱丁堡,Edinburgh,是,精锐,皇家,轻巡,Town,无法建造,无活动,Yuuko Gotou
+贝尔法斯特,Belfast,是,超稀有,皇家,轻巡,Town,01:25:00,无活动,Yui Horie
+阿瑞托莎,Arethusa,是,稀有,皇家,轻巡,Arethusa,无法建造,无活动,Ayaka Suwa
+加拉蒂亚,Galatea,是,稀有,皇家,轻巡,Arethusa,无法建造,无活动,Ayaka Suwa
+欧若拉,Aurora,是,精锐,皇家,轻巡,Arethusa,01:20:00,无活动,Yui Sakakibara
+斐济,Fiji,是,稀有,皇家,轻巡,Crown Colony,无法建造,2018-02-26 凛冬王冠,Sawako Hata
+牙买加,Jamaica,是,稀有,皇家,轻巡,Crown Colony,无法建造,2018-02-26 凛冬王冠,Yuuko Sanpei
+小贝法,Little Bel,是,精锐,皇家,轻巡,Town,01:20:00,2018-04-26 第十二章-马里亚纳风云•上,Yui Horie
+纽卡斯尔,Newcastle,是,稀有,皇家,轻巡,Town,无法建造,2018-09-28,Saori Gotou
+天狼星,Sirius,是,超稀有,皇家,轻巡,Dido,无法建造,2019-01-24 复刻：凛冬王冠,Ruriko Aoki
+库拉索,Curacoa,是,稀有,皇家,轻巡,Ceres,01:07:00,2019-01-24 复刻：凛冬王冠,Reika Fujisawa
+杓鹬,Curlew,是,稀有,皇家,轻巡,Ceres,01:07:00,2019-01-24 复刻：凛冬王冠,Reika Fujisawa
+确捷,Swiftsure,是,超稀有,皇家,轻巡,Minotaur,01:25:00,无活动,Hitomi Oowada
+黑太子,Black Prince,是,精锐,皇家,轻巡,Dido,无法建造,无活动,Hisako Kanemoto
+谢菲尔德(μ兵装),Sheffield、Sheffield µ,是,精锐,皇家,轻巡,Town,无法建造,2019-10-31,Konomi Kohara
+格拉斯哥,Glasgow,是,稀有,皇家,轻巡,Town,01:25:00,无活动,Tomori Kusunoki
+赫敏,Hermione,是,超稀有,皇家,轻巡,Dido,00:55:00,2020-07-23 永夜幻光,Hiroko Taguchi
+黛朵(μ兵装),Dido、Dido µ,是,超稀有,皇家,轻巡,Dido,00:55:00,2020-10-29,Ruriko Aoki
+佩内洛珀,Penelope,是,精锐,皇家,轻巡,Arethusa,01:20:00,无活动,Kazusa Aranami
+卡律布狄斯,Charybdis,是,超稀有,皇家,轻巡,Dido,00:55:00,2022-01-27,Yuu Ayase
+司战女神,Bellona,是,精锐,皇家,轻巡,Dido,无法建造,2022-05-26 泠誓光庭,Hisako Tojo
+进取,Enterprise、Enterprise (Royal Navy),是,精锐,皇家,轻巡,Emerald,01:07:00,2022-06-30,Yukiyo Fujii
+斯库拉,Scylla,是,超稀有,皇家,轻巡,Dido,00:55:00,2023-02-23 湮烬尘墟,Miyu Takagi
+利物浦,Liverpool,是,精锐,皇家,轻巡,Town,01:25:00,2024-03-28,Mizuki Mano
+克利奥佩特拉,Cleopatra,是,超稀有,皇家,轻巡,Dido,00:55:00,2025-05-20 高塔上的蔷薇,Yuri Usui
+特立尼达,Trinidad,是,精锐,皇家,轻巡,Crown Colony,无法建造,2025-05-20 高塔上的蔷薇,Tsugumi Sakuragi
+伦敦,London,是,精锐,皇家,重巡,County,01:30:00,无活动,Naomi Mukaiyama
+什罗普郡,Shropshire,是,稀有,皇家,重巡,County,01:30:00,无活动,Ibuki Kido
+肯特,Kent,是,稀有,皇家,重巡,County,01:30:00,无活动,Hisako Kanemoto
+萨福克,Suffolk,是,稀有,皇家,重巡,County,01:30:00,无活动,Akari Uehara
+诺福克,Norfolk,是,稀有,皇家,重巡,County,01:30:00,无活动,Hiromi Sakuma
+多塞特郡,Dorsetshire,是,精锐,皇家,重巡,County,01:30:00,无活动,Manami Numakura
+约克,York,是,精锐,皇家,重巡,York,01:45:00,无活动,Nozomi Yamane
+埃克塞特,Exeter,是,精锐,皇家,重巡,York,01:45:00,无活动,Ai Kakuma
+苏塞克斯,Sussex,是,稀有,皇家,重巡,County,01:30:00,无活动,Hikaru Aono
+小柴郡,Little Cheshire,是,精锐,皇家,重巡,Cheshire,无法建造,2022-05-26 泠誓光庭,Shizuka Ishigami
+德文郡,Devonshire,是,精锐,皇家,重巡,County,无法建造,2024-03-28,Kaoru Sakura
+声望,Renown,是,精锐,皇家,战巡,Renown,04:10:00,无活动,Ai Kayano
+反击,Repulse,是,稀有,皇家,战巡,Renown,04:10:00,无活动,Koharu Nogata
+胡德,Hood,是,超稀有,皇家,战巡,Admiral,05:50:00,无活动,Atsuko Tanaka
+小声望,Little Renown,是,精锐,皇家,战巡,Renown,04:10:00,2020-04-23 复刻：苍红的回响,Ai Kayano
+伊丽莎白女王,Queen Elizabeth,是,精锐,皇家,战列,Queen Elizabeth,04:10:00,无活动,Sumire Uesaka
+厌战,Warspite,是,超稀有,皇家,战列,Queen Elizabeth,04:10:00,无活动,Sumire Uesaka
+纳尔逊,Nelson,是,精锐,皇家,战列,Nelson,04:40:00,无活动,Yuuki Kuwahara
+罗德尼,Rodney,是,精锐,皇家,战列,Nelson,04:40:00,无活动,You Taichi
+英王乔治五世,King George V,是,超稀有,皇家,战列,King George V,04:50:00,2019-05-23 铁血、音符&誓言,Ayako Kawasumi
+威尔士亲王,Prince of Wales,是,超稀有,皇家,战列,King George V,无法建造,2017-06-08,Chinami Hashimoto
+约克公爵,Duke of York,是,超稀有,皇家,战列,King George V,无法建造,2018-02-26 凛冬王冠,Rie Tanaka
+豪,Howe,是,超稀有,皇家,战列,King George V,04:50:00,2020-07-23 永夜幻光,M・A・O
+英勇,Valiant,是,精锐,皇家,战列,Queen Elizabeth,04:10:00,2020-07-23 永夜幻光,Asuka Nishi
+复仇,Revenge,是,精锐,皇家,战列,Revenge,04:10:00,2022-05-26 泠誓光庭,Marika Hayase
+前卫,Vanguard,是,海上传奇,皇家,战列,Vanguard,05:20:00,2022-05-26 泠誓光庭,Yuki Nakashima
+皇家橡树,Royal Oak,是,超稀有,皇家,战列,Revenge,04:10:00,2023-02-23 湮烬尘墟,Arisa Sakuraba
+狮,Lion,是,海上传奇,皇家,战列,Lion,06:20:00,2025-05-20 高塔上的蔷薇,Saori Onishi
+竞技神,Hermes,是,普通,皇家,轻航,Hermes,02:10:00,无活动,Yuuna Inamura
+百眼巨人,Argus,是,精锐,皇家,轻航,Argus,02:10:00,2023-02-23 湮烬尘墟,Hina Yomiya
+独角兽,Unicorn,是,精锐,皇家,轻航,Unicorn,02:30:00,无活动,Ai Kakuma
+半人马,Centaur,是,超稀有,皇家,轻航,Centaur,03:00:00,无活动,Aya Uchida
+追赶者,Chaser,是,精锐,皇家,轻航,Attacker,无法建造,2019-01-24 复刻：凛冬王冠,Rui Tanabe
+英仙座,Perseus,是,超稀有,皇家,轻航,Colossus,02:30:00,2020-07-23 永夜幻光,Naomi Ohzora
+阿尔比恩,Albion,是,超稀有,皇家,轻航,Centaur,03:00:00,2022-10-27,Nao Shiraki
+忒修斯,Theseus,是,超稀有,皇家,轻航,Colossus,02:30:00,2023-01-18,Natsumi Murakami
+鹰,Eagle,是,精锐,皇家,航母,Eagle,02:00:00,2020-07-23 永夜幻光,Fumie Mizusawa
+皇家方舟,Ark Royal,是,精锐,皇家,航母,Ark Royal,04:00:00,无活动,Asuka Itou
+光辉,Illustrious,是,超稀有,皇家,航母,Illustrious,04:30:00,无活动,Sora Amamiya
+胜利,Victorious,是,超稀有,皇家,航母,Illustrious,04:30:00,2018-02-26 凛冬王冠,Eriko Nakamura
+可畏,Formidable,是,超稀有,皇家,航母,Illustrious,04:30:00,2019-09-11 神圣的悲喜剧,Rie Kugimiya
+光荣,Glorious,是,精锐,皇家,航母,Courageous,无法建造,2017-10-26,Noriko Shitaya
+怨仇,Implacable,是,海上传奇,皇家,航母,Implacable,04:35:00,2023-02-23 湮烬尘墟,Yukana
+小光辉,Little Illustrious,是,精锐,皇家,航母,Illustrious,04:30:00,2020-05-21 穹顶下的圣咏曲,Sora Amamiya
+光辉(μ兵装),Illustrious、Illustrious µ,是,超稀有,皇家,航母,Illustrious,无法建造,2020-10-29,Sora Amamiya
+不挠,Indomitable,是,超稀有,皇家,航母,Illustrious,04:30:00,2022-05-26 泠誓光庭,Miku Itou
+小可畏,Little Formidable,是,精锐,皇家,航母,Illustrious,无法建造,2023-04-27,Rie Kugimiya
+可畏(μ兵装),Formidable、Formidable µ,是,超稀有,皇家,航母,Illustrious,04:30:00,2024-04-25 共鸣的PASSION,Rie Kugimiya
+黑暗界,Erebus,是,精锐,皇家,重炮,Erebus,01:00:00,无活动,Saya Horigome
+恐怖,Terror,是,精锐,皇家,重炮,Erebus,01:00:00,无活动,Maia
+阿贝克隆比,Abercrombie,是,精锐,皇家,重炮,Roberts,01:05:00,无活动,Juri Nagatsuma
+海王星,Neptune,是,最高方案,皇家,轻巡,Neptune,科研,2018-04-26 第十二章-马里亚纳风云•上,Mikako Izawa
+君主,Monarch,是,最高方案,皇家,战列,Monarch,科研,2018-04-26 第十二章-马里亚纳风云•上,Miyuki Sawashiro
+柴郡,Cheshire,是,最高方案,皇家,重巡,Cheshire,科研,2020-07-09,Shizuka Ishigami
+德雷克,Drake,是,决战方案,皇家,重巡,Drake,科研,2020-07-09,Asami Imai
+普利茅斯,Plymouth,是,决战方案,皇家,轻巡,Plymouth,科研,2022-07-14 轻量化复刻：蝶海梦花,Manatsu Murakami
+吹雪,桐、Fubuki,是,精锐,重樱,驱逐,Fubuki,00:23:00,无活动,M・A・O
+白雪,杉、Shirayuki,是,精锐,重樱,驱逐,Fubuki,00:23:00,2021-06-24 复刻：浮樱影华,Wakana Minami
+深雪,梧、Miyuki,是,精锐,重樱,驱逐,Fubuki,无法建造,2022-09-15 紫绛槿岚,Misaki Watada
+绫波,柚、Ayanami,是,精锐,重樱,驱逐,Fubuki,00:23:00,无活动,You Taichi
+晓,枫、Akatsuki,是,稀有,重樱,驱逐,Fubuki,无法建造,2017-09-28 红染的参访者,Nozomi Yamamoto
+响,栀、Hibiki,是,精锐,重樱,驱逐,Fubuki,无法建造,2019-12-26 浮樱影华,Maaya Uchida
+雷,梓、Ikazuchi,是,稀有,重樱,驱逐,Fubuki,无法建造,无活动,Kazusa Aranami
+电,柏、Inazuma,是,稀有,重樱,驱逐,Fubuki,无法建造,无活动,Emiri Katou
+白露,梿、Shiratsuyu,是,稀有,重樱,驱逐,Shiratsuyu,无法建造,无活动,Narumi Shinohara
+夕立,椿、Yūdachi、Yuudachi,是,超稀有,重樱,驱逐,Shiratsuyu,无法建造,无活动,Natsumi Takamori
+时雨,栴、Shigure,是,精锐,重樱,驱逐,Shiratsuyu,无法建造,无活动,Yuuki Kuwahara
+雪风,莲、Yukikaze,是,超稀有,重樱,驱逐,Kagerou,无法建造,无活动,Kana Yuuki
+阳炎,萩、Kagerō、Kagerou,是,稀有,重樱,驱逐,Kagerou,无法建造,无活动,Yuriko Yano
+不知火,蒲、Shiranui,是,普通,重樱,驱逐,Kagerou,无法建造,无活动,Kanae Ikadai
+野分,苓、Nowaki,是,精锐,重樱,驱逐,Kagerou,无法建造,2017-09-28 红染的参访者,Emiri Katou
+初春,梅、Hatsuharu,是,稀有,重樱,驱逐,Hatsuharu,00:25:00,无活动,Marika Kouno
+若叶,楉、Wakaba,是,稀有,重樱,驱逐,Hatsuharu,00:25:00,无活动,Minami Tanaka
+初霜,檨、Hatsushimo,是,稀有,重樱,驱逐,Hatsuharu,无法建造,无活动,Natsume Iwasa
+有明,榎、Ariake,是,稀有,重樱,驱逐,Hatsuharu,无法建造,无活动,Karin Isobe
+夕暮,棭、Yūgure、Yuugure,是,稀有,重樱,驱逐,Hatsuharu,00:25:00,无活动,Madoka Asahina
+黑潮,蓉、Kuroshio,是,稀有,重樱,驱逐,Kagerou,00:27:00,2017-12-01,Yuuko Oono
+亲潮,藮、Oyashio,是,稀有,重樱,驱逐,Kagerou,00:27:00,2017-12-01,Yuuko Oono
+岛风,芒、Shimakaze,是,海上传奇,重樱,驱逐,Shimakaze,00:30:00,2021-09-16 碧海光粼,Saori Hayami
+神风,榊、Kamikaze,是,稀有,重樱,驱逐,Kamikaze,00:20:00,无活动,Madoka Asahina
+松风,棡、Matsukaze,是,稀有,重樱,驱逐,Kamikaze,00:20:00,无活动,Madoka Asahina
+睦月,松、Mutsuki,是,普通,重樱,驱逐,Mutsuki,00:21:00,无活动,Rumi Ookubo
+如月,樟、Kisaragi,是,普通,重樱,驱逐,Mutsuki,00:21:00,无活动,Rumi Ookubo
+卯月,楙、Uzuki,是,普通,重樱,驱逐,Mutsuki,00:21:00,无活动,Mako
+水无月,杌、Minazuki,是,普通,重樱,驱逐,Mutsuki,无法建造,无活动,Mako
+文月,橗、Fumizuki,是,稀有,重樱,驱逐,Mutsuki,00:21:00,2018-06-07 墨染的钢铁之花,Chiyo Ousaki
+长月,枨、Nagatsuki,是,稀有,重樱,驱逐,Mutsuki,无法建造,无活动,Chiyo Ousaki
+三日月,檧、Mikazuki,是,普通,重樱,驱逐,Mutsuki,无法建造,无活动,Mako
+海风,菪、Umikaze,是,精锐,重樱,驱逐,Shiratsuyu,00:25:00,2021-09-16 碧海光粼,Haruna Kawai
+山风,杣、Yamakaze,是,精锐,重樱,驱逐,Shiratsuyu,无法建造,2021-09-16 碧海光粼,Haruna Kawai
+江风,茳、Kawakaze,是,超稀有,重樱,驱逐,Shiratsuyu,无法建造,2018-06-07 墨染的钢铁之花,Yuka Iguchi
+清波,棈、Kiyonami,是,稀有,重樱,驱逐,Yuugumo,00:27:00,无活动,Azusa Iwakura
+新月JP,枥、Niizuki,是,精锐,重樱,驱逐,Akizuki,无法建造,无活动,Rumi Ookubo
+春月,桸、Harutsuki,是,精锐,重樱,驱逐,Akizuki,无法建造,2018-06-07 墨染的钢铁之花,Rei Mochizuki
+宵月,楛、Yoizuki,是,精锐,重樱,驱逐,Akizuki,无法建造,2018-06-07 墨染的钢铁之花,Rei Mochizuki
+浦风,槆、Urakaze,是,稀有,重樱,驱逐,Kagerou,00:27:00,无活动,Minami Tanaka
+矶风,柉、Isokaze,是,稀有,重樱,驱逐,Kagerou,00:27:00,无活动,Anju Inami
+滨风,樇、Hamakaze,是,稀有,重樱,驱逐,Kagerou,00:27:00,2017-12-01,Natsumi Hioka
+谷风,栭、Tanikaze,是,稀有,重樱,驱逐,Kagerou,00:27:00,无活动,Natsumi Hioka
+朝潮,棹、Asashio,是,稀有,重樱,驱逐,Asashio,00:28:00,2018-06-07 墨染的钢铁之花,Yuiko Tatsumi
+大潮,荙、Ōshio、Ooshio,是,稀有,重樱,驱逐,Asashio,00:28:00,2018-06-07 墨染的钢铁之花,Hikaru Aono
+满潮,樠、Michishio,是,稀有,重樱,驱逐,Asashio,无法建造,无活动,Tamari Hinata
+荒潮,栘、Arashio,是,稀有,重樱,驱逐,Asashio,无法建造,无活动,Hikaru Aono
+浦波,朴、Uranami,是,精锐,重樱,驱逐,Fubuki,无法建造,2020-01-21,Kaoru Komatsu
+旗风,樋、Hatakaze,是,稀有,重樱,驱逐,Kamikaze,00:20:00,2018-12-27 苍红的回响,Madoka Asahina
+卷波,棬、Makinami,是,精锐,重樱,驱逐,Yuugumo,无法建造,2018-12-27 苍红的回响,Rui Tanabe
+霞,蕸、Kasumi,是,精锐,重樱,驱逐,Asashio,00:28:00,2019-12-26 浮樱影华,Mariko Takeda
+花月,榵、Hanazuki,是,精锐,重樱,驱逐,Akizuki,00:29:00,2020-04-23 复刻：苍红的回响,Honoka Kuroki
+长波,苌、Naganami,是,精锐,重樱,驱逐,Yuugumo,00:27:00,2020-04-23 复刻：苍红的回响,Yomogi Ashitaba
+凉月,栎、Suzutsuki,是,超稀有,重樱,驱逐,Akizuki,00:29:00,2020-09-17 蝶海梦花,Kotori Koiwai
+追风,椎、Oite,是,稀有,重樱,驱逐,Kamikaze,00:20:00,无活动,Takako Tanaka
+风云,枟、Kazagumo,是,超稀有,重樱,驱逐,Yuugumo,00:27:00,2021-06-24 复刻：浮樱影华,Ayasa Itou
+若月,若、Wakatsuki,是,超稀有,重樱,驱逐,Akizuki,00:29:00,2022-09-15 紫绛槿岚,Hikaru Iida
+初月,檚、Hatsuzuki,是,超稀有,重樱,驱逐,Akizuki,00:29:00,2023-09-14 须臾望月抄,Karin Takahashi
+朝凪,桎、Asanagi,是,精锐,重樱,驱逐,Kamikaze,无法建造,2023-09-14 须臾望月抄,Mio Nonaka
+凉波,椋、Suzunami,是,精锐,重樱,驱逐,Yuugumo,00:27:00,2024-09-12 唤醒苍红之炎,Ayano Shibuya
+妙风,杪、Taekaze,是,精锐,重樱,驱逐,Yuugumo,无法建造,2025-09-12 起舞于天原之上,Mizuki Niizaki
+夕张,狐、Yūbari、Yuubari,是,精锐,重樱,轻巡,Yuubari,01:12:00,无活动,Yui Ogura
+长良,貊、Nagara,是,普通,重樱,轻巡,Nagara,01:05:00,无活动,Akari Kitou
+五十铃,貉、Isuzu,是,稀有,重樱,轻巡,Nagara,无法建造,无活动,Akari Kitou
+名取,猽、Natori,是,精锐,重樱,轻巡,Nagara,01:05:00,2023-09-14 须臾望月抄,Machico
+由良,㹨、Yura,是,精锐,重樱,轻巡,Nagara,01:05:00,2021-09-16 碧海光粼,Ruriko Noguchi
+鬼怒,猤、Kinu,是,精锐,重樱,轻巡,Nagara,无法建造,2019-12-26 浮樱影华,Sayuri Yahagi
+阿武隈,貃、Abukuma,是,普通,重樱,轻巡,Nagara,无法建造,无活动,Akari Kitou
+最上,猨、Mogami,是,精锐,重樱,轻巡,Mogami,无法建造,2018-03-29 复刻：红染的参访者,Shizuka Itou
+三隈,狻、Mikuma,是,精锐,重樱,轻巡,Mogami,无法建造,2018-03-29 复刻：红染的参访者,Anna Yamaki
+川内,貆、Sendai,是,稀有,重樱,轻巡,Sendai,无法建造,无活动,Tomoyo Chuujou
+神通,貎、Jintsū、Jintsuu,是,精锐,重樱,轻巡,Sendai,无法建造,无活动,Hisako Kanemoto
+那珂,豻、Naka,是,稀有,重樱,轻巡,Sendai,01:20:00,2018-12-27 苍红的回响,Konomi Fujimura
+阿贺野,豼、Agano,是,精锐,重樱,轻巡,Agano,无法建造,无活动,Haruka Shiraishi
+能代,貅、Noshiro,是,超稀有,重樱,轻巡,Agano,01:20:00,2019-12-26 浮樱影华,Anju Inami
+酒匂,貄、Sakawa,是,超稀有,重樱,轻巡,Agano,01:20:00,2022-09-15 紫绛槿岚,Aina Suzuki
+能代(μ兵装),貅(μ兵装)、Noshiro、Noshiro µ,是,超稀有,重樱,轻巡,Agano,01:20:00,2024-04-25 共鸣的PASSION,Anju Inami
+渡良濑,獭、Watarase,是,超稀有,重樱,轻巡,Watarase,01:22:00,2024-09-12 唤醒苍红之炎,Hina Suguta
+绫濑,狑、Ayase,是,精锐,重樱,轻巡,Sendai,无法建造,2024-09-12 唤醒苍红之炎,Saya Aizawa
+水无濑,鼯、Minase,是,精锐,重樱,轻巡,Sendai,01:22:00,2025-09-12 起舞于天原之上,Ayasa Goto
+古鹰,狼、Furutaka,是,普通,重樱,重巡,Furutaka,无法建造,无活动,Akari Kageyama
+加古,狌、Kako,是,普通,重樱,重巡,Furutaka,无法建造,无活动,Akari Kageyama
+青叶,犹、Aoba,是,普通,重樱,重巡,Aoba,01:30:00,无活动,Akari Kageyama
+衣笠,猅、Kinugasa,是,普通,重樱,重巡,Aoba,01:30:00,无活动,Akari Kageyama
+筑摩,狘、Chikuma,是,超稀有,重樱,重巡,Tone,02:05:00,2021-09-16 碧海光粼,Yuu Serizawa
+妙高,獌、Myōkō、Myoukou,是,稀有,重樱,重巡,Myoukou,无法建造,无活动,Eri Suzuki
+那智,狏、Nachi,是,稀有,重樱,重巡,Myoukou,无法建造,无活动,Eri Suzuki
+足柄,狳、Ashigara,是,精锐,重樱,重巡,Myoukou,01:55:00,2018-12-27 苍红的回响,Chiwa Saitou
+羽黑,犰、Haguro,是,精锐,重樱,重巡,Myoukou,01:55:00,2022-09-15 紫绛槿岚,Hana Hishikawa
+高雄,獒、Takao,是,超稀有,重樱,重巡,Takao,02:05:00,无活动,Ai Kakuma
+爱宕,犬、Atago,是,超稀有,重樱,重巡,Takao,无法建造,2017-06-08,Ai Kayano
+摩耶,犮、Maya,是,超稀有,重樱,重巡,Takao,无法建造,无活动,Saori Onishi
+鸟海,猋、Chōkai、Choukai,是,超稀有,重樱,重巡,Takao,无法建造,无活动,Ayaka Ouhashi
+铃谷,狺、Suzuya,是,精锐,重樱,重巡,Mogami,01:48:00,2019-03-28 复刻：墨染的钢铁之花,Azumi Waki
+熊野,猁、Kumano,是,精锐,重樱,重巡,Mogami,无法建造,2020-09-17 蝶海梦花,Azumi Waki
+云仙,猃、Unzen,是,海上传奇,重樱,重巡,Unzen,02:11:00,2023-09-14 须臾望月抄,Suzuko Mimori
+浅间,猏、Asama,是,超稀有,重樱,重巡,Ibuki,02:10:00,2025-09-12 起舞于天原之上,Ayahi Takagaki
+金刚,鲤、Kongō、Kongou,是,精锐,重樱,战巡,Kongou,无法建造,2018-06-07 墨染的钢铁之花,Chiwa Saitou
+比叡,鲟、Hiei,是,精锐,重樱,战巡,Kongou,04:10:00,2017-12-01,Eri Kitamura
+榛名,鲑、Haruna,是,精锐,重樱,战巡,Kongou,无法建造,2018-06-07 墨染的钢铁之花,Sayaka Harada
+雾岛,鳗、Kirishima,是,精锐,重樱,战巡,Kongou,04:10:00,无活动,Chie Matsuura
+天城,鳐、Amagi,是,超稀有,重樱,战巡,Amagi,04:25:00,2018-12-27 苍红的回响,Miyuki Sawashiro
+小比叡,小鲟、Hiei-chan,是,精锐,重樱,战巡,Kongou,04:05:00,2019-04-26,Eri Kitamura
+小天城,小鳐、Amagi-chan,是,精锐,重樱,战巡,Amagi,04:25:00,2021-04-22 复兴的赞美诗,Miyuki Sawashiro
+金刚(μ兵装),鲤(μ兵装)、Kongō、Kongou µ,是,精锐,重樱,战巡,Kongou,04:10:00,2024-04-25 共鸣的PASSION,Chiwa Saitou
+扶桑,魟、Fusō、Fusou,是,稀有,重樱,战列,Fusou,无法建造,无活动,Ami Koshimizu
+山城,鲼、Yamashiro,是,稀有,重樱,战列,Fusou,无法建造,无活动,Ami Koshimizu
+伊势,鳌、Ise,是,稀有,重樱,战列,Ise,04:25:00,2017-09-28 红染的参访者,Mutsumi Tamura
+日向,螯、Hyūga、Hyuuga,是,稀有,重樱,战列,Ise,04:25:00,2017-09-28 红染的参访者,Akeno Watanabe
+长门,鲨、Nagato,是,超稀有,重樱,战列,Nagato,无法建造,2018-06-07 墨染的钢铁之花,Misaki Kuno
+陆奥,鲛、Mutsu,是,精锐,重樱,战列,Nagato,无法建造,2018-06-07 墨染的钢铁之花,Tomoyo Kurosawa
+加贺BB,鸾、Kaga、Kaga(BB),是,超稀有,重樱,战列,Tosa,04:30:00,2018-12-27 苍红的回响,Ai Kayano
+土佐,䲠、Tosa,是,超稀有,重樱,战列,Tosa,04:30:00,2020-04-23 复刻：苍红的回响,Miyuki Sawashiro
+武藏,鳄、Musashi,是,海上传奇,重樱,战列,Yamato,05:15:00,2022-09-15 紫绛槿岚,Lynn
+三笠,鲐、Mikasa,是,超稀有,重樱,战列,Mikasa,无法建造,2017-12-01,Sayaka Ohara
+纪伊,鲣、Kii,是,超稀有,重樱,战列,Kii,04:20:00,2020-09-17 蝶海梦花,Sayaka Kaneko
+尾张,鳂、Owari,是,超稀有,重樱,战列,Kii,04:20:00,2023-09-14 须臾望月抄,Shion Wakayama
+骏河,鲪、Suruga,是,超稀有,重樱,战列,Kii,04:20:00,2019-12-26 浮樱影华,Aya Endou
+近江,鳉、Ōmi、Oumi,是,超稀有,重樱,战列,Kii,04:20:00,2025-09-12 起舞于天原之上,Haruka Chisuga
+飞鹰,鸱、Hiyō、Hiyou,是,稀有,重樱,轻航,Hiyou,无法建造,无活动,Seiko Yoshida
+隼鹰,鸢、Jun'yō、Junyou,是,稀有,重樱,轻航,Hiyou,无法建造,无活动,Seiko Yoshida
+凤翔,凤、Hōshō、Houshou,是,精锐,重樱,轻航,Houshou,无法建造,无活动,Chiaki Takahashi
+瑞凤,鹳、Zuihō、Zuihou,是,超稀有,重樱,轻航,Zuihou,02:22:00,2024-08-29 埋葬于彼岸之花,Hika Tsukishiro
+祥凤,鹞、Shōhō、Shouhou,是,稀有,重樱,轻航,Shouhou,无法建造,无活动,Hiromi Sugioka
+龙骧,枭、Ryūjō、Ryuujou,是,精锐,重樱,轻航,Ryuujou,无法建造,2018-12-27 苍红的回响,Aya Suzaki
+龙凤,鸗、Ryūhō、Ryuuhou,是,超稀有,重樱,轻航,Zuihou,02:22:00,2019-12-26 浮樱影华,Juri Nagatsuma
+千岁,鹂、Chitose,是,精锐,重樱,轻航,Zuihou,02:15:00,2020-09-17 蝶海梦花,Hitomi Sekine
+千代田,鹃、Chiyoda,是,精锐,重樱,轻航,Zuihou,02:15:00,2020-09-17 蝶海梦花,Hitomi Sekine
+赤城,凰、Akagi,是,超稀有,重樱,航母,Akagi,无法建造,无活动,Mai Nakahara
+加贺,鸾、Kaga,是,超稀有,重樱,航母,Kaga,无法建造,无活动,Ai Kayano
+苍龙,蛟、Sōryū、Souryuu,是,精锐,重樱,航母,Souryuu,无法建造,无活动,Karin Mitarai
+飞龙,龙、Hiryū、Hiryuu,是,精锐,重樱,航母,Hiryuu,无法建造,无活动,Shizuka Ishigami
+翔鹤,鹬、Shōkaku、Shoukaku,是,超稀有,重樱,航母,Shoukaku,无法建造,2017-09-28 红染的参访者,Risa Taneda
+瑞鹤,鹤、Zuikaku,是,超稀有,重樱,航母,Shoukaku,无法建造,2017-09-28 红染的参访者,Risa Taneda
+大凤,鹩、Taihō、Taihou,是,超稀有,重樱,航母,Taihou,04:45:00,2018-09-14,Aoi Yuuki
+信浓,鵗、Shinano,是,海上传奇,重樱,航母,Yamato,05:15:00,2020-09-17 蝶海梦花,Mamiko Noto
+小赤城,小凰、Akagi-chan,是,精锐,重樱,航母,Akagi,04:35:00,2019-04-26,Mai Nakahara
+赤城(μ兵装),凰(μ兵装)、Akagi、Akagi µ,是,超稀有,重樱,航母,Akagi,04:40:00,2019-10-31,Mai Nakahara
+大凤(μ兵装),鹩(μ兵装)、Taihō、Taihou µ,是,超稀有,重樱,航母,Taihou,04:45:00,2020-10-29,Aoi Yuuki
+葛城,鹖、Katsuragi,是,超稀有,重樱,航母,Unryuu,04:20:00,2021-09-16 碧海光粼,Megumi Toda
+小大凤,小鹩、TAIHOU-CHAN、Taihou-chan,是,精锐,重樱,航母,Taihou,无法建造,2023-05-25 空相交汇点,Aoi Yuuki
+小信浓,小鵗、Shinano-chan,是,精锐,重樱,航母,Yamato,无法建造,2024-04-25 共鸣的PASSION,Mamiko Noto
+天城CV,鳐、Amagi、Amagi(CV),是,海上传奇,重樱,航母,Amagi(CV),04:40:00,2024-09-12 唤醒苍红之炎,Miyuki Sawashiro
+白凤,䳆、Hakuhō、Hakuhou,是,海上传奇,重樱,航母,Taihou,05:00:00,2025-09-12 起舞于天原之上,Shiori Izawa
+伊19,衣玖、I19、I-19,是,超稀有,重樱,潜艇,Type B1,00:30:00,无活动,Yui Ogura
+伊26,双叶梦、I26、I-26,是,精锐,重樱,潜艇,Type B1,00:30:00,无活动,Kaori Ishihara
+伊58,冴矢、I58、I-58,是,精锐,重樱,潜艇,Type B3,00:30:00,无活动,Tomori Kusunoki
+伊25,双叶檎、I25、I-25,是,精锐,重樱,潜艇,Type B1,00:30:00,2019-07-11,Kaori Ishihara
+伊56,冴梦、I56、I-56,是,精锐,重樱,潜艇,Type B3,00:30:00,2019-07-11,Naomi Mukaiyama
+伊168,伊吕波、I168、I-168,是,超稀有,重樱,潜艇,Kaidai,00:30:00,2019-07-11,Sakura Tange
+明石,茗、Akashi,是,超稀有,重樱,维修,Akashi,01:35:00,无活动,Sumire Uesaka
+伊13,十纱、I13、I-13,是,超稀有,重樱,潜母,Type AM,00:34:00,2019-03-28 复刻：墨染的钢铁之花,Kanako Yanagihara
+伊404,诗玲寺、I404、I-404,是,海上传奇,重樱,潜母,I-400,无法建造,2025-09-12 起舞于天原之上,Minori Ozawa
+樫野,㭴、Kashino,是,精锐,重樱,运输,Kashino,01:30:00,2020-09-17 蝶海梦花,Reina Kondou
+伊吹,峦、Ibuki,是,最高方案,重樱,重巡,Ibuki,科研,2018-04-26 第十二章-马里亚纳风云•上,Misato Fukuen
+出云,侌、Izumo,是,最高方案,重樱,战列,Izumo,科研,2018-04-26 第十二章-马里亚纳风云•上,Reina Ueda
+北风,苝、Kitakaze,是,最高方案,重樱,驱逐,Kitakaze,科研,2019-04-18,Sakura Tange
+吾妻,猉、Azuma,是,决战方案,重樱,超巡,Azuma,科研,2019-04-18,Kiyono Yasuno
+白龙,鹫、Hakuryū、Hakuryuu,是,决战方案,重樱,航母,Hakuryuu,科研,2021-07-08,Satomi Satou
+四万十,虒、Shimanto,是,最高方案,重樱,轻巡,Shimanto,科研,2023-07-13,Hime Sawada
+大山,鳝、Daisen,是,最高方案,重樱,战列,Daisen,科研,2024-07-18 轻量化复刻：泠誓光庭,Hina Tachibana
+Z1,莉泽洛特、Leberecht Maass,是,精锐,铁血,驱逐,Type 1934,无法建造,无活动,Natsumi Takamori
+Z2,格尔达、Georg Thiele,是,精锐,铁血,驱逐,Type 1934,00:29:00,2019-03-07,Maki Kawase
+Z9,沃尔普加、Wolfgang Zenker,是,精锐,铁血,驱逐,Type 1934A,无法建造,2024-12-19 星光下的余晖,Mai Kanno
+Z11,伯莎、Bernd von Arnim,是,精锐,铁血,驱逐,Type 1934A,00:28:00,2024-12-19 星光下的余晖,Momoka Terasawa
+Z13,埃丝特、Erich Koellner,是,精锐,铁血,驱逐,Type 1934A,无法建造,2025-06-26 迷彩都市的寻踪者,Rie Hikisaka
+Z16,弗蕾德贡、Friedrich Eckoldt,是,精锐,铁血,驱逐,Type 1934A,00:28:00,2022-08-18,Mayu Sagara
+Z18,汉娜、Hans Lüdemann,是,稀有,铁血,驱逐,Type 1936,无法建造,2018-07-26 光与影的鸢尾之华,Yuuki Takada
+Z19,赫尔米娜、Hermann Künne,是,稀有,铁血,驱逐,Type 1936,00:31:00,2017-08-02 异色格,Rina Hidaka
+Z20,卡洛琳、Karl Galster,是,普通,铁血,驱逐,Type 1936,无法建造,2017-08-02 异色格,Rina Hidaka
+Z21,威尔赫米娜、Wilhelm Heidkamp,是,普通,铁血,驱逐,Type 1936,无法建造,2017-08-02 异色格,Rina Hidaka
+Z23,妮米,是,精锐,铁血,驱逐,Type 1936A,00:33:00,无活动,Rika Abe
+Z24,妮丝,是,精锐,铁血,驱逐,Type 1936A,无法建造,2020-12-29 负象限作战,Yukina Shuto
+Z25,妮可,是,精锐,铁血,驱逐,Type 1936A,无法建造,2018-06-28 复刻：异色格,Rika Abe
+Z26,妮露,是,精锐,铁血,驱逐,Type 1936A,00:33:00,2020-08-20 复刻：铁血、音符&誓言,Satomi Amano
+Z28,妮娅,是,精锐,铁血,驱逐,Type 1936A,无法建造,2020-12-29 负象限作战,Chisa Kimura
+Z35,咪菓,是,精锐,铁血,驱逐,Type 1936B,无法建造,2018-06-28 复刻：异色格,Ayaka Ouhashi
+Z36,咪露,是,精锐,铁血,驱逐,Type 1936B,00:35:00,2019-05-23 铁血、音符&誓言,Sayuri Hara
+Z43,希咪,是,精锐,铁血,驱逐,Type 1936B,无法建造,2024-06-27 欢迎来到童心学院,Yuu Sasahara
+Z46,希露,是,超稀有,铁血,驱逐,Type 1936C,无法建造,2017-08-02 异色格,Minori Chihara
+Z47,希娜,是,超稀有,铁血,驱逐,Type 1936C,00:39:00,2024-06-27 欢迎来到童心学院,Nozomi Nishida
+Z52,柯妮,是,海上传奇,铁血,驱逐,Type 1944,无法建造,2024-12-19 星光下的余晖,Satomi Arai
+奥托·冯·阿尔文斯莱本,奥莉薇娅·冯·阿诺德、Otto von Alvensleben,是,超稀有,铁血,驱逐,Type 1937J,00:40:00,2023-05-25 空相交汇点,Anzu Haruno
+柯尼斯堡,阿尔伯缇娜、Königsberg,是,普通,铁血,轻巡,Königsberg,01:10:00,无活动,Ryouko Ono
+卡尔斯鲁厄,夏璐尔、Karlsruhe,是,普通,铁血,轻巡,Königsberg,01:10:00,无活动,Ryouko Ono
+科隆,克劳迪亚、Köln,是,普通,铁血,轻巡,Königsberg,01:10:00,无活动,Ryouko Ono
+莱比锡,莉普莎、Leipzig,是,稀有,铁血,轻巡,Leipzig,01:20:00,无活动,Ryouko Ono
+纽伦堡,诺菈、Nürnberg,是,精锐,铁血,轻巡,Leipzig,01:20:00,2020-12-29 负象限作战,Hikaru Toono
+马格德堡,马格达莱娜、Magdeburg,是,超稀有,铁血,轻巡,M (German),01:20:00,2021-12-29 逆转彩虹之塔,Satsumi Matsuda
+埃姆登,埃玛、Emden,是,超稀有,铁血,轻巡,Dresden,01:19:00,2022-04-28 虹彩的终幕曲,Honoka Inoue
+埃尔宾,埃尔薇菈、Elbing,是,精锐,铁血,轻巡,Pillau,01:17:00,2022-04-28 虹彩的终幕曲,Shiori Mikami
+雷根斯堡,瑞吉娜、Regensburg,是,超稀有,铁血,轻巡,M (German),01:20:00,2023-05-25 空相交汇点,Hyosei
+杜伊斯堡,多琳妮娅、Duisburg,是,超稀有,铁血,轻巡,M (German),01:20:00,2024-12-19 星光下的余晖,Saeko Ooki
+希佩尔海军上将,芙兰希卡、Admiral Hipper,是,精锐,铁血,重巡,Admiral Hipper,无法建造,2017-08-02 异色格,Yuri Yamaoka
+布吕歇尔,布丽吉特、Blücher,是,超稀有,铁血,重巡,Admiral Hipper,02:00:00,2022-08-18,Haruka Shiraishi
+欧根亲王,萨沃伊亲王、Prinz Eugen,是,超稀有,铁血,重巡,Admiral Hipper,02:00:00,2017-05-25,Ayane Sakura
+德意志,亚勒玛妮亚、Deutschland,是,精锐,铁血,重巡,Deutschland,01:55:00,2017-08-02 异色格,Sumire Uesaka
+斯佩伯爵海军上将,休贝塔伯爵、Admiral Graf.Spee、Admiral Graf Spee,是,精锐,铁血,重巡,Deutschland,无法建造,2018-01-19,Mai Fuchigami
+希佩尔海军上将(μ兵装),芙兰希卡(μ兵装)、Admiral Hipper、Admiral Hipper µ,是,精锐,铁血,重巡,Admiral Hipper,02:00:00,2019-10-31,Yuri Yamaoka
+罗恩(μ兵装),艾伯塔(μ兵装)、Roon、Roon µ,是,超稀有,铁血,重巡,Roon,无法建造,2020-10-29,Satomi Satou
+海因里希亲王,赫莉米娜亲王、Prinz Heinrich,是,超稀有,铁血,重巡,P,02:05:00,2020-12-29 负象限作战,Hiyori Nitta
+阿达尔伯特亲王,阿德莉娅亲王、Prinz Adalbert,是,超稀有,铁血,重巡,P,02:05:00,2021-12-29 逆转彩虹之塔,Natsuko Hara
+约克DE,伊冯娜、Yorck,是,精锐,铁血,重巡,Roon (1903),01:55:00,2022-04-28 虹彩的终幕曲,Akira Sekine
+小欧根,小萨沃伊、Little Prinz Eugen,是,精锐,铁血,重巡,Admiral Hipper,无法建造,2022-04-28 虹彩的终幕曲,Ayane Sakura
+小斯佩,小休贝塔、Little Spee,是,精锐,铁血,重巡,Deutschland,无法建造,2022-10-13,Mai Fuchigami
+腓特烈·卡尔,腓德雷卡·卡尔、Friedrich Carl,是,超稀有,铁血,重巡,P,02:05:00,2024-03-28,Kiyono Yasuno
+欧根亲王(μ兵装),萨沃伊亲王(μ兵装)、Prinz Eugen、Prinz Eugen µ,是,超稀有,铁血,重巡,Admiral Hipper,02:00:00,2024-04-25 共鸣的PASSION,Ayane Sakura
+小埃吉尔,小埃格妮丝、Little Ägir,是,精锐,铁血,超巡,Ägir,无法建造,2025-05-29,Ayane Sakura
+沙恩霍斯特,格尔林德、Scharnhorst,是,精锐,铁血,战巡,Scharnhorst,无法建造,2017-08-02 异色格,Ayaka Fukuhara
+格奈森瑙,奥古斯塔、Gneisenau,是,精锐,铁血,战巡,Scharnhorst,无法建造,2017-08-02 异色格,Minami Shinoda
+塞德利茨,桑德菈、Seydlitz,是,超稀有,铁血,战巡,Seydlitz,04:35:00,2022-04-28 虹彩的终幕曲,Minami Tsuda
+吕佐夫,露西、Lützow,是,超稀有,铁血,战巡,Derfflinger,04:35:00,2022-04-28 虹彩的终幕曲,Yuki Tanaka
+布伦希尔德,贝尔莎、Brünhilde,是,超稀有,铁血,战巡,O,05:05:00,2022-08-18,Aimi
+亚尔薇特,Alvitr,是,超稀有,铁血,战巡,O,05:05:00,2024-06-27 欢迎来到童心学院,Sumi Tomomi Jiena
+曾克海军上将,泽特、Admiral Zenker,是,超稀有,铁血,战巡,Admiral Zenker,04:55:00,2025-06-26 迷彩都市的寻踪者,Yuuki Hirose
+俾斯麦,奥德莉亚、Bismarck,是,超稀有,铁血,战列,Bismarck,06:00:00,2019-05-23 铁血、音符&誓言,Ayaka Fukuhara
+提尔比茨,阿尔芙莉达、Tirpitz,是,超稀有,铁血,战列,Bismarck,无法建造,2017-08-02 异色格,Atsuko Tanaka
+乌尔里希·冯·胡滕,乌尔里克·冯·胡贝尔、Ulrich von Hutten,是,海上传奇,铁血,战列,Ulrich von Hutten,06:00:00,2021-12-29 逆转彩虹之塔,Hibiku Yamamura
+图林根,特鲁德、Thüringen,是,精锐,铁血,战列,Helgoland,无法建造,2022-04-28 虹彩的终幕曲,Riho Sugiyama
+俾斯麦Zwei,奥德莉亚Zwei、Bismarck Zwei,是,海上传奇,铁血,战列,Bismarck,06:00:00,2023-05-25 空相交汇点,Ayaka Fukuhara
+小腓特烈,小腓德雷卡、Little Friedrich,是,精锐,铁血,战列,Friedrich der Große,无法建造,2024-05-30,Hitomi Nabatame
+威悉,威尔玛、Weser,是,精锐,铁血,轻航,Weser,02:22:00,2020-12-29 负象限作战,Rimi Nishimoto
+易北,埃尔斯贝特、Elbe,是,精锐,铁血,轻航,Jade,02:20:00,2021-12-29 逆转彩虹之塔,Nene Hieda
+亚德,阿黛尔、Jade,是,精锐,铁血,轻航,Jade,无法建造,2023-05-25 空相交汇点,Arisa Aihara
+齐柏林伯爵,海拉伯爵、Graf Zeppelin,是,超稀有,铁血,航母,Graf Zeppelin,04:35:00,2017-08-02 异色格,Ai Kayano
+小齐柏林,小海拉、Zeppy,是,精锐,铁血,航母,Graf Zeppelin,04:30:00,2019-04-26,Ai Kayano
+彼得·史特拉塞,佩特菈·斯坦贝瑟、Peter Strasser,是,超稀有,铁血,航母,Graf Zeppelin,04:35:00,2020-12-29 负象限作战,Yumi Hara
+弗里茨·鲁梅,菲莉西娅·鲁梅、Fritz Rumey,是,海上传奇,铁血,航母,Fritz Rumey,04:40:20,2024-12-19 星光下的余晖,Ayumi Tsunematsu
+U-81,优哈依,是,超稀有,铁血,潜艇,Type VIIC,00:12:00,无活动,Haruka Yamazaki
+U-47,优希娜,是,超稀有,铁血,潜艇,Type VIIB,00:11:00,2018-06-28 复刻：异色格,Azumi Asakura
+U-557,优可可娜,是,精锐,铁血,潜艇,Type VIIC,无法建造,2018-06-28 复刻：异色格,Azumi Asakura
+U-556,优可可洛,是,精锐,铁血,潜艇,Type VIIC,00:13:00,2019-05-23 铁血、音符&誓言,Ayaka Fukuhara
+U-73,优娜米,是,精锐,铁血,潜艇,Type VIIB,00:11:00,2019-05-23 铁血、音符&誓言,Rimo Hasegawa
+U-101,优伊欧伊,是,超稀有,铁血,潜艇,Type VIIB,00:12:00,2019-07-11,Sayumi Suzushiro
+U-522,优柯妮妮,是,精锐,铁血,潜艇,Type IXC,00:11:00,2019-07-11,Ayaka Suwa
+U-110,优伊伊丽,是,精锐,铁血,潜艇,Type IXB,00:11:00,2019-10-17,Manaka Iwami
+U-96,优玖露,是,超稀有,铁血,潜艇,Type VIIC,00:12:00,2020-08-20 复刻：铁血、音符&誓言,Mayu Mineda
+U-37,优米娜,是,超稀有,铁血,潜艇,Type IXA,00:11:00,2020-12-29 负象限作战,Ayaka Nanase
+U-410,优斯伊丽,是,精锐,铁血,潜艇,Type VIIC,无法建造,2021-02-04,Ayaka Fujimoto
+U-1206,优伊妮欧露,是,精锐,铁血,潜艇,Type VIIC,无法建造,2021-12-29 逆转彩虹之塔,Mayuka Nomura
+U-31,优咪伊,是,精锐,铁血,潜艇,Type VIIA,00:11:00,2024-06-27 欢迎来到童心学院,Anzu Haruno
+U-552,优可可妮,是,超稀有,铁血,潜艇,Type VIIC,00:13:00,2025-06-26 迷彩都市的寻踪者,Azusa Aoi
+罗恩,艾伯塔、Roon,是,最高方案,铁血,重巡,Roon,科研,2018-04-26 第十二章-马里亚纳风云•上,Satomi Satou
+腓特烈大帝,腓德雷卡大帝、Friedrich der Große,是,决战方案,铁血,战列,Friedrich der Große,科研,2019-04-18,Hitomi Nabatame
+美因茨,米兹、Mainz,是,最高方案,铁血,轻巡,Mainz,科研,2020-07-09,Yuuko Kaida
+奥丁,沃登、Odin,是,最高方案,铁血,战巡,Odin,科研,2020-07-09,Yuki Matsuoka
+埃吉尔,埃格妮丝、Ägir,是,决战方案,铁血,超巡,Ägir,科研,2021-07-08,Ayane Sakura
+奥古斯特·冯·帕塞瓦尔,奥斯特雷德·冯·帕赫贝尔、August von Parseval,是,最高方案,铁血,航母,August von Parseval,科研,2021-07-08,Rika Tachibana
+鲁普雷希特亲王,蕾贝卡亲王、Prinz Rupprecht,是,最高方案,铁血,战巡,Prinz Rupprecht,科研,2022-07-14 轻量化复刻：蝶海梦花,Momo Asakura
+菲利克斯·舒尔茨,弗郎西斯卡·舒伯特、Felix Schultz,是,最高方案,铁血,驱逐,Felix Schultz,科研,2023-07-13,Shuka Saito
+兴登堡,希尔德加德、Hindenburg,是,决战方案,铁血,重巡,Hindenburg,科研,2023-07-13,Eriko Matsui
+梅克伦堡,梅克琳达、Mecklenburg,是,决战方案,铁血,战列,Mecklenburg,科研,2025-07-10,Mariya Ise
+鞍山,An Shan,是,精锐,东煌,驱逐,Anshan,无法建造,2018-02-12,Kana Asumi
+抚顺,Fu Shun,是,精锐,东煌,驱逐,Anshan,无法建造,2018-02-12,Kana Asumi
+长春,Chang Chun,是,精锐,东煌,驱逐,Anshan,无法建造,2018-02-12,Kaori Mizuhashi
+太原,Tai Yuan,是,精锐,东煌,驱逐,Anshan,无法建造,2018-02-12,Kaori Mizuhashi
+龙武,Lung Wu,是,精锐,东煌,驱逐,Lung Wu,00:33:00,2024-01-30,Amane Makino
+虎贲,Hu Pen,是,精锐,东煌,驱逐,Lung Wu,00:33:00,2024-01-30,Amane Makino
+飞云,Fei Yuen,是,精锐,东煌,驱逐,Fei Yuen,无法建造,2024-01-30,Rie Haduki
+长风,Ch'ang Feng、Chang Feng,是,精锐,东煌,驱逐,Fei Yuen,00:33:00,2025-01-09 轻量化复刻：定向折叠,Rie Haduki
+伏波,Fu Po,是,精锐,东煌,驱逐,Fei Yuen,无法建造,2025-01-09 轻量化复刻：定向折叠,Rie Haduki
+逸仙,Yat Sen,是,精锐,东煌,轻巡,Yat Sen,00:40:00,2017-09-20 第九章-库拉湾海战,Yuu Asakawa
+宁海,Ning Hai,是,精锐,东煌,轻巡,Ning Hai,无法建造,无活动,Marie Miyake
+平海,Ping Hai,是,精锐,东煌,轻巡,Ning Hai,无法建造,无活动,Misaki Kuno
+应瑞,Ying Swei,是,精锐,东煌,轻巡,Chao Ho,00:38:00,2021-02-04,Yuuka Morishima
+肇和,Chao Ho,是,精锐,东煌,轻巡,Chao Ho,00:38:00,2021-02-04,Yuuka Morishima
+海天,Hai Tien,是,精锐,东煌,轻巡,Hai Chi,无法建造,2022-01-27,Arisa Date
+海圻,Hai Chi,是,精锐,东煌,轻巡,Hai Chi,无法建造,2022-01-27,Arisa Date
+济安,Chi An,是,精锐,东煌,轻巡,Chi An,00:38:00,2024-01-30,Mikoi Sasaki
+海容,Hai Yung,是,精锐,东煌,轻巡,Hai Yung,00:40:00,2025-01-09 轻量化复刻：定向折叠,Hinano Sakikawa
+建武,Chien Wu,是,超稀有,东煌,重巡,Chien Wu,01:30:00,2025-01-09 轻量化复刻：定向折叠,Saku Mizuno
+寰昌,Huan Ch'ang,是,超稀有,东煌,战巡,Huan Ch'ang,04:10:00,2024-01-30,Ai Matayoshi
+镇海,Chen Hai,是,精锐,东煌,轻航,Chen Hai,02:00:00,2022-01-27,Manaka Iwami
+华甲,Hwah Jah,是,精锐,东煌,轻航,Hwah Jah,02:10:00,2023-01-18,Yuka Nukui
+定安,Ting An,是,精锐,东煌,运输,Ting An,无法建造,2023-01-18,Chiemi Tanaka
+哈尔滨,滨江、Harbin,是,最高方案,东煌,轻巡,Harbin,科研,2022-07-14 轻量化复刻：蝶海梦花,Akina Homoto
+龙骑兵,Carabiniere,是,精锐,撒丁帝国,驱逐,Soldati,无法建造,2019-09-11 神圣的悲喜剧,Rika Tachibana
+文琴佐·焦贝蒂,Vincenzo Gioberti,是,精锐,撒丁帝国,驱逐,Alfredo Oriani,00:32:00,2021-01-21 复刻：神圣的悲喜剧,Misaki Yoshioka
+西北风,Maestrale,是,精锐,撒丁帝国,驱逐,Maestrale,00:30:40,2021-04-22 复兴的赞美诗,Airi Eino
+西南风,Libeccio,是,精锐,撒丁帝国,驱逐,Maestrale,00:30:40,2021-04-22 复兴的赞美诗,Airi Eino
+尼科洛索·达雷科,Nicoloso da Recco,是,精锐,撒丁帝国,驱逐,Navigatori,00:29:40,2021-04-22 复兴的赞美诗,Aoi Koga
+庞培·马格诺,Pompeo Magno,是,超稀有,撒丁帝国,驱逐,Capitani Romani,00:32:00,2022-03-24,Saya Aizawa
+阿尔弗雷多·奥里亚尼,Alfredo Oriani,是,精锐,撒丁帝国,驱逐,Alfredo Oriani,00:32:00,2022-07-28 雄鹰的叙事歌,Yuko Natsuyoshi
+埃曼努埃尔·佩萨格诺,Emanuele Pessagno,是,精锐,撒丁帝国,驱逐,Navigatori,无法建造,2022-07-28 雄鹰的叙事歌,Maria Sashide
+阿蒂利奥·雷戈洛,Attilio Regolo,是,超稀有,撒丁帝国,驱逐,Capitani Romani,00:32:00,2023-06-29,Riho Tsuda
+焦苏埃·卡尔杜齐,Giosuè Carducci,是,精锐,撒丁帝国,驱逐,Alfredo Oriani,无法建造,2025-02-27 樊笼内的神光,Yuko Natsuyoshi
+阿布鲁齐公爵,Duca degli Abruzzi,是,超稀有,撒丁帝国,轻巡,Duca degli Abruzzi,01:26:00,2021-04-22 复兴的赞美诗,Hiromi Hirata
+朱塞佩·加里波第,Giuseppe Garibaldi,是,超稀有,撒丁帝国,轻巡,Duca degli Abruzzi,01:26:00,2022-07-28 雄鹰的叙事歌,Megumi Toda
+巴托洛梅奥·科莱奥尼,Bartolomeo Colleoni,是,精锐,撒丁帝国,轻巡,Giussano,01:26:00,2025-02-27 樊笼内的神光,Yuri Fujimoto
+特伦托,Trento,是,稀有,撒丁帝国,重巡,Trento,无法建造,2019-09-11 神圣的悲喜剧,Sakura Nakamura
+扎拉,扎达尔、Zara,是,超稀有,撒丁帝国,重巡,Zara,01:55:00,2019-09-11 神圣的悲喜剧,Atsumi Tanezaki
+波拉,Pola,是,超稀有,撒丁帝国,重巡,Zara,01:55:00,2021-01-21 复刻：神圣的悲喜剧,Atsumi Tanezaki
+的里雅斯特,Trieste,是,精锐,撒丁帝国,重巡,Trento,01:54:00,2022-03-24,Sakura Nakamura
+博尔扎诺,Bolzano,是,精锐,撒丁帝国,重巡,Bolzano,01:54:00,2022-07-28 雄鹰的叙事歌,Ryoko Maekawa
+戈里齐亚,Gorizia,是,超稀有,撒丁帝国,重巡,Zara,01:55:00,2023-06-29,Kotomi Aihara
+维托里奥·维内托,Vittorio Veneto,是,超稀有,撒丁帝国,战列,Vittorio Veneto,05:15:00,2021-04-22 复兴的赞美诗,Mamiko Noto
+利托里奥,Littorio,是,超稀有,撒丁帝国,战列,Vittorio Veneto,05:15:00,2019-09-11 神圣的悲喜剧,Shizuka Itou
+罗马,Roma,是,超稀有,撒丁帝国,战列,Vittorio Veneto,05:15:00,2022-07-28 雄鹰的叙事歌,Yui Kondou
+加富尔伯爵,Conte di Cavour,是,稀有,撒丁帝国,战列,Conte di Cavour,无法建造,2019-09-11 神圣的悲喜剧,Ayaka Shimizu
+朱利奥·凯撒,Giulio Cesare,是,精锐,撒丁帝国,战列,Conte di Cavour,04:15:00,2019-09-11 神圣的悲喜剧,Ayaka Shimizu
+安德烈亚·多利亚,Andrea Doria,是,精锐,撒丁帝国,战列,Andrea Doria,04:15:00,2023-06-29,Haruno Fujiwara
+拉斐尔,Raffaello,是,海上传奇,撒丁帝国,战列,Raffaello,05:40:10,2025-02-27 樊笼内的神光,Ayaka Asai
+天鹰,Aquila,是,超稀有,撒丁帝国,航母,Aquila,04:35:00,2021-04-22 复兴的赞美诗,Rei Mochizuki
+帝国,Impero,是,超稀有,撒丁帝国,航母,Vittorio Veneto,05:15:00,2022-03-24,Nichika Oomori
+托里拆利,Torricelli,是,精锐,撒丁帝国,潜艇,Brin,无法建造,2021-04-22 复兴的赞美诗,Kaede Hondo
+莱昂纳多·达·芬奇,Leonardo Da Vinci、Leonardo da Vinci,是,超稀有,撒丁帝国,潜艇,Marconi,00:12:00,2022-07-28 雄鹰的叙事歌,Wakana Maruoka
+巴拉卡少校,Maggiore Baracca,是,超稀有,撒丁帝国,潜艇,Marconi,00:12:00,2025-02-27 樊笼内的神光,Asaki Yuikawa
+马可·波罗,Marco Polo,是,最高方案,撒丁帝国,战列,Marco Polo,科研,2021-07-08,Sashika Misawa
+那不勒斯,Napoli,是,决战方案,撒丁帝国,重巡,Napoli,科研,2024-07-18 轻量化复刻：泠誓光庭,Sayumi Suzushiro
+维托里奥·库尼贝尔蒂,Vittorio Cuniberti,是,最高方案,撒丁帝国,驱逐,Vittorio Cuniberti,科研,2025-07-10,Non Harusaki
+威严,Grozny,是,精锐,北方联合,驱逐,Gnevny,00:32:00,2020-02-27 北境序曲,Chiyo Tomaru
+明斯克,Minsk,是,精锐,北方联合,驱逐,Leningrad,无法建造,2020-02-27 北境序曲,Yuuko Hara
+塔什干,Tashkent,是,超稀有,北方联合,驱逐,Tashkent,00:42:00,2020-02-27 北境序曲,Shiori Izawa
+塔什干(μ兵装),Tashkent、Tashkent µ,是,超稀有,北方联合,驱逐,Tashkent,00:42:00,2020-10-29,Shiori Izawa
+神速,Stremitelny,是,精锐,北方联合,驱逐,Gnevny,00:32:00,无活动,Momoki Kakimura
+雷鸣,Gremyashchy,是,精锐,北方联合,驱逐,Gnevny,00:32:00,2021-02-25 破晓冰华,Marina Yamada
+洪亮,Gromky,是,精锐,北方联合,驱逐,Gnevny,无法建造,2021-02-25 破晓冰华,Yurie Kozakai
+灵敏,Soobrazitelny,是,精锐,北方联合,驱逐,Storozhevoy,无法建造,2022-02-24 深度回音,Miharu Hanai
+基辅,Kiev,是,超稀有,北方联合,驱逐,Kiev,00:42:00,2022-02-24 深度回音,Himika Akaneya
+火力,Ognevoy,是,超稀有,北方联合,驱逐,Ognevoy,00:41:00,2024-02-29 雪境迷踪,Narumi Kaho
+凶猛,Svirepy,是,精锐,北方联合,驱逐,Storozhevoy,无法建造,2024-02-29 雪境迷踪,Marika
+阿芙乐尔,Avrora,是,超稀有,北方联合,轻巡,Pallada,01:17:00,2017-05-25,Marie Miyake
+水星纪念,Pamiat' Merkuria,是,精锐,北方联合,轻巡,Bogatyr,01:17:00,2020-02-27 北境序曲,Maya Yoshioka
+恰巴耶夫,Chapayev,是,超稀有,北方联合,轻巡,Chapayev,01:26:00,2020-02-27 北境序曲,Masumi Tazawa
+基洛夫,Kirov,是,超稀有,北方联合,轻巡,Kirov,01:32:00,2021-02-25 破晓冰华,Sumire Uesaka
+古比雪夫,Kuybyshev,是,超稀有,北方联合,轻巡,Chapayev,01:26:00,2023-01-18,Rio Tsuchiya
+摩尔曼斯克,Murmansk,是,精锐,北方联合,轻巡,Omaha,01:05:00,2021-02-25 破晓冰华,Konomi Kohara
+伏罗希洛夫,Voroshilov,是,超稀有,北方联合,轻巡,Kirov,01:32:00,2023-03-23,Ran Haruka
+奥列格,Oleg,是,精锐,北方联合,轻巡,Bogatyr,无法建造,2025-04-24 扬起郁金之旗,Mami Uchida
+塔林,Tallinn,是,超稀有,北方联合,重巡,Admiral Hipper,02:00:00,2021-02-25 破晓冰华,Noriko Shitaya
+库尔斯克,Kursk,是,超稀有,北方联合,重巡,Kursk,02:05:00,2023-03-23,Rika Kinugawa
+甘古特,Gangut,是,精锐,北方联合,战列,Gangut,无法建造,2020-02-27 北境序曲,Fuyuka Ono
+苏维埃同盟,苏维埃萨尤斯、Sovetsky Soyuz,是,海上传奇,北方联合,战列,Sovetsky Soyuz,06:23:00,2024-02-29 雪境迷踪,Haruka Tomatsu
+苏维埃贝拉罗斯,Sovetskaya Belorussiya,是,超稀有,北方联合,战列,Sovetsky Soyuz,06:23:00,2021-02-25 破晓冰华,Asami Seto
+苏维埃罗西亚,Sovetskaya Rossiya,是,超稀有,北方联合,战列,Sovetsky Soyuz,06:23:00,2020-02-27 北境序曲,Manami Numakura
+阿尔汉格尔斯克,Arkhangelsk,是,精锐,北方联合,战列,Revenge,04:10:00,2022-02-24 深度回音,Miyu Kubota
+塞瓦斯托波尔,Sevastopol,是,精锐,北方联合,战列,Gangut,03:40:00,2023-03-23,Miyu Kubota
+波尔塔瓦,Poltava,是,精锐,北方联合,战列,Gangut,03:40:00,2024-02-29 雪境迷踪,Sawako Hata
+喀山,Kazan,是,超稀有,北方联合,战列,Kazan,05:50:00,2025-04-24 扬起郁金之旗,Yuka Terasaki
+伏尔加,Volga,是,超稀有,北方联合,航母,Volga,04:47:53,2022-02-24 深度回音,Noriko Shibasaki
+喀琅施塔得,Kronshtadt,是,海上传奇,北方联合,超巡,Kronshtadt,04:42:50,2022-02-24 深度回音,Kaede Hondo
+契卡洛夫,Chkalov,是,最高方案,北方联合,航母,Chkalov,科研,2022-07-14 轻量化复刻：蝶海梦花,Ryoka Yuzuki
+纳希莫夫海军上将,Admiral Nakhimov,是,决战方案,北方联合,航母,Admiral Nakhimov,科研,2024-07-18 轻量化复刻：泠誓光庭,Chika Anzai
+迪米特里·顿斯科伊,Dmitri Donskoi,是,最高方案,北方联合,轻巡,Dmitri Donskoi,科研,2025-07-10,Miyari Nemoto
+凯旋,Le Triomphant,是,超稀有,自由鸢尾,驱逐,Le Fantasque,无法建造,2018-07-26 光与影的鸢尾之华,Sora Amamiya
+福尔班,Forbin,是,稀有,自由鸢尾,驱逐,L'Adroit,00:23:00,2018-07-26 光与影的鸢尾之华,Akiko Hasegawa
+鲁莽,Le Téméraire,是,精锐,自由鸢尾,驱逐,Le Hardi,无法建造,2018-09-14,Mai Goto
+倔强,L'Opiniâtre,是,精锐,自由鸢尾,驱逐,Le Hardi,无法建造,2019-06-27 复刻：光与影的鸢尾之华,Mai Goto
+大胆,Le Hardi,是,超稀有,自由鸢尾,驱逐,L'Intrépide,00:26:00,2025-08-14 奇渊下的秘密,Saya Aizawa
+可怖,Le Terrible,是,超稀有,自由鸢尾,驱逐,Le Fantasque,00:33:00,2021-10-21 第十四章-苏里高夜战,Kaori Maeda
+马耶·布雷泽,Maillé Brézé,是,精锐,自由鸢尾,驱逐,Vauquelin,00:26:00,2021-10-21 第十四章-苏里高夜战,Minami Fujii
+鲁莽(μ兵装),Le Téméraire、Le Téméraire µ,是,精锐,自由鸢尾,驱逐,Le Hardi,无法建造,2024-04-25 共鸣的PASSION,Mai Goto
+埃米尔·贝尔汀,Émile Bertin,是,精锐,自由鸢尾,轻巡,Émile Bertin,无法建造,2018-07-26 光与影的鸢尾之华,Reina Ueda
+圣女贞德,Jeanne d'Arc,是,超稀有,自由鸢尾,轻巡,Jeanne d'Arc,01:26:00,2020-05-21 穹顶下的圣咏曲,Atsumi Tanezaki
+吉尚,Guichen,是,超稀有,自由鸢尾,轻巡,De Grasse,01:26:00,2023-08-17 愚者的天平,Aya Yamane
+迪盖·特鲁因,Duguay-Trouin,是,精锐,自由鸢尾,轻巡,Duguay-Trouin,无法建造,2025-08-14 奇渊下的秘密,Marika Tachibana
+絮弗伦,Suffren,是,精锐,自由鸢尾,重巡,Suffren,01:45:00,2023-08-17 愚者的天平,Fūka Izumi
+布伦努斯,Brennus,是,超稀有,自由鸢尾,重巡,Brennus,01:50:00,2024-05-21 绽放于辉光之城,Sayaka Kikuchi
+迪凯纳,Duquesne,是,精锐,自由鸢尾,重巡,Duquesne,01:45:00,2025-08-14 奇渊下的秘密,Rie Kawamura
+马塞纳,Masséna,是,超稀有,自由鸢尾,战巡,Masséna,04:05:00,2025-08-14 奇渊下的秘密,Coco Hayashi
+黎塞留,Richelieu,是,超稀有,自由鸢尾,战列,Richelieu,05:50:00,2020-05-21 穹顶下的圣咏曲,Marina Inoue
+里昂,Lyon,是,精锐,自由鸢尾,战列,Lyon,04:15:00,2023-08-17 愚者的天平,Karin Isobe
+阿尔萨斯,Alsace,是,海上传奇,自由鸢尾,战列,Alsace,06:12:20,2024-05-21 绽放于辉光之城,Aki Toyosaki
+贝劳森林,Bois Belleau,是,超稀有,自由鸢尾,轻航,Independence,02:06:40,2025-08-14 奇渊下的秘密,Yuu Wakui
+贝亚恩,Béarn,是,精锐,自由鸢尾,航母,Béarn,无法建造,2020-05-21 穹顶下的圣咏曲,Asami Takano
+伴尔维,Painlevé,是,超稀有,自由鸢尾,航母,Joffre,04:35:00,2023-08-17 愚者的天平,Yuka Nukui
+絮库夫,Surcouf,是,精锐,自由鸢尾,潜艇,Surcouf,00:35:00,2018-07-26 光与影的鸢尾之华,Manami Numakura
+路易九世,Saint Louis,是,最高方案,自由鸢尾,重巡,Saint Louis,科研,2018-04-26 第十二章-马里亚纳风云•上,Asami Seto
+香槟,Champagne,是,最高方案,自由鸢尾,战列,Champagne,科研,2020-07-09,Lynn
+布雷斯特,Brest,是,决战方案,自由鸢尾,超巡,Brest,科研,2022-07-14 轻量化复刻：蝶海梦花,Sayaka Senbongi
+贝亚德,Bayard,是,最高方案,自由鸢尾,轻巡,Bayard,科研,2024-07-18 轻量化复刻：泠誓光庭,Megumi Han
+勒马尔,Le Mars,是,稀有,维希教廷,驱逐,L'Adroit,00:23:00,2018-07-26 光与影的鸢尾之华,Akiko Hasegawa
+塔尔图,Tartu,是,精锐,维希教廷,驱逐,Vauquelin,00:26:00,2020-05-07,Eri Yukimura
+沃克兰,Vauquelin,是,精锐,维希教廷,驱逐,Vauquelin,00:26:00,2020-05-21 穹顶下的圣咏曲,Eri Yukimura
+凯尔圣,Kersaint,是,精锐,维希教廷,驱逐,Vauquelin,无法建造,2023-08-17 愚者的天平,Yuka Iwahashi
+花剑,Fleuret,是,精锐,维希教廷,驱逐,Le Hardi,00:26:00,2024-05-21 绽放于辉光之城,Miria Takagishi
+重剑,Épée,是,精锐,维希教廷,驱逐,Le Hardi,无法建造,2024-05-21 绽放于辉光之城,Minami Kurisaka
+莫加多尔,Mogador,是,海上传奇,维希教廷,驱逐,Mogador,无法建造,2024-05-21 绽放于辉光之城,Mari Hino
+恶毒,Le Malin,是,超稀有,维希教廷,驱逐,Le Fantasque,无法建造,2019-06-27 复刻：光与影的鸢尾之华,Haruka Shiraishi
+恶毒(μ兵装),Le Malin、Le Malin µ,是,超稀有,维希教廷,驱逐,Le Fantasque,无法建造,2020-10-29,Haruka Shiraishi
+不屈,L'Indomptable,是,超稀有,维希教廷,驱逐,Le Fantasque,00:33:00,2022-06-30,Ayumi Tsuji
+果敢,L'Audacieux,是,超稀有,维希教廷,驱逐,Le Fantasque,00:33:00,2024-07-25 幻梦间奏曲,Akari Miyazaki
+拉·加利索尼埃,La Galissonnière,是,精锐,维希教廷,轻巡,La Galissonnière,无法建造,2020-05-21 穹顶下的圣咏曲,Yui Makino
+马赛曲,Marseillaise,是,超稀有,维希教廷,轻巡,La Galissonnière,01:26:00,2023-08-03,Yui Makino
+福煦,Foch,是,精锐,维希教廷,重巡,Suffren,01:45:00,2021-11-11,Aino Shimada
+阿尔及利亚,Algérie,是,超稀有,维希教廷,重巡,Algérie,01:55:00,2020-05-21 穹顶下的圣咏曲,Shizuka Itou
+迪普莱克斯,Dupleix,是,精锐,维希教廷,重巡,Suffren,01:45:00,2024-07-25 幻梦间奏曲,Emi Hirayama
+敦刻尔克,Dunkerque,是,精锐,维希教廷,战巡,Dunkerque,04:05:00,2018-07-26 光与影的鸢尾之华,Sayaka Harada
+斯特拉斯堡,Strasbourg,是,超稀有,维希教廷,战巡,Dunkerque,04:05:00,2024-07-25 幻梦间奏曲,Ikumi Hasegawa
+让·巴尔,简·布罗伊、Jean Bart,是,超稀有,维希教廷,战列,Richelieu,无法建造,2018-07-26 光与影的鸢尾之华,Marina Inoue
+克莱蒙梭,Clemenceau,是,超稀有,维希教廷,战列,Richelieu,05:50:00,2023-08-17 愚者的天平,Yurina Amami
+加斯科涅(μ兵装),Gascogne、Gascogne µ,是,超稀有,维希教廷,战列,Richelieu,05:50:00,2019-10-31,Mikako Komatsu
+霞飞,Joffre,是,超稀有,维希教廷,航母,Joffre,04:35:00,2022-06-30,Ayumi Mano
+加斯科涅,Gascogne,是,最高方案,维希教廷,战列,Richelieu,科研,2019-04-18,Mikako Komatsu
+弗兰德尔,Flandre,是,最高方案,维希教廷,战列,Alsace,科研,2023-07-13,Kyouka Moriya
+埃佛森,Evertsen,是,精锐,郁金王国,驱逐,Admiralen,00:26:00,2025-04-24 扬起郁金之旗,Haruna Mikawa
+七省,De Zeven Provinciën,是,超稀有,郁金王国,轻巡,De Zeven Provinciën,01:25:00,2025-04-24 扬起郁金之旗,Kana Hanaiwa
+金狮,ハウデン・リーウ、Gouden Leeuw,是,决战方案,郁金王国,重巡,Gouden Leeuw,科研,2025-07-10,Kikuko Inoue
+夜刀神十香,Tohka Yatogami,是,超稀有,DateALiveV,重巡,No Class,01:08:20,2025-11-20 DATE A LANE,Marina Inoue
+鸢一折纸,Origami Tobiichi,是,超稀有,DateALiveV,航母,No Class,02:13:50,2025-11-20 DATE A LANE,Misuzu Togashi
+五河琴里,Kotori Itsuka,是,超稀有,DateALiveV,战列,No Class,03:05:10,2025-11-20 DATE A LANE,Ayana Taketatsu
+四糸乃,Yoshino,是,超稀有,DateALiveV,轻航,No Class,无法建造,2025-11-20 DATE A LANE,Iori Nomizu
+时崎狂三,Kurumi Tokisaki,是,超稀有,DateALiveV,轻巡,No Class,无法建造,2025-11-20 DATE A LANE,Asami Sanada
+八舞耶倶矢·八舞夕弦,Kaguya Yamai・Yuzuru Yamai,是,超稀有,DateALiveV,轻巡,No Class,02:05:40,2025-11-20 DATE A LANE,Maaya Uchida | Sarah Emi Bridcutt
+皇家财富号,Royal Fortune,是,超稀有,飓风,风帆S,No Class,无法建造,2022-10-27,Aimi Tanaka
+圣马丁号,São Martinho,是,超稀有,飓风,风帆M,No Class,04:26:21,2023-10-26 飓风与青春之泉,Wakana Kuramochi
+金鹿号,Golden Hind,是,超稀有,飓风,风帆V,No Class,01:26:18,2023-10-26 飓风与青春之泉,Yuka Hinata
+玛丽·西莱斯特号,Mary Celeste,是,超稀有,飓风,风帆S,No Class,00:31:01,2023-10-26 飓风与青春之泉,Hinata Sato
+维达号,Whydah,是,精锐,飓风,风帆S,No Class,00:28:36,2023-10-26 飓风与青春之泉,Rina Kawaguchi
+加里冒险号,Adventure Galley,是,精锐,飓风,风帆V,Adventure Galley,无法建造,2023-10-26 飓风与青春之泉,Ikumi Hayama
+冈依沙瓦号,Ganj-i-Sawai,是,超稀有,飓风,风帆M,No Class,04:42:30,2024-10-24 飓风与沉眠之海,Sora Tokui
+幻想号,Fancy,是,超稀有,飓风,风帆V,No Class,01:39:21,2024-10-24 飓风与沉眠之海,Tsubame Yuzuki
+和睦号,Amity,是,超稀有,飓风,风帆S,No Class,00:28:13,2024-10-24 飓风与沉眠之海,Konomi Inagaki
+朴茨茅斯冒险号,Portsmouth Adventure,是,精锐,飓风,风帆V,No Class,00:28:14,2024-10-24 飓风与沉眠之海,Ryouko Jyuni
+海豚号,Dolphin,是,精锐,飓风,风帆S,No Class,无法建造,2024-10-24 飓风与沉眠之海,Asuka Shioiri
+安妮女王复仇号,Queen Anne's Revenge,是,超稀有,飓风,风帆M,Queen Anne's Revenge,04:46:10,2025-10-23 飓风与自由群岛,Amachi Haru
+莱姆号,Lyme,是,超稀有,飓风,风帆V,Lyme,00:28:14,2025-10-23 飓风与自由群岛,Yano Yumika
+珍珠号,Pearl,是,超稀有,飓风,风帆M,Pearl,04:46:02,2025-10-23 飓风与自由群岛,Narumi Aisaka
+皇家詹姆斯号,Royal James,是,精锐,飓风,风帆V,Royal James,00:28:37,2025-10-23 飓风与自由群岛,Ozawa Rena
+冒险号,Adventure,是,精锐,飓风,风帆S,Adventure,无法建造,2025-10-23 飓风与自由群岛,Yamada Misuzu
+猎人·META,Hunter META,是,精锐,META-???,驱逐,Cinders of Hope,巡游,2022-10-01,Ayaki Nanase
+命运女神·META,Fortune META,是,精锐,META-???,驱逐,Cinders of Hope,巡游,2022-12-01,Yuuko Gotou
+旗风·META,樋·META、Hatakaze META,是,精锐,META-???,驱逐,Smoldering Core,巡游,2023-08-01,Madoka Asahina
+金伯利·META,Kimberly META,是,精锐,META-???,驱逐,Ashen Might,巡游,2024-02-01,Sumire Morohoshi
+吸血鬼·META,Vampire META,是,精锐,META-???,驱逐,Cinders of Hope,巡游,2024-04-01,Rie Kugimiya
+霞·META,蕸·META、Kasumi META,是,精锐,META-???,驱逐,Framework of Logic,巡游,2024-07-25 幻梦间奏曲,Mariko Takeda
+格伦维尔·META,Grenville META,是,精锐,META-???,驱逐,Cinders of Hope,巡游,2025-06-01,Juri Kimura
+江风·META,茳·META、Kawakaze META,是,超稀有,META-???,驱逐,Smoldering Core,META 作战,2025-06-05,Yuka Iguchi
+夕立·META,椿·META、Yūdachi META、Yuudachi META,是,超稀有,META-???,驱逐,Ashen Might,META 作战,2025-09-04,Natsumi Takamori
+杜威·META,Dewey META,是,精锐,META-???,驱逐,Ashen Might,巡游,2025-10-01,Miyuri Shimabukuro
+海伦娜·META,Helena.META、Helena META,是,超稀有,META-???,轻巡,Ashen Might,META 作战,2021-06-10,Tomoyo Chuujou
+孟菲斯·META,Memphis META,是,精锐,META-???,轻巡,Framework of Logic,巡游,2022-05-26 泠誓光庭,Hekiru Shiina
+谢菲尔德·META,Sheffield META,是,精锐,META-???,轻巡,Ashen Might,巡游,2023-02-01,Konomi Kohara
+拉·加利索尼埃·META,La Galissonnière META、La Galissonniére META,是,精锐,META-???,轻巡,Cinders of Hope,巡游,2023-04-01,Yui Makino
+神通·META,貎·META、Jintsū.META、Jintsuu META,是,超稀有,META-???,轻巡,Framework of Logic,META 作战,2023-08-31,Hisako Kanemoto
+基洛夫·META,Kirov(META)、Kirov META,是,超稀有,META-???,轻巡,Cinders of Hope,META 作战,2023-12-07,Sumire Uesaka
+水星纪念·META,Pamiat' Merkuria(META)、Pamiat' Merkuria META,是,超稀有,META-???,轻巡,Flickering Light,01:17:00,2024-02-29 雪境迷踪,Maya Yoshioka
+博伊西·META,树城·META、Boise META,是,精锐,META-???,轻巡,Framework of Logic,巡游,2025-12-01,Sasahara Yuu
+克利夫兰·META,Cleveland META,是,超稀有,META-???,轻巡,Ashen Might,01:25:00,2025-12-18 响彻于天穹之音,Saya Horigome
+特伦托·META,Trento META,是,精锐,META-???,重巡,Flickering Light,巡游,2022-07-28 雄鹰的叙事歌,Sakura Nakamura
+阿尔及利亚·META,Algérie META,是,超稀有,META-???,重巡,Cinders of Hope,META 作战,2023-06-08,Shizuka Itou
+福煦·META,Foch META,是,精锐,META-???,重巡,Cinders of Hope,巡游,2024-06-01,Aino Shimada
+威奇塔·META,Wichita META,是,超稀有,META-???,重巡,Ashen Might,META 作战,2024-06-20 轻量化复刻：虹彩的终幕曲,Nozomi Yamamoto
+希佩尔海军上将·META,芙兰希卡·META、Admiral Hipper META,是,超稀有,META-???,重巡,Cinders of Hope,02:00:00,2024-12-19 星光下的余晖,Yuri Yamaoka
+博尔扎诺·META,Bolzano META,是,精锐,META-???,重巡,Cinders of Hope,巡游,2025-02-06 轻量化复刻：远汇点作战,Ryoko Maekawa
+格奈森瑙·META,奥古斯塔·META、Gneisenau.META、Gneisenau META,是,超稀有,META-???,战巡,Cinders of Hope,META 作战,2021-12-09 大型作战,Minami Shinoda
+沙恩霍斯特·META,格尔林德·META、Scharnhorst.META、Scharnhorst META,是,超稀有,META-???,战巡,Ashen Might,META 作战,2022-03-10,Ayaka Fukuhara
+反击·META,Repulse META,是,超稀有,META-???,战巡,Ashen Might,META 作战,2022-06-09,Koharu Nogata
+声望·META,Renown META,是,超稀有,META-???,战巡,Ashen Might,META 作战,2022-09-01,Ayako Kawasumi
+比叡·META,鲟·META、Hiei META,是,超稀有,META-???,战巡,Cinders of Hope,04:10:00,2024-09-12 唤醒苍红之炎,Eri Kitamura
+敦刻尔克·META,Dunkerque META,是,精锐,META-???,战巡,Cinders of Hope,巡游,2025-08-01,Sayaka Harada
+扶桑·META,魟·META、Fusō.META、Fusou META,是,精锐,META-???,战列,Ashen Might,巡游,2021-10-01,Ami Koshimizu
+山城·META,鲼·META、Yamashiro.META、Yamashiro META,是,精锐,META-???,战列,Flickering Light,巡游,2022-04-01,Ami Koshimizu
+亚利桑那·META,Arizona META,是,超稀有,META-???,战列,Framework of Logic,META 作战,2022-12-08,Sawako Shirakabe
+伊丽莎白女王·META,Queen Elizabeth META,是,超稀有,META-???,战列,Cinders of Hope,META 作战,2023-03-09 轻量化复刻：复兴的赞美诗,Sumire Uesaka
+罗德尼·META,Rodney META,是,超稀有,META-???,战列,Framework of Logic,META 作战,2024-03-14 轻量化复刻：虚像构筑之塔·序章,You Taichi
+长门·META,鲨·META、Nagato META,是,超稀有,META-???,战列,Smoldering Core,META 作战,2024-09-12 唤醒苍红之炎,Misaki Kuno
+朱利奥·凯撒·META,Giulio Cesare META,是,精锐,META-???,战列,Cinders of Hope,巡游,2024-12-01,Ayaka Shimizu
+安德烈亚·多利亚·META,Andrea Doria META,是,超稀有,META-???,战列,Cinders of Hope,04:15:00,2025-02-27 樊笼内的神光,Haruno Fujiwara
+内华达·META,Nevada META,是,精锐,META-???,战列,Ashen Might,巡游,2025-03-27 深谷来信,Yumi Uchiyama
+飞鹰·META,鸱·META、Hiyō.META、Hiyou META,是,精锐,META-???,轻航,Ashen Might,巡游,2021-12-01,Seiko Yoshida
+隼鹰·META,鸢·META、Jun'yō.META、Junyou META,是,精锐,META-???,轻航,Ashen Might,巡游,2022-02-01,Seiko Yoshida
+普林斯顿·META,Princeton META,是,精锐,META-???,轻航,Ashen Might,巡游,2023-10-01,Shiomi Yukina
+凤翔·META,凤·META、Hōshō META、Houshou META,是,精锐,META-???,轻航,Smoldering Core,巡游,2024-10-01,Chiaki Takahashi
+飞龙·META,龙·META、Hiryu.META、Hiryuu META,是,超稀有,META-???,航母,Ashen Might,META 作战,2020-12-22 大型作战,Shizuka Ishigami
+皇家方舟·META,Ark Royal.META、Ark Royal META,是,超稀有,META-???,航母,Ashen Might,META 作战,2021-03-25 复刻：箱庭疗法,Asuka Itou
+苍龙·META,蛟·META、Sōryū.META、Souryuu META,是,超稀有,META-???,航母,Flickering Light,META 作战,2021-09-16 碧海光粼,Karin Mitarai
+贝亚恩·META,Béarn META,是,超稀有,META-???,航母,Flickering Light,02:00:00,2024-05-21 绽放于辉光之城,Asami Takano
+大凤·META,鹩·META、Taihō META、Taihou META,是,超稀有,META-???,航母,Flickering Light,META 作战,2024-12-19 星光下的余晖,Aoi Yuuki
+大黄蜂·META,Hornet META,是,超稀有,META-???,航母,Ashen Might,META 作战,2025-03-20 轻量化复刻：湮烬尘墟,Nozomi Yamamoto
+光荣·META,Glorious META,是,超稀有,META-???,航母,Cinders of Hope,03:50:00,2025-05-20 高塔上的蔷薇,Noriko Shitaya
+约克城·META,Yorktown META,是,超稀有,META-???,航母,Framework of Logic,META 作战,2025-12-18 响彻于天穹之音,Yui Ishikawa
+U-556·META,优可可洛·META、U-556 META,是,超稀有,META-???,潜艇,Flickering Light,00:13:00,2023-05-25 空相交汇点,Ayaka Fukuhara
+女灶神·META,Vestal META,是,精锐,META-???,维修,Framework of Logic,巡游,2023-05-25 空相交汇点,Maia
+黑暗界·META,Erebus META,是,精锐,META-???,重炮,Cinders of Hope,巡游,2023-12-01,Saya Horigome
+涅普顿,Neptune、Neptune (Neptunia),是,精锐,海王星,轻巡,No Class,无法建造,2018-02-06,Rie Tanaka
+诺瓦露,Noire,是,精锐,海王星,重巡,No Class,02:38:00,2018-02-06,Asami Imai
+布兰,Blanc,是,精锐,海王星,驱逐,No Class,02:24:00,2018-02-06,Kana Asumi
+贝露,Vert,是,精锐,海王星,航母,No Class,无法建造,2018-02-06,Rina Satou
+绀紫之心,Purple Heart,是,超稀有,海王星,轻巡,No Class,02:44:00,2018-02-06,Rie Tanaka
+圣黑之心,Black Heart,是,超稀有,海王星,重巡,No Class,02:40:00,2018-02-06,Asami Imai
+群白之心,White Heart,是,超稀有,海王星,驱逐,No Class,02:26:00,2018-02-06,Kana Asumi
+翡绿之心,Green Heart,是,超稀有,海王星,航母,No Class,02:47:00,2018-02-06,Rina Satou
+绊爱,Kizuna、Kizuna AI,是,精锐,KizunaAI,驱逐,No Class,无法建造,2019-04-26,Kizuna AI
+绊爱·Elegant,Kizuna·Elegant、Elegant Kizuna AI,是,超稀有,KizunaAI,重巡,No Class,01:55:00,2019-04-26,Kizuna AI
+绊爱·Anniversary,Kizuna·Anniversary、Anniversary Kizuna AI,是,超稀有,KizunaAI,航母,No Class,04:30:00,2019-04-26,Kizuna AI
+绊爱·SuperGamer,Kizuna·SuperGamer、Super Gamer Kizuna AI,是,超稀有,KizunaAI,战列,No Class,04:50:00,2019-04-26,Kizuna AI
+白上吹雪,Shirakami Fubuki,是,超稀有,Hololive,驱逐,No Class,00:17:30,2019-11-27,Shirakami Fubuki
+时乃空,Tokino Sora,是,超稀有,Hololive,航母,No Class,01:25:00,2019-11-27,Tokino Sora
+湊阿库娅,Minato Aqua,是,超稀有,Hololive,潜艇,No Class,00:20:00,2019-11-27,Minato Aqua
+夏色祭,Natsuiro Matsuri,是,精锐,Hololive,驱逐,No Class,00:12:00,2019-11-27,Natsuiro Matsuri
+百鬼绫目,Nakiri Ayame,是,精锐,Hololive,重巡,No Class,03:22:00,2019-11-27,Nakiri Ayame
+紫咲诗音,Murasaki Shion,是,精锐,Hololive,轻航,No Class,无法建造,2019-11-27,Murasaki Shion
+大神澪,Ōkami Mio、Ookami Mio,是,精锐,Hololive,航母,No Class,无法建造,2019-11-27,Ookami Mio
+玛莉萝丝,Marie Rose,是,超稀有,维纳斯假期,驱逐,No Class,02:40:06,2020-11-26,Mai Aizawa
+穗香,Honoka,是,超稀有,维纳斯假期,战列,No Class,02:35:25,2020-11-26,Ai Nonaka
+霞DOA,Kasumi、Kasumi (Venus Vacation),是,超稀有,维纳斯假期,重巡,No Class,02:33:43,2020-11-26,Houko Kuwashima
+海咲,Misaki,是,超稀有,维纳斯假期,轻巡,No Class,02:41:47,2020-11-26,Minami Tsuda
+凪咲,Nagisa,是,精锐,维纳斯假期,战列,No Class,02:38:25,2020-11-26,Maaya Uchida
+女天狗,Nyotengu,是,精锐,维纳斯假期,航母,No Class,无法建造,2020-11-26,Akemi Satou
+莫妮卡,Monica,是,精锐,维纳斯假期,轻巡,No Class,02:31:40,2020-11-26,Eri Yukimura
+露娜,Luna,是,超稀有,维纳斯假期,轻航,No Class,03:03:36,2023-04-27,Shiori Mikami
+环,Tamaki,是,超稀有,维纳斯假期,战巡,No Class,02:44:00,2023-04-27,Saori Onishi
+天海春香,Haruka Amami,是,超稀有,偶像大师,轻巡,No Class,01:07:10,2021-07-22,Eriko Nakamura
+如月千早,Chihaya Kisaragi,是,超稀有,偶像大师,航母,No Class,06:15:00,2021-07-22,Asami Imai
+水濑伊织,Iori Minase,是,超稀有,偶像大师,战列,No Class,01:24:10,2021-07-22,Rie Kugimiya
+三浦梓,Azusa Miura,是,超稀有,偶像大师,重巡,No Class,01:59:50,2021-07-22,Chiaki Takahashi
+秋月律子,Ritsuko Akizukii、Ritsuko Akizuki,是,精锐,偶像大师,运输,No Class,无法建造,2021-07-22,Naomi Wakabayashi
+双海亚美,Ami Futami,是,精锐,偶像大师,潜艇,No Class,00:08:42,2021-07-22,Asami Shimoda
+双海真美,Mami Futami,是,精锐,偶像大师,潜艇,No Class,00:08:42,2021-07-22,Asami Shimoda
+宝多六花,Takarada Rikka、Rikka Takarada,是,超稀有,SSSS,轻巡,No Class,00:35:30,2021-11-25,Yume Miyamoto
+新条茜,Shinjou Akane、Akane Shinjo,是,超稀有,SSSS,战列,No Class,01:25:02,2021-11-25,Reina Ueda
+莲SSSS,Hass,是,精锐,SSSS,轻巡,No Class,00:38:45,2021-11-25,Akari Kitou
+奈美子,Namiko,是,精锐,SSSS,重巡,No Class,01:01:49,2021-11-25,Suzuko Mimori
+南梦芽,Yume Minami,是,超稀有,SSSS,重巡,No Class,01:04:11,2021-11-25,Shion Wakayama
+飞鸟川千濑,Asukagawa Chise、Chise Asukagawa,是,超稀有,SSSS,航母,No Class,01:37:42,2021-11-25,Chika Anzai
+貉SSSS,Mujina,是,精锐,SSSS,战列,No Class,无法建造,2021-11-25,Ayaka Suwa
+第二代,The 2nd,是,超稀有,SSSS,航战,No Class,06:15:09,2023-07-20,Karin Takahashi
+公主,Princess Hime,是,超稀有,SSSS,运输,No Class,01:31:40,2023-07-20,Maaya Uchida
+莱莎琳·斯托特,Reisalin Stout,是,超稀有,Atelier Ryza,轻巡,No Class,01:16:00,2022-11-24,Yuri Noguchi
+科洛蒂娅·巴兰茨,Klaudia Valentz,是,超稀有,Atelier Ryza,轻航,No Class,02:23:00,2022-11-24,Hitomi Oowada
+帕特莉夏·阿贝尔海姆,Patricia Abelheim,是,超稀有,Atelier Ryza,战列,No Class,06:15:00,2022-11-24,Naomi Ohzora
+莉拉·德西亚斯,Lila Decyrus,是,精锐,Atelier Ryza,重巡,No Class,01:30:00,2022-11-24,Haruka Terui
+赛莉·古劳斯,Serri Glaus,是,精锐,Atelier Ryza,航母,No Class,04:20:00,2022-11-24,Yukiyo Fujii
+卡菈·伊迪亚斯,Kala Ideas,是,超稀有,Atelier Ryza,超巡,No Class,无法建造,2022-11-24,Hina Yomiya
+飞鸟,Asuka,是,超稀有,闪乱神乐NL,轻巡,No Class,02:30:00,2023-11-23 苍闪忍法帖,Hitomi Harada
+斑鸠,Ikaruga,是,超稀有,闪乱神乐NL,重巡,No Class,02:35:00,2023-11-23 苍闪忍法帖,Asami Imai
+焰,Homura,是,超稀有,闪乱神乐NL,潜艇,No Class,无法建造,2023-11-23 苍闪忍法帖,Eri Kitamura
+雪泉,Yumi,是,超稀有,闪乱神乐NL,航母,No Class,02:33:20,2023-11-23 苍闪忍法帖,Yumi Hara
+雪不归,Fubuki、Fubuki (Senran Kagura),是,超稀有,闪乱神乐NL,战列,No Class,02:38:20,2023-11-23 苍闪忍法帖,Kana Asumi
+紫,Murasaki,是,精锐,闪乱神乐NL,轻航,No Class,无法建造,2023-11-23 苍闪忍法帖,Sayuri Yahagi
+夕烧,Yūyaki,是,精锐,闪乱神乐NL,重巡,No Class,02:30:00,2023-11-23 苍闪忍法帖,Rika Tachibana
+菈菈·撒塔琳·戴比路克,Lala Satalin Deviluke,是,超稀有,To LOVE-Ru,重巡,No Class,02:28:00,2024-11-21 危险发明迫近中！,Haruka Tomatsu
+娜娜·阿丝达·戴比路克,Nana Astar Deviluke,是,超稀有,To LOVE-Ru,驱逐,No Class,01:53:20,2024-11-21 危险发明迫近中！,Kanae Ito
+梦梦·贝莉雅·戴比路克,Momo Belia Deviluke、Momo belia Deviluke,是,超稀有,To LOVE-Ru,轻巡,No Class,02:10:02,无活动,Aki Toyosaki
+金色暗影,Golden Darkness,是,超稀有,To LOVE-Ru,战列,No Class,02:05:00,2024-11-21 危险发明迫近中！,Misato Fukuen
+西连寺春菜,Haruna Sairenji,是,精锐,To LOVE-Ru,战巡,No Class,02:11:40,2024-11-21 危险发明迫近中！,Sayuri Yahagi
+古手川唯,Yui Kotegawa,是,精锐,To LOVE-Ru,航母,No Class,无法建造,2024-11-21 危险发明迫近中！,Kaori Nazuka
+BLACK★ROCK SHOOTER,,是,超稀有,BLACK★ROCK SHOOTER,战巡,No Class,无法建造,2025-06-05,Kana Hanawaza
+DEAD MASTER,MASTER,是,超稀有,BLACK★ROCK SHOOTER,航母,No Class,无法建造,2025-06-05,Miyuki Sawashiro
+优米雅·利斯菲尔德,Yumia Liessfeldt,是,超稀有,Atelier Yumia,轻航,No Class,02:23:00,2025-07-24 炼金术士与天际交汇之塔,Wakana Kuramochi
+艾菈·冯·杜勒,Isla von Duerer,是,超稀有,Atelier Yumia,轻巡,No Class,01:16:00,2025-07-24 炼金术士与天际交汇之塔,Kaori Maeda
+妮娜·弗里德,Nina Friede,是,超稀有,Atelier Yumia,战列,No Class,06:15:00,2025-07-24 炼金术士与天际交汇之塔,Mikako Komatsu
+蕾妮雅,Lenja,是,超稀有,Atelier Yumia,驱逐,No Class,00:25:50,2025-07-24 炼金术士与天际交汇之塔,Yoshino Aoyama
+赫斯缇雅,Hestia,是,超稀有,DanMachiV,维修,No Class,无法建造,2025-10-16 轻量化复刻：愚者的天平,Inori Minase
+琉·璃昂,Ryu Lion,是,超稀有,DanMachiV,轻巡,No Class,无法建造,2025-10-16 轻量化复刻：愚者的天平,Saori Hayami

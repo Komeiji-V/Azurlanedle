@@ -1,0 +1,13 @@
+node_modules
+dist
+.next
+.vinext
+.npm-cache
+release
+.git
+.gitignore
+tsconfig.tsbuildinfo
+*.log
+.DS_Store
+.docker-config
+.buildx-cache

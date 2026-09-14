@@ -1,0 +1,11 @@
+services:
+  hangyiba:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hangyiba:latest
+    container_name: hangyiba
+    ports:
+      # 宿主机端口可用 HANGYIBA_PORT 覆盖，例如 HANGYIBA_PORT=9000 docker compose up -d
+      - "${HANGYIBA_PORT:-8080}:80"
+    restart: unless-stopped
