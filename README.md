@@ -99,6 +99,7 @@ node scripts/generate_default_catalog.mjs   # 重新生成 app/default-catalog.g
 - 舰船中文名、和谐名、阵营、舰种、舰级、实装日期来自 bwiki 的 `{{舰娘图鉴}}` 模板
 - 中文活动名与国服活动日期来自 bwiki 的「游戏活动表」，按实装日期对齐
 - 每一列的写法都在列名上标明语言：`@zh` 是中文、`@en` 是原版数据（以后加日文就是 `@ja`）。
+  只有一套写法的列（如建造时间，数值与语言无关）会跟着回退，不会留白。
   游戏页顶栏点「语言设置」可以切换：
   - **中文**（默认）/ **英文**：一键把整表切到同一套写法
   - **自定义**：逐列选择，弹窗里带一行以「企业」为例的实时预览
@@ -112,7 +113,7 @@ node scripts/generate_default_catalog.mjs   # 重新生成 app/default-catalog.g
 | 阵营 | 重樱 | Sakura Empire |
 | 舰种 | 重巡 | CA |
 | 舰级 | 高雄级 | Takao |
-| 建造时间 | 无法建造 | Cannot be constructed |
+| 建造时间 | 无法建造 | （只有一列，数值与语言无关） |
 | 实装活动 | 苍红的回响 | Fallen Wings |
 
 - 舰级取型号里的「XX级 / XX型」并做同舰级投票；建造方式沿用原版数据

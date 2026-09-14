@@ -13,24 +13,44 @@ const tags = toTagDefinitions(catalog.tags, catalog.values);
 const tagOf = (name: string) => tags.find((tag) => tag.name === name)!;
 const preset = (mode: DisplaySettings["mode"]): DisplaySettings => ({ mode, columns: {} });
 
-test("语言设置：中文与英文预设覆盖每一列", () => {
+const ship = catalog.characters.find((character) => character.name === "企业")!;
+const primaryOf = (tagId: number) => catalog.tags.find((tag) => tag.id === tagId)!.primaryVariant;
+const valueOf = (tagId: number, variant: string) =>
+  catalog.values.find((value) => value.characterId === ship.id && value.tagId === tagId && value.variant === variant)
+    ?.value ?? "";
+
+/** 显示层实际的取值链：先看当前写法，没有再回退到判定列。 */
+const displayed = (tag: (typeof tags)[number], settings: DisplaySettings) =>
+  valueOf(tag.id, resolveVariant(tag, settings)) || valueOf(tag.id, primaryOf(tag.id));
+
+test("语言设置：中文预设覆盖每一列", () => {
   for (const tag of tags) {
     assert.equal(resolveVariant(tag, preset("zh")), "zh", `${tag.name} 的中文写法`);
-    assert.equal(resolveVariant(tag, preset("en")), "en", `${tag.name} 的英文写法`);
   }
 });
 
-test("语言设置：预设选中的写法在题库里都有值，不会出现空白", () => {
-  const ship = catalog.characters.find((character) => character.name === "企业")!;
-  const valueOf = (tagId: number, variant: string) =>
-    catalog.values.find((value) => value.characterId === ship.id && value.tagId === tagId && value.variant === variant)
-      ?.value ?? "";
+test("语言设置：有英文写法的列都会切到英文，取值不为空", () => {
+  const bilingual = tags.filter((tag) => tag.variants?.includes("en"));
+  assert.ok(bilingual.length > 0);
+  for (const tag of bilingual) {
+    assert.equal(resolveVariant(tag, preset("en")), "en", `${tag.name} 的英文写法`);
+    assert.notEqual(valueOf(tag.id, "en"), "", `${tag.name} 的英文取值不应为空`);
+  }
+});
 
+test("语言设置：只有一套写法的列（建造时间）跟着回退，不会留白", () => {
+  const timer = tagOf("建造时间");
+  assert.deepEqual(timer.variants, ["zh"]);
+  // 英文预设下没有对应写法就返回空串，显示层据此回退到判定列
+  assert.equal(resolveVariant(timer, preset("en")), "");
+  assert.equal(displayed(timer, preset("en")), valueOf(timer.id, "zh"));
+  assert.notEqual(displayed(timer, preset("en")), "");
+});
+
+test("语言设置：任何预设下每一列都能取到非空取值", () => {
   for (const mode of ["zh", "en"] as const) {
     for (const tag of tags) {
-      const variant = resolveVariant(tag, preset(mode));
-      assert.notEqual(variant, "", `${mode} 预设下 ${tag.name} 应该选出一套写法`);
-      assert.notEqual(valueOf(tag.id, variant), "", `${mode} 预设下 ${tag.name} 的取值不应为空`);
+      assert.notEqual(displayed(tag, preset(mode)), "", `${mode} 预设下 ${tag.name} 不应留白`);
     }
   }
 });

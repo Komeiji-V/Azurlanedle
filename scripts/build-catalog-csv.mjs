@@ -75,9 +75,9 @@ const TAG_COLUMNS = [
   {
     name: "建造时间",
     kind: "ordered",
+    // 建造时间本身就是数字，两种语言只有「无法建造」这类标签不同，留一列就够
     variants: {
       zh: (ctx) => ctx.timer,
-      en: (ctx) => (ctx.dle.timer === "Drop Only" ? "Cannot be constructed" : ctx.dle.timer),
     },
   },
   {

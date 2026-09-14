@@ -71,9 +71,21 @@ test("默认题库可以在本地存储中读写", () => {
   const loaded = loadLocalCatalog(storage);
   assert.equal(loaded.characters.length, 828);
   assert.equal(loaded.tags.length, 6);
-  // 828 艘 × 6 个标签，每列都存了 @zh 与 @en 两套写法，判定用 @zh
+  // 828 艘 × 6 个标签，判定列统一是 @zh
   assert.equal(loaded.values.filter((item) => item.variant === "zh").length, 4968);
-  assert.equal(loaded.values.filter((item) => item.variant === "en").length, 4968);
+  // 其中 5 列另有 @en；建造时间是数字，不需要第二套写法
+  assert.equal(loaded.values.filter((item) => item.variant === "en").length, 4140);
+  assert.deepEqual(
+    loaded.tags.map((tag) => [tag.name, loaded.values.some((item) => item.tagId === tag.id && item.variant === "en")]),
+    [
+      ["稀有度", true],
+      ["阵营", true],
+      ["舰种", true],
+      ["舰级", true],
+      ["建造时间", false],
+      ["实装活动", true],
+    ],
+  );
   assert.equal(loaded.tags.find((item) => item.name === "建造时间")?.kind, "ordered");
   assert.equal(loaded.tags.find((item) => item.name === "实装活动")?.kind, "ordered");
   assert.equal(loaded.tags.find((item) => item.name === "舰种")?.kind, "exact");

@@ -7099,12 +7099,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 1,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 1,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -7171,12 +7165,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 2,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 2,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -7240,12 +7228,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 3,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 3,
@@ -7315,12 +7297,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 4,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 4,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -7387,12 +7363,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 5,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:23:00"
-    },
-    {
-      "characterId": 5,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -7455,12 +7425,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 6,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:23:00"
-    },
-    {
-      "characterId": 6,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:23:00"
     },
     {
@@ -7531,12 +7495,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 7,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 7,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -7603,12 +7561,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 8,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 8,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -7671,12 +7623,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 9,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 9,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:25:00"
     },
     {
@@ -7747,12 +7693,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 10,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 10,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -7815,12 +7755,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 11,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 11,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -7891,12 +7825,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 12,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 12,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-12-18 响彻于天穹之音"
@@ -7963,12 +7891,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 13,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 13,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8035,12 +7957,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 14,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 14,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8107,12 +8023,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 15,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 15,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8179,12 +8089,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 16,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 16,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8247,12 +8151,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 17,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 17,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -8320,12 +8218,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 18,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 18,
@@ -8395,12 +8287,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 19,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 19,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8467,12 +8353,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 20,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 20,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8535,12 +8415,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 21,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:26:00"
-    },
-    {
-      "characterId": 21,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:26:00"
     },
     {
@@ -8611,12 +8485,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 22,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 22,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8683,12 +8551,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 23,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 23,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8755,12 +8617,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 24,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 24,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8824,12 +8680,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 25,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 25,
@@ -8899,12 +8749,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 26,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 26,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -8968,12 +8812,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 27,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 27,
@@ -9043,12 +8881,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 28,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 28,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -9111,12 +8943,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 29,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 29,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -9187,12 +9013,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 30,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 30,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-10-25 复刻：坠落之翼"
@@ -9259,12 +9079,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 31,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 31,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-10-25 复刻：坠落之翼"
@@ -9327,12 +9141,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 32,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 32,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -9399,12 +9207,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 33,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 33,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -9475,12 +9277,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 34,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 34,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-07-31 箱庭疗法"
@@ -9547,12 +9343,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 35,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 35,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -9619,12 +9409,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 36,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 36,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -9687,12 +9471,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 37,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 37,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -9763,12 +9541,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 38,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 38,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-03-26 微层混合"
@@ -9835,12 +9607,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 39,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 39,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-03-25 复刻：箱庭疗法"
@@ -9903,12 +9669,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 40,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 40,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -9979,12 +9739,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 41,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 41,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-05-27 镜位螺旋"
@@ -10051,12 +9805,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 42,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 42,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-08-19 复刻：微层混合"
@@ -10119,12 +9867,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 43,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 43,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:29:00"
     },
     {
@@ -10195,12 +9937,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 44,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:15:00"
-    },
-    {
-      "characterId": 44,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-12-22 定向折叠"
@@ -10267,12 +10003,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 45,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 45,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-12-21 星海逐光"
@@ -10335,12 +10065,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 46,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 46,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -10411,12 +10135,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 47,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 47,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-03-27 深谷来信"
@@ -10480,12 +10198,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 48,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 48,
@@ -10555,12 +10267,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 49,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 49,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -10627,12 +10333,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 50,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 50,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -10699,12 +10399,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 51,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:15:00"
-    },
-    {
-      "characterId": 51,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -10767,12 +10461,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 52,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:15:00"
-    },
-    {
-      "characterId": 52,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:15:00"
     },
     {
@@ -10843,12 +10531,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 53,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 53,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -10915,12 +10597,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 54,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:10:00"
-    },
-    {
-      "characterId": 54,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -10983,12 +10659,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 55,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:10:00"
-    },
-    {
-      "characterId": 55,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:10:00"
     },
     {
@@ -11059,12 +10729,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 56,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:10:00"
-    },
-    {
-      "characterId": 56,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -11131,12 +10795,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 57,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 57,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -11200,12 +10858,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 58,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 58,
@@ -11275,12 +10927,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 59,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 59,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -11347,12 +10993,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 60,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 60,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -11415,12 +11055,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 61,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:15:00"
-    },
-    {
-      "characterId": 61,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:15:00"
     },
     {
@@ -11491,12 +11125,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 62,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 62,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -11559,12 +11187,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 63,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 63,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:25:00"
     },
     {
@@ -11635,12 +11257,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 64,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 64,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -11703,12 +11319,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 65,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 65,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:05:00"
     },
     {
@@ -11779,12 +11389,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 66,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:10:00"
-    },
-    {
-      "characterId": 66,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-05-23 铁血、音符&誓言"
@@ -11847,12 +11451,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 67,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 67,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:20:00"
     },
     {
@@ -11920,12 +11518,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 68,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 68,
@@ -11995,12 +11587,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 69,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 69,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-07-31 箱庭疗法"
@@ -12067,12 +11653,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 70,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 70,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-07-31 箱庭疗法"
@@ -12135,12 +11715,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 71,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 71,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:25:00"
     },
     {
@@ -12211,12 +11785,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 72,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 72,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-01-21"
@@ -12279,12 +11847,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 73,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:10:00"
-    },
-    {
-      "characterId": 73,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:10:00"
     },
     {
@@ -12355,12 +11917,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 74,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 74,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-03-26 微层混合"
@@ -12423,12 +11979,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 75,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:15:00"
-    },
-    {
-      "characterId": 75,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:15:00"
     },
     {
@@ -12499,12 +12049,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 76,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 76,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -12567,12 +12111,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 77,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:15:00"
-    },
-    {
-      "characterId": 77,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:15:00"
     },
     {
@@ -12643,12 +12181,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 78,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 78,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-08-15 铁翼擎风"
@@ -12711,12 +12243,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 79,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 79,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:25:00"
     },
     {
@@ -12787,12 +12313,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 80,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 80,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-12-18 响彻于天穹之音"
@@ -12859,12 +12379,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 81,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 81,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -12931,12 +12445,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 82,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 82,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -13003,12 +12511,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 83,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:40:00"
-    },
-    {
-      "characterId": 83,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -13071,12 +12573,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 84,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:40:00"
-    },
-    {
-      "characterId": 84,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:40:00"
     },
     {
@@ -13143,12 +12639,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 85,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:40:00"
-    },
-    {
-      "characterId": 85,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:40:00"
     },
     {
@@ -13219,12 +12709,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 86,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:50:00"
-    },
-    {
-      "characterId": 86,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -13291,12 +12775,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 87,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:50:00"
-    },
-    {
-      "characterId": 87,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -13363,12 +12841,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 88,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 88,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-17"
@@ -13435,12 +12907,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 89,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 89,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-17"
@@ -13504,12 +12970,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 90,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 90,
@@ -13579,12 +13039,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 91,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:30:00"
-    },
-    {
-      "characterId": 91,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -13651,12 +13105,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 92,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 92,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -13720,12 +13168,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 93,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 93,
@@ -13791,12 +13233,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 94,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:56:00"
-    },
-    {
-      "characterId": 94,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:56:00"
     },
     {
@@ -13867,12 +13303,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 95,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 95,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-07-31 箱庭疗法"
@@ -13939,12 +13369,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 96,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 96,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-03-26 微层混合"
@@ -14007,12 +13431,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 97,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 97,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:00:00"
     },
     {
@@ -14083,12 +13501,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 98,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 98,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-12-22 定向折叠"
@@ -14155,12 +13567,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 99,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 99,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-12-21 星海逐光"
@@ -14223,12 +13629,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 100,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 100,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:00:00"
     },
     {
@@ -14299,12 +13699,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 101,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 101,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-04-24 扬起郁金之旗"
@@ -14367,12 +13761,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 102,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:16:30"
-    },
-    {
-      "characterId": 102,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:16:30"
     },
     {
@@ -14443,12 +13831,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 103,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:00:00"
-    },
-    {
-      "characterId": 103,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -14515,12 +13897,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 104,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:00:00"
-    },
-    {
-      "characterId": 104,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -14583,12 +13959,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 105,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 105,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -14659,12 +14029,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 106,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 106,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -14727,12 +14091,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 107,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 107,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:20:00"
     },
     {
@@ -14803,12 +14161,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 108,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 108,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -14875,12 +14227,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 109,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 109,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-12-28 坠落之翼"
@@ -14947,12 +14293,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 110,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 110,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-12-28 坠落之翼"
@@ -15016,12 +14356,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 111,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 111,
@@ -15091,12 +14425,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 112,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 112,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-12-28 坠落之翼"
@@ -15163,12 +14491,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 113,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 113,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-12-28 坠落之翼"
@@ -15235,12 +14557,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 114,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 114,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -15303,12 +14619,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 115,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:00:00"
-    },
-    {
-      "characterId": 115,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:00:00"
     },
     {
@@ -15379,12 +14689,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 116,
-      "tagId": 5,
-      "variant": "en",
-      "value": "06:30:00"
-    },
-    {
-      "characterId": 116,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-05-27 镜位螺旋"
@@ -15451,12 +14755,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 117,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 117,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-26 光与影的鸢尾之华"
@@ -15519,12 +14817,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 118,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:00:00"
-    },
-    {
-      "characterId": 118,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:00:00"
     },
     {
@@ -15595,12 +14887,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 119,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:15:00"
-    },
-    {
-      "characterId": 119,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -15663,12 +14949,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 120,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:20:00"
-    },
-    {
-      "characterId": 120,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:20:00"
     },
     {
@@ -15739,12 +15019,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 121,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 121,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-03-26 微层混合"
@@ -15811,12 +15085,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 122,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 122,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -15883,12 +15151,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 123,
-      "tagId": 5,
-      "variant": "en",
-      "value": "03:40:00"
-    },
-    {
-      "characterId": 123,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -15951,12 +15213,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 124,
       "tagId": 5,
       "variant": "zh",
-      "value": "03:40:00"
-    },
-    {
-      "characterId": 124,
-      "tagId": 5,
-      "variant": "en",
       "value": "03:40:00"
     },
     {
@@ -16027,12 +15283,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 125,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:40:00"
-    },
-    {
-      "characterId": 125,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -16095,12 +15345,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 126,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 126,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:20:00"
     },
     {
@@ -16171,12 +15415,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 127,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 127,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -16239,12 +15477,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 128,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 128,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:20:00"
     },
     {
@@ -16315,12 +15547,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 129,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 129,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-12-28 坠落之翼"
@@ -16383,12 +15609,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 130,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 130,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:25:00"
     },
     {
@@ -16459,12 +15679,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 131,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 131,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-12-22 定向折叠"
@@ -16527,12 +15741,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 132,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 132,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:25:00"
     },
     {
@@ -16603,12 +15811,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 133,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 133,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-12-22 定向折叠"
@@ -16671,12 +15873,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 134,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 134,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:25:00"
     },
     {
@@ -16747,12 +15943,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 135,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 135,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-05-27 镜位螺旋"
@@ -16815,12 +16005,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 136,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 136,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:25:00"
     },
     {
@@ -16891,12 +16075,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 137,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 137,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -16963,12 +16141,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 138,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 138,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-02-28"
@@ -17031,12 +16203,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 139,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:06:40"
-    },
-    {
-      "characterId": 139,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:06:40"
     },
     {
@@ -17107,12 +16273,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 140,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:06:40"
-    },
-    {
-      "characterId": 140,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-12-18 响彻于天穹之音"
@@ -17176,12 +16336,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 141,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 141,
@@ -17251,12 +16405,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 142,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 142,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-07-31 箱庭疗法"
@@ -17319,12 +16467,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 143,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:06:40"
-    },
-    {
-      "characterId": 143,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:06:40"
     },
     {
@@ -17395,12 +16537,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 144,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 144,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-02-28"
@@ -17463,12 +16599,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 145,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 145,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:30:00"
     },
     {
@@ -17539,12 +16669,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 146,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 146,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -17608,12 +16732,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 147,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 147,
@@ -17683,12 +16801,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 148,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 148,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-07-31 箱庭疗法"
@@ -17755,12 +16867,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 149,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 149,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-03-26 微层混合"
@@ -17823,12 +16929,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 150,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:24:00"
-    },
-    {
-      "characterId": 150,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:24:00"
     },
     {
@@ -17899,12 +16999,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 151,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 151,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-05-27 镜位螺旋"
@@ -17967,12 +17061,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 152,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:23:00"
-    },
-    {
-      "characterId": 152,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:23:00"
     },
     {
@@ -18043,12 +17131,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 153,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:24:00"
-    },
-    {
-      "characterId": 153,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-12-21 星海逐光"
@@ -18115,12 +17197,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 154,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 154,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-08-15 铁翼擎风"
@@ -18183,12 +17259,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 155,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 155,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:00:00"
     },
     {
@@ -18259,12 +17329,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 156,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:11:40"
-    },
-    {
-      "characterId": 156,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-12-21 星海逐光"
@@ -18328,12 +17392,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 157,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 157,
@@ -18403,12 +17461,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 158,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 158,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-18"
@@ -18472,12 +17524,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 159,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 159,
@@ -18547,12 +17593,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 160,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 160,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-07-13"
@@ -18616,12 +17656,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 161,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 161,
@@ -18691,12 +17725,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 162,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 162,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-07-10"
@@ -18763,12 +17791,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 163,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:19:00"
-    },
-    {
-      "characterId": 163,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -18831,12 +17853,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 164,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:19:00"
-    },
-    {
-      "characterId": 164,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:19:00"
     },
     {
@@ -18907,12 +17923,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 165,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:19:00"
-    },
-    {
-      "characterId": 165,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-10-26"
@@ -18979,12 +17989,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 166,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:20:00"
-    },
-    {
-      "characterId": 166,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -19051,12 +18055,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 167,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:20:00"
-    },
-    {
-      "characterId": 167,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -19123,12 +18121,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 168,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:21:00"
-    },
-    {
-      "characterId": 168,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -19195,12 +18187,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 169,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:21:00"
-    },
-    {
-      "characterId": 169,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -19263,12 +18249,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 170,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:21:00"
-    },
-    {
-      "characterId": 170,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:21:00"
     },
     {
@@ -19335,12 +18315,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 171,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:24:00"
-    },
-    {
-      "characterId": 171,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:24:00"
     },
     {
@@ -19411,12 +18385,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 172,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 172,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -19479,12 +18447,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 173,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 173,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:25:00"
     },
     {
@@ -19555,12 +18517,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 174,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 174,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -19623,12 +18579,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 175,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:26:00"
-    },
-    {
-      "characterId": 175,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:26:00"
     },
     {
@@ -19699,12 +18649,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 176,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 176,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-03-07"
@@ -19767,12 +18711,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 177,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 177,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:27:00"
     },
     {
@@ -19840,12 +18778,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 178,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 178,
@@ -19915,12 +18847,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 179,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 179,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-06-08"
@@ -19987,12 +18913,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 180,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 180,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -20059,12 +18979,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 181,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 181,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -20131,12 +19045,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 182,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 182,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-26 凛冬王冠"
@@ -20200,12 +19108,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 183,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 183,
@@ -20275,12 +19177,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 184,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 184,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-05-23 铁血、音符&誓言"
@@ -20343,12 +19239,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 185,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 185,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:29:00"
     },
     {
@@ -20419,12 +19309,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 186,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 186,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-07-23 永夜幻光"
@@ -20491,12 +19375,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 187,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 187,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-05-26 泠誓光庭"
@@ -20559,12 +19437,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 188,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 188,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:27:00"
     },
     {
@@ -20635,12 +19507,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 189,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 189,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-02-23 湮烬尘墟"
@@ -20703,12 +19569,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 190,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 190,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:29:00"
     },
     {
@@ -20779,12 +19639,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 191,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 191,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-05-20 高塔上的蔷薇"
@@ -20847,12 +19701,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 192,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 192,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:25:00"
     },
     {
@@ -20923,12 +19771,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 193,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:15:00"
-    },
-    {
-      "characterId": 193,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -20995,12 +19837,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 194,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:15:00"
-    },
-    {
-      "characterId": 194,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -21063,12 +19899,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 195,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:15:00"
-    },
-    {
-      "characterId": 195,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:15:00"
     },
     {
@@ -21139,12 +19969,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 196,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:55:00"
-    },
-    {
-      "characterId": 196,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-01-21"
@@ -21207,12 +20031,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 197,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 197,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:25:00"
     },
     {
@@ -21283,12 +20101,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 198,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 198,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-26 凛冬王冠"
@@ -21351,12 +20163,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 199,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 199,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:25:00"
     },
     {
@@ -21427,12 +20233,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 200,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 200,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-01-21"
@@ -21496,12 +20296,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 201,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 201,
@@ -21571,12 +20365,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 202,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 202,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -21643,12 +20431,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 203,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 203,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -21712,12 +20494,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 204,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 204,
@@ -21783,12 +20559,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 205,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 205,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:20:00"
     },
     {
@@ -21859,12 +20629,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 206,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 206,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-26 凛冬王冠"
@@ -21931,12 +20695,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 207,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 207,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-26 凛冬王冠"
@@ -21999,12 +20757,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 208,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 208,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:20:00"
     },
     {
@@ -22075,12 +20827,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 209,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 209,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-09-28"
@@ -22144,12 +20890,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 210,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 210,
@@ -22219,12 +20959,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 211,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:07:00"
-    },
-    {
-      "characterId": 211,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-01-24 复刻：凛冬王冠"
@@ -22287,12 +21021,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 212,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:07:00"
-    },
-    {
-      "characterId": 212,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:07:00"
     },
     {
@@ -22363,12 +21091,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 213,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 213,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -22435,12 +21157,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 214,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 214,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -22504,12 +21220,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 215,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 215,
@@ -22579,12 +21289,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 216,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 216,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -22651,12 +21355,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 217,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:55:00"
-    },
-    {
-      "characterId": 217,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-07-23 永夜幻光"
@@ -22719,12 +21417,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 218,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:55:00"
-    },
-    {
-      "characterId": 218,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:55:00"
     },
     {
@@ -22795,12 +21487,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 219,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 219,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -22863,12 +21549,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 220,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:55:00"
-    },
-    {
-      "characterId": 220,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:55:00"
     },
     {
@@ -22939,12 +21619,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 221,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 221,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-05-26 泠誓光庭"
@@ -23007,12 +21681,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 222,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:07:00"
-    },
-    {
-      "characterId": 222,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:07:00"
     },
     {
@@ -23083,12 +21751,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 223,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:55:00"
-    },
-    {
-      "characterId": 223,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-02-23 湮烬尘墟"
@@ -23155,12 +21817,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 224,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 224,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-03-28"
@@ -23223,12 +21879,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 225,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:55:00"
-    },
-    {
-      "characterId": 225,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:55:00"
     },
     {
@@ -23299,12 +21949,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 226,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 226,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-05-20 高塔上的蔷薇"
@@ -23371,12 +22015,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 227,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 227,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -23443,12 +22081,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 228,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 228,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -23515,12 +22147,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 229,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 229,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -23587,12 +22213,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 230,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 230,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -23655,12 +22275,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 231,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 231,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:30:00"
     },
     {
@@ -23727,12 +22341,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 232,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 232,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:30:00"
     },
     {
@@ -23803,12 +22411,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 233,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:45:00"
-    },
-    {
-      "characterId": 233,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -23875,12 +22477,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 234,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:45:00"
-    },
-    {
-      "characterId": 234,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -23943,12 +22539,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 235,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 235,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:30:00"
     },
     {
@@ -24016,12 +22606,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 236,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 236,
@@ -24091,12 +22675,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 237,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 237,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-03-28"
@@ -24163,12 +22741,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 238,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 238,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -24231,12 +22803,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 239,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 239,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -24307,12 +22873,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 240,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:50:00"
-    },
-    {
-      "characterId": 240,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -24375,12 +22935,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 241,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 241,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -24451,12 +23005,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 242,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 242,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -24523,12 +23071,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 243,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 243,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -24595,12 +23137,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 244,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:40:00"
-    },
-    {
-      "characterId": 244,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -24663,12 +23199,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 245,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:40:00"
-    },
-    {
-      "characterId": 245,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:40:00"
     },
     {
@@ -24735,12 +23265,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 246,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:50:00"
-    },
-    {
-      "characterId": 246,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:50:00"
     },
     {
@@ -24811,12 +23335,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 247,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 247,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-06-08"
@@ -24883,12 +23401,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 248,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 248,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-26 凛冬王冠"
@@ -24951,12 +23463,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 249,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:50:00"
-    },
-    {
-      "characterId": 249,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:50:00"
     },
     {
@@ -25027,12 +23533,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 250,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 250,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-07-23 永夜幻光"
@@ -25095,12 +23595,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 251,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 251,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -25171,12 +23665,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 252,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:20:00"
-    },
-    {
-      "characterId": 252,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-05-26 泠誓光庭"
@@ -25239,12 +23727,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 253,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 253,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -25315,12 +23797,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 254,
-      "tagId": 5,
-      "variant": "en",
-      "value": "06:20:00"
-    },
-    {
-      "characterId": 254,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-05-20 高塔上的蔷薇"
@@ -25387,12 +23863,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 255,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:10:00"
-    },
-    {
-      "characterId": 255,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -25455,12 +23925,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 256,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:10:00"
-    },
-    {
-      "characterId": 256,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:10:00"
     },
     {
@@ -25531,12 +23995,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 257,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:30:00"
-    },
-    {
-      "characterId": 257,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -25599,12 +24057,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 258,
       "tagId": 5,
       "variant": "zh",
-      "value": "03:00:00"
-    },
-    {
-      "characterId": 258,
-      "tagId": 5,
-      "variant": "en",
       "value": "03:00:00"
     },
     {
@@ -25675,12 +24127,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 259,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 259,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-01-24 复刻：凛冬王冠"
@@ -25743,12 +24189,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 260,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:30:00"
-    },
-    {
-      "characterId": 260,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:30:00"
     },
     {
@@ -25819,12 +24259,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 261,
-      "tagId": 5,
-      "variant": "en",
-      "value": "03:00:00"
-    },
-    {
-      "characterId": 261,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-10-27"
@@ -25891,12 +24325,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 262,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:30:00"
-    },
-    {
-      "characterId": 262,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-01-18"
@@ -25959,12 +24387,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 263,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 263,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:00:00"
     },
     {
@@ -26035,12 +24457,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 264,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:00:00"
-    },
-    {
-      "characterId": 264,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -26107,12 +24523,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 265,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 265,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -26175,12 +24585,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 266,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 266,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:30:00"
     },
     {
@@ -26251,12 +24655,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 267,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 267,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-09-11 神圣的悲喜剧"
@@ -26323,12 +24721,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 268,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 268,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-10-26"
@@ -26391,12 +24783,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 269,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 269,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:35:00"
     },
     {
@@ -26467,12 +24853,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 270,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 270,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-05-21 穹顶下的圣咏曲"
@@ -26539,12 +24919,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 271,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 271,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-10-29"
@@ -26607,12 +24981,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 272,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 272,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:30:00"
     },
     {
@@ -26683,12 +25051,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 273,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 273,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-04-27"
@@ -26751,12 +25113,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 274,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 274,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:30:00"
     },
     {
@@ -26827,12 +25183,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 275,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:00:00"
-    },
-    {
-      "characterId": 275,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -26895,12 +25245,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 276,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:00:00"
-    },
-    {
-      "characterId": 276,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:00:00"
     },
     {
@@ -26971,12 +25315,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 277,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 277,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -27040,12 +25378,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 278,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 278,
@@ -27115,12 +25447,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 279,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 279,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-04-26 第十二章-马里亚纳风云•上"
@@ -27184,12 +25510,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 280,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 280,
@@ -27259,12 +25579,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 281,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 281,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-07-09"
@@ -27328,12 +25642,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 282,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 282,
@@ -27403,12 +25711,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 283,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:23:00"
-    },
-    {
-      "characterId": 283,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -27471,12 +25773,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 284,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:23:00"
-    },
-    {
-      "characterId": 284,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:23:00"
     },
     {
@@ -27547,12 +25843,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 285,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 285,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-09-15 紫绛槿岚"
@@ -27615,12 +25905,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 286,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:23:00"
-    },
-    {
-      "characterId": 286,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:23:00"
     },
     {
@@ -27691,12 +25975,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 287,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 287,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-09-28 红染的参访者"
@@ -27760,12 +26038,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 288,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 288,
@@ -27835,12 +26107,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 289,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 289,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -27907,12 +26173,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 290,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 290,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -27976,12 +26236,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 291,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 291,
@@ -28048,12 +26302,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 292,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 292,
@@ -28123,12 +26371,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 293,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 293,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -28192,12 +26434,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 294,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 294,
@@ -28267,12 +26503,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 295,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 295,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -28336,12 +26566,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 296,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 296,
@@ -28411,12 +26635,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 297,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 297,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-09-28 红染的参访者"
@@ -28483,12 +26701,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 298,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 298,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -28551,12 +26763,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 299,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 299,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:25:00"
     },
     {
@@ -28624,12 +26830,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 300,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 300,
@@ -28699,12 +26899,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 301,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 301,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -28771,12 +26965,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 302,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 302,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -28843,12 +27031,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 303,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 303,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-12-01"
@@ -28911,12 +27093,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 304,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 304,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:27:00"
     },
     {
@@ -28987,12 +27163,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 305,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:30:00"
-    },
-    {
-      "characterId": 305,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-09-16 碧海光粼"
@@ -29059,12 +27229,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 306,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:20:00"
-    },
-    {
-      "characterId": 306,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -29131,12 +27295,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 307,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:20:00"
-    },
-    {
-      "characterId": 307,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -29203,12 +27361,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 308,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:21:00"
-    },
-    {
-      "characterId": 308,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -29275,12 +27427,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 309,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:21:00"
-    },
-    {
-      "characterId": 309,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -29343,12 +27489,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 310,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:21:00"
-    },
-    {
-      "characterId": 310,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:21:00"
     },
     {
@@ -29419,12 +27559,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 311,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 311,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -29487,12 +27621,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 312,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:21:00"
-    },
-    {
-      "characterId": 312,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:21:00"
     },
     {
@@ -29563,12 +27691,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 313,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 313,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -29635,12 +27757,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 314,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 314,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -29703,12 +27819,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 315,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:25:00"
-    },
-    {
-      "characterId": 315,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:25:00"
     },
     {
@@ -29776,12 +27886,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 316,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 316,
@@ -29851,12 +27955,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 317,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 317,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-07 墨染的钢铁之花"
@@ -29923,12 +28021,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 318,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 318,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -29995,12 +28087,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 319,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 319,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -30064,12 +28150,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 320,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 320,
@@ -30139,12 +28219,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 321,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 321,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-07 墨染的钢铁之花"
@@ -30211,12 +28285,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 322,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 322,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -30283,12 +28351,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 323,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 323,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -30351,12 +28413,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 324,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 324,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:27:00"
     },
     {
@@ -30427,12 +28483,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 325,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 325,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -30495,12 +28545,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 326,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 326,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -30571,12 +28615,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 327,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 327,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-07 墨染的钢铁之花"
@@ -30643,12 +28681,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 328,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 328,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -30712,12 +28744,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 329,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 329,
@@ -30787,12 +28813,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 330,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 330,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-01-21"
@@ -30855,12 +28875,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 331,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:20:00"
-    },
-    {
-      "characterId": 331,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:20:00"
     },
     {
@@ -30931,12 +28945,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 332,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 332,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-12-27 苍红的回响"
@@ -30999,12 +29007,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 333,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 333,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -31075,12 +29077,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 334,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 334,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-04-23 复刻：苍红的回响"
@@ -31143,12 +29139,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 335,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 335,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:27:00"
     },
     {
@@ -31219,12 +29209,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 336,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 336,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-09-17 蝶海梦花"
@@ -31291,12 +29275,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 337,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:20:00"
-    },
-    {
-      "characterId": 337,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -31359,12 +29337,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 338,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 338,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:27:00"
     },
     {
@@ -31435,12 +29407,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 339,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 339,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-09-15 紫绛槿岚"
@@ -31503,12 +29469,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 340,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 340,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:29:00"
     },
     {
@@ -31579,12 +29539,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 341,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 341,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-09-14 须臾望月抄"
@@ -31647,12 +29601,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 342,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:27:00"
-    },
-    {
-      "characterId": 342,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:27:00"
     },
     {
@@ -31723,12 +29671,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 343,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 343,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-09-12 起舞于天原之上"
@@ -31791,12 +29733,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 344,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:12:00"
-    },
-    {
-      "characterId": 344,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:12:00"
     },
     {
@@ -31867,12 +29803,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 345,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 345,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -31939,12 +29869,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 346,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 346,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -32007,12 +29931,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 347,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 347,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:05:00"
     },
     {
@@ -32083,12 +30001,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 348,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 348,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-09-16 碧海光粼"
@@ -32152,12 +30064,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 349,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 349,
@@ -32227,12 +30133,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 350,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 350,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -32296,12 +30196,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 351,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 351,
@@ -32371,12 +30265,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 352,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 352,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-03-29 复刻：红染的参访者"
@@ -32440,12 +30328,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 353,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 353,
@@ -32515,12 +30397,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 354,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 354,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -32583,12 +30459,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 355,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 355,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:20:00"
     },
     {
@@ -32659,12 +30529,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 356,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 356,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -32727,12 +30591,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 357,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 357,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:20:00"
     },
     {
@@ -32803,12 +30661,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 358,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 358,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-09-15 紫绛槿岚"
@@ -32871,12 +30723,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 359,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 359,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:20:00"
     },
     {
@@ -32947,12 +30793,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 360,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:22:00"
-    },
-    {
-      "characterId": 360,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-09-12 唤醒苍红之炎"
@@ -33019,12 +30859,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 361,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 361,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-09-12 唤醒苍红之炎"
@@ -33087,12 +30921,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 362,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:22:00"
-    },
-    {
-      "characterId": 362,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:22:00"
     },
     {
@@ -33163,12 +30991,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 363,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 363,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -33235,12 +31057,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 364,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 364,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -33307,12 +31123,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 365,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 365,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -33375,12 +31185,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 366,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 366,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:30:00"
     },
     {
@@ -33451,12 +31255,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 367,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:05:00"
-    },
-    {
-      "characterId": 367,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-09-16 碧海光粼"
@@ -33523,12 +31321,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 368,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 368,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -33595,12 +31387,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 369,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 369,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -33667,12 +31453,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 370,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 370,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-12-27 苍红的回响"
@@ -33735,12 +31515,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 371,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 371,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:55:00"
     },
     {
@@ -33811,12 +31585,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 372,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:05:00"
-    },
-    {
-      "characterId": 372,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -33880,12 +31648,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 373,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 373,
@@ -33955,12 +31717,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 374,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 374,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -34027,12 +31783,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 375,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 375,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -34095,12 +31845,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 376,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:48:00"
-    },
-    {
-      "characterId": 376,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:48:00"
     },
     {
@@ -34171,12 +31915,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 377,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 377,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-09-17 蝶海梦花"
@@ -34239,12 +31977,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 378,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:11:00"
-    },
-    {
-      "characterId": 378,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:11:00"
     },
     {
@@ -34315,12 +32047,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 379,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:10:00"
-    },
-    {
-      "characterId": 379,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-09-12 起舞于天原之上"
@@ -34387,12 +32113,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 380,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 380,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-07 墨染的钢铁之花"
@@ -34455,12 +32175,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 381,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 381,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -34531,12 +32245,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 382,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 382,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-07 墨染的钢铁之花"
@@ -34599,12 +32307,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 383,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 383,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -34675,12 +32377,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 384,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 384,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-12-27 苍红的回响"
@@ -34747,12 +32443,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 385,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:05:00"
-    },
-    {
-      "characterId": 385,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-26"
@@ -34815,12 +32505,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 386,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 386,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:25:00"
     },
     {
@@ -34891,12 +32575,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 387,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 387,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-04-25 共鸣的PASSION"
@@ -34963,12 +32641,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 388,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 388,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -35035,12 +32707,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 389,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 389,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -35107,12 +32773,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 390,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 390,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-09-28 红染的参访者"
@@ -35175,12 +32835,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 391,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:25:00"
-    },
-    {
-      "characterId": 391,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:25:00"
     },
     {
@@ -35248,12 +32902,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 392,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 392,
@@ -35323,12 +32971,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 393,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 393,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-07 墨染的钢铁之花"
@@ -35391,12 +33033,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 394,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 394,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:30:00"
     },
     {
@@ -35467,12 +33103,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 395,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 395,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-04-23 复刻：苍红的回响"
@@ -35535,12 +33165,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 396,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:15:00"
-    },
-    {
-      "characterId": 396,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:15:00"
     },
     {
@@ -35611,12 +33235,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 397,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 397,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-12-01"
@@ -35683,12 +33301,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 398,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 398,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-09-17 蝶海梦花"
@@ -35751,12 +33363,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 399,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 399,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:20:00"
     },
     {
@@ -35827,12 +33433,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 400,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 400,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-12-26 浮樱影华"
@@ -35895,12 +33495,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 401,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 401,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:20:00"
     },
     {
@@ -35971,12 +33565,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 402,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 402,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -36040,12 +33628,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 403,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 403,
@@ -36115,12 +33697,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 404,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 404,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -36183,12 +33759,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 405,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:22:00"
-    },
-    {
-      "characterId": 405,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:22:00"
     },
     {
@@ -36259,12 +33829,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 406,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 406,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -36331,12 +33895,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 407,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 407,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-12-27 苍红的回响"
@@ -36399,12 +33957,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 408,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:22:00"
-    },
-    {
-      "characterId": 408,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:22:00"
     },
     {
@@ -36475,12 +34027,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 409,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:15:00"
-    },
-    {
-      "characterId": 409,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-09-17 蝶海梦花"
@@ -36547,12 +34093,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 410,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:15:00"
-    },
-    {
-      "characterId": 410,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-09-17 蝶海梦花"
@@ -36619,12 +34159,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 411,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 411,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -36688,12 +34222,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 412,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 412,
@@ -36763,12 +34291,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 413,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 413,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -36835,12 +34357,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 414,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 414,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -36907,12 +34423,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 415,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 415,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-09-28 红染的参访者"
@@ -36979,12 +34489,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 416,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 416,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-09-28 红染的参访者"
@@ -37047,12 +34551,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 417,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:45:00"
-    },
-    {
-      "characterId": 417,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:45:00"
     },
     {
@@ -37123,12 +34621,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 418,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:15:00"
-    },
-    {
-      "characterId": 418,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-09-17 蝶海梦花"
@@ -37191,12 +34683,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 419,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 419,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:35:00"
     },
     {
@@ -37267,12 +34753,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 420,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:40:00"
-    },
-    {
-      "characterId": 420,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-10-31"
@@ -37335,12 +34815,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 421,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:45:00"
-    },
-    {
-      "characterId": 421,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:45:00"
     },
     {
@@ -37411,12 +34885,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 422,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 422,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-09-16 碧海光粼"
@@ -37480,12 +34948,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 423,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 423,
@@ -37555,12 +35017,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 424,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 424,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-04-25 共鸣的PASSION"
@@ -37623,12 +35079,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 425,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:40:00"
-    },
-    {
-      "characterId": 425,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:40:00"
     },
     {
@@ -37699,12 +35149,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 426,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:00:00"
-    },
-    {
-      "characterId": 426,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-09-12 起舞于天原之上"
@@ -37771,12 +35215,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 427,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:30:00"
-    },
-    {
-      "characterId": 427,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -37839,12 +35277,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 428,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:30:00"
-    },
-    {
-      "characterId": 428,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:30:00"
     },
     {
@@ -37915,12 +35347,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 429,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:30:00"
-    },
-    {
-      "characterId": 429,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -37983,12 +35409,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 430,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:30:00"
-    },
-    {
-      "characterId": 430,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:30:00"
     },
     {
@@ -38055,12 +35475,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 431,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:30:00"
-    },
-    {
-      "characterId": 431,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:30:00"
     },
     {
@@ -38131,12 +35545,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 432,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:30:00"
-    },
-    {
-      "characterId": 432,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-07-11"
@@ -38199,12 +35607,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 433,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:35:00"
-    },
-    {
-      "characterId": 433,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:35:00"
     },
     {
@@ -38275,12 +35677,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 434,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:34:00"
-    },
-    {
-      "characterId": 434,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-03-28 复刻：墨染的钢铁之花"
@@ -38347,12 +35743,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 435,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 435,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-09-12 起舞于天原之上"
@@ -38415,12 +35805,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 436,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 436,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:30:00"
     },
     {
@@ -38491,12 +35875,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 437,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 437,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-04-26 第十二章-马里亚纳风云•上"
@@ -38560,12 +35938,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 438,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 438,
@@ -38635,12 +36007,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 439,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 439,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-18"
@@ -38704,12 +36070,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 440,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 440,
@@ -38779,12 +36139,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 441,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 441,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-07-08"
@@ -38848,12 +36202,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 442,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 442,
@@ -38923,12 +36271,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 443,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 443,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-07-18 轻量化复刻：泠誓光庭"
@@ -38995,12 +36337,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 444,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 444,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -39063,12 +36399,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 445,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:29:00"
-    },
-    {
-      "characterId": 445,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:29:00"
     },
     {
@@ -39139,12 +36469,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 446,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 446,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-12-19 星光下的余晖"
@@ -39207,12 +36531,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 447,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 447,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -39283,12 +36601,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 448,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 448,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-06-26 迷彩都市的寻踪者"
@@ -39351,12 +36663,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 449,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:00"
-    },
-    {
-      "characterId": 449,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:00"
     },
     {
@@ -39427,12 +36733,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 450,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 450,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-26 光与影的鸢尾之华"
@@ -39499,12 +36799,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 451,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:31:00"
-    },
-    {
-      "characterId": 451,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-08-02 异色格"
@@ -39571,12 +36865,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 452,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 452,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-08-02 异色格"
@@ -39640,12 +36928,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 453,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 453,
@@ -39711,12 +36993,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 454,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:33:00"
-    },
-    {
-      "characterId": 454,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:33:00"
     },
     {
@@ -39787,12 +37063,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 455,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 455,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-12-29 负象限作战"
@@ -39859,12 +37129,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 456,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 456,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-28 复刻：异色格"
@@ -39927,12 +37191,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 457,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:33:00"
-    },
-    {
-      "characterId": 457,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:33:00"
     },
     {
@@ -40003,12 +37261,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 458,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 458,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-12-29 负象限作战"
@@ -40075,12 +37327,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 459,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 459,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-28 复刻：异色格"
@@ -40143,12 +37389,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 460,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:35:00"
-    },
-    {
-      "characterId": 460,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:35:00"
     },
     {
@@ -40219,12 +37459,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 461,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 461,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-06-27 欢迎来到童心学院"
@@ -40291,12 +37525,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 462,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 462,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-08-02 异色格"
@@ -40359,12 +37587,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 463,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:39:00"
-    },
-    {
-      "characterId": 463,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:39:00"
     },
     {
@@ -40435,12 +37657,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 464,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 464,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-12-19 星光下的余晖"
@@ -40503,12 +37719,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 465,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:40:00"
-    },
-    {
-      "characterId": 465,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:40:00"
     },
     {
@@ -40579,12 +37789,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 466,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:10:00"
-    },
-    {
-      "characterId": 466,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -40651,12 +37855,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 467,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:10:00"
-    },
-    {
-      "characterId": 467,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -40719,12 +37917,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 468,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:10:00"
-    },
-    {
-      "characterId": 468,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:10:00"
     },
     {
@@ -40795,12 +37987,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 469,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 469,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -40867,12 +38053,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 470,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 470,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-12-29 负象限作战"
@@ -40935,12 +38115,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 471,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 471,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:20:00"
     },
     {
@@ -41011,12 +38185,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 472,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:19:00"
-    },
-    {
-      "characterId": 472,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-04-28 虹彩的终幕曲"
@@ -41083,12 +38251,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 473,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:17:00"
-    },
-    {
-      "characterId": 473,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-04-28 虹彩的终幕曲"
@@ -41151,12 +38313,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 474,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 474,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:20:00"
     },
     {
@@ -41227,12 +38383,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 475,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:20:00"
-    },
-    {
-      "characterId": 475,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-12-19 星光下的余晖"
@@ -41296,12 +38446,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 476,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 476,
@@ -41371,12 +38515,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 477,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 477,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-08-18"
@@ -41439,12 +38577,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 478,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 478,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:00:00"
     },
     {
@@ -41515,12 +38647,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 479,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 479,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-08-02 异色格"
@@ -41587,12 +38713,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 480,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 480,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-01-19"
@@ -41655,12 +38775,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 481,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 481,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:00:00"
     },
     {
@@ -41731,12 +38845,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 482,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 482,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-10-29"
@@ -41803,12 +38911,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 483,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:05:00"
-    },
-    {
-      "characterId": 483,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-12-29 负象限作战"
@@ -41871,12 +38973,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 484,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:05:00"
-    },
-    {
-      "characterId": 484,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:05:00"
     },
     {
@@ -41947,12 +39043,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 485,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 485,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-04-28 虹彩的终幕曲"
@@ -42016,12 +39106,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 486,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 486,
@@ -42091,12 +39175,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 487,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 487,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-10-13"
@@ -42159,12 +39237,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 488,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:05:00"
-    },
-    {
-      "characterId": 488,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:05:00"
     },
     {
@@ -42235,12 +39307,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 489,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 489,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-04-25 共鸣的PASSION"
@@ -42304,12 +39370,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 490,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 490,
@@ -42379,12 +39439,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 491,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 491,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-08-02 异色格"
@@ -42451,12 +39505,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 492,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 492,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-08-02 异色格"
@@ -42519,12 +39567,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 493,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 493,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:35:00"
     },
     {
@@ -42595,12 +39637,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 494,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 494,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-04-28 虹彩的终幕曲"
@@ -42663,12 +39699,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 495,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:05:00"
-    },
-    {
-      "characterId": 495,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:05:00"
     },
     {
@@ -42739,12 +39769,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 496,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:05:00"
-    },
-    {
-      "characterId": 496,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-06-27 欢迎来到童心学院"
@@ -42807,12 +39831,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 497,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:55:00"
-    },
-    {
-      "characterId": 497,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:55:00"
     },
     {
@@ -42883,12 +39901,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 498,
-      "tagId": 5,
-      "variant": "en",
-      "value": "06:00:00"
-    },
-    {
-      "characterId": 498,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-05-23 铁血、音符&誓言"
@@ -42955,12 +39967,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 499,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 499,
       "tagId": 6,
       "variant": "zh",
       "value": "2017-08-02 异色格"
@@ -43023,12 +40029,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 500,
       "tagId": 5,
       "variant": "zh",
-      "value": "06:00:00"
-    },
-    {
-      "characterId": 500,
-      "tagId": 5,
-      "variant": "en",
       "value": "06:00:00"
     },
     {
@@ -43099,12 +40099,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 501,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 501,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-04-28 虹彩的终幕曲"
@@ -43167,12 +40161,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 502,
       "tagId": 5,
       "variant": "zh",
-      "value": "06:00:00"
-    },
-    {
-      "characterId": 502,
-      "tagId": 5,
-      "variant": "en",
       "value": "06:00:00"
     },
     {
@@ -43243,12 +40231,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 503,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 503,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-05-30"
@@ -43311,12 +40293,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 504,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:22:00"
-    },
-    {
-      "characterId": 504,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:22:00"
     },
     {
@@ -43387,12 +40363,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 505,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:20:00"
-    },
-    {
-      "characterId": 505,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-12-29 逆转彩虹之塔"
@@ -43459,12 +40429,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 506,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 506,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-05-25 空相交汇点"
@@ -43527,12 +40491,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 507,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 507,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:35:00"
     },
     {
@@ -43603,12 +40561,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 508,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 508,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-26"
@@ -43671,12 +40623,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 509,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 509,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:35:00"
     },
     {
@@ -43747,12 +40693,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 510,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:40:20"
-    },
-    {
-      "characterId": 510,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-12-19 星光下的余晖"
@@ -43815,12 +40755,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 511,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:12:00"
-    },
-    {
-      "characterId": 511,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:12:00"
     },
     {
@@ -43891,12 +40825,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 512,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:11:00"
-    },
-    {
-      "characterId": 512,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-28 复刻：异色格"
@@ -43963,12 +40891,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 513,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 513,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-06-28 复刻：异色格"
@@ -44035,12 +40957,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 514,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:13:00"
-    },
-    {
-      "characterId": 514,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-05-23 铁血、音符&誓言"
@@ -44107,12 +41023,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 515,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:11:00"
-    },
-    {
-      "characterId": 515,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-05-23 铁血、音符&誓言"
@@ -44175,12 +41085,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 516,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:12:00"
-    },
-    {
-      "characterId": 516,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:12:00"
     },
     {
@@ -44251,12 +41155,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 517,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:11:00"
-    },
-    {
-      "characterId": 517,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-07-11"
@@ -44319,12 +41217,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 518,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:11:00"
-    },
-    {
-      "characterId": 518,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:11:00"
     },
     {
@@ -44395,12 +41287,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 519,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:12:00"
-    },
-    {
-      "characterId": 519,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-08-20 复刻：铁血、音符&誓言"
@@ -44463,12 +41349,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 520,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:11:00"
-    },
-    {
-      "characterId": 520,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:11:00"
     },
     {
@@ -44539,12 +41419,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 521,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 521,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-02-04"
@@ -44611,12 +41485,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 522,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 522,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-12-29 逆转彩虹之塔"
@@ -44679,12 +41547,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 523,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:11:00"
-    },
-    {
-      "characterId": 523,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:11:00"
     },
     {
@@ -44755,12 +41617,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 524,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:13:00"
-    },
-    {
-      "characterId": 524,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-06-26 迷彩都市的寻踪者"
@@ -44824,12 +41680,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 525,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 525,
@@ -44899,12 +41749,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 526,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 526,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-18"
@@ -44971,12 +41815,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 527,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 527,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-07-09"
@@ -45040,12 +41878,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 528,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 528,
@@ -45115,12 +41947,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 529,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 529,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-07-08"
@@ -45184,12 +42010,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 530,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 530,
@@ -45259,12 +42079,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 531,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 531,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-07-14 轻量化复刻：蝶海梦花"
@@ -45328,12 +42142,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 532,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 532,
@@ -45403,12 +42211,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 533,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 533,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-07-13"
@@ -45472,12 +42274,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 534,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 534,
@@ -45547,12 +42343,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 535,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 535,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-12"
@@ -45619,12 +42409,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 536,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 536,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-12"
@@ -45691,12 +42475,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 537,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 537,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-12"
@@ -45760,12 +42538,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 538,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 538,
@@ -45831,12 +42603,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 539,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:33:00"
-    },
-    {
-      "characterId": 539,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:33:00"
     },
     {
@@ -45907,12 +42673,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 540,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:33:00"
-    },
-    {
-      "characterId": 540,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-01-30"
@@ -45979,12 +42739,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 541,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 541,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-01-30"
@@ -46047,12 +42801,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 542,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:33:00"
-    },
-    {
-      "characterId": 542,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:33:00"
     },
     {
@@ -46120,12 +42868,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 543,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 543,
@@ -46191,12 +42933,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 544,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:40:00"
-    },
-    {
-      "characterId": 544,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:40:00"
     },
     {
@@ -46267,12 +43003,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 545,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 545,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -46339,12 +43069,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 546,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 546,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -46411,12 +43135,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 547,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:38:00"
-    },
-    {
-      "characterId": 547,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-02-04"
@@ -46483,12 +43201,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 548,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:38:00"
-    },
-    {
-      "characterId": 548,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-02-04"
@@ -46555,12 +43267,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 549,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 549,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-01-27"
@@ -46627,12 +43333,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 550,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 550,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-01-27"
@@ -46695,12 +43395,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 551,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:38:00"
-    },
-    {
-      "characterId": 551,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:38:00"
     },
     {
@@ -46771,12 +43465,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 552,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:40:00"
-    },
-    {
-      "characterId": 552,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-01-09 轻量化复刻：定向折叠"
@@ -46843,12 +43531,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 553,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 553,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-01-09 轻量化复刻：定向折叠"
@@ -46911,12 +43593,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 554,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 554,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -46987,12 +43663,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 555,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 555,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-01-27"
@@ -47055,12 +43725,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 556,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:10:00"
-    },
-    {
-      "characterId": 556,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:10:00"
     },
     {
@@ -47131,12 +43795,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 557,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 557,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-01-18"
@@ -47200,12 +43858,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 558,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 558,
@@ -47275,12 +43927,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 559,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 559,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-09-11 神圣的悲喜剧"
@@ -47343,12 +43989,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 560,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:32:00"
-    },
-    {
-      "characterId": 560,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:32:00"
     },
     {
@@ -47419,12 +44059,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 561,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:30:40"
-    },
-    {
-      "characterId": 561,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-04-22 复兴的赞美诗"
@@ -47487,12 +44121,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 562,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:30:40"
-    },
-    {
-      "characterId": 562,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:30:40"
     },
     {
@@ -47563,12 +44191,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 563,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:29:40"
-    },
-    {
-      "characterId": 563,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-04-22 复兴的赞美诗"
@@ -47631,12 +44253,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 564,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:32:00"
-    },
-    {
-      "characterId": 564,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:32:00"
     },
     {
@@ -47707,12 +44323,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 565,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:32:00"
-    },
-    {
-      "characterId": 565,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-07-28 雄鹰的叙事歌"
@@ -47779,12 +44389,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 566,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 566,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-07-28 雄鹰的叙事歌"
@@ -47847,12 +44451,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 567,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:32:00"
-    },
-    {
-      "characterId": 567,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:32:00"
     },
     {
@@ -47923,12 +44521,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 568,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 568,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-02-27 樊笼内的神光"
@@ -47995,12 +44587,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 569,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 569,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-04-22 复兴的赞美诗"
@@ -48063,12 +44649,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 570,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 570,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:26:00"
     },
     {
@@ -48139,12 +44719,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 571,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 571,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-02-27 樊笼内的神光"
@@ -48211,12 +44785,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 572,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 572,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-09-11 神圣的悲喜剧"
@@ -48283,12 +44851,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 573,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 573,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-09-11 神圣的悲喜剧"
@@ -48351,12 +44913,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 574,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 574,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:55:00"
     },
     {
@@ -48427,12 +44983,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 575,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:54:00"
-    },
-    {
-      "characterId": 575,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-03-24"
@@ -48495,12 +45045,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 576,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:54:00"
-    },
-    {
-      "characterId": 576,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:54:00"
     },
     {
@@ -48571,12 +45115,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 577,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 577,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-06-29"
@@ -48639,12 +45177,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 578,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:15:00"
-    },
-    {
-      "characterId": 578,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:15:00"
     },
     {
@@ -48715,12 +45247,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 579,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:15:00"
-    },
-    {
-      "characterId": 579,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-09-11 神圣的悲喜剧"
@@ -48783,12 +45309,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 580,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:15:00"
-    },
-    {
-      "characterId": 580,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:15:00"
     },
     {
@@ -48859,12 +45379,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 581,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 581,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-09-11 神圣的悲喜剧"
@@ -48927,12 +45441,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 582,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:15:00"
-    },
-    {
-      "characterId": 582,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:15:00"
     },
     {
@@ -49003,12 +45511,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 583,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:15:00"
-    },
-    {
-      "characterId": 583,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-06-29"
@@ -49075,12 +45577,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 584,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:40:10"
-    },
-    {
-      "characterId": 584,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-02-27 樊笼内的神光"
@@ -49143,12 +45639,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 585,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 585,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:35:00"
     },
     {
@@ -49219,12 +45709,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 586,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:15:00"
-    },
-    {
-      "characterId": 586,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-03-24"
@@ -49291,12 +45775,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 587,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 587,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-04-22 复兴的赞美诗"
@@ -49359,12 +45837,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 588,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:12:00"
-    },
-    {
-      "characterId": 588,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:12:00"
     },
     {
@@ -49435,12 +45907,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 589,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:12:00"
-    },
-    {
-      "characterId": 589,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-02-27 樊笼内的神光"
@@ -49504,12 +45970,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 590,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 590,
@@ -49579,12 +46039,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 591,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 591,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-07-18 轻量化复刻：泠誓光庭"
@@ -49651,12 +46105,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 592,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 592,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-07-10"
@@ -49719,12 +46167,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 593,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:32:00"
-    },
-    {
-      "characterId": 593,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:32:00"
     },
     {
@@ -49795,12 +46237,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 594,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 594,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-02-27 北境序曲"
@@ -49867,12 +46303,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 595,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:42:00"
-    },
-    {
-      "characterId": 595,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-02-27 北境序曲"
@@ -49935,12 +46365,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 596,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:42:00"
-    },
-    {
-      "characterId": 596,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:42:00"
     },
     {
@@ -50011,12 +46435,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 597,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:32:00"
-    },
-    {
-      "characterId": 597,
       "tagId": 6,
       "variant": "zh",
       "value": "无活动"
@@ -50079,12 +46497,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 598,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:32:00"
-    },
-    {
-      "characterId": 598,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:32:00"
     },
     {
@@ -50152,12 +46564,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 599,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 599,
@@ -50227,12 +46633,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 600,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 600,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-02-24 深度回音"
@@ -50295,12 +46695,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 601,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:42:00"
-    },
-    {
-      "characterId": 601,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:42:00"
     },
     {
@@ -50371,12 +46765,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 602,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:41:00"
-    },
-    {
-      "characterId": 602,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-02-29 雪境迷踪"
@@ -50443,12 +46831,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 603,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 603,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-02-29 雪境迷踪"
@@ -50511,12 +46893,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 604,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:17:00"
-    },
-    {
-      "characterId": 604,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:17:00"
     },
     {
@@ -50587,12 +46963,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 605,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:17:00"
-    },
-    {
-      "characterId": 605,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-02-27 北境序曲"
@@ -50655,12 +47025,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 606,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 606,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:26:00"
     },
     {
@@ -50731,12 +47095,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 607,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:32:00"
-    },
-    {
-      "characterId": 607,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-02-25 破晓冰华"
@@ -50799,12 +47157,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 608,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 608,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:26:00"
     },
     {
@@ -50875,12 +47227,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 609,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:05:00"
-    },
-    {
-      "characterId": 609,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-02-25 破晓冰华"
@@ -50943,12 +47289,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 610,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:32:00"
-    },
-    {
-      "characterId": 610,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:32:00"
     },
     {
@@ -51019,12 +47359,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 611,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 611,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-04-24 扬起郁金之旗"
@@ -51091,12 +47425,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 612,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 612,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-02-25 破晓冰华"
@@ -51159,12 +47487,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 613,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:05:00"
-    },
-    {
-      "characterId": 613,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:05:00"
     },
     {
@@ -51235,12 +47557,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 614,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 614,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-02-27 北境序曲"
@@ -51303,12 +47619,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 615,
       "tagId": 5,
       "variant": "zh",
-      "value": "06:23:00"
-    },
-    {
-      "characterId": 615,
-      "tagId": 5,
-      "variant": "en",
       "value": "06:23:00"
     },
     {
@@ -51379,12 +47689,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 616,
-      "tagId": 5,
-      "variant": "en",
-      "value": "06:23:00"
-    },
-    {
-      "characterId": 616,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-02-25 破晓冰华"
@@ -51447,12 +47751,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 617,
       "tagId": 5,
       "variant": "zh",
-      "value": "06:23:00"
-    },
-    {
-      "characterId": 617,
-      "tagId": 5,
-      "variant": "en",
       "value": "06:23:00"
     },
     {
@@ -51523,12 +47821,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 618,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 618,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-02-24 深度回音"
@@ -51591,12 +47883,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 619,
       "tagId": 5,
       "variant": "zh",
-      "value": "03:40:00"
-    },
-    {
-      "characterId": 619,
-      "tagId": 5,
-      "variant": "en",
       "value": "03:40:00"
     },
     {
@@ -51667,12 +47953,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 620,
-      "tagId": 5,
-      "variant": "en",
-      "value": "03:40:00"
-    },
-    {
-      "characterId": 620,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-02-29 雪境迷踪"
@@ -51735,12 +48015,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 621,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:50:00"
-    },
-    {
-      "characterId": 621,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:50:00"
     },
     {
@@ -51811,12 +48085,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 622,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:47:53"
-    },
-    {
-      "characterId": 622,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-02-24 深度回音"
@@ -51879,12 +48147,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 623,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:42:50"
-    },
-    {
-      "characterId": 623,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:42:50"
     },
     {
@@ -51955,12 +48217,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 624,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 624,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-07-14 轻量化复刻：蝶海梦花"
@@ -52024,12 +48280,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 625,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 625,
@@ -52099,12 +48349,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 626,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 626,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-07-10"
@@ -52168,12 +48412,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 627,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 627,
@@ -52243,12 +48481,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 628,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:23:00"
-    },
-    {
-      "characterId": 628,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-26 光与影的鸢尾之华"
@@ -52312,12 +48544,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 629,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 629,
@@ -52387,12 +48613,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 630,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 630,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-06-27 复刻：光与影的鸢尾之华"
@@ -52455,12 +48675,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 631,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:26:00"
-    },
-    {
-      "characterId": 631,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:26:00"
     },
     {
@@ -52531,12 +48745,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 632,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:33:00"
-    },
-    {
-      "characterId": 632,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-10-21 第十四章-苏里高夜战"
@@ -52599,12 +48807,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 633,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:26:00"
-    },
-    {
-      "characterId": 633,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:26:00"
     },
     {
@@ -52675,12 +48877,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 634,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 634,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-04-25 共鸣的PASSION"
@@ -52747,12 +48943,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 635,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 635,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-26 光与影的鸢尾之华"
@@ -52815,12 +49005,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 636,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 636,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:26:00"
     },
     {
@@ -52891,12 +49075,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 637,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 637,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-08-17 愚者的天平"
@@ -52960,12 +49138,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 638,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 638,
@@ -53035,12 +49207,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 639,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:45:00"
-    },
-    {
-      "characterId": 639,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-08-17 愚者的天平"
@@ -53103,12 +49269,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 640,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:50:00"
-    },
-    {
-      "characterId": 640,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:50:00"
     },
     {
@@ -53179,12 +49339,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 641,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:45:00"
-    },
-    {
-      "characterId": 641,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-08-14 奇渊下的秘密"
@@ -53251,12 +49405,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 642,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:05:00"
-    },
-    {
-      "characterId": 642,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-08-14 奇渊下的秘密"
@@ -53319,12 +49467,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 643,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:50:00"
-    },
-    {
-      "characterId": 643,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:50:00"
     },
     {
@@ -53395,12 +49537,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 644,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:15:00"
-    },
-    {
-      "characterId": 644,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-08-17 愚者的天平"
@@ -53463,12 +49599,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 645,
       "tagId": 5,
       "variant": "zh",
-      "value": "06:12:20"
-    },
-    {
-      "characterId": 645,
-      "tagId": 5,
-      "variant": "en",
       "value": "06:12:20"
     },
     {
@@ -53539,12 +49669,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 646,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:06:40"
-    },
-    {
-      "characterId": 646,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-08-14 奇渊下的秘密"
@@ -53608,12 +49732,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 647,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 647,
@@ -53683,12 +49801,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 648,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 648,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-08-17 愚者的天平"
@@ -53751,12 +49863,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 649,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:35:00"
-    },
-    {
-      "characterId": 649,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:35:00"
     },
     {
@@ -53827,12 +49933,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 650,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 650,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-04-26 第十二章-马里亚纳风云•上"
@@ -53896,12 +49996,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 651,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 651,
@@ -53971,12 +50065,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 652,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 652,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-07-14 轻量化复刻：蝶海梦花"
@@ -54040,12 +50128,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "科研"
-    },
-    {
-      "characterId": 653,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
     },
     {
       "characterId": 653,
@@ -54115,12 +50197,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 654,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:23:00"
-    },
-    {
-      "characterId": 654,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-26 光与影的鸢尾之华"
@@ -54183,12 +50259,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 655,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:26:00"
-    },
-    {
-      "characterId": 655,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:26:00"
     },
     {
@@ -54259,12 +50329,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 656,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:26:00"
-    },
-    {
-      "characterId": 656,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-05-21 穹顶下的圣咏曲"
@@ -54328,12 +50392,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 657,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 657,
@@ -54403,12 +50461,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 658,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:26:00"
-    },
-    {
-      "characterId": 658,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-05-21 绽放于辉光之城"
@@ -54472,12 +50524,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 659,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 659,
@@ -54547,12 +50593,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 660,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 660,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-05-21 绽放于辉光之城"
@@ -54616,12 +50656,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 661,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 661,
@@ -54691,12 +50725,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 662,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 662,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-10-29"
@@ -54759,12 +50787,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 663,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:33:00"
-    },
-    {
-      "characterId": 663,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:33:00"
     },
     {
@@ -54835,12 +50857,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 664,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:33:00"
-    },
-    {
-      "characterId": 664,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-07-25 幻梦间奏曲"
@@ -54907,12 +50923,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 665,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 665,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-05-21 穹顶下的圣咏曲"
@@ -54975,12 +50985,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 666,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:26:00"
-    },
-    {
-      "characterId": 666,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:26:00"
     },
     {
@@ -55051,12 +51055,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 667,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:45:00"
-    },
-    {
-      "characterId": 667,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-11-11"
@@ -55119,12 +51117,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 668,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 668,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:55:00"
     },
     {
@@ -55195,12 +51187,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 669,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:45:00"
-    },
-    {
-      "characterId": 669,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-07-25 幻梦间奏曲"
@@ -55267,12 +51253,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 670,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:05:00"
-    },
-    {
-      "characterId": 670,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-26 光与影的鸢尾之华"
@@ -55335,12 +51315,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 671,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:05:00"
-    },
-    {
-      "characterId": 671,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:05:00"
     },
     {
@@ -55411,12 +51385,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 672,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 672,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-07-26 光与影的鸢尾之华"
@@ -55479,12 +51447,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 673,
       "tagId": 5,
       "variant": "zh",
-      "value": "05:50:00"
-    },
-    {
-      "characterId": 673,
-      "tagId": 5,
-      "variant": "en",
       "value": "05:50:00"
     },
     {
@@ -55555,12 +51517,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 674,
-      "tagId": 5,
-      "variant": "en",
-      "value": "05:50:00"
-    },
-    {
-      "characterId": 674,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-10-31"
@@ -55623,12 +51579,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 675,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:35:00"
-    },
-    {
-      "characterId": 675,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:35:00"
     },
     {
@@ -55699,12 +51649,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 676,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 676,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-18"
@@ -55771,12 +51715,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 677,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 677,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-07-13"
@@ -55839,12 +51777,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 678,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:26:00"
-    },
-    {
-      "characterId": 678,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:26:00"
     },
     {
@@ -55915,12 +51847,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 679,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 679,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-04-24 扬起郁金之旗"
@@ -55987,12 +51913,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 680,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Research"
-    },
-    {
-      "characterId": 680,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-07-10"
@@ -56055,12 +51975,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 681,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:08:20"
-    },
-    {
-      "characterId": 681,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:08:20"
     },
     {
@@ -56131,12 +52045,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 682,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:13:50"
-    },
-    {
-      "characterId": 682,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-11-20 DATE A LANE"
@@ -56199,12 +52107,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 683,
       "tagId": 5,
       "variant": "zh",
-      "value": "03:05:10"
-    },
-    {
-      "characterId": 683,
-      "tagId": 5,
-      "variant": "en",
       "value": "03:05:10"
     },
     {
@@ -56275,12 +52177,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 684,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 684,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-11-20 DATE A LANE"
@@ -56347,12 +52243,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 685,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 685,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-11-20 DATE A LANE"
@@ -56415,12 +52305,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 686,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:05:40"
-    },
-    {
-      "characterId": 686,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:05:40"
     },
     {
@@ -56488,12 +52372,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 687,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 687,
@@ -56563,12 +52441,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 688,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:26:21"
-    },
-    {
-      "characterId": 688,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-10-26 飓风与青春之泉"
@@ -56631,12 +52503,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 689,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:26:18"
-    },
-    {
-      "characterId": 689,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:26:18"
     },
     {
@@ -56707,12 +52573,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 690,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:31:01"
-    },
-    {
-      "characterId": 690,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-10-26 飓风与青春之泉"
@@ -56775,12 +52635,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 691,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:36"
-    },
-    {
-      "characterId": 691,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:36"
     },
     {
@@ -56851,12 +52705,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 692,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 692,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-10-26 飓风与青春之泉"
@@ -56923,12 +52771,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 693,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:42:30"
-    },
-    {
-      "characterId": 693,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-10-24 飓风与沉眠之海"
@@ -56991,12 +52833,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 694,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:39:21"
-    },
-    {
-      "characterId": 694,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:39:21"
     },
     {
@@ -57067,12 +52903,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 695,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:28:13"
-    },
-    {
-      "characterId": 695,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-10-24 飓风与沉眠之海"
@@ -57135,12 +52965,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 696,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:14"
-    },
-    {
-      "characterId": 696,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:14"
     },
     {
@@ -57211,12 +53035,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 697,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 697,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-10-24 飓风与沉眠之海"
@@ -57283,12 +53101,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 698,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:46:10"
-    },
-    {
-      "characterId": 698,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-10-23 飓风与自由群岛"
@@ -57351,12 +53163,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 699,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:14"
-    },
-    {
-      "characterId": 699,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:14"
     },
     {
@@ -57427,12 +53233,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 700,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:46:02"
-    },
-    {
-      "characterId": 700,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-10-23 飓风与自由群岛"
@@ -57495,12 +53295,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 701,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:28:37"
-    },
-    {
-      "characterId": 701,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:28:37"
     },
     {
@@ -57568,12 +53362,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 702,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 702,
@@ -57640,12 +53428,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 703,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 703,
@@ -57715,12 +53497,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 704,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 704,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-12-01"
@@ -57784,12 +53560,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 705,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 705,
@@ -57859,12 +53629,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 706,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 706,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-02-01"
@@ -57928,12 +53692,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 707,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 707,
@@ -58003,12 +53761,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 708,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 708,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-07-25 幻梦间奏曲"
@@ -58072,12 +53824,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 709,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 709,
@@ -58147,12 +53893,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 710,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 710,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-06-05"
@@ -58216,12 +53956,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 711,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 711,
@@ -58291,12 +54025,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 712,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 712,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-10-01"
@@ -58360,12 +54088,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 713,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 713,
@@ -58435,12 +54157,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 714,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 714,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-05-26 泠誓光庭"
@@ -58504,12 +54220,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 715,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 715,
@@ -58579,12 +54289,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 716,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 716,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-04-01"
@@ -58648,12 +54352,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 717,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 717,
@@ -58723,12 +54421,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 718,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 718,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-12-07"
@@ -58791,12 +54483,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 719,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:17:00"
-    },
-    {
-      "characterId": 719,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:17:00"
     },
     {
@@ -58867,12 +54553,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 720,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 720,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-12-01"
@@ -58935,12 +54615,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 721,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 721,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:25:00"
     },
     {
@@ -59011,12 +54685,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 722,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 722,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-07-28 雄鹰的叙事歌"
@@ -59080,12 +54748,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 723,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 723,
@@ -59155,12 +54817,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 724,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 724,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-06-01"
@@ -59227,12 +54883,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 725,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 725,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-06-20 轻量化复刻：虹彩的终幕曲"
@@ -59295,12 +54945,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 726,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 726,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:00:00"
     },
     {
@@ -59371,12 +55015,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 727,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 727,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-02-06 轻量化复刻：远汇点作战"
@@ -59440,12 +55078,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 728,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 728,
@@ -59515,12 +55147,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 729,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 729,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-03-10"
@@ -59584,12 +55210,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 730,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 730,
@@ -59659,12 +55279,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 731,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 731,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-09-01"
@@ -59727,12 +55341,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 732,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:10:00"
-    },
-    {
-      "characterId": 732,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:10:00"
     },
     {
@@ -59803,12 +55411,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 733,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 733,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-08-01"
@@ -59872,12 +55474,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 734,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 734,
@@ -59947,12 +55543,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 735,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 735,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-04-01"
@@ -60016,12 +55606,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 736,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 736,
@@ -60091,12 +55675,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 737,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 737,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-03-09 轻量化复刻：复兴的赞美诗"
@@ -60160,12 +55738,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 738,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 738,
@@ -60235,12 +55807,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 739,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 739,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-09-12 唤醒苍红之炎"
@@ -60307,12 +55873,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 740,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 740,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-12-01"
@@ -60375,12 +55935,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 741,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:15:00"
-    },
-    {
-      "characterId": 741,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:15:00"
     },
     {
@@ -60451,12 +56005,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 742,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 742,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-03-27 深谷来信"
@@ -60520,12 +56068,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 743,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 743,
@@ -60595,12 +56137,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 744,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 744,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-02-01"
@@ -60664,12 +56200,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 745,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 745,
@@ -60739,12 +56269,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 746,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 746,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-10-01"
@@ -60808,12 +56332,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "META 作战"
-    },
-    {
-      "characterId": 747,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
     },
     {
       "characterId": 747,
@@ -60883,12 +56401,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 748,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 748,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-03-25 复刻：箱庭疗法"
@@ -60955,12 +56467,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 749,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 749,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-09-16 碧海光粼"
@@ -61023,12 +56529,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 750,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:00:00"
-    },
-    {
-      "characterId": 750,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:00:00"
     },
     {
@@ -61099,12 +56599,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 751,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 751,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-12-19 星光下的余晖"
@@ -61171,12 +56665,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 752,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 752,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-03-20 轻量化复刻：湮烬尘墟"
@@ -61239,12 +56727,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 753,
       "tagId": 5,
       "variant": "zh",
-      "value": "03:50:00"
-    },
-    {
-      "characterId": 753,
-      "tagId": 5,
-      "variant": "en",
       "value": "03:50:00"
     },
     {
@@ -61315,12 +56797,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 754,
-      "tagId": 5,
-      "variant": "en",
-      "value": "META Showdown"
-    },
-    {
-      "characterId": 754,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-12-18 响彻于天穹之音"
@@ -61383,12 +56859,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 755,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:13:00"
-    },
-    {
-      "characterId": 755,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:13:00"
     },
     {
@@ -61459,12 +56929,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 756,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
-    },
-    {
-      "characterId": 756,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-05-25 空相交汇点"
@@ -61528,12 +56992,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
-    },
-    {
-      "characterId": 757,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cruise Missions"
     },
     {
       "characterId": 757,
@@ -61603,12 +57061,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 758,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 758,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-06"
@@ -61671,12 +57123,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 759,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:38:00"
-    },
-    {
-      "characterId": 759,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:38:00"
     },
     {
@@ -61747,12 +57193,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 760,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:24:00"
-    },
-    {
-      "characterId": 760,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-06"
@@ -61816,12 +57256,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 761,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 761,
@@ -61891,12 +57325,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 762,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:44:00"
-    },
-    {
-      "characterId": 762,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-06"
@@ -61959,12 +57387,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 763,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:40:00"
-    },
-    {
-      "characterId": 763,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:40:00"
     },
     {
@@ -62035,12 +57457,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 764,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:26:00"
-    },
-    {
-      "characterId": 764,
       "tagId": 6,
       "variant": "zh",
       "value": "2018-02-06"
@@ -62103,12 +57519,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 765,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:47:00"
-    },
-    {
-      "characterId": 765,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:47:00"
     },
     {
@@ -62179,12 +57589,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 766,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 766,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-26"
@@ -62251,12 +57655,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 767,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:55:00"
-    },
-    {
-      "characterId": 767,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-26"
@@ -62319,12 +57717,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 768,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:30:00"
-    },
-    {
-      "characterId": 768,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:30:00"
     },
     {
@@ -62395,12 +57787,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 769,
-      "tagId": 5,
-      "variant": "en",
-      "value": "04:50:00"
-    },
-    {
-      "characterId": 769,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-04-26"
@@ -62467,12 +57853,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 770,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:17:30"
-    },
-    {
-      "characterId": 770,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-11-27"
@@ -62535,12 +57915,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 771,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:25:00"
-    },
-    {
-      "characterId": 771,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:25:00"
     },
     {
@@ -62611,12 +57985,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 772,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:20:00"
-    },
-    {
-      "characterId": 772,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-11-27"
@@ -62679,12 +58047,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 773,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:12:00"
-    },
-    {
-      "characterId": 773,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:12:00"
     },
     {
@@ -62755,12 +58117,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 774,
-      "tagId": 5,
-      "variant": "en",
-      "value": "03:22:00"
-    },
-    {
-      "characterId": 774,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-11-27"
@@ -62824,12 +58180,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 775,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 775,
@@ -62899,12 +58249,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 776,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 776,
       "tagId": 6,
       "variant": "zh",
       "value": "2019-11-27"
@@ -62971,12 +58315,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 777,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:40:06"
-    },
-    {
-      "characterId": 777,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-11-26"
@@ -63039,12 +58377,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 778,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:35:25"
-    },
-    {
-      "characterId": 778,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:35:25"
     },
     {
@@ -63115,12 +58447,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 779,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:33:43"
-    },
-    {
-      "characterId": 779,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-11-26"
@@ -63183,12 +58509,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 780,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:41:47"
-    },
-    {
-      "characterId": 780,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:41:47"
     },
     {
@@ -63259,12 +58579,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 781,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:38:25"
-    },
-    {
-      "characterId": 781,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-11-26"
@@ -63328,12 +58642,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 782,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 782,
@@ -63403,12 +58711,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 783,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:31:40"
-    },
-    {
-      "characterId": 783,
       "tagId": 6,
       "variant": "zh",
       "value": "2020-11-26"
@@ -63471,12 +58773,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 784,
       "tagId": 5,
       "variant": "zh",
-      "value": "03:03:36"
-    },
-    {
-      "characterId": 784,
-      "tagId": 5,
-      "variant": "en",
       "value": "03:03:36"
     },
     {
@@ -63547,12 +58843,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 785,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:44:00"
-    },
-    {
-      "characterId": 785,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-04-27"
@@ -63615,12 +58905,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 786,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:07:10"
-    },
-    {
-      "characterId": 786,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:07:10"
     },
     {
@@ -63691,12 +58975,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 787,
-      "tagId": 5,
-      "variant": "en",
-      "value": "06:15:00"
-    },
-    {
-      "characterId": 787,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-07-22"
@@ -63763,12 +59041,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 788,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:24:10"
-    },
-    {
-      "characterId": 788,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-07-22"
@@ -63831,12 +59103,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 789,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:59:50"
-    },
-    {
-      "characterId": 789,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:59:50"
     },
     {
@@ -63907,12 +59173,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 790,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 790,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-07-22"
@@ -63979,12 +59239,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 791,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:08:42"
-    },
-    {
-      "characterId": 791,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-07-22"
@@ -64047,12 +59301,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 792,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:08:42"
-    },
-    {
-      "characterId": 792,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:08:42"
     },
     {
@@ -64119,12 +59367,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 793,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:35:30"
-    },
-    {
-      "characterId": 793,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:35:30"
     },
     {
@@ -64195,12 +59437,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 794,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:25:02"
-    },
-    {
-      "characterId": 794,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-11-25"
@@ -64267,12 +59503,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 795,
-      "tagId": 5,
-      "variant": "en",
-      "value": "00:38:45"
-    },
-    {
-      "characterId": 795,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-11-25"
@@ -64339,12 +59569,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 796,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:01:49"
-    },
-    {
-      "characterId": 796,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-11-25"
@@ -64407,12 +59631,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 797,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:04:11"
-    },
-    {
-      "characterId": 797,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:04:11"
     },
     {
@@ -64483,12 +59701,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 798,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:37:42"
-    },
-    {
-      "characterId": 798,
       "tagId": 6,
       "variant": "zh",
       "value": "2021-11-25"
@@ -64552,12 +59764,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 799,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 799,
@@ -64627,12 +59833,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 800,
-      "tagId": 5,
-      "variant": "en",
-      "value": "06:15:09"
-    },
-    {
-      "characterId": 800,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-07-20"
@@ -64699,12 +59899,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 801,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:31:40"
-    },
-    {
-      "characterId": 801,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-07-20"
@@ -64767,12 +59961,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 802,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:16:00"
-    },
-    {
-      "characterId": 802,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:16:00"
     },
     {
@@ -64843,12 +60031,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 803,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:23:00"
-    },
-    {
-      "characterId": 803,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-11-24"
@@ -64911,12 +60093,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 804,
       "tagId": 5,
       "variant": "zh",
-      "value": "06:15:00"
-    },
-    {
-      "characterId": 804,
-      "tagId": 5,
-      "variant": "en",
       "value": "06:15:00"
     },
     {
@@ -64987,12 +60163,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 805,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:30:00"
-    },
-    {
-      "characterId": 805,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-11-24"
@@ -65055,12 +60225,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 806,
       "tagId": 5,
       "variant": "zh",
-      "value": "04:20:00"
-    },
-    {
-      "characterId": 806,
-      "tagId": 5,
-      "variant": "en",
       "value": "04:20:00"
     },
     {
@@ -65131,12 +60295,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 807,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 807,
       "tagId": 6,
       "variant": "zh",
       "value": "2022-11-24"
@@ -65203,12 +60361,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 808,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:30:00"
-    },
-    {
-      "characterId": 808,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-11-23 苍闪忍法帖"
@@ -65271,12 +60423,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 809,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:35:00"
-    },
-    {
-      "characterId": 809,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:35:00"
     },
     {
@@ -65347,12 +60493,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 810,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 810,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-11-23 苍闪忍法帖"
@@ -65415,12 +60555,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 811,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:33:20"
-    },
-    {
-      "characterId": 811,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:33:20"
     },
     {
@@ -65491,12 +60625,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 812,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:38:20"
-    },
-    {
-      "characterId": 812,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-11-23 苍闪忍法帖"
@@ -65563,12 +60691,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 813,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 813,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-11-23 苍闪忍法帖"
@@ -65635,12 +60757,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 814,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:30:00"
-    },
-    {
-      "characterId": 814,
       "tagId": 6,
       "variant": "zh",
       "value": "2023-11-23 苍闪忍法帖"
@@ -65703,12 +60819,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 815,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:28:00"
-    },
-    {
-      "characterId": 815,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:28:00"
     },
     {
@@ -65779,12 +60889,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 816,
-      "tagId": 5,
-      "variant": "en",
-      "value": "01:53:20"
-    },
-    {
-      "characterId": 816,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-11-21 危险发明迫近中！"
@@ -65847,12 +60951,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 817,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:10:02"
-    },
-    {
-      "characterId": 817,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:10:02"
     },
     {
@@ -65923,12 +61021,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 818,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:05:00"
-    },
-    {
-      "characterId": 818,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-11-21 危险发明迫近中！"
@@ -65991,12 +61083,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 819,
       "tagId": 5,
       "variant": "zh",
-      "value": "02:11:40"
-    },
-    {
-      "characterId": 819,
-      "tagId": 5,
-      "variant": "en",
       "value": "02:11:40"
     },
     {
@@ -66067,12 +61153,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 820,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 820,
       "tagId": 6,
       "variant": "zh",
       "value": "2024-11-21 危险发明迫近中！"
@@ -66136,12 +61216,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 821,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 821,
@@ -66208,12 +61282,6 @@ const bundledCatalog0: LocalCatalog = {
       "tagId": 5,
       "variant": "zh",
       "value": "无法建造"
-    },
-    {
-      "characterId": 822,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
     },
     {
       "characterId": 822,
@@ -66283,12 +61351,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 823,
-      "tagId": 5,
-      "variant": "en",
-      "value": "02:23:00"
-    },
-    {
-      "characterId": 823,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-07-24 炼金术士与天际交汇之塔"
@@ -66351,12 +61413,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 824,
       "tagId": 5,
       "variant": "zh",
-      "value": "01:16:00"
-    },
-    {
-      "characterId": 824,
-      "tagId": 5,
-      "variant": "en",
       "value": "01:16:00"
     },
     {
@@ -66427,12 +61483,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 825,
-      "tagId": 5,
-      "variant": "en",
-      "value": "06:15:00"
-    },
-    {
-      "characterId": 825,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-07-24 炼金术士与天际交汇之塔"
@@ -66495,12 +61545,6 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 826,
       "tagId": 5,
       "variant": "zh",
-      "value": "00:25:50"
-    },
-    {
-      "characterId": 826,
-      "tagId": 5,
-      "variant": "en",
       "value": "00:25:50"
     },
     {
@@ -66571,12 +61615,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 827,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 827,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-10-16 轻量化复刻：愚者的天平"
@@ -66643,12 +61681,6 @@ const bundledCatalog0: LocalCatalog = {
     },
     {
       "characterId": 828,
-      "tagId": 5,
-      "variant": "en",
-      "value": "Cannot be constructed"
-    },
-    {
-      "characterId": 828,
       "tagId": 6,
       "variant": "zh",
       "value": "2025-10-16 轻量化复刻：愚者的天平"
@@ -66666,7 +61698,7 @@ export const bundledOfficialCatalogs: ReadonlyArray<BundledOfficialCatalog> = [
   {
     name: "航一把题库",
     path: "db/航一把题库.csv",
-    sha256: "1f19462f6f7c10833c3447452939acd8530211a324fa89590d1c00a274fcfe84",
+    sha256: "b1a2bad91218a811c76659b985d5d39ce8ed5508d2a7b2f913c86b63be6b133d",
     gitCommitSha: "0cb85fd5590ef30c6faec4628112ca35c37adcdd",
     gitCommitDate: "2026-09-14",
     catalog: bundledCatalog0,
