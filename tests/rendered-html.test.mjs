@@ -48,6 +48,18 @@ test("玩家首页使用真实游戏组件和正式元数据", async () => {
   assert.match(styles, /\.history-list::\-webkit-scrollbar-thumb/);
   assert.match(styles, /scrollbar-color:\s*var\(--red\)\s+var\(--paper-deep\)/);
   assert.match(styles, /\.history-list::\-webkit-scrollbar-button\s*\{[^}]*display:\s*none/);
+  // 显示设置：顶栏按钮 + 弹窗里的预设、企业预览与逐列自定义
+  assert.match(game, /setShowSettings\(true\)/);
+  assert.match(game, />语言设置</);
+  assert.match(game, /zh: "中文", en: "英文"/);
+  assert.match(game, /mode: "zh", columns/);
+  assert.match(game, /DISPLAY_PRESETS/);
+  assert.match(game, /SAMPLE_SHIP_NAME = "企业"/);
+  assert.match(game, /settings-preview/);
+  assert.match(game, /逐列设置/);
+  assert.match(game, /resolveVariant\(tag, displaySettings\)/);
+  assert.match(styles, /\.settings-presets/);
+  assert.match(styles, /\.settings-columns/);
   assert.doesNotMatch(`${page}${layout}${game}`, /codex-preview|react-loading-skeleton/);
 });
 

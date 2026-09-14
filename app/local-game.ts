@@ -262,7 +262,7 @@ function createLocalGameWithAnswer(
     maxAttempts: 8,
     answerCharacterId: specifiedAnswer?.id ?? availableAnswerCharacters[index].id,
     names: characters.map((character) => character.name),
-    tags: toTagDefinitions(tags),
+    tags: toTagDefinitions(tags, catalog.values),
     attempts: 0,
     completed: false,
     won: null,
@@ -395,7 +395,7 @@ function normalizeStoredGame(value: unknown, mode: LocalGameMode, catalog: Local
     maxAttempts: 8,
     answerCharacterId,
     names: characters.map((character) => character.name),
-    tags: toTagDefinitions(tags),
+    tags: toTagDefinitions(tags, catalog.values),
     attempts,
     completed,
     won: completed
@@ -792,9 +792,11 @@ export function createSpecifiedLocalGame(
   return createLocalGameWithAnswer(catalog, "custom", now, answer, true);
 }
 
-function valuesFor(catalog: LocalCatalog, characterId: number): CharacterValue[] {
+function valuesFor(catalog: LocalCatalog, characterId: number, tags: TagDefinition[]): CharacterValue[] {
+  // 同一列存了多套语言写法，判定只认该标签指定的那一列（题库里是 @zh）
+  const primaryByTag = new Map(tags.map((tag) => [tag.id, tag.primaryVariant ?? "zh"]));
   return catalog.values
-    .filter((item) => item.characterId === characterId)
+    .filter((item) => item.characterId === characterId && item.variant === primaryByTag.get(item.tagId))
     .map((item) => ({ tagId: item.tagId, value: item.value, category: item.category, entries: item.entries }));
 }
 
@@ -850,7 +852,7 @@ export function submitLocalGuess(
     name: guessedCharacter.name,
     guessedAt: now,
     elapsedMs: guessElapsedMs,
-    feedback: compareGuess(game.tags, valuesFor(catalog, guessedCharacter.id), valuesFor(catalog, answer.id)),
+    feedback: compareGuess(game.tags, valuesFor(catalog, guessedCharacter.id, game.tags), valuesFor(catalog, answer.id, game.tags)),
   };
   const nextGame: LocalGame = {
     ...game,

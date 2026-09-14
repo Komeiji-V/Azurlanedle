@@ -12,6 +12,7 @@ import {
   selectEditCatalog,
   selectPlayCatalog,
   saveLocalCatalog,
+  toTagDefinitions,
   updatePlayerCatalog,
   type LocalCatalog,
 } from "../app/local-catalog";
@@ -69,12 +70,13 @@ test("默认题库可以在本地存储中读写", () => {
 
   const loaded = loadLocalCatalog(storage);
   assert.equal(loaded.characters.length, 828);
-  assert.equal(loaded.tags.length, 7);
-  assert.equal(loaded.values.length, 5796);
+  assert.equal(loaded.tags.length, 6);
+  // 828 艘 × 6 个标签，每列都存了 @zh 与 @en 两套写法，判定用 @zh
+  assert.equal(loaded.values.filter((item) => item.variant === "zh").length, 4968);
+  assert.equal(loaded.values.filter((item) => item.variant === "en").length, 4968);
   assert.equal(loaded.tags.find((item) => item.name === "建造时间")?.kind, "ordered");
   assert.equal(loaded.tags.find((item) => item.name === "实装活动")?.kind, "ordered");
   assert.equal(loaded.tags.find((item) => item.name === "舰种")?.kind, "exact");
-  assert.equal(loaded.tags.find((item) => item.name === "声优")?.kind, "exact-multi");
   assert.deepEqual(loaded.characters.find((item) => item.name === "高雄")?.aliases, ["獒", "Takao"]);
   assert.deepEqual(loaded.characters.find((item) => item.name === "雪风")?.aliases, ["莲", "Yukikaze"]);
 });
@@ -185,13 +187,13 @@ test("旧题库载入时保留标签原有类型与取值", () => {
   const storage = new MemoryStorage();
   const legacy: LocalCatalog = {
     tags: [
-      { id: 1, name: "阵营", kind: "exact", unit: "", active: true },
-      { id: 2, name: "舰种", kind: "exact", unit: "", active: true },
+      { id: 1, name: "阵营", kind: "exact", unit: "", active: true, displayVariant: "zh", primaryVariant: "zh" },
+      { id: 2, name: "舰种", kind: "exact", unit: "", active: true, displayVariant: "zh", primaryVariant: "zh" },
     ],
     characters: [{ id: 1, name: "测试舰船", aliases: [], active: true }],
     values: [
-      { characterId: 1, tagId: 1, value: "重樱" },
-      { characterId: 1, tagId: 2, value: "重巡" },
+      { characterId: 1, tagId: 1, variant: "zh", value: "重樱" },
+      { characterId: 1, tagId: 2, variant: "zh", value: "重巡" },
     ],
   };
   saveLocalCatalog(legacy, storage);
@@ -753,21 +755,32 @@ test("CSV 导出后可按相同表头添加舰船", () => {
   const exported = exportCatalogCsv(catalog);
   const preview = parseCatalogCsv(exported);
   assert.equal(hasSameCsvHeaders(catalog, preview), true);
-  assert.deepEqual(preview.tagKinds, catalog.tags.map((tag) => tag.kind));
+  // 导出会为每个标签写出多套写法的列，这里按去重后的标签比对名称与类型
+  assert.deepEqual(
+    [...new Map(preview.tagNames.map((name, index) => [name, preview.tagKinds[index]])).entries()],
+    catalog.tags.map((tag) => [tag.name, tag.kind]),
+  );
+  assert.deepEqual([...new Set(preview.tagVariants)].sort(), ["en", "zh"]);
   assert.equal(preview.rows.length, catalog.characters.length);
   assert.equal(preview.rows[0][0], catalog.characters[0].name);
 
+  // 导出的表头里每个标签可能有多套写法的列，按列逐个填值
   const addition = parseCatalogCsv([
     preview.headers.join(","),
-    ["测试舰船", "测试、测测", "是", ...catalog.tags.map((tag) => (
-      tag.kind === "ordered" ? "2026" : tag.kind === "category-multi" ? "测试大类" : "测试值"
+    ["测试舰船", "测试、测测", "是", ...preview.tagNames.map((_, index) => (
+      preview.tagKinds[index] === "ordered" ? "2026" : "测试值"
     ))].join(","),
   ].join("\r\n"));
   const added = importCatalogCsv(catalog, addition, "append");
   assert.equal(added.characters.length, catalog.characters.length + 1);
   const character = added.characters.find((item) => item.name === "测试舰船")!;
   assert.deepEqual(character.aliases, ["测试", "测测"]);
-  assert.equal(added.values.filter((item) => item.characterId === character.id).length, catalog.tags.length);
+  // 每个标签至少写入一条判定列的值（表头带 @写法）
+  assert.equal(
+    added.values.filter((item) => item.characterId === character.id && item.variant === "zh").length,
+    catalog.tags.length,
+  );
+  assert.equal(added.values.filter((item) => item.characterId === character.id).length, preview.tagNames.length);
 });
 
 test("不同 CSV 表头禁止添加，但可替换并重建标签", () => {
@@ -814,14 +827,14 @@ test("CSV 添加只按标签名称匹配，并采用当前题库的标签类型"
 test("CSV 替换引起标签重排后仍可按名称正确添加", () => {
   const catalog = createDefaultCatalog();
   const replacement = parseCatalogCsv(
-    "舰船名,别名,启用,阵营（类型：exact）,舰种（类型：exact）,声优（类型：exact-multi）,舰级（类型：exact）,建造时间（类型：ordered）\n替换舰船,,是,重樱,重巡,Ai Kakuma,Takao,02:05:00\n",
+    "舰船名,别名,启用,阵营（类型：exact）,舰种（类型：exact）,配音（类型：exact-multi）,舰级（类型：exact）,建造时间（类型：ordered）\n替换舰船,,是,重樱,重巡,Ai Kakuma,Takao,02:05:00\n",
   );
   const replaced = importCatalogCsv(catalog, replacement, "replace");
 
   assert.equal(hasSameCsvHeaders(replaced, replacement), true);
 
   const addition = parseCatalogCsv(
-    "舰船名,别名,启用,阵营（类型：exact）,舰种（类型：exact）,声优（类型：exact-multi）,舰级（类型：exact）,建造时间（类型：ordered）\n添加舰船,,是,白鹰,航母,Yui Ishikawa,Essex,04:20:00\n",
+    "舰船名,别名,启用,阵营（类型：exact）,舰种（类型：exact）,配音（类型：exact-multi）,舰级（类型：exact）,建造时间（类型：ordered）\n添加舰船,,是,白鹰,航母,Yui Ishikawa,Essex,04:20:00\n",
   );
   const appended = importCatalogCsv(replaced, addition, "append");
   const character = appended.characters.find((item) => item.name === "添加舰船")!;
@@ -835,7 +848,7 @@ test("CSV 替换引起标签重排后仍可按名称正确添加", () => {
 
   assert.deepEqual(valuesByTagName, {
     建造时间: "04:20:00",
-    声优: "Yui Ishikawa",
+    配音: "Yui Ishikawa",
     阵营: "白鹰",
     舰级: "Essex",
     舰种: "航母",
@@ -896,14 +909,14 @@ test("按类匹配标签可保存大类和小类并通过 CSV 往返", () => {
   });
   const character = withCharacter.characters.find((item) => item.name === "分类测试舰船")!;
   const storedValue = withCharacter.values.find((item) => item.characterId === character.id && item.tagId === tag.id)!;
-  assert.deepEqual(storedValue, { characterId: character.id, tagId: tag.id, value: "风", category: "自然操纵" });
+  assert.deepEqual(storedValue, { characterId: character.id, tagId: tag.id, variant: "zh", value: "风", category: "自然操纵" });
 
   const imported = importCatalogCsv(withCharacter, parseCatalogCsv(exportCatalogCsv(withCharacter)), "replace");
   const importedTag = imported.tags.find((item) => item.name === "能力类型")!;
   const importedCharacter = imported.characters.find((item) => item.name === "分类测试舰船")!;
   assert.deepEqual(
     imported.values.find((item) => item.characterId === importedCharacter.id && item.tagId === importedTag.id),
-    { characterId: importedCharacter.id, tagId: importedTag.id, value: "风", category: "自然操纵" },
+    { characterId: importedCharacter.id, tagId: importedTag.id, variant: "zh", value: "风", category: "自然操纵" },
   );
 });
 
@@ -971,6 +984,7 @@ test("按类匹配（多标签）允许只填写大类并通过 CSV 导入", () 
     {
       characterId: importedCharacter.id,
       tagId: importedTag.id,
+      variant: "",
       value: "",
       category: "妖怪",
       entries: [{ category: "妖怪", value: "" }],
@@ -983,4 +997,27 @@ test("每日挑战编号从上线首日算起", () => {
   assert.equal(challengeNumber(CHALLENGE_EPOCH), 1);
   assert.equal(challengeNumber("2026-09-15"), 2);
   assert.equal(challengeNumber("2026-10-14"), 31);
+});
+
+test("标签定义带上每列可用的写法，供游戏页切换显示语言", () => {
+  const catalog = createDefaultCatalog();
+  const tags = toTagDefinitions(catalog.tags, catalog.values);
+  assert.deepEqual(tags.find((tag) => tag.name === "稀有度")?.variants, ["en", "zh"]);
+  assert.deepEqual(tags.find((tag) => tag.name === "阵营")?.variants, ["en", "zh"]);
+  // 判定列是该标签的第一列，也就是中文那一列
+  assert.equal(tags.every((tag) => tag.primaryVariant === "zh"), true);
+});
+
+test("同一列存了多套写法时，判定只认主方案", () => {
+  const catalog = createDefaultCatalog();
+  const rarity = catalog.tags.find((tag) => tag.name === "稀有度")!;
+  const kaohsiung = catalog.characters.find((character) => character.name === "高雄")!;
+  const game = { ...createLocalGame(catalog, "custom"), answerCharacterId: kaohsiung.id };
+  const result = submitLocalGuess(catalog, game, "高雄", 1_000);
+  assert.equal(result.ok, true);
+  if (!result.ok) return;
+  const cell = result.guess.feedback.find((item) => item.tagId === rarity.id)!;
+  // 判定用 @zh 那一列，@en（Super Rare）不能反过来把它覆盖掉
+  assert.equal(cell.value, "超稀有");
+  assert.equal(cell.state, "match");
 });

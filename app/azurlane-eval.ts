@@ -54,10 +54,14 @@ function prepareValue(value: CharacterValue): PreparedValue {
 
 export function prepareShips(
   characters: ReadonlyArray<{ id: number; name: string }>,
-  values: ReadonlyArray<CharacterValue & { characterId: number }>,
+  values: ReadonlyArray<CharacterValue & { characterId: number; variant?: string }>,
+  tags: ReadonlyArray<{ id: number; primaryVariant?: string }> = [],
 ): EvalShip[] {
+  // 同一列存了多套语言写法，判定只认各标签指定的那一列
+  const primaryByTag = new Map(tags.map((tag) => [tag.id, tag.primaryVariant ?? "zh"]));
   const byCharacter = new Map<number, Map<number, PreparedValue>>();
   for (const value of values) {
+    if (tags.length && value.variant !== primaryByTag.get(value.tagId)) continue;
     let bucket = byCharacter.get(value.characterId);
     if (!bucket) {
       bucket = new Map();

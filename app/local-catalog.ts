@@ -7,6 +7,10 @@ export type LocalTag = {
   kind: TagKind;
   unit: string;
   active: boolean;
+  /** 默认显示的写法（"zh" / "en" / 以后可能加的 "ja"）。 */
+  displayVariant: string;
+  /** 判定使用哪一套写法，题库里是该标签的第一列。 */
+  primaryVariant: string;
 };
 
 export type LocalCharacter = {
@@ -19,6 +23,8 @@ export type LocalCharacter = {
 export type LocalValue = {
   characterId: number;
   tagId: number;
+  /** 写法标识：空串是主方案（判定用），其他为附加方案。 */
+  variant: string;
   value: string;
   category?: string;
   entries?: TagValueEntry[];
@@ -53,6 +59,7 @@ export type CatalogMutation =
       kind?: TagKind;
       unit?: string;
       active?: boolean;
+      displayVariant?: string;
     }
   | { action: "deleteTag"; id: number }
   | {
@@ -187,6 +194,8 @@ function parseCatalog(value: string): LocalCatalog | null {
         kind: isTagKind(item.kind) ? item.kind : "exact",
         unit: typeof item.unit === "string" ? item.unit : "",
         active: item.active !== false && item.active !== 0,
+        displayVariant: typeof item.displayVariant === "string" ? item.displayVariant : "",
+        primaryVariant: typeof item.primaryVariant === "string" ? item.primaryVariant : "zh",
       };
     });
     const characters = parsed.characters.map((item) => {
@@ -215,6 +224,7 @@ function parseCatalog(value: string): LocalCatalog | null {
       return {
         characterId,
         tagId,
+        variant: typeof item.variant === "string" ? item.variant : "",
         value: item.value,
         ...(typeof item.category === "string" && item.category.trim() ? { category: item.category.trim() } : {}),
         ...(entries ? { entries } : {}),
@@ -247,7 +257,8 @@ function sortCatalog(catalog: LocalCatalog): LocalCatalog {
   return {
     tags: sortTags(catalog.tags),
     characters: [...catalog.characters].sort((a, b) => a.name.localeCompare(b.name, "zh-CN")),
-    values: [...catalog.values].sort((a, b) => a.characterId - b.characterId || a.tagId - b.tagId),
+    values: [...catalog.values].sort((a, b) =>
+      a.characterId - b.characterId || a.tagId - b.tagId || a.variant.localeCompare(b.variant)),
   };
 }
 
@@ -454,8 +465,24 @@ export function getActiveCharacters(catalog: LocalCatalog): LocalCharacter[] {
   return catalog.characters.filter((character) => character.active).sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
 }
 
-export function toTagDefinitions(tags: LocalTag[]): TagDefinition[] {
-  return tags.map(({ id, name, kind, unit }) => ({ id, name, kind, unit }));
+export function toTagDefinitions(tags: LocalTag[], values: LocalValue[] = []): TagDefinition[] {
+  // 每列有哪些附加写法，供游戏页的「中文 / 原版」整体切换使用
+  const variantsByTag = new Map<number, string[]>();
+  for (const value of values) {
+    if (!value.variant) continue;
+    const list = variantsByTag.get(value.tagId) ?? [];
+    if (!list.includes(value.variant)) list.push(value.variant);
+    variantsByTag.set(value.tagId, list);
+  }
+  return tags.map(({ id, name, kind, unit, displayVariant, primaryVariant }) => ({
+    id,
+    name,
+    kind,
+    unit,
+    displayVariant,
+    primaryVariant,
+    variants: (variantsByTag.get(id) ?? []).sort(),
+  }));
 }
 
 function nextId(items: Array<{ id: number }>) {
@@ -476,19 +503,23 @@ function updateCharacterValues(
   multiValues: Record<string, string> = {},
 ) {
   const tagsById = new Map(catalog.tags.map((tag) => [tag.id, tag]));
-  const valueMap = new Map(catalog.values.map((item) => [`${item.characterId}:${item.tagId}`, item]));
+  // 按「舰船+标签+写法」建索引，逐格编辑只覆盖判定列，其它语言写法原样保留
+  const valueMap = new Map(catalog.values.map((item) => [`${item.characterId}:${item.tagId}:${item.variant}`, item]));
   const tagIds = new Set([...Object.keys(values), ...Object.keys(multiValues)]);
   for (const tagIdText of tagIds) {
     const value = values[tagIdText] ?? "";
     const tagId = Number(tagIdText);
     const tag = tagsById.get(tagId);
     if (!Number.isInteger(tagId) || !tag) continue;
+    // 写回该标签的判定列，避免和题库里的 @zh 分叉
+    const variant = tag.primaryVariant || "zh";
     if (tag.kind === "exact-multi" || tag.kind === "category-multi") {
       const entries = parseMultiValueText(multiValues[tagIdText] ?? value, tag.kind === "category-multi");
       const first = entries[0];
-      valueMap.set(`${characterId}:${tagId}`, {
+      valueMap.set(`${characterId}:${tagId}:${variant}`, {
         characterId,
         tagId,
+        variant,
         value: first?.value ?? "",
         ...(first?.category ? { category: first.category } : {}),
         entries,
@@ -496,9 +527,10 @@ function updateCharacterValues(
       continue;
     }
     const category = categories[tagIdText]?.trim() ?? "";
-    valueMap.set(`${characterId}:${tagId}`, {
+    valueMap.set(`${characterId}:${tagId}:${variant}`, {
       characterId,
       tagId,
+      variant,
       value: value.trim(),
       ...(category ? { category } : {}),
     });
@@ -513,12 +545,15 @@ export function applyCatalogMutation(catalog: LocalCatalog, mutation: CatalogMut
     const name = mutation.name?.trim() ?? "";
     if (!name) throw new Error("标签名不能为空。");
     assertUniqueName(next.tags, name, mutation.id);
+    const existing = next.tags.find((item) => item.id === mutation.id);
     const tag: LocalTag = {
       id: mutation.id ?? nextId(next.tags),
       name,
       kind: isTagKind(mutation.kind) ? mutation.kind : "exact",
       unit: mutation.unit?.trim() ?? "",
       active: mutation.active !== false,
+      displayVariant: mutation.displayVariant ?? existing?.displayVariant ?? "",
+      primaryVariant: existing?.primaryVariant ?? "zh",
     };
     const index = next.tags.findIndex((item) => item.id === tag.id);
     if (index >= 0) next.tags[index] = tag;

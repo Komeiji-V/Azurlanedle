@@ -34,9 +34,39 @@ import {
   type CatalogRecord,
 } from "./local-catalog";
 import { evaluateGame, prepareShips, type EvalResult } from "./azurlane-eval";
-import { splitOrderedDisplay } from "./game-core";
+import { splitOrderedDisplay, type TagDefinition } from "./game-core";
 
 const CONTINUOUS_MODES: LocalGameMode[] = ["unlimited", "custom"];
+/** 设置弹窗里预览用的样例舰船。 */
+const SAMPLE_SHIP_NAME = "企业";
+
+/**
+ * 反馈表的显示设置：
+ *   zh / original 是一键预设，把整表切到同一套写法；
+ *   custom 则逐列取值（columns 里没记的列回退到题库自带的默认写法）。
+ */
+type DisplayMode = "zh" | "original" | "custom";
+type DisplaySettings = {
+  mode: DisplayMode;
+  columns: Record<string, string>;
+};
+const DISPLAY_STORAGE_KEY = "hangyiba:display:v2";
+const DEFAULT_DISPLAY_SETTINGS: DisplaySettings = { mode: "zh", columns: {} };
+const DISPLAY_PRESETS: Array<{ value: DisplayMode; label: string; detail: string }> = [
+  { value: "zh", label: "中文", detail: "全部用国服中文" },
+  { value: "original", label: "英文", detail: "全部用原版数据" },
+  { value: "custom", label: "自定义", detail: "每一列单独设置" },
+];
+const VARIANT_LABELS: Record<string, string> = { zh: "中文", en: "英文", ja: "日文" };
+
+/** 该列在当前显示设置下应该用哪一套写法。 */
+function resolveVariant(tag: TagDefinition, settings: DisplaySettings): string {
+  // 「中文」优先找 zh 方案，没有 zh 的列主方案本身就是中文
+  if (settings.mode === "zh") return tag.variants?.includes("zh") ? "zh" : "";
+  if (settings.mode === "original") return tag.variants?.includes("original") ? "original" : "";
+  // 自定义：优先用玩家逐列选过的写法，否则跟随题库里的默认（中文）
+  return settings.columns[String(tag.id)] ?? tag.displayVariant ?? "zh";
+}
 const EVALUATION_DELAY_MS = 60;
 /** TODO: GitHub 仓库建好后，把这里替换成真实地址（页脚会显示它） */
 const REPOSITORY_URL = "https://github.com/your-account/hangyiba";
@@ -76,6 +106,8 @@ export function GameBoard() {
     winDurationsMs: [],
     winAttempts: [],
   });
+  const [displaySettings, setDisplaySettings] = useState<DisplaySettings>(DEFAULT_DISPLAY_SETTINGS);
+  const [showSettings, setShowSettings] = useState(false);
   const [evaluation, setEvaluation] = useState<EvalResult | null>(null);
   const [evaluating, setEvaluating] = useState(false);
 
@@ -133,6 +165,24 @@ export function GameBoard() {
     setPlayCatalogId(library.playCatalogId);
     start("daily");
   }
+
+  useEffect(() => {
+    const saved = window.localStorage.getItem(DISPLAY_STORAGE_KEY);
+    if (!saved) return;
+    try {
+      const parsed = JSON.parse(saved) as Partial<DisplaySettings>;
+      const mode = parsed.mode;
+      if (mode !== "zh" && mode !== "original" && mode !== "custom") return;
+      const columns = parsed.columns && typeof parsed.columns === "object"
+        ? Object.fromEntries(Object.entries(parsed.columns).filter((entry): entry is [string, string] => typeof entry[1] === "string"))
+        : {};
+      // 显示偏好有意在 hydration 之后再恢复
+      // eslint-disable-next-line react-hooks/set-state-in-effect
+      setDisplaySettings({ mode, columns });
+    } catch {
+      // 偏好损坏时用默认值
+    }
+  }, []);
 
   useEffect(() => {
     // Initial data loading intentionally hydrates this client-only game board.
@@ -260,6 +310,44 @@ export function GameBoard() {
       .map((character) => character.name);
   }, [selectedCatalog, specifiedCharacterInput]);
 
+  // 反馈表的每一列都可以显示不同的写法（中文 / 日文 / 原版），这里把附加写法的值预先索引好
+  const catalogView = useMemo(() => {
+    const empty = {
+      variantIndex: new Map<string, string>(),
+      primaryIndex: new Map<string, string>(),
+      sampleId: -1,
+    };
+    const mode = game?.mode;
+    if (!mode) return empty;
+    try {
+      const catalog = loadGameCatalog(mode);
+      const variantIndex = new Map<string, string>();
+      const primaryIndex = new Map<string, string>();
+      for (const value of catalog.values) {
+        const key = `${value.characterId}:${value.tagId}`;
+        if (value.variant) variantIndex.set(`${key}:${value.variant}`, value.value);
+        else primaryIndex.set(key, value.value);
+      }
+      // 设置弹窗里的预览统一拿「企业」当样例
+      const sample = getActiveCharacters(catalog).find((character) => character.name === SAMPLE_SHIP_NAME);
+      return { variantIndex, primaryIndex, sampleId: sample?.id ?? -1 };
+    } catch {
+      // 题库读取失败时退回主方案显示
+      return empty;
+    }
+  }, [game?.mode]);
+
+  // 设置弹窗的预览行：按当前显示设置渲染「企业」的六个字段
+  const previewCells = useMemo(() => {
+    if (!game || catalogView.sampleId < 0) return [];
+    return game.tags.map((tag) => {
+      const key = `${catalogView.sampleId}:${tag.id}`;
+      const variant = resolveVariant(tag, displaySettings);
+      const value = catalogView.variantIndex.get(`${key}:${variant}`) ?? catalogView.primaryIndex.get(key) ?? "";
+      return { tag, value };
+    });
+  }, [game, catalogView, displaySettings]);
+
   function submit(event: FormEvent) {
     event.preventDefault();
     if (!game || !query.trim() || answer || busy) return;
@@ -358,6 +446,22 @@ export function GameBoard() {
     }
   }
 
+  function updateDisplaySettings(next: DisplaySettings) {
+    setDisplaySettings(next);
+    window.localStorage.setItem(DISPLAY_STORAGE_KEY, JSON.stringify(next));
+  }
+
+  function changeDisplayMode(mode: DisplayMode) {
+    updateDisplaySettings({ ...displaySettings, mode });
+  }
+
+  function changeColumnVariant(tag: TagDefinition, variant: string) {
+    updateDisplaySettings({
+      ...displaySettings,
+      columns: { ...displaySettings.columns, [String(tag.id)]: variant },
+    });
+  }
+
   function runEvaluation() {
     if (!game || !game.completed || evaluating) return;
     setEvaluating(true);
@@ -365,7 +469,7 @@ export function GameBoard() {
     window.setTimeout(() => {
       try {
         const catalog = loadGameCatalog(game.mode);
-        const ships = prepareShips(getActiveCharacters(catalog), catalog.values);
+        const ships = prepareShips(getActiveCharacters(catalog), catalog.values, catalog.tags);
         const indexOfId = new Map(ships.map((ship, index) => [ship.id, index]));
         const answerIndex = indexOfId.get(game.answerCharacterId);
         if (answerIndex === undefined) throw new Error("答案已不在题库中。");
@@ -421,6 +525,7 @@ export function GameBoard() {
       <header className="topbar">
         <p className="challenge">{challengeTitle}</p>
         <div className="topbar-actions">
+          <button className="ghost-button" onClick={() => { setShowHistory(false); setShowHelp(false); setShowSettings(true); }}>语言设置</button>
           <a className="admin-link" href="admin/">标签后台</a>
           <button className="ghost-button" onClick={() => { setShowHistory(false); setShowHelp(true); }}>游戏玩法</button>
           <button className="ghost-button" onClick={openHistory}>游玩历史</button>
@@ -432,7 +537,7 @@ export function GameBoard() {
           {Array.from({ length: 12 }, (_, index) => <i key={index} />)}
         </div>
         <div className="crest" aria-hidden="true">航</div>
-        <p className="eyebrow">"Azur Lane ship puzzle"</p>
+        <p className="eyebrow">Azur Lane ship puzzle</p>
         <h1>航一把</h1>
         <p className="subtitle">猜出隐藏的那艘舰船</p>
       </section>
@@ -596,6 +701,30 @@ export function GameBoard() {
                     <th>{guess.name}</th>
                     {game.tags.map((tag) => {
                       const cell = guess.feedback.find((item) => item.tagId === tag.id);
+                      const state = cell?.state ?? "miss";
+                      const variant = resolveVariant(tag, displaySettings);
+                      const variantText = variant
+                        ? catalogView.variantIndex.get(`${guess.id}:${tag.id}:${variant}`) ?? ""
+                        : "";
+                      // 这一列切到了别的写法：直接展示那套写法，颜色与箭头仍按判定结果
+                      if (variantText) {
+                        const ordered = splitOrderedDisplay(variantText);
+                        return (
+                          <td key={tag.id} className={`result-${state}`}>
+                            {tag.kind === "exact-multi"
+                              ? (state === "match"
+                                ? <div className="feedback-values">
+                                    {variantText.split(" | ").map((text) => <span key={text}>{text}</span>)}
+                                  </div>
+                                : <span>无匹配</span>)
+                              : <>
+                                  {ordered.prefix && ordered.text && <small>{ordered.prefix}</small>}
+                                  <span>{ordered.text || ordered.prefix}</span>
+                                </>}
+                            {cell?.direction && <i>{cell.direction === "higher" ? "↑" : "↓"}</i>}
+                          </td>
+                        );
+                      }
                       return (
                         <td key={tag.id} className={`result-${cell?.state ?? "miss"}`}>
                           {cell?.matchedCategories ? (
@@ -741,6 +870,81 @@ export function GameBoard() {
         </a>
       </footer>
 
+      {showSettings && (
+        <div className="modal-backdrop" onClick={() => setShowSettings(false)}>
+          <section className="settings-modal" role="dialog" aria-modal="true" aria-labelledby="settings-title" onClick={(event) => event.stopPropagation()}>
+            <button className="modal-close" aria-label="关闭" onClick={() => setShowSettings(false)}>×</button>
+            <p className="eyebrow">Language</p>
+            <h2 id="settings-title">语言设置</h2>
+            <p className="settings-hint">选择反馈表显示中文还是英文。判定始终按题库的中文那一列，换语言不影响对局。</p>
+
+            <div className="settings-presets" role="group" aria-label="显示预设">
+              {DISPLAY_PRESETS.map((preset) => (
+                <button
+                  key={preset.value}
+                  type="button"
+                  className={displaySettings.mode === preset.value ? "active" : ""}
+                  aria-pressed={displaySettings.mode === preset.value}
+                  onClick={() => changeDisplayMode(preset.value)}
+                >
+                  <b>{preset.label}</b>
+                  <small>{preset.detail}</small>
+                </button>
+              ))}
+            </div>
+
+            <p className="settings-section-title">预览 · 以{SAMPLE_SHIP_NAME}为例</p>
+            <div className="settings-preview">
+              <table>
+                <thead>
+                  <tr>
+                    <th>舰船</th>
+                    {previewCells.map(({ tag }) => <th key={tag.id}>{tag.name}</th>)}
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>{SAMPLE_SHIP_NAME}</th>
+                    {previewCells.map(({ tag, value }) => (
+                      <td key={tag.id} className="result-match"><span>{value}</span></td>
+                    ))}
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            {displaySettings.mode === "custom" && (
+              <>
+                <p className="settings-section-title">逐列设置</p>
+                <div className="settings-columns">
+                  {game?.tags.map((tag) => {
+                    const current = resolveVariant(tag, displaySettings);
+                    const primary = catalogView.primaryIndex.get(`${catalogView.sampleId}:${tag.id}`) ?? "";
+                    return (
+                      <label key={tag.id}>
+                        <span>{tag.name}</span>
+                        <select
+                          value={current}
+                          aria-label={`${tag.name}的显示语言`}
+                          onChange={(event) => changeColumnVariant(tag, event.target.value)}
+                        >
+                          {(tag.variants ?? []).map((variant) => (
+                            <option key={variant} value={variant}>
+                              {VARIANT_LABELS[variant] ?? variant}
+                              （{catalogView.variantIndex.get(`${catalogView.sampleId}:${tag.id}:${variant}`) ?? ""}）
+                            </option>
+                          ))}
+                        </select>
+                      </label>
+                    );
+                  })}
+                </div>
+              </>
+            )}
+          </section>
+        </div>
+      )}
+
       {showHelp && (
         <div className="modal-backdrop" onClick={() => setShowHelp(false)}>
           <section className="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title" onClick={(event) => event.stopPropagation()}>
@@ -748,7 +952,7 @@ export function GameBoard() {
             <p className="eyebrow">How to play</p>
             <h2 id="help-title">八次机会，找出这艘船</h2>
             <p>输入任意候选舰船。每次猜测后，每一列都会告诉你与答案的距离。</p>
-            <div className="help-row"><i className="match" /><span><b>命中</b>：这一项与答案完全一致（声优只要有一位相同即算命中）。</span></div>
+            <div className="help-row"><i className="match" /><span><b>命中</b>：这一项与答案完全一致。</span></div>
             <div className="help-row"><i className="close" /><span><b>接近</b>：建造时间相差不超过 5 分钟，或实装时间相差不超过 30 天。</span></div>
             <div className="help-row"><i className="miss" /><span><b>不符</b>：继续缩小范围。箭头提示答案更晚（↑）或更早（↓）。</span></div>
             <div className="help-row"><i className="match" /><span><b>无活动</b>：该舰船不属于任何活动，彼此之间视为命中。</span></div>

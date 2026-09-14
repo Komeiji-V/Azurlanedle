@@ -7,6 +7,8 @@ export type CatalogCsvPreview = {
   headers: string[];
   tagNames: string[];
   tagKinds: TagKind[];
+  /** 每列对应的写法：空串是主方案，其他为附加方案（zh / ja / original …）。 */
+  tagVariants: string[];
   rows: string[][];
 };
 
@@ -15,20 +17,34 @@ export type CatalogCsvImportMode = "append" | "replace";
 export const CATEGORY_VALUE_SEPARATOR = " > ";
 
 const TAG_KINDS: readonly TagKind[] = ["exact", "exact-close", "ordered", "category", "exact-multi", "category-multi"];
-const TAG_HEADER_PATTERN = /^(.*)（类型：(exact|exact-close|ordered|category|exact-multi|category-multi)）$/;
+const TAG_HEADER_PATTERN = /^(.+?)(?:@([A-Za-z0-9_-]+))?（类型：(exact|exact-close|ordered|category|exact-multi|category-multi)）$/;
 
-function formatTagHeader(tag: Pick<LocalTag, "name" | "kind">): string {
-  return `${tag.name}（类型：${tag.kind}）`;
+function formatTagHeader(tag: Pick<LocalTag, "name" | "kind">, variant = ""): string {
+  return `${tag.name}${variant ? `@${variant}` : ""}（类型：${tag.kind}）`;
 }
 
-function parseTagHeader(header: string): Pick<LocalTag, "name" | "kind"> {
+/** 收集每个标签出现了哪些写法，用于导出多列（玩家自建标签可能仍在用空写法）。 */
+function collectVariants(catalog: LocalCatalog): Map<number, string[]> {
+  const byTag = new Map<number, string[]>();
+  for (const value of catalog.values) {
+    const list = byTag.get(value.tagId) ?? [];
+    if (!list.includes(value.variant)) list.push(value.variant);
+    byTag.set(value.tagId, list);
+  }
+  for (const list of byTag.values()) {
+    list.sort((left, right) => (left === "" ? -1 : right === "" ? 1 : left.localeCompare(right)));
+  }
+  return byTag;
+}
+
+function parseTagHeader(header: string): Pick<LocalTag, "name" | "kind"> & { variant: string } {
   const match = TAG_HEADER_PATTERN.exec(header);
   const name = match?.[1].trim() ?? "";
-  const kind = match?.[2];
+  const kind = match?.[3];
   if (!name || !TAG_KINDS.includes(kind as TagKind)) {
     throw new Error(`CSV 标签列表头“${header}”格式无效，应为“标签名（类型：类型代码）”。`);
   }
-  return { name, kind: kind as TagKind };
+  return { name, kind: kind as TagKind, variant: match?.[2] ?? "" };
 }
 
 function parseTagValue(rawValue: string, tag: LocalTag): Pick<LocalValue, "value" | "category" | "entries"> {
@@ -91,14 +107,19 @@ function parseCsvRows(source: string): string[][] {
 }
 
 export function getCatalogCsvHeaders(catalog: LocalCatalog): string[] {
-  return [...CSV_BASE_HEADERS, ...sortTags(catalog.tags).map(formatTagHeader)];
+  const variants = collectVariants(catalog);
+  return [
+    ...CSV_BASE_HEADERS,
+    ...sortTags(catalog.tags).flatMap((tag) => (variants.get(tag.id) ?? []).map((variant) => formatTagHeader(tag, variant))),
+  ];
 }
 
 export function hasSameCsvHeaders(catalog: LocalCatalog, preview: CatalogCsvPreview): boolean {
-  const currentTagNames = catalog.tags.map((tag) => tag.name);
-  const previewTagNames = new Set(preview.tagNames);
-  return currentTagNames.length === preview.tagNames.length
-    && currentTagNames.every((name) => previewTagNames.has(name));
+  // 一个标签可能导出成多列（主方案 + 各套写法），比较时按去重后的标签名
+  const currentTagNames = catalog.tags.map((tag) => tag.name).sort();
+  const previewTagNames = [...new Set(preview.tagNames)].sort();
+  return currentTagNames.length === previewTagNames.length
+    && currentTagNames.every((name, index) => name === previewTagNames[index]);
 }
 
 export function parseCatalogCsv(source: string): CatalogCsvPreview {
@@ -115,7 +136,10 @@ export function parseCatalogCsv(source: string): CatalogCsvPreview {
 
   const csvTags = headers.slice(CSV_BASE_HEADERS.length).map(parseTagHeader);
   const tagNames = csvTags.map((tag) => tag.name);
-  if (new Set(tagNames).size !== tagNames.length) throw new Error("CSV 表头不能包含同名标签。");
+  const columnKeys = csvTags.map((tag) => `${tag.name}\u0000${tag.variant}`);
+  if (new Set(columnKeys).size !== columnKeys.length) {
+    throw new Error("CSV 表头不能包含重复的标签列。");
+  }
 
   const dataRows = rows.slice(1).map((row, index) => {
     if (row.length > headers.length) throw new Error(`CSV 第 ${index + 2} 行的列数多于表头。`);
@@ -126,7 +150,13 @@ export function parseCatalogCsv(source: string): CatalogCsvPreview {
   if (names.some((name) => !name)) throw new Error("CSV 中的舰船名不能为空。");
   if (new Set(names).size !== names.length) throw new Error("CSV 中不能包含重复舰船名。");
 
-  return { headers, tagNames, tagKinds: csvTags.map((tag) => tag.kind), rows: dataRows };
+  return {
+    headers,
+    tagNames,
+    tagKinds: csvTags.map((tag) => tag.kind),
+    tagVariants: csvTags.map((tag) => tag.variant),
+    rows: dataRows,
+  };
 }
 
 function parseActive(value: string): boolean {
@@ -136,7 +166,11 @@ function parseActive(value: string): boolean {
   throw new Error(`无法识别启用状态“${value}”，请填写是/否或 1/0。`);
 }
 
-function createCharactersAndValues(rows: string[][], tags: LocalTag[], firstId: number) {
+function createCharactersAndValues(
+  rows: string[][],
+  columns: Array<{ tag: LocalTag; variant: string }>,
+  firstId: number,
+) {
   const characters: LocalCharacter[] = [];
   const values: LocalValue[] = [];
   rows.forEach((row, index) => {
@@ -147,11 +181,12 @@ function createCharactersAndValues(rows: string[][], tags: LocalTag[], firstId: 
       aliases: [...new Set(row[1].split(/[、|｜]/).map((alias) => alias.trim()).filter(Boolean))],
       active: parseActive(row[2]),
     });
-    tags.forEach((tag, tagIndex) => {
+    columns.forEach((column, columnIndex) => {
       values.push({
         characterId,
-        tagId: tag.id,
-        ...parseTagValue(row[CSV_BASE_HEADERS.length + tagIndex] ?? "", tag),
+        tagId: column.tag.id,
+        variant: column.variant,
+        ...parseTagValue(row[CSV_BASE_HEADERS.length + columnIndex] ?? "", column.tag),
       });
     });
   });
@@ -172,25 +207,40 @@ export function importCatalogCsv(
     if (duplicate) throw new Error(`舰船“${duplicate[0]}”已存在；添加模式不会覆盖现有舰船。`);
     const firstId = catalog.characters.reduce((highest, character) => Math.max(highest, character.id), 0) + 1;
     const currentTagsByName = new Map(catalog.tags.map((tag) => [tag.name, tag]));
-    const csvOrderedTags = preview.tagNames.map((name) => currentTagsByName.get(name)!);
+    const columns = preview.tagNames.map((name, index) => ({
+      tag: currentTagsByName.get(name)!,
+      variant: preview.tagVariants[index] ?? "",
+    }));
     const tags = sortTags(catalog.tags);
-    const additions = createCharactersAndValues(preview.rows, csvOrderedTags, firstId);
+    const additions = createCharactersAndValues(preview.rows, columns, firstId);
     return {
       tags,
       characters: [...catalog.characters, ...additions.characters].sort((a, b) => a.name.localeCompare(b.name, "zh-CN")),
-      values: [...catalog.values, ...additions.values].sort((a, b) => a.characterId - b.characterId || a.tagId - b.tagId),
+      values: [...catalog.values, ...additions.values].sort((a, b) =>
+        a.characterId - b.characterId || a.tagId - b.tagId || a.variant.localeCompare(b.variant)),
     };
   }
 
-  const tags = preview.tagNames.map((name, index) => {
+  // 同一个标签的多套写法（列名带 @方案）合并成同一个标签
+  const tagList: LocalTag[] = [];
+  const tagIndexByName = new Map<string, number>();
+  preview.tagNames.forEach((name, index) => {
+    if (tagIndexByName.has(name)) return;
     const kind = preview.tagKinds[index];
     const existing = catalog.tags.find((tag) => tag.name === name && tag.kind === kind);
-    return existing
-      ? { ...existing, id: index + 1 }
-      : { id: index + 1, name, kind, unit: "", active: true };
+    tagIndexByName.set(name, tagList.length);
+    // 该标签的第一列作为判定列
+    const primaryVariant = preview.tagVariants[index] ?? "";
+    tagList.push(existing
+      ? { ...existing, id: tagList.length + 1, primaryVariant }
+      : { id: tagList.length + 1, name, kind, unit: "", active: true, displayVariant: "zh", primaryVariant });
   });
-  const replacement = createCharactersAndValues(preview.rows, tags, 1);
-  return { tags: sortTags(tags), ...replacement };
+  const columns = preview.tagNames.map((name, index) => ({
+    tag: tagList[tagIndexByName.get(name)!],
+    variant: preview.tagVariants[index] ?? "",
+  }));
+  const replacement = createCharactersAndValues(preview.rows, columns, 1);
+  return { tags: sortTags(tagList), ...replacement };
 }
 
 function csvCell(value: string): string {
@@ -199,25 +249,30 @@ function csvCell(value: string): string {
 
 export function exportCatalogCsv(catalog: LocalCatalog): string {
   const tags = sortTags(catalog.tags);
-  const headers = [...CSV_BASE_HEADERS, ...tags.map(formatTagHeader)];
-  const valueMap = new Map(catalog.values.map((item) => [`${item.characterId}:${item.tagId}`, item]));
+  const variants = collectVariants(catalog);
+  const headers = [
+    ...CSV_BASE_HEADERS,
+    ...tags.flatMap((tag) => (variants.get(tag.id) ?? []).map((variant) => formatTagHeader(tag, variant))),
+  ];
+  const valueMap = new Map(catalog.values.map((item) => [`${item.characterId}:${item.tagId}:${item.variant}`, item]));
+  const formatValue = (item: LocalValue | undefined, tag: LocalTag) => {
+    if (!item) return "";
+    if (tag.kind === "exact-multi" || tag.kind === "category-multi") {
+      return formatMultiValueText(
+        item.entries ?? [{ value: item.value, ...(item.category ? { category: item.category } : {}) }],
+        " | ",
+      );
+    }
+    return tag.kind === "category" && item.category
+      ? `${item.category}${CATEGORY_VALUE_SEPARATOR}${item.value}`
+      : item.value;
+  };
   const rows = catalog.characters.map((character) => [
     character.name,
     character.aliases.join("、"),
     character.active ? "是" : "否",
-    ...tags.map((tag) => {
-      const item = valueMap.get(`${character.id}:${tag.id}`);
-      if (!item) return "";
-      if (tag.kind === "exact-multi" || tag.kind === "category-multi") {
-        return formatMultiValueText(
-          item.entries ?? [{ value: item.value, ...(item.category ? { category: item.category } : {}) }],
-          " | ",
-        );
-      }
-      return tag.kind === "category" && item.category
-        ? `${item.category}${CATEGORY_VALUE_SEPARATOR}${item.value}`
-        : item.value;
-    }),
+    ...tags.flatMap((tag) => (variants.get(tag.id) ?? []).map((variant) =>
+      formatValue(valueMap.get(`${character.id}:${tag.id}:${variant}`), tag))),
   ]);
   return `\uFEFF${[headers, ...rows].map((row) => row.map(csvCell).join(",")).join("\r\n")}\r\n`;
 }

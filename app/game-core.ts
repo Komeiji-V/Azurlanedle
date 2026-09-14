@@ -11,6 +11,14 @@ export type TagDefinition = {
   name: string;
   kind: TagKind;
   unit: string;
+  /**
+   * 该列默认显示哪一套写法（空串为主方案）。判定始终用主方案，这里只影响显示。
+   */
+  displayVariant?: string;
+  /** 该列可选的附加写法（如 "zh"、"en"），用于游戏页的语言切换。 */
+  variants?: string[];
+  /** 判定用哪一套写法，题库里每列的第一列就是它。 */
+  primaryVariant?: string;
 };
 
 export type CharacterValue = {

@@ -33,6 +33,15 @@ type TagDraft = {
   kind: TagKind;
   unit: string;
   active: boolean;
+  /** 该列显示哪一套写法：空串为主方案，其他为附加方案（zh / ja / original …）。 */
+  displayVariant: string;
+};
+
+/** 写法标识 → 界面上的说法。 */
+const VARIANT_LABELS: Record<string, string> = {
+  zh: "中文",
+  en: "英文",
+  ja: "日文",
 };
 
 type CharacterDraft = {
@@ -45,7 +54,7 @@ type CharacterDraft = {
   multiValues: Record<string, string>;
 };
 
-const emptyTag: TagDraft = { name: "", kind: "exact", unit: "", active: true };
+const emptyTag: TagDraft = { name: "", kind: "exact", unit: "", active: true, displayVariant: "" };
 const emptyCharacter: CharacterDraft = { name: "", aliases: "", active: true, values: {}, categories: {}, multiValues: {} };
 
 const tagKindLabels: Record<TagKind, string> = {
@@ -277,6 +286,21 @@ export function AdminPanel() {
     [editingCatalog],
   );
 
+  // 当前题库里出现过的附加写法（中文 / 日文 / 原版…），供「显示写法」下拉选择
+  const variantOptions = useMemo(() => {
+    const list = new Set<string>();
+    for (const value of catalog.values) {
+      if (value.variant) list.add(value.variant);
+    }
+    for (const item of library.catalogs) {
+      for (const value of item.catalog.values) {
+        if (value.variant) list.add(value.variant);
+      }
+    }
+    if (tagDraft.displayVariant) list.add(tagDraft.displayVariant);
+    return [...list].sort();
+  }, [catalog.values, library.catalogs, tagDraft.displayVariant]);
+
   const filtered = useMemo(
     () => catalog.characters.filter((item) => item.name.includes(search.trim())),
     [catalog.characters, search],
@@ -430,6 +454,21 @@ export function AdminPanel() {
               </select>
             </label>
             <label>单位<input value={tagDraft.unit} onChange={(event) => setTagDraft({ ...tagDraft, unit: event.target.value })} placeholder="可选，例如：分钟" /></label>
+            <label>
+              显示写法
+              <select
+                value={tagDraft.displayVariant}
+                onChange={(event) => setTagDraft({ ...tagDraft, displayVariant: event.target.value })}
+                disabled={variantOptions.length === 0}
+              >
+                {variantOptions.map((variant) => (
+                  <option key={variant} value={variant}>{VARIANT_LABELS[variant] ?? variant}</option>
+                ))}
+              </select>
+            </label>
+            <p className="admin-hint">
+              同一列的多种语言写法都放在这个标签下（中文 / 英文，以后可加日文），这里设置该列默认显示哪一种；游戏页顶栏的「语言设置」可以整表切换。判定固定用中文那一列，换显示语言不影响对局。
+            </p>
             <label className="check-label"><input type="checkbox" checked={tagDraft.active} onChange={(event) => setTagDraft({ ...tagDraft, active: event.target.checked })} />在游戏中显示</label>
             <button className="admin-primary" disabled={busy}>{tagDraft.id ? "保存修改" : "添加标签"}</button>
           </form>
@@ -438,7 +477,7 @@ export function AdminPanel() {
               <div className="tag-row" key={tag.id}>
                 <div><b>{tag.name}</b><small>{tagKindLabels[tag.kind]}{!tag.active && " · 已隐藏"}</small></div>
                 <div>
-                  <button onClick={() => setTagDraft({ id: tag.id, name: tag.name, kind: tag.kind, unit: tag.unit, active: tag.active })}>编辑</button>
+                  <button onClick={() => setTagDraft({ id: tag.id, name: tag.name, kind: tag.kind, unit: tag.unit, active: tag.active, displayVariant: tag.displayVariant ?? "" })}>编辑</button>
                   <button className="danger" onClick={() => window.confirm(`删除标签“${tag.name}”？`) && mutate({ action: "deleteTag", id: tag.id }, "标签已删除。")}>删除</button>
                 </div>
               </div>

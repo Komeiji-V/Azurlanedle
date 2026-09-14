@@ -7,7 +7,7 @@ const catalogDirectoryPath = path.resolve("db");
 const outputPath = path.resolve("app/default-catalog.generated.ts");
 const CSV_BASE_HEADERS = ["舰船名", "别名", "启用"];
 const TAG_KINDS = ["exact", "exact-close", "ordered", "category", "exact-multi", "category-multi"];
-const TAG_HEADER_PATTERN = /^(.*)（类型：(exact|exact-close|ordered|category|exact-multi|category-multi)）$/;
+const TAG_HEADER_PATTERN = /^(.+?)(?:@([A-Za-z0-9_-]+))?（类型：(exact|exact-close|ordered|category|exact-multi|category-multi)）$/;
 
 function parseCsvRows(source) {
   const text = source.replace(/^\uFEFF/, "");
@@ -55,10 +55,12 @@ function parseCsvRows(source) {
 function parseTagHeader(header) {
   const match = TAG_HEADER_PATTERN.exec(header);
   const name = match?.[1].trim() ?? "";
-  if (!name || !match || !TAG_KINDS.includes(match[2])) {
+  const kind = match?.[3] ?? "";
+  if (!name || !TAG_KINDS.includes(kind)) {
     throw new Error(`CSV 标签列“${header}”缺少有效的类型代码。`);
   }
-  return { name, kind: match[2] };
+  // variant 为空表示主方案（判定与默认显示都用它），例如「稀有度@zh」是附加写法
+  return { name, kind, variant: match[2] ?? "" };
 }
 
 function parseMultiValueText(source, singleValueAsCategory = false) {
@@ -118,9 +120,21 @@ function readCatalog(sourcePath) {
     throw new Error("默认题库表头不能包含空列名或重复列名。");
   }
 
-  const csvTags = headers.slice(CSV_BASE_HEADERS.length).map(parseTagHeader);
-  if (new Set(csvTags.map((tag) => tag.name)).size !== csvTags.length) {
-    throw new Error("默认题库不能包含同名标签。");
+  const csvColumns = headers.slice(CSV_BASE_HEADERS.length).map(parseTagHeader);
+  // 同一个标签可以有多套写法（列名带 @方案 后缀），它们共用同一个 tagId，只有主方案参与判定
+  const csvTags = [];
+  const tagIndexByName = new Map();
+  for (const column of csvColumns) {
+    const existingIndex = tagIndexByName.get(column.name);
+    if (existingIndex !== undefined) {
+      if (csvTags[existingIndex].kind !== column.kind) {
+        throw new Error(`默认题库中标签“${column.name}”的多套写法类型不一致。`);
+      }
+      continue;
+    }
+    tagIndexByName.set(column.name, csvTags.length);
+    // 判定用该标签的第一列（题库里是 @zh），后面加 @ja 之类不影响判定
+    csvTags.push({ ...column, primaryVariant: column.variant });
   }
 
   const dataRows = rows.slice(1).map((row, index) => {
@@ -137,6 +151,9 @@ function readCatalog(sourcePath) {
     kind: tag.kind,
     unit: "",
     active: true,
+    primaryVariant: tag.primaryVariant,
+    // 默认显示中文那一列；后台可以改成 "en"，以后加 "ja" 也在这里选
+    displayVariant: "zh",
   }));
   const characters = [];
   const values = [];
@@ -149,11 +166,13 @@ function readCatalog(sourcePath) {
       aliases: [...new Set(row[1].split(/[、|｜]/).map((alias) => alias.trim()).filter(Boolean))],
       active: parseActive(row[2]),
     });
-    tags.forEach((tag, tagIndex) => {
+    csvColumns.forEach((column, columnIndex) => {
+      const tag = tags[tagIndexByName.get(column.name)];
       values.push({
         characterId,
         tagId: tag.id,
-        ...parseTagValue(row[CSV_BASE_HEADERS.length + tagIndex] ?? "", tag),
+        variant: column.variant,
+        ...parseTagValue(row[CSV_BASE_HEADERS.length + columnIndex] ?? "", tag),
       });
     });
   });

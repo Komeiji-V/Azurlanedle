@@ -158,6 +158,14 @@ button { cursor: pointer; }
 .topbar { max-width: 920px; margin: auto; display: flex; align-items: center; gap: 12px; position: relative; z-index: 2; }
 .challenge { margin: 0 auto 0 0; color: var(--muted); font-size: 14px; letter-spacing: .08em; }
 .topbar-actions { display: flex; align-items: center; gap: 8px; }
+/* 反馈表显示语言切换（中文 / 原版 / 按列设置） */
+.display-mode { display: inline-flex; align-items: center; gap: 7px; color: var(--muted); font-size: 12px; }
+.display-mode select {
+  border: 1px solid #d7c8c4; border-radius: 999px; background: rgba(255,255,255,.62);
+  color: var(--ink); padding: 8px 10px; font-size: 13px; cursor: pointer;
+}
+.display-mode select:hover { border-color: var(--red); }
+
 .ghost-button, .admin-link {
   border: 1px solid #d7c8c4; background: rgba(255,255,255,.62); color: var(--ink);
   border-radius: 999px; padding: 9px 14px; text-decoration: none; font-size: 13px;
@@ -329,6 +337,46 @@ footer a:hover { color: var(--red); border-color: currentColor; }
 .help-modal > p:not(.eyebrow) { color: var(--muted); line-height: 1.7; }
 .help-row { margin-top: 14px; color: var(--muted); font-size: 14px; }
 .help-row i { flex: 0 0 auto; width: 16px; height: 16px; }
+/* 显示设置弹窗：预设 + 企业预览 + 逐列自定义 */
+.settings-modal {
+  width: min(680px, 100%); max-height: min(760px, calc(100vh - 40px));
+  position: relative; display: flex; flex-direction: column;
+  padding: 30px; border-radius: 16px; background: var(--paper);
+  box-shadow: 0 28px 80px rgba(0,0,0,.25); overflow-y: auto;
+  scrollbar-width: thin; scrollbar-color: var(--red) var(--paper-deep);
+}
+.settings-modal h2 { margin: 0 0 6px; font-size: 28px; }
+.settings-hint { margin: 0 0 18px; color: var(--muted); font-size: 13px; line-height: 1.7; }
+.settings-presets { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.settings-presets button {
+  display: grid; gap: 3px; padding: 12px 10px; border: 1px solid #d7c8c4;
+  border-radius: 12px; background: rgba(255,255,255,.6); color: var(--ink); text-align: left;
+}
+.settings-presets button b { font-size: 15px; }
+.settings-presets button small { color: var(--muted); font-size: 11px; }
+.settings-presets button:hover { border-color: var(--red); }
+.settings-presets button.active { border-color: var(--red); background: var(--red); color: #fff; }
+.settings-presets button.active small { color: rgba(255,255,255,.8); }
+.settings-section-title { margin: 20px 0 10px; color: var(--muted); font-size: 12px; font-weight: 700; letter-spacing: .1em; }
+.settings-preview { overflow-x: auto; border: 1px solid var(--paper-deep); border-radius: 12px; }
+.settings-preview table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.settings-preview th,
+.settings-preview td { padding: 10px 12px; border-right: 1px solid var(--paper-deep); white-space: nowrap; text-align: center; }
+.settings-preview thead th { color: var(--muted); font-size: 12px; font-weight: 600; background: var(--paper-deep); }
+.settings-preview tbody th { font-weight: 600; text-align: left; }
+.settings-preview tr > :last-child { border-right: 0; }
+.settings-columns { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 10px 16px; }
+.settings-columns label { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.settings-columns span { color: var(--ink); font-size: 13px; }
+.settings-columns select {
+  flex: 1 1 auto; min-width: 0; max-width: 190px; padding: 8px 10px;
+  border: 1px solid #d7c8c4; border-radius: 8px; background: #fff; color: var(--ink); font-size: 13px;
+}
+.settings-columns select:hover { border-color: var(--red); }
+@media (max-width: 560px) {
+  .settings-presets { grid-template-columns: 1fr; }
+  .settings-columns { grid-template-columns: 1fr; }
+}
 .modal-close { position: absolute; top: 12px; right: 14px; border: 0; background: none; font: 26px/1 Arial; color: var(--muted); }
 .history-modal { width: min(680px, 100%); max-height: min(760px, calc(100vh - 40px)); position: relative; display: flex; flex-direction: column; padding: 30px; border-radius: 16px; background: var(--paper); box-shadow: 0 28px 80px rgba(0,0,0,.25); }
 .history-modal h2 { margin: 0; font-size: 28px; }
