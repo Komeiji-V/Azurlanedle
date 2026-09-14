@@ -304,15 +304,16 @@ function parseStoredCatalogLibrary(value: string | null): StoredCatalogLibrary |
   try {
     const parsed: unknown = JSON.parse(value);
     if (!isRecord(parsed) || !Array.isArray(parsed.players)) return null;
-    const players = parsed.players.map((item) => {
-      if (!isRecord(item) || typeof item.id !== "string" || typeof item.name !== "string") return null;
+    // 逐条容错：某一条玩家题库损坏时只丢弃它，不能把整个库判为无效 ——
+    // 否则只要有一条脏数据，其余完好的题库都会被当成「没有存档」而清空。
+    const players = parsed.players.flatMap((item) => {
+      if (!isRecord(item) || typeof item.id !== "string" || typeof item.name !== "string") return [];
       const catalog = parseCatalog(JSON.stringify(item.catalog));
-      if (!catalog || !item.id.startsWith("player:") || !item.name.trim()) return null;
-      return { id: item.id, name: item.name.trim(), catalog };
+      if (!catalog || !item.id.startsWith("player:") || !item.name.trim()) return [];
+      return [{ id: item.id, name: item.name.trim(), catalog }];
     });
-    if (players.some((item) => item === null)) return null;
     return {
-      players: players as StoredCatalogLibrary["players"],
+      players,
       playCatalogId: typeof parsed.playCatalogId === "string" ? parsed.playCatalogId : DEFAULT_OFFICIAL_CATALOG_ID,
       editCatalogId: typeof parsed.editCatalogId === "string" ? parsed.editCatalogId : DEFAULT_OFFICIAL_CATALOG_ID,
       officialCatalogVersions: isRecord(parsed.officialCatalogVersions)
@@ -324,16 +325,20 @@ function parseStoredCatalogLibrary(value: string | null): StoredCatalogLibrary |
   }
 }
 
-function persistCatalogLibrary(library: CatalogLibrary, storage: LocalStorageLike) {
+function serializeCatalogLibrary(library: CatalogLibrary): string {
   const validIds = new Set(library.catalogs.map((item) => item.id));
-  storage.setItem(CATALOG_LIBRARY_STORAGE_KEY, JSON.stringify({
+  return JSON.stringify({
     players: library.catalogs
       .filter((item) => !item.official)
       .map((item) => ({ id: item.id, name: item.name, catalog: sortCatalog(cloneCatalog(item.catalog)) })),
     playCatalogId: validIds.has(library.playCatalogId) ? library.playCatalogId : DEFAULT_OFFICIAL_CATALOG_ID,
     editCatalogId: validIds.has(library.editCatalogId) ? library.editCatalogId : DEFAULT_OFFICIAL_CATALOG_ID,
     officialCatalogVersions: getOfficialCatalogVersions(),
-  } satisfies StoredCatalogLibrary));
+  } satisfies StoredCatalogLibrary);
+}
+
+function persistCatalogLibrary(library: CatalogLibrary, storage: LocalStorageLike) {
+  storage.setItem(CATALOG_LIBRARY_STORAGE_KEY, serializeCatalogLibrary(library));
 }
 
 export function loadCatalogLibrary(storage: LocalStorageLike | null = getBrowserStorage()): CatalogLibrary {
@@ -364,7 +369,16 @@ export function loadCatalogLibrary(storage: LocalStorageLike | null = getBrowser
     playCatalogId: ids.has(stored.playCatalogId) ? stored.playCatalogId : DEFAULT_OFFICIAL_CATALOG_ID,
     editCatalogId: ids.has(stored.editCatalogId) ? stored.editCatalogId : DEFAULT_OFFICIAL_CATALOG_ID,
   };
-  persistCatalogLibrary(library, storage);
+  // 读路径只在确有必要时修复写回：内容没变就不落盘；写失败（配额满、隐私模式）
+  // 也不能把异常抛回 useEffect，否则 React 会卸载整棵树变成白屏。
+  const serialized = serializeCatalogLibrary(library);
+  if (storage.getItem(CATALOG_LIBRARY_STORAGE_KEY) !== serialized) {
+    try {
+      storage.setItem(CATALOG_LIBRARY_STORAGE_KEY, serialized);
+    } catch {
+      // 内存里的结果照常返回，写入失败留给后续显式操作去提示
+    }
+  }
   return library;
 }
 
@@ -495,6 +509,25 @@ function assertUniqueName(items: Array<{ id: number; name: string }>, name: stri
   }
 }
 
+/**
+ * 后台编辑表单要显示的行：一个标签只取判定列（primaryVariant），取不到再退回显示列、
+ * 最后退回该标签的第一行。若直接取全部写法，同标签的多套写法会互相覆盖，
+ * 表单显示的可能不是判定列，保存后又写回判定列，把判定值覆盖掉。
+ */
+export function characterValuesForEditing(catalog: LocalCatalog, characterId: number): LocalValue[] {
+  const tagsById = new Map(catalog.tags.map((tag) => [tag.id, tag]));
+  const tagIds = [...new Set(
+    catalog.values.filter((item) => item.characterId === characterId).map((item) => item.tagId),
+  )];
+  return tagIds.map((tagId) => {
+    const rows = catalog.values.filter((item) => item.characterId === characterId && item.tagId === tagId);
+    const tag = tagsById.get(tagId);
+    return rows.find((item) => item.variant === (tag?.primaryVariant ?? ""))
+      ?? rows.find((item) => item.variant === (tag?.displayVariant ?? ""))
+      ?? rows[0];
+  });
+}
+
 function updateCharacterValues(
   catalog: LocalCatalog,
   characterId: number,
@@ -505,7 +538,8 @@ function updateCharacterValues(
   const tagsById = new Map(catalog.tags.map((tag) => [tag.id, tag]));
   // 按「舰船+标签+写法」建索引，逐格编辑只覆盖判定列，其它语言写法原样保留
   const valueMap = new Map(catalog.values.map((item) => [`${item.characterId}:${item.tagId}:${item.variant}`, item]));
-  const tagIds = new Set([...Object.keys(values), ...Object.keys(multiValues)]);
+  // 只填了「大类」的 category 标签不会出现在 values 里，必须一并纳入待处理集合
+  const tagIds = new Set([...Object.keys(values), ...Object.keys(categories), ...Object.keys(multiValues)]);
   for (const tagIdText of tagIds) {
     const value = values[tagIdText] ?? "";
     const tagId = Number(tagIdText);

@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import {
   applyCatalogMutation,
+  characterValuesForEditing,
   copyCatalog,
   createStandardGameCatalog,
   createPlayerCatalog,
@@ -1032,4 +1033,100 @@ test("同一列存了多套写法时，判定只认主方案", () => {
   // 判定用 @zh 那一列，@en（Super Rare）不能反过来把它覆盖掉
   assert.equal(cell.value, "超稀有");
   assert.equal(cell.state, "match");
+});
+
+test("CSV 往返不会把判定列换成别的写法", () => {
+  const catalog = createDefaultCatalog();
+  const before = catalog.tags.map((tag) => [tag.name, tag.primaryVariant]);
+  const roundTripped = importCatalogCsv(catalog, parseCatalogCsv(exportCatalogCsv(catalog)), "replace");
+  // 导出时判定列必须排在该标签的第一列，否则导入端「第一列即判定列」会把它改掉
+  assert.deepEqual(roundTripped.tags.map((tag) => [tag.name, tag.primaryVariant]), before);
+  assert.equal(roundTripped.tags.every((tag) => tag.primaryVariant === "zh"), true);
+});
+
+test("还没有任何取值的标签也能通过 CSV 往返保留", () => {
+  const catalog = applyCatalogMutation(createDefaultCatalog(), {
+    action: "saveTag",
+    name: "获取方式",
+    kind: "exact",
+  });
+  const exported = exportCatalogCsv(catalog);
+  assert.equal(exported.split("\r\n")[0].includes("获取方式"), true);
+  const roundTripped = importCatalogCsv(catalog, parseCatalogCsv(exported), "replace");
+  assert.equal(roundTripped.tags.length, catalog.tags.length);
+  assert.equal(roundTripped.tags.find((tag) => tag.name === "获取方式")?.kind, "exact");
+});
+
+test("只填大类的 category 标签在保存舰船时不会丢失", () => {
+  const withTag = applyCatalogMutation(createDefaultCatalog(), {
+    action: "saveTag",
+    name: "能力类型",
+    kind: "category",
+  });
+  const tag = withTag.tags.find((item) => item.name === "能力类型")!;
+  const saved = applyCatalogMutation(withTag, {
+    action: "saveCharacter",
+    name: "只填大类舰船",
+    categories: { [String(tag.id)]: "自然操纵" },
+  });
+  const stored = saved.values.find((item) => item.tagId === tag.id);
+  assert.equal(stored?.category, "自然操纵");
+  assert.equal(stored?.variant, tag.primaryVariant);
+});
+
+test("后台编辑表单只读取判定列的取值", () => {
+  const catalog = createDefaultCatalog();
+  const rarity = catalog.tags.find((tag) => tag.name === "稀有度")!;
+  const enterprise = catalog.characters.find((character) => character.name === "企业")!;
+  // 人为制造「判定列是 en」的题库：表单必须跟着判定列，不能取到 @zh 那一行
+  const flipped: LocalCatalog = {
+    ...catalog,
+    tags: catalog.tags.map((tag) => (tag.id === rarity.id ? { ...tag, primaryVariant: "en" } : tag)),
+  };
+  const row = characterValuesForEditing(flipped, enterprise.id).find((item) => item.tagId === rarity.id)!;
+  assert.equal(row.variant, "en");
+  const zhRow = characterValuesForEditing(catalog, enterprise.id).find((item) => item.tagId === rarity.id)!;
+  assert.equal(zhRow.variant, "zh");
+});
+
+test("单条玩家题库损坏不会牵连其它题库，只读载入也不再写回存档", () => {
+  const LIBRARY_KEY = "hangyiba:catalog-library:v2";
+  let writes = 0;
+  const storage = new MemoryStorage();
+  const countingSetItem = storage.setItem.bind(storage);
+  storage.setItem = (key: string, value: string) => {
+    writes += 1;
+    countingSetItem(key, value);
+  };
+
+  const good = createPlayerCatalog("好的题库", createDefaultCatalog(), storage);
+  // 手工塞一条结构损坏的玩家题库（缺 values[].value）
+  const raw = JSON.parse(storage.getItem(LIBRARY_KEY)!);
+  raw.players.push({
+    id: "player:99",
+    name: "坏题库",
+    catalog: { tags: [], characters: [], values: [{ characterId: 1, tagId: 1, variant: "zh" }] },
+  });
+  storage.setItem(LIBRARY_KEY, JSON.stringify(raw));
+
+  const loaded = loadCatalogLibrary(storage);
+  // 坏的那条被剔除，好的必须留下（修复写回一次）
+  assert.deepEqual(loaded.catalogs.filter((item) => !item.official).map((item) => item.id), [good.id]);
+  assert.deepEqual(
+    JSON.parse(storage.getItem(LIBRARY_KEY)!).players.map((item: { id: string }) => item.id),
+    [good.id],
+  );
+
+  // 已经修复过的存档，纯读取不应再写盘
+  writes = 0;
+  loadCatalogLibrary(storage);
+  assert.equal(writes, 0);
+});
+
+test("localStorage 写失败时载入题库不会抛异常", () => {
+  const storage = new MemoryStorage();
+  storage.setItem = () => {
+    throw new Error("QuotaExceededError");
+  };
+  assert.equal(loadCatalogLibrary(storage).catalogs.length > 0, true);
 });

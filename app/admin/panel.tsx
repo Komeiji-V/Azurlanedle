@@ -3,6 +3,7 @@
 import { ChangeEvent, FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import {
   applyCatalogMutation,
+  characterValuesForEditing,
   copyCatalog,
   createPlayerCatalog,
   deletePlayerCatalog,
@@ -126,7 +127,8 @@ export function AdminPanel() {
   }
 
   function editCharacter(character: LocalCharacter) {
-    const characterValues = catalog.values.filter((item) => item.characterId === character.id);
+    // 每个标签只取判定列，避免多套写法互相覆盖
+    const characterValues = characterValuesForEditing(catalog, character.id);
     const values = Object.fromEntries(characterValues.map((item) => [String(item.tagId), item.value]));
     const categories = Object.fromEntries(
       characterValues

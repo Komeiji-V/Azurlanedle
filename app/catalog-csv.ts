@@ -31,8 +31,17 @@ function collectVariants(catalog: LocalCatalog): Map<number, string[]> {
     if (!list.includes(value.variant)) list.push(value.variant);
     byTag.set(value.tagId, list);
   }
-  for (const list of byTag.values()) {
-    list.sort((left, right) => (left === "" ? -1 : right === "" ? 1 : left.localeCompare(right)));
+  const primaryByTag = new Map(catalog.tags.map((tag) => [tag.id, tag.primaryVariant ?? ""]));
+  for (const [tagId, list] of byTag) {
+    // 判定列必须排在该标签的第一列：导入时按「第一列即判定列」重建 primaryVariant，
+    // 若按名字排序（@en 排在 @zh 前），导出再导入一次就会把判定列悄悄换成英文写法。
+    const primary = primaryByTag.get(tagId) ?? "";
+    list.sort((left, right) => {
+      if (left === right) return 0;
+      if (left === primary) return -1;
+      if (right === primary) return 1;
+      return left.localeCompare(right);
+    });
   }
   return byTag;
 }
@@ -250,9 +259,11 @@ function csvCell(value: string): string {
 export function exportCatalogCsv(catalog: LocalCatalog): string {
   const tags = sortTags(catalog.tags);
   const variants = collectVariants(catalog);
+  // 还没有任何取值的标签也要导出至少一列，否则替换导入时整个标签会连同类型一起消失
+  const variantsFor = (tag: LocalTag) => variants.get(tag.id) ?? [tag.primaryVariant ?? ""];
   const headers = [
     ...CSV_BASE_HEADERS,
-    ...tags.flatMap((tag) => (variants.get(tag.id) ?? []).map((variant) => formatTagHeader(tag, variant))),
+    ...tags.flatMap((tag) => variantsFor(tag).map((variant) => formatTagHeader(tag, variant))),
   ];
   const valueMap = new Map(catalog.values.map((item) => [`${item.characterId}:${item.tagId}:${item.variant}`, item]));
   const formatValue = (item: LocalValue | undefined, tag: LocalTag) => {
@@ -271,7 +282,7 @@ export function exportCatalogCsv(catalog: LocalCatalog): string {
     character.name,
     character.aliases.join("、"),
     character.active ? "是" : "否",
-    ...tags.flatMap((tag) => (variants.get(tag.id) ?? []).map((variant) =>
+    ...tags.flatMap((tag) => variantsFor(tag).map((variant) =>
       formatValue(valueMap.get(`${character.id}:${tag.id}:${variant}`), tag))),
   ]);
   return `\uFEFF${[headers, ...rows].map((row) => row.map(csvCell).join(",")).join("\r\n")}\r\n`;
