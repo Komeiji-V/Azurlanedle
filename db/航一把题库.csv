@@ -1,7 +1,7 @@
 ﻿舰船名,别名,启用,稀有度@zh（类型：exact）,稀有度@en（类型：exact）,阵营@zh（类型：exact）,阵营@en（类型：exact）,舰种@zh（类型：exact）,舰种@en（类型：exact）,舰级@zh（类型：exact）,舰级@en（类型：exact）,建造时间@zh（类型：ordered）,实装活动@zh（类型：ordered）,实装活动@en（类型：ordered）
-泛用型布里,Universal Bulin,是,精锐,Elite,其他,Universal,驱逐,DD,Bulin,Bulin,无法建造,无活动,No Event
-试作型布里MKII,Trial Bulin MKII、Prototype Bulin MKII,是,超稀有,Super Rare,其他,Universal,驱逐,DD,Bulin,Bulin,无法建造,无活动,No Event
-特装型布里MKIII,Specialized Bulin MKIII、Specialized Bulin Custom MKIII,是,海上传奇,Ultra Rare,其他,Universal,驱逐,DD,Bulin,Bulin,无法建造,无活动,No Event
+泛用型布里,Universal Bulin,是,精锐,Elite,其他,Universal,驱逐,DD,布里,Bulin,无法建造,无活动,No Event
+试作型布里MKII,Trial Bulin MKII、Prototype Bulin MKII,是,超稀有,Super Rare,其他,Universal,驱逐,DD,布里,Bulin,无法建造,无活动,No Event
+特装型布里MKIII,Specialized Bulin MKIII、Specialized Bulin Custom MKIII,是,海上传奇,Ultra Rare,其他,Universal,驱逐,DD,布里,Bulin,无法建造,无活动,No Event
 杜威,Dewey,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,法拉格特级,Farragut,无法建造,无活动,No Event
 卡辛,Cassin,是,普通,Normal,白鹰,Eagle Union,驱逐,DD,马汉级,Mahan,00:23:00,无活动,No Event
 唐斯,Downes,是,普通,Normal,白鹰,Eagle Union,驱逐,DD,马汉级,Mahan,00:23:00,无活动,No Event
@@ -30,18 +30,18 @@
 贝奇,Bache,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,无活动,No Event
 霍比,Hobby,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,本森级,Benson,00:27:00,2018-10-25 复刻：坠落之翼,2018-10-25 Fallen Wings
 科尔克,Kalk,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,本森级,Benson,00:27:00,2018-10-25 复刻：坠落之翼,2018-10-25 Fallen Wings
-金伯利,Kimberly,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,2019-01-24 复刻：凛冬王冠,2019-01-24 Lunar New Year 2019
-马拉尼,Mullany,是,精锐,Elite,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,2019-01-24 复刻：凛冬王冠,2019-01-24 Lunar New Year 2019
+金伯利,Kimberly,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,2019-01-31 闹腾嬉戏东煌春节,2019-01-31 Lunar New Year 2019
+马拉尼,Mullany,是,精锐,Elite,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,2019-01-31 闹腾嬉戏东煌春节,2019-01-31 Lunar New Year 2019
 艾尔温,Aylwin,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,法拉格特级,Farragut,无法建造,2019-07-31 箱庭疗法,2019-07-31 Ashen Simulacrum
 斯坦利,Stanly,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,无活动,No Event
 斯莫利,Smalley,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,无活动,No Event
-哈尔西·鲍威尔,Halsey Powell,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,2020-01-21,"2020-01-21 Fight On, Royal Maids!"
+哈尔西·鲍威尔,Halsey Powell,是,稀有,Rare,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,2020-01-21 战斗！皇家女仆队2nd,"2020-01-21 Fight On, Royal Maids!"
 库珀,Cooper,是,精锐,Elite,白鹰,Eagle Union,驱逐,DD,艾伦·M·萨姆纳级,Allen M. Sumner,00:29:00,2020-03-26 微层混合,2020-03-26 Microlayer Medley
 艾伦·萨姆纳,Allen M. Sumner,是,超稀有,Super Rare,白鹰,Eagle Union,驱逐,DD,艾伦·M·萨姆纳级,Allen M. Sumner,00:29:00,2021-03-25 复刻：箱庭疗法,2021-03-25 Ashen Simulacrum Rerun
 史蒂芬·波特,Stephen Potter,是,精锐,Elite,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,2021-03-25 复刻：箱庭疗法,2021-03-25 Ashen Simulacrum Rerun
 莫里森,赛普拉斯、Morrison,是,精锐,Elite,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,无法建造,2021-05-27 镜位螺旋,2021-05-27 Mirror Involution
 英格拉罕,格拉哈姆、Ingraham,是,超稀有,Super Rare,白鹰,Eagle Union,驱逐,DD,艾伦·M·萨姆纳级,Allen M. Sumner,00:29:00,2021-08-19 复刻：微层混合,2021-08-19 Microlayer Medley Rerun
-布里斯托尔,Bristol,是,超稀有,Super Rare,白鹰,Eagle Union,驱逐,DD,艾伦·M·萨姆纳级,Allen M. Sumner,00:29:00,2022-01-27,2022-01-27 Happy Lunar New Year 2022
+布里斯托尔,Bristol,是,超稀有,Super Rare,白鹰,Eagle Union,驱逐,DD,艾伦·M·萨姆纳级,Allen M. Sumner,00:29:00,2022-01-27 演习神秘事件调查,2022-01-27 Happy Lunar New Year 2022
 哈曼II,Hammann II,是,精锐,Elite,白鹰,Eagle Union,驱逐,DD,埃德索尔级,Edsall,00:15:00,2022-12-22 定向折叠,2022-12-22 Parallel Superimposition
 拉菲II,Laffey II,是,海上传奇,Ultra Rare,白鹰,Eagle Union,驱逐,DD,艾伦·M·萨姆纳级,Allen M. Sumner,无法建造,2023-12-21 星海逐光,2023-12-21 Light-Chasing Sea of Stars
 贝尔,Bell,是,精锐,Elite,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,00:28:00,2024-08-15 铁翼擎风,2024-08-15 Windborne Steel Wings
@@ -64,13 +64,13 @@
 丹佛,Denver,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,克利夫兰级,Cleveland,01:25:00,无活动,No Event
 孟菲斯,Memphis,是,稀有,Rare,白鹰,Eagle Union,轻巡,CL,奥马哈级,Omaha,无法建造,无活动,No Event
 康克德,Concord,是,稀有,Rare,白鹰,Eagle Union,轻巡,CL,奥马哈级,Omaha,01:05:00,无活动,No Event
-小海伦娜,Lena,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,布鲁克林级,Brooklyn,01:10:00,2019-05-23 铁血、音符&誓言,2019-05-23 There Comes the Future Star!
-小克利夫兰,Clevelad,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,克利夫兰级,Cleveland,01:20:00,2019-05-23 铁血、音符&誓言,2019-05-23 There Comes the Future Star!
-小圣地亚哥,小圣戴安娜、Li'l Sandy,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,亚特兰大级,Atlanta,无法建造,2019-05-23 铁血、音符&誓言,2019-05-23 There Comes the Future Star!
+小海伦娜,Lena,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,布鲁克林级,Brooklyn,01:10:00,2019-05-30 明日之星•闪亮登场,2019-05-30 There Comes the Future Star!
+小克利夫兰,Clevelad,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,克利夫兰级,Cleveland,01:20:00,2019-05-30 明日之星•闪亮登场,2019-05-30 There Comes the Future Star!
+小圣地亚哥,小圣戴安娜、Li'l Sandy,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,亚特兰大级,Atlanta,无法建造,2019-05-30 明日之星•闪亮登场,2019-05-30 There Comes the Future Star!
 圣胡安,San Juan,是,稀有,Rare,白鹰,Eagle Union,轻巡,CL,亚特兰大级,Atlanta,无法建造,2019-07-31 箱庭疗法,2019-07-31 Ashen Simulacrum
 伯明翰,Birmingham,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,克利夫兰级,Cleveland,01:25:00,2019-07-31 箱庭疗法,2019-07-31 Ashen Simulacrum
-克利夫兰(μ兵装),Cleveland、Cleveland µ,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,克利夫兰级,Cleveland,01:25:00,2019-10-31,2019-10-31 Crescendo of Polaris
-比洛克西,Biloxi,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,克利夫兰级,Cleveland,01:25:00,2020-01-21,"2020-01-21 Fight On, Royal Maids!"
+克利夫兰(μ兵装),Cleveland、Cleveland µ,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,克利夫兰级,Cleveland,01:25:00,2019-10-31 激奏的Polaris,2019-10-31 Crescendo of Polaris
+比洛克西,Biloxi,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,克利夫兰级,Cleveland,01:25:00,2020-01-21 战斗！皇家女仆队2nd,"2020-01-21 Fight On, Royal Maids!"
 里诺,Reno,是,超稀有,Super Rare,白鹰,Eagle Union,轻巡,CL,亚特兰大级,Atlanta,01:10:00,2020-03-26 微层混合,2020-03-26 Microlayer Medley
 马布尔黑德,Marblehead,是,稀有,Rare,白鹰,Eagle Union,轻巡,CL,奥马哈级,Omaha,01:05:00,2020-03-26 微层混合,2020-03-26 Microlayer Medley
 博伊西,树城、Boise,是,精锐,Elite,白鹰,Eagle Union,轻巡,CL,布鲁克林级,Brooklyn,01:15:00,2021-05-27 镜位螺旋,2021-05-27 Mirror Involution
@@ -86,20 +86,20 @@
 休斯敦,Houston,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,北安普敦级,Northampton,01:40:00,无活动,No Event
 波特兰,Portland,是,稀有,Rare,白鹰,Eagle Union,重巡,CA,波特兰级,Portland,01:50:00,无活动,No Event
 印第安纳波利斯,Indianapolis,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,波特兰级,Portland,01:50:00,无活动,No Event
-阿斯托利亚,Astoria,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,无法建造,2018-07-17,2018-07-17 Prelude under the Moon
-昆西,Quincy,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,无法建造,2018-07-17,2018-07-17 Prelude under the Moon
-文森斯,Vincennes,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,无法建造,2018-07-17,2018-07-17 Prelude under the Moon
+阿斯托利亚,Astoria,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,无法建造,2018-07-17 月光下的序曲,2018-07-17 Prelude under the Moon
+昆西,Quincy,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,无法建造,2018-07-17 月光下的序曲,2018-07-17 Prelude under the Moon
+文森斯,Vincennes,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,无法建造,2018-07-17 月光下的序曲,2018-07-17 Prelude under the Moon
 威奇塔,Wichita,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,威奇塔级,Wichita,02:30:00,无活动,No Event
 新奥尔良,New Orleans,是,超稀有,Super Rare,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,无法建造,无活动,No Event
 明尼阿波利斯,Minneapolis,是,超稀有,Super Rare,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,无法建造,2018-10-25 复刻：坠落之翼,2018-10-25 Fallen Wings
 旧金山,雾城、San Francisco,是,超稀有,Super Rare,白鹰,Eagle Union,重巡,CA,新奥尔良级,New Orleans,01:56:00,2021-05-27 镜位螺旋,2021-05-27 Mirror Involution
 巴尔的摩,Baltimore,是,超稀有,Super Rare,白鹰,Eagle Union,重巡,CA,巴尔的摩级,Baltimore,02:00:00,2019-07-31 箱庭疗法,2019-07-31 Ashen Simulacrum
 布莱默顿,Bremerton,是,超稀有,Super Rare,白鹰,Eagle Union,重巡,CA,巴尔的摩级,Baltimore,02:00:00,2020-03-26 微层混合,2020-03-26 Microlayer Medley
-巴尔的摩(μ兵装),Baltimore、Baltimore µ,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,巴尔的摩级,Baltimore,02:00:00,2020-10-29,2020-10-29 Universe in Unison
+巴尔的摩(μ兵装),Baltimore、Baltimore µ,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,巴尔的摩级,Baltimore,02:00:00,2020-10-29 激唱的UNIVERSE,2020-10-29 Universe in Unison
 北安普敦II,Northampton II,是,超稀有,Super Rare,白鹰,Eagle Union,重巡,CA,俄勒冈城级,Oregon City,02:00:00,2022-12-22 定向折叠,2022-12-22 Parallel Superimposition
 路易斯维尔,Louisville,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,北安普敦级,Northampton,无法建造,2023-12-21 星海逐光,2023-12-21 Light-Chasing Sea of Stars
 匹兹堡,Pittsburgh,是,超稀有,Super Rare,白鹰,Eagle Union,重巡,CA,巴尔的摩级,Baltimore,02:00:00,2024-08-15 铁翼擎风,2024-08-15 Windborne Steel Wings
-小安克雷奇,Little Anchorage,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,Anchorage,Anchorage,无法建造,2025-04-24 扬起郁金之旗,2025-04-24 Drawing the Starry Skies
+小安克雷奇,Little Anchorage,是,精锐,Elite,白鹰,Eagle Union,重巡,CA,安克雷奇级,Anchorage,无法建造,2025-04-24 扬起郁金之旗,2025-04-24 Drawing the Starry Skies
 星座,Constellation,是,超稀有,Super Rare,白鹰,Eagle Union,战巡,BC,列克星敦级,Lexington,04:16:30,2023-12-21 星海逐光,2023-12-21 Light-Chasing Sea of Stars
 内华达,Nevada,是,普通,Normal,白鹰,Eagle Union,战列,BB,内华达级,Nevada,04:00:00,无活动,No Event
 俄克拉荷马,Oklahoma,是,普通,Normal,白鹰,Eagle Union,战列,BB,内华达级,Nevada,04:00:00,无活动,No Event
@@ -120,7 +120,7 @@
 长岛,Long Island,是,稀有,Rare,白鹰,Eagle Union,轻航,CVL,长岛级,Long Island,02:15:00,无活动,No Event
 博格,Bogue,是,普通,Normal,白鹰,Eagle Union,轻航,CVL,博格级,Bogue,02:20:00,无活动,No Event
 卡萨布兰卡,Casablanca,是,稀有,Rare,白鹰,Eagle Union,轻航,CVL,卡萨布兰卡级,Casablanca,无法建造,2020-03-26 微层混合,2020-03-26 Microlayer Medley
-兰利,Langley,是,普通,Normal,白鹰,Eagle Union,轻航,CVL,Langley,Langley,02:00:00,无活动,No Event
+兰利,Langley,是,普通,Normal,白鹰,Eagle Union,轻航,CVL,兰利级,Langley,02:00:00,无活动,No Event
 列克星敦,Lexington,是,精锐,Elite,白鹰,Eagle Union,航母,CV,列克星敦级,Lexington,03:40:00,无活动,No Event
 萨拉托加,Saratoga,是,精锐,Elite,白鹰,Eagle Union,航母,CV,列克星敦级,Lexington,03:40:00,无活动,No Event
 突击者,Ranger,是,普通,Normal,白鹰,Eagle Union,轻航,CVL,突击者级,Ranger,02:40:00,无活动,No Event
@@ -128,7 +128,7 @@
 企业,Enterprise,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,约克城级,Yorktown,04:20:00,无活动,No Event
 大黄蜂,Hornet,是,精锐,Elite,白鹰,Eagle Union,航母,CV,约克城级,Yorktown,04:20:00,无活动,No Event
 胡蜂,Wasp,是,稀有,Rare,白鹰,Eagle Union,航母,CV,胡蜂级,Wasp,无法建造,2017-12-28 坠落之翼,2017-12-28 Fallen Wings
-埃塞克斯,Essex,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2018-09-14,2018-09-14 1 Year Anniversary
+埃塞克斯,Essex,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2018-09-14 大青花鱼的涂鸦板,2018-09-14 1 Year Anniversary
 约克城II,Yorktown II,是,海上传奇,Ultra Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2022-12-22 定向折叠,2022-12-22 Parallel Superimposition
 无畏,Intrepid,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2020-03-26 微层混合,2020-03-26 Microlayer Medley
 大黄蜂II,Hornet II,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2022-12-22 定向折叠,2022-12-22 Parallel Superimposition
@@ -136,36 +136,36 @@
 提康德罗加,卡莉永、Ticonderoga,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2021-05-27 镜位螺旋,2021-05-27 Mirror Involution
 列克星敦II,Lexington II,是,海上传奇,Ultra Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2025-12-18 响彻于天穹之音,2025-12-18 A Note Through the Firmament
 邦克山,Bunker Hill,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,无法建造,无活动,No Event
-独立,Independence,是,精锐,Elite,白鹰,Eagle Union,轻航,CVL,独立级,Independence,无法建造,2019-02-28,2019-02-28 Air Raid Drills with Essex
-普林斯顿,Princeton,是,精锐,Elite,白鹰,Eagle Union,轻航,CVL,独立级,Independence,02:06:40,2020-10-12,2020-10-12 Sundered Blue
+独立,Independence,是,精锐,Elite,白鹰,Eagle Union,轻航,CVL,独立级,Independence,无法建造,2019-02-28 特别演习•埃塞克斯级,2019-02-28 Air Raid Drills with Essex
+普林斯顿,Princeton,是,精锐,Elite,白鹰,Eagle Union,轻航,CVL,独立级,Independence,02:06:40,2020-10-12 划破海空之翼,2020-10-12 Sundered Blue
 科本斯,Cowpens,是,超稀有,Super Rare,白鹰,Eagle Union,轻航,CVL,独立级,Independence,02:06:40,2025-12-18 响彻于天穹之音,2025-12-18 A Note Through the Firmament
 兰利II,Langley II,是,精锐,Elite,白鹰,Eagle Union,轻航,CVL,独立级,Independence,无法建造,2022-12-22 定向折叠,2022-12-22 Parallel Superimposition
 巴丹,Bataan,是,精锐,Elite,白鹰,Eagle Union,轻航,CVL,独立级,Independence,无法建造,2019-07-31 箱庭疗法,2019-07-31 Ashen Simulacrum
 圣哈辛托,San Jacinto,是,精锐,Elite,白鹰,Eagle Union,轻航,CVL,独立级,Independence,02:06:40,2023-12-21 星海逐光,2023-12-21 Light-Chasing Sea of Stars
-香格里拉,Shangri-La,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2019-02-28,2019-02-28 Air Raid Drills with Essex
+香格里拉,Shangri-La,是,超稀有,Super Rare,白鹰,Eagle Union,航母,CV,埃塞克斯级,Essex,04:25:00,2019-02-28 特别演习•埃塞克斯级,2019-02-28 Air Raid Drills with Essex
 小企业,Little Enterprise,是,精锐,Elite,白鹰,Eagle Union,航母,CV,约克城级,Yorktown,04:30:00,2021-05-27 镜位螺旋,2021-05-27 Soar Fledgling Wings!
 鲦鱼,Dace,是,精锐,Elite,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,无法建造,无活动,No Event
-大青花鱼,Albacore,是,超稀有,Super Rare,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,无法建造,2018-09-14,2018-09-14 1 Year Anniversary
+大青花鱼,Albacore,是,超稀有,Super Rare,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,无法建造,2018-09-14 大青花鱼的涂鸦板,2018-09-14 1 Year Anniversary
 棘鳍,Cavalla,是,超稀有,Super Rare,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,无法建造,2019-07-31 箱庭疗法,2019-07-31 Ashen Simulacrum
 蓝鳃鱼,Bluegill,是,精锐,Elite,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,无法建造,2020-03-26 微层混合,2020-03-26 Microlayer Medley
-大青花鱼(μ兵装),Albacore、Albacore µ,是,精锐,Elite,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,00:24:00,2020-10-29,2020-10-29 Universe in Unison
+大青花鱼(μ兵装),Albacore、Albacore µ,是,精锐,Elite,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,00:24:00,2020-10-29 激唱的UNIVERSE,2020-10-29 Universe in Unison
 射水鱼,喷水鱼、Archerfish,是,超稀有,Super Rare,白鹰,Eagle Union,潜艇,SS,巴劳鱵级,Balao,00:25:00,2021-05-27 镜位螺旋,2021-05-27 Mirror Involution
 鹦鹉螺,Nautilus,是,精锐,Elite,白鹰,Eagle Union,潜艇,SS,独角鲸级,Narwhal,00:23:00,2021-08-19 复刻：微层混合,2021-08-19 Microlayer Medley Rerun
 松鲷,Flasher,是,超稀有,Super Rare,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,00:24:00,2023-12-21 星海逐光,2023-12-21 Light-Chasing Sea of Stars
 鲱鱼,Herring,是,精锐,Elite,白鹰,Eagle Union,潜艇,SS,猫鲨级,Gato,无法建造,2024-08-15 铁翼擎风,2024-08-15 Windborne Steel Wings
-女灶神,Vestal,是,精锐,Elite,白鹰,Eagle Union,维修,AR,Vestal,Vestal,02:00:00,无活动,No Event
+女灶神,Vestal,是,精锐,Elite,白鹰,Eagle Union,维修,AR,女灶神级,Vestal,02:00:00,无活动,No Event
 关岛,Guam,是,海上传奇,Ultra Rare,白鹰,Eagle Union,超巡,CB,阿拉斯加级,Alaska,04:11:40,2023-12-21 星海逐光,2023-12-21 Light-Chasing Sea of Stars
-西雅图,Seattle,是,最高方案,Priority,白鹰,Eagle Union,轻巡,CL,伍斯特级,Seattle,科研,2019-04-18,2019-04-18 Season 2
-佐治亚,Georgia,是,最高方案,Priority,白鹰,Eagle Union,战列,BB,衣阿华级,Georgia,科研,2019-04-18,2019-04-18 Season 2
-安克雷奇,Anchorage,是,最高方案,Priority,白鹰,Eagle Union,重巡,CA,Anchorage,Anchorage,科研,2021-07-08,2021-07-08 Season 4
-奇尔沙治,Kearsarge,是,决战方案,Decisive,白鹰,Eagle Union,航战,BBV,1型,Kearsarge,科研,2023-07-13,2023-07-13 Season 6
-哈尔福德,Halford,是,最高方案,Priority,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,科研,2024-07-18 轻量化复刻：泠誓光庭,2024-07-18 Season 7
-堪萨斯,Kansas,是,最高方案,Priority,白鹰,Eagle Union,战列,BB,南达科他级,Kansas,科研,2025-07-10,2025-07-10 Season 8
+西雅图,Seattle,是,最高方案,Priority,白鹰,Eagle Union,轻巡,CL,伍斯特级,Seattle,科研,2019-04-18 开发船坞,2019-04-18 Season 2
+佐治亚,Georgia,是,最高方案,Priority,白鹰,Eagle Union,战列,BB,衣阿华级,Georgia,科研,2019-04-18 开发船坞,2019-04-18 Season 2
+安克雷奇,Anchorage,是,最高方案,Priority,白鹰,Eagle Union,重巡,CA,安克雷奇级,Anchorage,科研,2021-07-08 开发船坞,2021-07-08 Season 4
+奇尔沙治,Kearsarge,是,决战方案,Decisive,白鹰,Eagle Union,航战,BBV,1型,Kearsarge,科研,2023-07-13 密语档案室,2023-07-13 Season 6
+哈尔福德,Halford,是,最高方案,Priority,白鹰,Eagle Union,驱逐,DD,弗莱彻级,Fletcher,科研,2024-07-11 开发船坞,2024-07-11 Season 7
+堪萨斯,Kansas,是,最高方案,Priority,白鹰,Eagle Union,战列,BB,南达科他级,Kansas,科研,2025-07-10 开发船坞,2025-07-10 Season 8
 女将,Amazon,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,A级,Amazon,00:19:00,无活动,No Event
-阿卡司塔,Acasta,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,A and B,A and B,00:19:00,2017-10-26,2017-10-26 Glorious Battle
-热心,Ardent,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,A and B,A and B,00:19:00,2017-10-26,2017-10-26 Glorious Battle
-小猎兔犬,Beagle,是,普通,Normal,皇家,Royal Navy,驱逐,DD,A and B,A and B,00:20:00,无活动,No Event
-大斗犬,Bulldog,是,普通,Normal,皇家,Royal Navy,驱逐,DD,A and B,A and B,00:20:00,无活动,No Event
+阿卡司塔,Acasta,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,A级／B级,A and B,00:19:00,2017-10-26 万圣节之夜,2017-10-26 Glorious Battle
+热心,Ardent,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,A级／B级,A and B,00:19:00,2017-10-26 万圣节之夜,2017-10-26 Glorious Battle
+小猎兔犬,Beagle,是,普通,Normal,皇家,Royal Navy,驱逐,DD,A级／B级,A and B,00:20:00,无活动,No Event
+大斗犬,Bulldog,是,普通,Normal,皇家,Royal Navy,驱逐,DD,A级／B级,A and B,00:20:00,无活动,No Event
 彗星,Comet,是,普通,Normal,皇家,Royal Navy,驱逐,DD,C级,C,00:21:00,无活动,No Event
 新月,Crescent,是,普通,Normal,皇家,Royal Navy,驱逐,DD,C级,C,00:21:00,无活动,No Event
 小天鹅,Cygnet,是,普通,Normal,皇家,Royal Navy,驱逐,DD,C级,C,00:21:00,无活动,No Event
@@ -173,69 +173,69 @@
 命运女神,Fortune,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,F级,F,无法建造,无活动,No Event
 格伦维尔,Grenville,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,G级,G,00:25:00,2019-01-24 复刻：凛冬王冠,2019-01-24 Winter's Crown
 萤火虫,Glowworm,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,G级,G,无法建造,无活动,No Event
-勇敢,Hardy,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,H级,H,00:26:00,2019-03-07,2019-03-07 Stars of the Shimmering Fjord
-猎人,Hunter,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,H级,H,无法建造,2019-03-07,2019-03-07 Stars of the Shimmering Fjord
+勇敢,Hardy,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,H级,H,00:26:00,2019-03-07 峡湾间的星辰,2019-03-07 Stars of the Shimmering Fjord
+猎人,Hunter,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,H级,H,无法建造,2019-03-07 峡湾间的星辰,2019-03-07 Stars of the Shimmering Fjord
 标枪,Javelin,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,J级,J,00:27:00,无活动,No Event
 天后,Juno,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,J级,J,无法建造,无活动,No Event
-吸血鬼,Vampire,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,旧V级,V,无法建造,2017-06-08,"2017-06-08 Strive, Wish and Strategize"
+吸血鬼,Vampire,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,旧V级,V,无法建造,2017-06-07 努力、希望和计划,"2017-06-07 Strive, Wish and Strategize"
 丘比特,Jupiter,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,J级,J,00:27:00,无活动,No Event
 泽西,Jersey,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,J级,J,00:27:00,无活动,No Event
 无敌,Matchless,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,M级,M,无法建造,2018-02-26 凛冬王冠,2018-02-26 Winter's Crown
 火枪手,Musketeer,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,M级,M,无法建造,2018-02-26 凛冬王冠,2018-02-26 Winter's Crown
 回声,Echo,是,稀有,Rare,皇家,Royal Navy,驱逐,DD,E级,E,00:28:00,2019-05-23 铁血、音符&誓言,2019-05-23 Scherzo of Iron and Blood
-爱斯基摩人,Eskimo,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,部族级,Tribal,00:29:00,2020-06-03,2020-06-03 Counterattack Within the Fjord
+爱斯基摩人,Eskimo,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,部族级,Tribal,00:29:00,2020-06-03 峡湾间的反击,2020-06-03 Counterattack Within the Fjord
 伊卡洛斯,Icarus,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,I级,I,无法建造,2020-07-23 永夜幻光,2020-07-23 Aurora Noctis
 贾维斯,Jervis,是,超稀有,Super Rare,皇家,Royal Navy,驱逐,DD,J级,J,00:27:00,2022-05-26 泠誓光庭,2022-05-26 Pledge of the Radiant Court
-雅努斯,Janus,是,超稀有,Super Rare,皇家,Royal Navy,驱逐,DD,J级,J,00:27:00,2022-10-27,"2022-10-27 Fight On, Royal Maids! (Part 3)"
+雅努斯,Janus,是,超稀有,Super Rare,皇家,Royal Navy,驱逐,DD,J级,J,00:27:00,2022-10-27 战斗！皇家女仆队3rd？,"2022-10-27 Fight On, Royal Maids! (Part 3)"
 英雄,Hero,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,H级,H,无法建造,2023-02-23 湮烬尘墟,2023-02-23 Revelations of Dust
-努比亚人,Nubian,是,超稀有,Super Rare,皇家,Royal Navy,驱逐,DD,部族级,Tribal,00:29:00,2024-03-28,2024-03-28 From Zero to Hero
+努比亚人,Nubian,是,超稀有,Super Rare,皇家,Royal Navy,驱逐,DD,部族级,Tribal,00:29:00,2024-03-28 从零开始的魔王讨伐之旅,2024-03-28 From Zero to Hero
 特拉法尔加,Trafalgar,是,海上传奇,Ultra Rare,皇家,Royal Navy,驱逐,DD,战斗级,Battle,无法建造,2025-05-20 高塔上的蔷薇,2025-05-20 A Rose on the High Tower
 勇气,Gallant,是,精锐,Elite,皇家,Royal Navy,驱逐,DD,G级,G,00:25:00,2025-05-20 高塔上的蔷薇,2025-05-20 A Rose on the High Tower
 利安得,Leander,是,普通,Normal,皇家,Royal Navy,轻巡,CL,利安得级,Leander,01:15:00,无活动,No Event
 阿基里斯,Achilles,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,利安得级,Leander,01:15:00,无活动,No Event
 阿贾克斯,Ajax,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,利安得级,Leander,01:15:00,无活动,No Event
-黛朵,Dido,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2020-01-21,"2020-01-21 Fight On, Royal Maids!"
-南安普顿,Southampton,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,Town,Town,01:25:00,无活动,No Event
-谢菲尔德,Sheffield,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,Town,Town,无法建造,2018-02-26 凛冬王冠,2018-02-26 Winter's Crown
-曼彻斯特,Manchester,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,Town,Town,01:25:00,2022-10-27,"2022-10-27 Fight On, Royal Maids! (Part 3)"
-格罗斯特,Gloucester,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,Town,Town,01:25:00,2020-01-21,"2020-01-21 Fight On, Royal Maids!"
-爱丁堡,Edinburgh,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,Town,Town,无法建造,无活动,No Event
-贝尔法斯特,Belfast,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,Town,Town,01:25:00,无活动,No Event
+黛朵,Dido,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2020-01-21 战斗！皇家女仆队2nd,"2020-01-21 Fight On, Royal Maids!"
+南安普顿,Southampton,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,城级,Town,01:25:00,无活动,No Event
+谢菲尔德,Sheffield,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,城级,Town,无法建造,2018-02-26 凛冬王冠,2018-02-26 Winter's Crown
+曼彻斯特,Manchester,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,城级,Town,01:25:00,2022-10-27 战斗！皇家女仆队3rd？,"2022-10-27 Fight On, Royal Maids! (Part 3)"
+格罗斯特,Gloucester,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,城级,Town,01:25:00,2020-01-21 战斗！皇家女仆队2nd,"2020-01-21 Fight On, Royal Maids!"
+爱丁堡,Edinburgh,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,城级,Town,无法建造,无活动,No Event
+贝尔法斯特,Belfast,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,城级,Town,01:25:00,无活动,No Event
 阿瑞托莎,Arethusa,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,阿瑞托莎级,Arethusa,无法建造,无活动,No Event
 加拉蒂亚,Galatea,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,阿瑞托莎级,Arethusa,无法建造,无活动,No Event
 欧若拉,Aurora,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,阿瑞托莎级,Arethusa,01:20:00,无活动,No Event
 斐济,Fiji,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,斐济级,Crown Colony,无法建造,2018-02-26 凛冬王冠,2018-02-26 Winter's Crown
 牙买加,Jamaica,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,斐济级,Crown Colony,无法建造,2018-02-26 凛冬王冠,2018-02-26 Winter's Crown
-小贝法,Little Bel,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,Town,Town,01:20:00,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Operation Manjuu
-纽卡斯尔,Newcastle,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,Town,Town,无法建造,2018-09-28,"2018-09-28 Fight On, Royal Maids!"
+小贝法,Little Bel,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,城级,Town,01:20:00,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Operation Manjuu
+纽卡斯尔,Newcastle,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,城级,Town,无法建造,2018-09-28 战斗！皇家女仆队,"2018-09-28 Fight On, Royal Maids!"
 天狼星,Sirius,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,无法建造,2019-01-24 复刻：凛冬王冠,2019-01-24 Winter's Crown
-库拉索,Curacoa,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,谷物女神级,Ceres,01:07:00,2019-01-24 复刻：凛冬王冠,2019-01-24 Lunar New Year 2019
-杓鹬,Curlew,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,谷物女神级,Ceres,01:07:00,2019-01-24 复刻：凛冬王冠,2019-01-24 Lunar New Year 2019
+库拉索,Curacoa,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,谷物女神级,Ceres,01:07:00,2019-01-31 闹腾嬉戏东煌春节,2019-01-31 Lunar New Year 2019
+杓鹬,Curlew,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,谷物女神级,Ceres,01:07:00,2019-01-31 闹腾嬉戏东煌春节,2019-01-31 Lunar New Year 2019
 确捷,Swiftsure,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,确捷级,Minotaur,01:25:00,无活动,No Event
 黑太子,Black Prince,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,无法建造,无活动,No Event
-谢菲尔德(μ兵装),Sheffield、Sheffield µ,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,Town,Town,无法建造,2019-10-31,2019-10-31 Crescendo of Polaris
-格拉斯哥,Glasgow,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,Town,Town,01:25:00,无活动,No Event
+谢菲尔德(μ兵装),Sheffield、Sheffield µ,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,城级,Town,无法建造,2019-10-31 激奏的Polaris,2019-10-31 Crescendo of Polaris
+格拉斯哥,Glasgow,是,稀有,Rare,皇家,Royal Navy,轻巡,CL,城级,Town,01:25:00,无活动,No Event
 赫敏,Hermione,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2020-07-23 永夜幻光,2020-07-23 Aurora Noctis
-黛朵(μ兵装),Dido、Dido µ,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2020-10-29,2020-10-29 Universe in Unison
+黛朵(μ兵装),Dido、Dido µ,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2020-10-29 激唱的UNIVERSE,2020-10-29 Universe in Unison
 佩内洛珀,Penelope,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,阿瑞托莎级,Arethusa,01:20:00,无活动,No Event
-卡律布狄斯,Charybdis,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2022-01-27,2022-01-27 Happy Lunar New Year 2022
+卡律布狄斯,Charybdis,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2022-01-27 演习神秘事件调查,2022-01-27 Happy Lunar New Year 2022
 司战女神,Bellona,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,无法建造,2022-05-26 泠誓光庭,2022-05-26 Pledge of the Radiant Court
-进取,Enterprise、Enterprise (Royal Navy),是,精锐,Elite,皇家,Royal Navy,轻巡,CL,翡翠级,Emerald,01:07:00,2022-06-30,2022-06-30 Angel of the Iris
+进取,Enterprise、Enterprise (Royal Navy),是,精锐,Elite,皇家,Royal Navy,轻巡,CL,翡翠级,Emerald,01:07:00,2022-06-30 来自鸢尾的天使,2022-06-30 Angel of the Iris
 斯库拉,Scylla,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2023-02-23 湮烬尘墟,2023-02-23 Revelations of Dust
-利物浦,Liverpool,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,Town,Town,01:25:00,2024-03-28,2024-03-28 From Zero to Hero
+利物浦,Liverpool,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,城级,Town,01:25:00,2024-03-28 从零开始的魔王讨伐之旅,2024-03-28 From Zero to Hero
 克利奥佩特拉,Cleopatra,是,超稀有,Super Rare,皇家,Royal Navy,轻巡,CL,黛朵级,Dido,00:55:00,2025-05-20 高塔上的蔷薇,2025-05-20 A Rose on the High Tower
 特立尼达,Trinidad,是,精锐,Elite,皇家,Royal Navy,轻巡,CL,斐济级,Crown Colony,无法建造,2025-05-20 高塔上的蔷薇,2025-05-20 A Rose on the High Tower
-伦敦,London,是,精锐,Elite,皇家,Royal Navy,重巡,CA,County,County,01:30:00,无活动,No Event
-什罗普郡,Shropshire,是,稀有,Rare,皇家,Royal Navy,重巡,CA,County,County,01:30:00,无活动,No Event
-肯特,Kent,是,稀有,Rare,皇家,Royal Navy,重巡,CA,County,County,01:30:00,无活动,No Event
-萨福克,Suffolk,是,稀有,Rare,皇家,Royal Navy,重巡,CA,County,County,01:30:00,无活动,No Event
-诺福克,Norfolk,是,稀有,Rare,皇家,Royal Navy,重巡,CA,County,County,01:30:00,无活动,No Event
-多塞特郡,Dorsetshire,是,精锐,Elite,皇家,Royal Navy,重巡,CA,County,County,01:30:00,无活动,No Event
+伦敦,London,是,精锐,Elite,皇家,Royal Navy,重巡,CA,郡级,County,01:30:00,无活动,No Event
+什罗普郡,Shropshire,是,稀有,Rare,皇家,Royal Navy,重巡,CA,郡级,County,01:30:00,无活动,No Event
+肯特,Kent,是,稀有,Rare,皇家,Royal Navy,重巡,CA,郡级,County,01:30:00,无活动,No Event
+萨福克,Suffolk,是,稀有,Rare,皇家,Royal Navy,重巡,CA,郡级,County,01:30:00,无活动,No Event
+诺福克,Norfolk,是,稀有,Rare,皇家,Royal Navy,重巡,CA,郡级,County,01:30:00,无活动,No Event
+多塞特郡,Dorsetshire,是,精锐,Elite,皇家,Royal Navy,重巡,CA,郡级,County,01:30:00,无活动,No Event
 约克,York,是,精锐,Elite,皇家,Royal Navy,重巡,CA,约克级,York,01:45:00,无活动,No Event
 埃克塞特,Exeter,是,精锐,Elite,皇家,Royal Navy,重巡,CA,约克级,York,01:45:00,无活动,No Event
-苏塞克斯,Sussex,是,稀有,Rare,皇家,Royal Navy,重巡,CA,County,County,01:30:00,无活动,No Event
-小柴郡,Little Cheshire,是,精锐,Elite,皇家,Royal Navy,重巡,CA,Cheshire,Cheshire,无法建造,2022-05-26 泠誓光庭,2022-05-26 A Cookie For Mew!
-德文郡,Devonshire,是,精锐,Elite,皇家,Royal Navy,重巡,CA,County,County,无法建造,2024-03-28,2024-03-28 From Zero to Hero
+苏塞克斯,Sussex,是,稀有,Rare,皇家,Royal Navy,重巡,CA,郡级,County,01:30:00,无活动,No Event
+小柴郡,Little Cheshire,是,精锐,Elite,皇家,Royal Navy,重巡,CA,柴郡级,Cheshire,无法建造,2022-05-26 泠誓光庭,2022-05-26 A Cookie For Mew!
+德文郡,Devonshire,是,精锐,Elite,皇家,Royal Navy,重巡,CA,郡级,County,无法建造,2024-03-28 从零开始的魔王讨伐之旅,2024-03-28 From Zero to Hero
 声望,Renown,是,精锐,Elite,皇家,Royal Navy,战巡,BC,声望级,Renown,04:10:00,无活动,No Event
 反击,Repulse,是,稀有,Rare,皇家,Royal Navy,战巡,BC,声望级,Renown,04:10:00,无活动,No Event
 胡德,Hood,是,超稀有,Super Rare,皇家,Royal Navy,战巡,BC,海军上将级,Admiral,05:50:00,无活动,No Event
@@ -245,7 +245,7 @@
 纳尔逊,Nelson,是,精锐,Elite,皇家,Royal Navy,战列,BB,纳尔逊级,Nelson,04:40:00,无活动,No Event
 罗德尼,Rodney,是,精锐,Elite,皇家,Royal Navy,战列,BB,纳尔逊级,Nelson,04:40:00,无活动,No Event
 英王乔治五世,King George V,是,超稀有,Super Rare,皇家,Royal Navy,战列,BB,乔治五世级,King George V,04:50:00,2019-05-23 铁血、音符&誓言,2019-05-23 Scherzo of Iron and Blood
-威尔士亲王,Prince of Wales,是,超稀有,Super Rare,皇家,Royal Navy,战列,BB,乔治五世级,King George V,无法建造,2017-06-08,"2017-06-08 Strive, Wish and Strategize"
+威尔士亲王,Prince of Wales,是,超稀有,Super Rare,皇家,Royal Navy,战列,BB,乔治五世级,King George V,无法建造,2017-06-07 努力、希望和计划,"2017-06-07 Strive, Wish and Strategize"
 约克公爵,Duke of York,是,超稀有,Super Rare,皇家,Royal Navy,战列,BB,乔治五世级,King George V,无法建造,2018-02-26 凛冬王冠,2018-02-26 Winter's Crown
 豪,Howe,是,超稀有,Super Rare,皇家,Royal Navy,战列,BB,乔治五世级,King George V,04:50:00,2020-07-23 永夜幻光,2020-07-23 Aurora Noctis
 英勇,Valiant,是,精锐,Elite,皇家,Royal Navy,战列,BB,伊丽莎白女王级,Queen Elizabeth,04:10:00,2020-07-23 永夜幻光,2020-07-23 Aurora Noctis
@@ -253,56 +253,56 @@
 前卫,Vanguard,是,海上传奇,Ultra Rare,皇家,Royal Navy,战列,BB,前卫级,Vanguard,05:20:00,2022-05-26 泠誓光庭,2022-05-26 Pledge of the Radiant Court
 皇家橡树,Royal Oak,是,超稀有,Super Rare,皇家,Royal Navy,战列,BB,复仇级,Revenge,04:10:00,2023-02-23 湮烬尘墟,2023-02-23 Revelations of Dust
 狮,Lion,是,海上传奇,Ultra Rare,皇家,Royal Navy,战列,BB,狮级,Lion,06:20:00,2025-05-20 高塔上的蔷薇,2025-05-20 A Rose on the High Tower
-竞技神,Hermes,是,普通,Normal,皇家,Royal Navy,轻航,CVL,Hermes,Hermes,02:10:00,无活动,No Event
-百眼巨人,Argus,是,精锐,Elite,皇家,Royal Navy,轻航,CVL,Argus,Argus,02:10:00,2023-02-23 湮烬尘墟,2023-02-23 Revelations of Dust
-独角兽,Unicorn,是,精锐,Elite,皇家,Royal Navy,轻航,CVL,Unicorn,Unicorn,02:30:00,无活动,No Event
+竞技神,Hermes,是,普通,Normal,皇家,Royal Navy,轻航,CVL,竞技神级,Hermes,02:10:00,无活动,No Event
+百眼巨人,Argus,是,精锐,Elite,皇家,Royal Navy,轻航,CVL,百眼巨人级,Argus,02:10:00,2023-02-23 湮烬尘墟,2023-02-23 Revelations of Dust
+独角兽,Unicorn,是,精锐,Elite,皇家,Royal Navy,轻航,CVL,独角兽级,Unicorn,02:30:00,无活动,No Event
 半人马,Centaur,是,超稀有,Super Rare,皇家,Royal Navy,轻航,CVL,半人马级,Centaur,03:00:00,无活动,No Event
-追赶者,Chaser,是,精锐,Elite,皇家,Royal Navy,轻航,CVL,攻击者级,Attacker,无法建造,2019-01-24 复刻：凛冬王冠,2019-01-24 Lunar New Year 2019
+追赶者,Chaser,是,精锐,Elite,皇家,Royal Navy,轻航,CVL,攻击者级,Attacker,无法建造,2019-01-31 闹腾嬉戏东煌春节,2019-01-31 Lunar New Year 2019
 英仙座,Perseus,是,超稀有,Super Rare,皇家,Royal Navy,轻航,CVL,巨像级,Colossus,02:30:00,2020-07-23 永夜幻光,2020-07-23 Aurora Noctis
-阿尔比恩,Albion,是,超稀有,Super Rare,皇家,Royal Navy,轻航,CVL,半人马级,Centaur,03:00:00,2022-10-27,"2022-10-27 Fight On, Royal Maids! (Part 3)"
-忒修斯,Theseus,是,超稀有,Super Rare,皇家,Royal Navy,轻航,CVL,巨像级,Colossus,02:30:00,2023-01-18,2023-01-18 Happy Lunar New Year 2023
-鹰,Eagle,是,精锐,Elite,皇家,Royal Navy,航母,CV,Eagle,Eagle,02:00:00,2020-07-23 永夜幻光,2020-07-23 Aurora Noctis
-皇家方舟,Ark Royal,是,精锐,Elite,皇家,Royal Navy,航母,CV,Ark Royal,Ark Royal,04:00:00,无活动,No Event
+阿尔比恩,Albion,是,超稀有,Super Rare,皇家,Royal Navy,轻航,CVL,半人马级,Centaur,03:00:00,2022-10-27 战斗！皇家女仆队3rd？,"2022-10-27 Fight On, Royal Maids! (Part 3)"
+忒修斯,Theseus,是,超稀有,Super Rare,皇家,Royal Navy,轻航,CVL,巨像级,Colossus,02:30:00,2023-01-18 冬日的寻路人,2023-01-18 Happy Lunar New Year 2023
+鹰,Eagle,是,精锐,Elite,皇家,Royal Navy,航母,CV,鹰级,Eagle,02:00:00,2020-07-23 永夜幻光,2020-07-23 Aurora Noctis
+皇家方舟,Ark Royal,是,精锐,Elite,皇家,Royal Navy,航母,CV,皇家方舟级,Ark Royal,04:00:00,无活动,No Event
 光辉,Illustrious,是,超稀有,Super Rare,皇家,Royal Navy,航母,CV,光辉级,Illustrious,04:30:00,无活动,No Event
 胜利,Victorious,是,超稀有,Super Rare,皇家,Royal Navy,航母,CV,光辉级,Illustrious,04:30:00,2018-02-26 凛冬王冠,2018-02-26 Winter's Crown
 可畏,Formidable,是,超稀有,Super Rare,皇家,Royal Navy,航母,CV,光辉级,Illustrious,04:30:00,2019-09-11 神圣的悲喜剧,2019-09-11 Empyreal Tragicomedy
-光荣,Glorious,是,精锐,Elite,皇家,Royal Navy,航母,CV,勇敢级,Courageous,无法建造,2017-10-26,2017-10-26 Glorious Battle
+光荣,Glorious,是,精锐,Elite,皇家,Royal Navy,航母,CV,勇敢级,Courageous,无法建造,2017-10-26 万圣节之夜,2017-10-26 Glorious Battle
 怨仇,Implacable,是,海上传奇,Ultra Rare,皇家,Royal Navy,航母,CV,怨仇级,Implacable,04:35:00,2023-02-23 湮烬尘墟,2023-02-23 Revelations of Dust
-小光辉,Little Illustrious,是,精锐,Elite,皇家,Royal Navy,航母,CV,光辉级,Illustrious,04:30:00,2020-05-21 穹顶下的圣咏曲,2020-05-21 Dreams of Love and Peace
-光辉(μ兵装),Illustrious、Illustrious µ,是,超稀有,Super Rare,皇家,Royal Navy,航母,CV,光辉级,Illustrious,无法建造,2020-10-29,2020-10-29 Universe in Unison
+小光辉,Little Illustrious,是,精锐,Elite,皇家,Royal Navy,航母,CV,光辉级,Illustrious,04:30:00,2020-05-28 爱与和平的梦,2020-05-28 Dreams of Love and Peace
+光辉(μ兵装),Illustrious、Illustrious µ,是,超稀有,Super Rare,皇家,Royal Navy,航母,CV,光辉级,Illustrious,无法建造,2020-10-29 激唱的UNIVERSE,2020-10-29 Universe in Unison
 不挠,Indomitable,是,超稀有,Super Rare,皇家,Royal Navy,航母,CV,光辉级,Illustrious,04:30:00,2022-05-26 泠誓光庭,2022-05-26 Pledge of the Radiant Court
-小可畏,Little Formidable,是,精锐,Elite,皇家,Royal Navy,航母,CV,光辉级,Illustrious,无法建造,2023-04-27,2023-04-27 Big Lessons for the Little Lady
+小可畏,Little Formidable,是,精锐,Elite,皇家,Royal Navy,航母,CV,光辉级,Illustrious,无法建造,2023-04-27 假日航线·再现,2023-04-27 Big Lessons for the Little Lady
 可畏(μ兵装),Formidable、Formidable µ,是,超稀有,Super Rare,皇家,Royal Navy,航母,CV,光辉级,Illustrious,04:30:00,2024-04-25 共鸣的PASSION,2024-04-25 Heart-Linking Harmony
 黑暗界,Erebus,是,精锐,Elite,皇家,Royal Navy,重炮,BM,黑暗界级,Erebus,01:00:00,无活动,No Event
 恐怖,Terror,是,精锐,Elite,皇家,Royal Navy,重炮,BM,黑暗界级,Erebus,01:00:00,无活动,No Event
 阿贝克隆比,Abercrombie,是,精锐,Elite,皇家,Royal Navy,重炮,BM,罗伯茨级,Roberts,01:05:00,无活动,No Event
-海王星,Neptune,是,最高方案,Priority,皇家,Royal Navy,轻巡,CL,Neptune,Neptune,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
+海王星,Neptune,是,最高方案,Priority,皇家,Royal Navy,轻巡,CL,海王星级,Neptune,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
 君主,Monarch,是,最高方案,Priority,皇家,Royal Navy,战列,BB,乔治五世级,Monarch,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
-柴郡,Cheshire,是,最高方案,Priority,皇家,Royal Navy,重巡,CA,Cheshire,Cheshire,科研,2020-07-09,2020-07-09 Season 3
-德雷克,Drake,是,决战方案,Decisive,皇家,Royal Navy,重巡,CA,丘吉尔型,Drake,科研,2020-07-09,2020-07-09 Season 3
+柴郡,Cheshire,是,最高方案,Priority,皇家,Royal Navy,重巡,CA,柴郡级,Cheshire,科研,2020-07-09 开发船坞,2020-07-09 Season 3
+德雷克,Drake,是,决战方案,Decisive,皇家,Royal Navy,重巡,CA,丘吉尔型,Drake,科研,2020-07-09 开发船坞,2020-07-09 Season 3
 普利茅斯,Plymouth,是,决战方案,Decisive,皇家,Royal Navy,轻巡,CL,爱丁堡级,Plymouth,科研,2022-07-14 轻量化复刻：蝶海梦花,2022-07-14 Season 5
-吹雪,桐、Fubuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,00:23:00,无活动,No Event
-白雪,杉、Shirayuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,00:23:00,2021-06-24 复刻：浮樱影华,2021-06-24 Swirling Cherry Blossoms Rerun
-深雪,梧、Miyuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,无法建造,2022-09-15 紫绛槿岚,"2022-09-15 Violet Tempest, Blooming Lycoris"
-绫波,柚、Ayanami,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,00:23:00,无活动,No Event
-晓,枫、Akatsuki,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,无法建造,2017-09-28 红染的参访者,2017-09-28 Visitors Dyed in Red
-响,栀、Hibiki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,无法建造,2019-12-26 浮樱影华,2019-12-26 Swirling Cherry Blossoms
-雷,梓、Ikazuchi,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,无法建造,无活动,No Event
-电,柏、Inazuma,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,无法建造,无活动,No Event
-白露,梿、Shiratsuyu,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,Shiratsuyu,Shiratsuyu,无法建造,无活动,No Event
-夕立,椿、Yūdachi、Yuudachi,是,超稀有,Super Rare,重樱,Sakura Empire,驱逐,DD,Shiratsuyu,Shiratsuyu,无法建造,无活动,No Event
-时雨,栴、Shigure,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Shiratsuyu,Shiratsuyu,无法建造,无活动,No Event
+吹雪,桐、Fubuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,00:23:00,无活动,No Event
+白雪,杉、Shirayuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,00:23:00,2021-06-24 复刻：浮樱影华,2021-06-24 Swirling Cherry Blossoms Rerun
+深雪,梧、Miyuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,无法建造,2022-09-15 紫绛槿岚,"2022-09-15 Violet Tempest, Blooming Lycoris"
+绫波,柚、Ayanami,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,00:23:00,无活动,No Event
+晓,枫、Akatsuki,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,无法建造,2017-09-28 红染的参访者,2017-09-28 Visitors Dyed in Red
+响,栀、Hibiki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,无法建造,2019-12-26 浮樱影华,2019-12-26 Swirling Cherry Blossoms
+雷,梓、Ikazuchi,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,无法建造,无活动,No Event
+电,柏、Inazuma,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,无法建造,无活动,No Event
+白露,梿、Shiratsuyu,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,白露级,Shiratsuyu,无法建造,无活动,No Event
+夕立,椿、Yūdachi、Yuudachi,是,超稀有,Super Rare,重樱,Sakura Empire,驱逐,DD,白露级,Shiratsuyu,无法建造,无活动,No Event
+时雨,栴、Shigure,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,白露级,Shiratsuyu,无法建造,无活动,No Event
 雪风,莲、Yukikaze,是,超稀有,Super Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,无法建造,2019-03-22 第十三章-马里亚纳风云·下,2019-03-22 Visitors Dyed in Red Rerun
 阳炎,萩、Kagerō、Kagerou,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,无法建造,无活动,No Event
 不知火,蒲、Shiranui,是,普通,Normal,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,无法建造,无活动,No Event
 野分,苓、Nowaki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,无法建造,2017-09-28 红染的参访者,2017-09-28 Visitors Dyed in Red
 初春,梅、Hatsuharu,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,初春级,Hatsuharu,00:25:00,无活动,No Event
 若叶,楉、Wakaba,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,初春级,Hatsuharu,00:25:00,无活动,No Event
-初霜,檨、Hatsushimo,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,初春级,Hatsuharu,无法建造,2019-02-14,2019-02-14 The Solomon Ranger
+初霜,檨、Hatsushimo,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,初春级,Hatsuharu,无法建造,2019-02-14 ❤情人节的小小心意❤,2019-02-14 The Solomon Ranger
 有明,榎、Ariake,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,初春级,Hatsuharu,无法建造,无活动,No Event
 夕暮,棭、Yūgure、Yuugure,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,初春级,Hatsuharu,00:25:00,无活动,No Event
-黑潮,蓉、Kuroshio,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,2017-12-01,2017-12-01 The Return of the War God
-亲潮,藮、Oyashio,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,2017-12-01,2017-12-01 The Return of the War God
+黑潮,蓉、Kuroshio,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,2017-12-01 归来与新生,2017-12-01 The Return of the War God
+亲潮,藮、Oyashio,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,2017-12-01 归来与新生,2017-12-01 The Return of the War God
 岛风,芒、Shimakaze,是,海上传奇,Ultra Rare,重樱,Sakura Empire,驱逐,DD,岛风级,Shimakaze,00:30:00,2021-09-16 碧海光粼,2021-09-16 Upon the Shimmering Blue
 神风,榊、Kamikaze,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,神风级,Kamikaze,00:20:00,无活动,No Event
 松风,棡、Matsukaze,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,神风级,Kamikaze,00:20:00,无活动,No Event
@@ -313,22 +313,22 @@
 文月,橗、Fumizuki,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,睦月级,Mutsuki,00:21:00,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
 长月,枨、Nagatsuki,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,睦月级,Mutsuki,无法建造,无活动,No Event
 三日月,檧、Mikazuki,是,普通,Normal,重樱,Sakura Empire,驱逐,DD,睦月级,Mutsuki,无法建造,无活动,No Event
-海风,菪、Umikaze,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Shiratsuyu,Shiratsuyu,00:25:00,2021-09-16 碧海光粼,2021-09-16 Upon the Shimmering Blue
-山风,杣、Yamakaze,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Shiratsuyu,Shiratsuyu,无法建造,2021-09-16 碧海光粼,2021-09-16 Upon the Shimmering Blue
-江风,茳、Kawakaze,是,超稀有,Super Rare,重樱,Sakura Empire,驱逐,DD,Shiratsuyu,Shiratsuyu,无法建造,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
+海风,菪、Umikaze,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,白露级,Shiratsuyu,00:25:00,2021-09-16 碧海光粼,2021-09-16 Upon the Shimmering Blue
+山风,杣、Yamakaze,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,白露级,Shiratsuyu,无法建造,2021-09-16 碧海光粼,2021-09-16 Upon the Shimmering Blue
+江风,茳、Kawakaze,是,超稀有,Super Rare,重樱,Sakura Empire,驱逐,DD,白露级,Shiratsuyu,无法建造,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
 清波,棈、Kiyonami,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,夕云级,Yuugumo,00:27:00,无活动,No Event
 新月JP,枥、Niizuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,秋月级,Akizuki,无法建造,无活动,No Event
 春月,桸、Harutsuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,秋月级,Akizuki,无法建造,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
 宵月,楛、Yoizuki,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,秋月级,Akizuki,无法建造,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
 浦风,槆、Urakaze,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,无活动,No Event
 矶风,柉、Isokaze,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,无活动,No Event
-滨风,樇、Hamakaze,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,2017-12-01,2017-12-01 The Return of the War God
+滨风,樇、Hamakaze,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,2017-12-01 归来与新生,2017-12-01 The Return of the War God
 谷风,栭、Tanikaze,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,阳炎级,Kagerou,00:27:00,无活动,No Event
 朝潮,棹、Asashio,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,朝潮级,Asashio,00:28:00,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
 大潮,荙、Ōshio、Ooshio,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,朝潮级,Asashio,00:28:00,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
 满潮,樠、Michishio,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,朝潮级,Asashio,无法建造,无活动,No Event
 荒潮,栘、Arashio,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,朝潮级,Asashio,无法建造,无活动,No Event
-浦波,朴、Uranami,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,Fubuki,Fubuki,无法建造,2020-01-21,2020-01-21 Spring Festival
+浦波,朴、Uranami,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,吹雪级,Fubuki,无法建造,2020-01-21 战斗！皇家女仆队2nd,2020-01-21 Spring Festival
 旗风,樋、Hatakaze,是,稀有,Rare,重樱,Sakura Empire,驱逐,DD,神风级,Kamikaze,00:20:00,2018-12-27 苍红的回响,2018-12-27 Crimson Echoes
 卷波,棬、Makinami,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,夕云级,Yuugumo,无法建造,2018-12-27 苍红的回响,2018-12-27 Crimson Echoes
 霞,蕸、Kasumi,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,朝潮级,Asashio,00:28:00,2019-12-26 浮樱影华,2019-12-26 Swirling Cherry Blossoms
@@ -342,15 +342,15 @@
 朝凪,桎、Asanagi,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,神风级,Kamikaze,无法建造,2023-09-14 须臾望月抄,2023-09-14 Effulgence Before Eclipse
 凉波,椋、Suzunami,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,夕云级,Yuugumo,00:27:00,2024-09-12 唤醒苍红之炎,2024-09-12 Ode of Everblooming Crimson
 妙风,杪、Taekaze,是,精锐,Elite,重樱,Sakura Empire,驱逐,DD,夕云级,Yuugumo,无法建造,2025-09-12 起舞于天原之上,2025-09-12 A Dance for Amahara Above
-夕张,狐、Yūbari、Yuubari,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,Yuubari,Yuubari,01:12:00,无活动,No Event
+夕张,狐、Yūbari、Yuubari,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,夕张级,Yuubari,01:12:00,无活动,No Event
 长良,貊、Nagara,是,普通,Normal,重樱,Sakura Empire,轻巡,CL,长良级,Nagara,01:05:00,无活动,No Event
 五十铃,貉、Isuzu,是,稀有,Rare,重樱,Sakura Empire,轻巡,CL,长良级,Nagara,无法建造,无活动,No Event
 名取,猽、Natori,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,长良级,Nagara,01:05:00,2023-09-14 须臾望月抄,2023-09-14 Effulgence Before Eclipse
 由良,㹨、Yura,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,长良级,Nagara,01:05:00,2021-09-16 碧海光粼,2021-09-16 Upon the Shimmering Blue
 鬼怒,猤、Kinu,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,长良级,Nagara,无法建造,2019-12-26 浮樱影华,2019-12-26 Swirling Cherry Blossoms
 阿武隈,貃、Abukuma,是,普通,Normal,重樱,Sakura Empire,轻巡,CL,长良级,Nagara,无法建造,无活动,No Event
-最上,猨、Mogami,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,Mogami,Mogami,无法建造,2018-03-29 复刻：红染的参访者,2018-03-29 Visitors Dyed in Red Rerun
-三隈,狻、Mikuma,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,Mogami,Mogami,无法建造,2018-03-29 复刻：红染的参访者,2018-03-29 Visitors Dyed in Red
+最上,猨、Mogami,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,最上型,Mogami,无法建造,2018-03-29 复刻：红染的参访者,2018-03-29 Visitors Dyed in Red Rerun
+三隈,狻、Mikuma,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,最上型,Mogami,无法建造,2018-03-29 复刻：红染的参访者,2018-03-29 Visitors Dyed in Red
 川内,貆、Sendai,是,稀有,Rare,重樱,Sakura Empire,轻巡,CL,川内级,Sendai,无法建造,无活动,No Event
 神通,貎、Jintsū、Jintsuu,是,精锐,Elite,重樱,Sakura Empire,轻巡,CL,川内级,Sendai,无法建造,无活动,No Event
 那珂,豻、Naka,是,稀有,Rare,重樱,Sakura Empire,轻巡,CL,川内级,Sendai,01:20:00,2018-12-27 苍红的回响,2018-12-27 Crimson Echoes
@@ -371,19 +371,19 @@
 足柄,狳、Ashigara,是,精锐,Elite,重樱,Sakura Empire,重巡,CA,妙高级,Myoukou,01:55:00,2018-12-27 苍红的回响,2018-12-27 Crimson Echoes
 羽黑,犰、Haguro,是,精锐,Elite,重樱,Sakura Empire,重巡,CA,妙高级,Myoukou,01:55:00,2022-09-15 紫绛槿岚,"2022-09-15 Violet Tempest, Blooming Lycoris"
 高雄,獒、Takao,是,超稀有,Super Rare,重樱,Sakura Empire,重巡,CA,高雄级,Takao,02:05:00,无活动,No Event
-爱宕,犬、Atago,是,超稀有,Super Rare,重樱,Sakura Empire,重巡,CA,高雄级,Takao,无法建造,2017-06-08,"2017-06-08 Strive, Wish and Strategize"
+爱宕,犬、Atago,是,超稀有,Super Rare,重樱,Sakura Empire,重巡,CA,高雄级,Takao,无法建造,2017-06-07 努力、希望和计划,"2017-06-07 Strive, Wish and Strategize"
 摩耶,犮、Maya,是,超稀有,Super Rare,重樱,Sakura Empire,重巡,CA,高雄级,Takao,无法建造,无活动,No Event
 鸟海,猋、Chōkai、Choukai,是,超稀有,Super Rare,重樱,Sakura Empire,重巡,CA,高雄级,Takao,无法建造,无活动,No Event
-铃谷,狺、Suzuya,是,精锐,Elite,重樱,Sakura Empire,重巡,CA,Mogami,Mogami,01:48:00,2019-03-28 复刻：墨染的钢铁之花,2019-03-28 Ink-Stained Steel Sakura Rerun
-熊野,猁、Kumano,是,精锐,Elite,重樱,Sakura Empire,重巡,CA,Mogami,Mogami,无法建造,2020-09-17 蝶海梦花,2020-09-17 Dreamwaker's Butterfly
-云仙,猃、Unzen,是,海上传奇,Ultra Rare,重樱,Sakura Empire,重巡,CA,Unzen,Unzen,02:11:00,2023-09-14 须臾望月抄,2023-09-14 Effulgence Before Eclipse
+铃谷,狺、Suzuya,是,精锐,Elite,重樱,Sakura Empire,重巡,CA,最上型,Mogami,01:48:00,2019-03-28 复刻：墨染的钢铁之花,2019-03-28 Ink-Stained Steel Sakura Rerun
+熊野,猁、Kumano,是,精锐,Elite,重樱,Sakura Empire,重巡,CA,最上型,Mogami,无法建造,2020-09-17 蝶海梦花,2020-09-17 Dreamwaker's Butterfly
+云仙,猃、Unzen,是,海上传奇,Ultra Rare,重樱,Sakura Empire,重巡,CA,云仙级,Unzen,02:11:00,2023-09-14 须臾望月抄,2023-09-14 Effulgence Before Eclipse
 浅间,猏、Asama,是,超稀有,Super Rare,重樱,Sakura Empire,重巡,CA,伊吹级,Ibuki,02:10:00,2025-09-12 起舞于天原之上,2025-09-12 A Dance for Amahara Above
 金刚,鲤、Kongō、Kongou,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,金刚级,Kongou,无法建造,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
-比叡,鲟、Hiei,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,金刚级,Kongou,04:10:00,2017-12-01,2017-12-01 The Return of the War God
+比叡,鲟、Hiei,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,金刚级,Kongou,04:10:00,2017-12-01 归来与新生,2017-12-01 The Return of the War God
 榛名,鲑、Haruna,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,金刚级,Kongou,无法建造,2018-06-07 墨染的钢铁之花,2018-06-07 Ink-Stained Steel Sakura
 雾岛,鳗、Kirishima,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,金刚级,Kongou,04:10:00,无活动,No Event
 天城,鳐、Amagi,是,超稀有,Super Rare,重樱,Sakura Empire,战巡,BC,天城级,Amagi,04:25:00,2018-12-27 苍红的回响,2018-12-27 Crimson Echoes
-小比叡,小鲟、Hiei-chan,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,金刚级,Kongou,04:05:00,2019-04-26,2019-04-26 Escape from the Port
+小比叡,小鲟、Hiei-chan,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,金刚级,Kongou,04:05:00,2019-04-26 虚拟链接的共时性,2019-04-26 Escape from the Port
 小天城,小鳐、Amagi-chan,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,天城级,Amagi,04:25:00,2021-04-22 复兴的赞美诗,2021-04-22 Young Tactician's Learning Log
 金刚(μ兵装),鲤(μ兵装)、Kongō、Kongou µ,是,精锐,Elite,重樱,Sakura Empire,战巡,BC,金刚级,Kongou,04:10:00,2024-04-25 共鸣的PASSION,2024-04-25 Heart-Linking Harmony
 扶桑,魟、Fusō、Fusou,是,稀有,Rare,重樱,Sakura Empire,战列,BB,扶桑级,Fusou,无法建造,无活动,No Event
@@ -395,60 +395,60 @@
 加贺BB,鸾、Kaga、Kaga(BB),是,超稀有,Super Rare,重樱,Sakura Empire,战列,BB,加贺级,Tosa,04:30:00,2018-12-27 苍红的回响,2018-12-27 Crimson Echoes
 土佐,䲠、Tosa,是,超稀有,Super Rare,重樱,Sakura Empire,战列,BB,加贺级,Tosa,04:30:00,2020-04-23 复刻：苍红的回响,2020-04-23 Crimson Echoes Rerun
 武藏,鳄、Musashi,是,海上传奇,Ultra Rare,重樱,Sakura Empire,战列,BB,大和级,Yamato,05:15:00,2022-09-15 紫绛槿岚,"2022-09-15 Violet Tempest, Blooming Lycoris"
-三笠,鲐、Mikasa,是,超稀有,Super Rare,重樱,Sakura Empire,战列,BB,敷岛级,Mikasa,无法建造,2017-12-01,2017-12-01 The Return of the War God
+三笠,鲐、Mikasa,是,超稀有,Super Rare,重樱,Sakura Empire,战列,BB,敷岛级,Mikasa,无法建造,2017-12-01 归来与新生,2017-12-01 The Return of the War God
 纪伊,鲣、Kii,是,超稀有,Super Rare,重樱,Sakura Empire,战列,BB,纪伊级,Kii,04:20:00,2020-09-17 蝶海梦花,2020-09-17 Dreamwaker's Butterfly
 尾张,鳂、Owari,是,超稀有,Super Rare,重樱,Sakura Empire,战列,BB,纪伊级,Kii,04:20:00,2023-09-14 须臾望月抄,2023-09-14 Effulgence Before Eclipse
 骏河,鲪、Suruga,是,超稀有,Super Rare,重樱,Sakura Empire,战列,BB,纪伊级,Kii,04:20:00,2019-12-26 浮樱影华,2019-12-26 Swirling Cherry Blossoms
 近江,鳉、Ōmi、Oumi,是,超稀有,Super Rare,重樱,Sakura Empire,战列,BB,纪伊级,Kii,04:20:00,2025-09-12 起舞于天原之上,2025-09-12 A Dance for Amahara Above
 飞鹰,鸱、Hiyō、Hiyou,是,稀有,Rare,重樱,Sakura Empire,轻航,CVL,飞鹰级,Hiyou,无法建造,无活动,No Event
 隼鹰,鸢、Jun'yō、Junyou,是,稀有,Rare,重樱,Sakura Empire,轻航,CVL,飞鹰级,Hiyou,无法建造,无活动,No Event
-凤翔,凤、Hōshō、Houshou,是,精锐,Elite,重樱,Sakura Empire,轻航,CVL,Houshou,Houshou,无法建造,无活动,No Event
+凤翔,凤、Hōshō、Houshou,是,精锐,Elite,重樱,Sakura Empire,轻航,CVL,凤翔级,Houshou,无法建造,无活动,No Event
 瑞凤,鹳、Zuihō、Zuihou,是,超稀有,Super Rare,重樱,Sakura Empire,轻航,CVL,千岁级,Zuihou,02:22:00,2024-08-29 埋葬于彼岸之花,2024-08-29 Whence Flowers Bear No Fruit
 祥凤,鹞、Shōhō、Shouhou,是,稀有,Rare,重樱,Sakura Empire,轻航,CVL,祥凤级,Shouhou,无法建造,无活动,No Event
-龙骧,枭、Ryūjō、Ryuujou,是,精锐,Elite,重樱,Sakura Empire,轻航,CVL,Ryuujou,Ryuujou,无法建造,2018-12-27 苍红的回响,2018-12-27 The Solomon Ranger
+龙骧,枭、Ryūjō、Ryuujou,是,精锐,Elite,重樱,Sakura Empire,轻航,CVL,龙骧级,Ryuujou,无法建造,2018-12-20 斯图尔特的硝烟,2018-12-20 The Solomon Ranger
 龙凤,鸗、Ryūhō、Ryuuhou,是,超稀有,Super Rare,重樱,Sakura Empire,轻航,CVL,千岁级,Zuihou,02:22:00,2019-12-26 浮樱影华,2019-12-26 Swirling Cherry Blossoms
 千岁,鹂、Chitose,是,精锐,Elite,重樱,Sakura Empire,轻航,CVL,千岁级,Zuihou,02:15:00,2020-09-17 蝶海梦花,2020-09-17 Dreamwaker's Butterfly
 千代田,鹃、Chiyoda,是,精锐,Elite,重樱,Sakura Empire,轻航,CVL,千岁级,Zuihou,02:15:00,2020-09-17 蝶海梦花,2020-09-17 Dreamwaker's Butterfly
-赤城,凰、Akagi,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,Akagi,Akagi,无法建造,无活动,No Event
-加贺,鸾、Kaga,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,Kaga,Kaga,无法建造,无活动,No Event
-苍龙,蛟、Sōryū、Souryuu,是,精锐,Elite,重樱,Sakura Empire,航母,CV,Souryuu,Souryuu,无法建造,无活动,No Event
-飞龙,龙、Hiryū、Hiryuu,是,精锐,Elite,重樱,Sakura Empire,航母,CV,Hiryuu,Hiryuu,无法建造,无活动,No Event
+赤城,凰、Akagi,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,赤城级,Akagi,无法建造,无活动,No Event
+加贺,鸾、Kaga,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,加贺级,Kaga,无法建造,无活动,No Event
+苍龙,蛟、Sōryū、Souryuu,是,精锐,Elite,重樱,Sakura Empire,航母,CV,苍龙级,Souryuu,无法建造,无活动,No Event
+飞龙,龙、Hiryū、Hiryuu,是,精锐,Elite,重樱,Sakura Empire,航母,CV,飞龙级,Hiryuu,无法建造,无活动,No Event
 翔鹤,鹬、Shōkaku、Shoukaku,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,翔鹤级,Shoukaku,无法建造,2017-09-28 红染的参访者,2017-09-28 Visitors Dyed in Red
 瑞鹤,鹤、Zuikaku,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,翔鹤级,Shoukaku,无法建造,2017-09-28 红染的参访者,2017-09-28 Visitors Dyed in Red
-大凤,鹩、Taihō、Taihou,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,Taihou,Taihou,04:45:00,2018-09-14,2018-09-14 1 Year Anniversary
+大凤,鹩、Taihō、Taihou,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,大凤级,Taihou,04:45:00,2018-09-14 大青花鱼的涂鸦板,2018-09-14 1 Year Anniversary
 信浓,鵗、Shinano,是,海上传奇,Ultra Rare,重樱,Sakura Empire,航母,CV,大和级,Yamato,05:15:00,2020-09-17 蝶海梦花,2020-09-17 Dreamwaker's Butterfly
-小赤城,小凰、Akagi-chan,是,精锐,Elite,重樱,Sakura Empire,航母,CV,Akagi,Akagi,04:35:00,2019-04-26,2019-04-26 Escape from the Port
-赤城(μ兵装),凰(μ兵装)、Akagi、Akagi µ,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,Akagi,Akagi,04:40:00,2019-10-31,2019-10-31 Crescendo of Polaris
-大凤(μ兵装),鹩(μ兵装)、Taihō、Taihou µ,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,Taihou,Taihou,04:45:00,2020-10-29,2020-10-29 Universe in Unison
+小赤城,小凰、Akagi-chan,是,精锐,Elite,重樱,Sakura Empire,航母,CV,赤城级,Akagi,04:35:00,2019-04-26 虚拟链接的共时性,2019-04-26 Escape from the Port
+赤城(μ兵装),凰(μ兵装)、Akagi、Akagi µ,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,赤城级,Akagi,04:40:00,2019-10-31 激奏的Polaris,2019-10-31 Crescendo of Polaris
+大凤(μ兵装),鹩(μ兵装)、Taihō、Taihou µ,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,大凤级,Taihou,04:45:00,2020-10-29 激唱的UNIVERSE,2020-10-29 Universe in Unison
 葛城,鹖、Katsuragi,是,超稀有,Super Rare,重樱,Sakura Empire,航母,CV,云龙级,Unryuu,04:20:00,2021-09-16 碧海光粼,2021-09-16 Upon the Shimmering Blue
-小大凤,小鹩、TAIHOU-CHAN、Taihou-chan,是,精锐,Elite,重樱,Sakura Empire,航母,CV,Taihou,Taihou,无法建造,2023-05-25 空相交汇点,2023-05-25 Passionate Confession Practice
+小大凤,小鹩、TAIHOU-CHAN、Taihou-chan,是,精锐,Elite,重樱,Sakura Empire,航母,CV,大凤级,Taihou,无法建造,2023-06-01 庆典与金色乐章,2023-06-01 Passionate Confession Practice
 小信浓,小鵗、Shinano-chan,是,精锐,Elite,重樱,Sakura Empire,航母,CV,大和级,Yamato,无法建造,2024-04-25 共鸣的PASSION,2024-04-25 Sharing Sweet Slumbers
 天城CV,鳐、Amagi、Amagi(CV),是,海上传奇,Ultra Rare,重樱,Sakura Empire,航母,CV,天城级,Amagi(CV),04:40:00,2024-09-12 唤醒苍红之炎,2024-09-12 Ode of Everblooming Crimson
-白凤,䳆、Hakuhō、Hakuhou,是,海上传奇,Ultra Rare,重樱,Sakura Empire,航母,CV,Taihou,Taihou,05:00:00,2025-09-12 起舞于天原之上,2025-09-12 A Dance for Amahara Above
+白凤,䳆、Hakuhō、Hakuhou,是,海上传奇,Ultra Rare,重樱,Sakura Empire,航母,CV,大凤级,Taihou,05:00:00,2025-09-12 起舞于天原之上,2025-09-12 A Dance for Amahara Above
 伊19,衣玖、I19、I-19,是,超稀有,Super Rare,重樱,Sakura Empire,潜艇,SS,巡潜乙型,Type B1,00:30:00,无活动,No Event
 伊26,双叶梦、I26、I-26,是,精锐,Elite,重樱,Sakura Empire,潜艇,SS,巡潜乙型,Type B1,00:30:00,无活动,No Event
-伊58,冴矢、I58、I-58,是,精锐,Elite,重樱,Sakura Empire,潜艇,SS,巡潜乙型,Type B3,00:30:00,无活动,No Event
-伊25,双叶檎、I25、I-25,是,精锐,Elite,重樱,Sakura Empire,潜艇,SS,巡潜乙型,Type B1,00:30:00,2019-07-11,2019-07-11 Air Raid Drills with Essex
-伊56,冴梦、I56、I-56,是,精锐,Elite,重樱,Sakura Empire,潜艇,SS,巡潜乙型,Type B3,00:30:00,2019-07-11,2019-07-11 Air Raid Drills with Essex
-伊168,伊吕波、I168、I-168,是,超稀有,Super Rare,重樱,Sakura Empire,潜艇,SS,型a型,Kaidai,00:30:00,2019-07-11,2019-07-11 Air Raid Drills with Essex
-明石,茗、Akashi,是,超稀有,Super Rare,重樱,Sakura Empire,维修,AR,Akashi,Akashi,01:35:00,无活动,No Event
-伊13,十纱、I13、I-13,是,超稀有,Super Rare,重樱,Sakura Empire,潜母,SSV,巡潜甲型,Type AM,00:34:00,2019-03-28 复刻：墨染的钢铁之花,2019-03-28 Ink-Stained Steel Sakura Rerun
+伊58,冴矢、I58、I-58,是,精锐,Elite,重樱,Sakura Empire,潜艇,SS,改二型,Type B3,00:30:00,无活动,No Event
+伊25,双叶檎、I25、I-25,是,精锐,Elite,重樱,Sakura Empire,潜艇,SS,巡潜乙型,Type B1,00:30:00,2019-07-11 破交作战,2019-07-11 Air Raid Drills with Essex
+伊56,冴梦、I56、I-56,是,精锐,Elite,重樱,Sakura Empire,潜艇,SS,改二型,Type B3,00:30:00,2019-07-11 破交作战,2019-07-11 Air Raid Drills with Essex
+伊168,伊吕波、I168、I-168,是,超稀有,Super Rare,重樱,Sakura Empire,潜艇,SS,型a型,Kaidai,00:30:00,2019-07-11 破交作战,2019-07-11 Air Raid Drills with Essex
+明石,茗、Akashi,是,超稀有,Super Rare,重樱,Sakura Empire,维修,AR,明石级,Akashi,01:35:00,无活动,No Event
+伊13,十纱、I13、I-13,是,超稀有,Super Rare,重樱,Sakura Empire,潜母,SSV,改二型,Type AM,00:34:00,2019-03-28 复刻：墨染的钢铁之花,2019-03-28 Ink-Stained Steel Sakura Rerun
 伊404,诗玲寺、I404、I-404,是,海上传奇,Ultra Rare,重樱,Sakura Empire,潜母,SSV,潜特型,I-400,无法建造,2025-09-12 起舞于天原之上,2025-09-12 A Dance for Amahara Above
-樫野,㭴、Kashino,是,精锐,Elite,重樱,Sakura Empire,运输,AE,Kashino,Kashino,01:30:00,2020-09-17 蝶海梦花,2020-09-17 Dreamwaker's Butterfly
+樫野,㭴、Kashino,是,精锐,Elite,重樱,Sakura Empire,运输,AE,樫野级,Kashino,01:30:00,2020-09-17 蝶海梦花,2020-09-17 Dreamwaker's Butterfly
 伊吹,峦、Ibuki,是,最高方案,Priority,重樱,Sakura Empire,重巡,CA,伊吹级,Ibuki,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
 出云,侌、Izumo,是,最高方案,Priority,重樱,Sakura Empire,战列,BB,大和级,Izumo,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
-北风,苝、Kitakaze,是,最高方案,Priority,重樱,Sakura Empire,驱逐,DD,超秋月级,Kitakaze,科研,2019-04-18,2019-04-18 Season 2
-吾妻,猉、Azuma,是,决战方案,Decisive,重樱,Sakura Empire,超巡,CB,B-65超甲型,Azuma,科研,2019-04-18,2019-04-18 Season 2
-白龙,鹫、Hakuryū、Hakuryuu,是,决战方案,Decisive,重樱,Sakura Empire,航母,CV,SG-15超级,Hakuryuu,科研,2021-07-08,2021-07-08 Season 4
-四万十,虒、Shimanto,是,最高方案,Priority,重樱,Sakura Empire,轻巡,CL,150mm主炮防空型,Shimanto,科研,2023-07-13,2023-07-13 Season 6
-大山,鳝、Daisen,是,最高方案,Priority,重樱,Sakura Empire,战列,BB,Daisen,Daisen,科研,2024-07-18 轻量化复刻：泠誓光庭,2024-07-18 Season 7
+北风,苝、Kitakaze,是,最高方案,Priority,重樱,Sakura Empire,驱逐,DD,超秋月级,Kitakaze,科研,2019-04-18 开发船坞,2019-04-18 Season 2
+吾妻,猉、Azuma,是,决战方案,Decisive,重樱,Sakura Empire,超巡,CB,吾妻级,Azuma,科研,2019-04-18 开发船坞,2019-04-18 Season 2
+白龙,鹫、Hakuryū、Hakuryuu,是,决战方案,Decisive,重樱,Sakura Empire,航母,CV,改大凤型,Hakuryuu,科研,2021-07-08 开发船坞,2021-07-08 Season 4
+四万十,虒、Shimanto,是,最高方案,Priority,重樱,Sakura Empire,轻巡,CL,150mm主炮防空型,Shimanto,科研,2023-07-13 密语档案室,2023-07-13 Season 6
+大山,鳝、Daisen,是,最高方案,Priority,重樱,Sakura Empire,战列,BB,大山级,Daisen,科研,2024-07-11 开发船坞,2024-07-11 Season 7
 Z1,莉泽洛特、Leberecht Maass,是,精锐,Elite,铁血,Iron Blood,驱逐,DD,1934型,Type 1934,无法建造,无活动,No Event
-Z2,格尔达、Georg Thiele,是,精锐,Elite,铁血,Iron Blood,驱逐,DD,1934型,Type 1934,00:29:00,2019-03-07,2019-03-07 Stars of the Shimmering Fjord
+Z2,格尔达、Georg Thiele,是,精锐,Elite,铁血,Iron Blood,驱逐,DD,1934型,Type 1934,00:29:00,2019-03-07 峡湾间的星辰,2019-03-07 Stars of the Shimmering Fjord
 Z9,沃尔普加、Wolfgang Zenker,是,精锐,Elite,铁血,Iron Blood,驱逐,DD,1934A型,Type 1934A,无法建造,2024-12-19 星光下的余晖,2024-12-19 Substellar Crepuscule
 Z11,伯莎、Bernd von Arnim,是,精锐,Elite,铁血,Iron Blood,驱逐,DD,1934A型,Type 1934A,00:28:00,2024-12-19 星光下的余晖,2024-12-19 Substellar Crepuscule
 Z13,埃丝特、Erich Koellner,是,精锐,Elite,铁血,Iron Blood,驱逐,DD,1934A型,Type 1934A,无法建造,2025-06-26 迷彩都市的寻踪者,2025-06-26 The Neon City Investigator
-Z16,弗蕾德贡、Friedrich Eckoldt,是,精锐,Elite,铁血,Iron Blood,驱逐,DD,1934A型,Type 1934A,00:28:00,2022-08-18,2022-08-18 Operation Convergence
-Z18,汉娜、Hans Lüdemann,是,稀有,Rare,铁血,Iron Blood,驱逐,DD,1936型,Type 1936,无法建造,2018-07-26 光与影的鸢尾之华,2018-07-26 Counterattack Within the Fjord
+Z16,弗蕾德贡、Friedrich Eckoldt,是,精锐,Elite,铁血,Iron Blood,驱逐,DD,1934A型,Type 1934A,00:28:00,2022-08-18 远汇点作战,2022-08-18 Operation Convergence
+Z18,汉娜、Hans Lüdemann,是,稀有,Rare,铁血,Iron Blood,驱逐,DD,1936型,Type 1936,无法建造,2018-07-17 月光下的序曲,2018-07-17 Counterattack Within the Fjord
 Z19,赫尔米娜、Hermann Künne,是,稀有,Rare,铁血,Iron Blood,驱逐,DD,1936型,Type 1936,00:31:00,2017-08-02 异色格,2017-08-02 Divergent Chessboard
 Z20,卡洛琳、Karl Galster,是,普通,Normal,铁血,Iron Blood,驱逐,DD,1936型,Type 1936,无法建造,2017-08-02 异色格,2017-08-02 Divergent Chessboard
 Z21,威尔赫米娜、Wilhelm Heidkamp,是,普通,Normal,铁血,Iron Blood,驱逐,DD,1936型,Type 1936,无法建造,2017-08-02 异色格,2017-08-02 Divergent Chessboard
@@ -470,102 +470,102 @@ Z52,柯妮,是,海上传奇,Ultra Rare,铁血,Iron Blood,驱逐,DD,1944型,Type 
 莱比锡,莉普莎、Leipzig,是,稀有,Rare,铁血,Iron Blood,轻巡,CL,莱比锡级,Leipzig,01:20:00,无活动,No Event
 纽伦堡,诺菈、Nürnberg,是,精锐,Elite,铁血,Iron Blood,轻巡,CL,莱比锡级,Leipzig,01:20:00,2020-12-29 负象限作战,2020-12-29 Inverted Orthant
 马格德堡,马格达莱娜、Magdeburg,是,超稀有,Super Rare,铁血,Iron Blood,轻巡,CL,M级,M (German),01:20:00,2021-12-29 逆转彩虹之塔,2021-12-29 Tower of Transcendence
-埃姆登,埃玛、Emden,是,超稀有,Super Rare,铁血,Iron Blood,轻巡,CL,德累斯顿级,Dresden,01:19:00,2022-04-28 虹彩的终幕曲,2022-04-28 Rondo at Rainbow's End
+埃姆登,埃玛、Emden,是,超稀有,Super Rare,铁血,Iron Blood,轻巡,CL,柯尼斯堡级,Dresden,01:19:00,2022-04-28 虹彩的终幕曲,2022-04-28 Rondo at Rainbow's End
 埃尔宾,埃尔薇菈、Elbing,是,精锐,Elite,铁血,Iron Blood,轻巡,CL,皮劳级,Pillau,01:17:00,2022-04-28 虹彩的终幕曲,2022-04-28 Rondo at Rainbow's End
 雷根斯堡,瑞吉娜、Regensburg,是,超稀有,Super Rare,铁血,Iron Blood,轻巡,CL,M级,M (German),01:20:00,2023-05-25 空相交汇点,2023-05-25 Confluence of Nothingness
 杜伊斯堡,多琳妮娅、Duisburg,是,超稀有,Super Rare,铁血,Iron Blood,轻巡,CL,M级,M (German),01:20:00,2024-12-19 星光下的余晖,2024-12-19 Substellar Crepuscule
 希佩尔海军上将,芙兰希卡、Admiral Hipper,是,精锐,Elite,铁血,Iron Blood,重巡,CA,希佩尔海军上将级,Admiral Hipper,无法建造,2017-08-02 异色格,2017-08-02 Divergent Chessboard
-布吕歇尔,布丽吉特、Blücher,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,希佩尔海军上将级,Admiral Hipper,02:00:00,2022-08-18,2022-08-18 Operation Convergence
+布吕歇尔,布丽吉特、Blücher,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,希佩尔海军上将级,Admiral Hipper,02:00:00,2022-08-18 远汇点作战,2022-08-18 Operation Convergence
 欧根亲王,萨沃伊亲王、Prinz Eugen,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,希佩尔海军上将级,Admiral Hipper,02:00:00,2017-05-25,2017-05-25 Divergent Chessboard
 德意志,亚勒玛妮亚、Deutschland,是,精锐,Elite,铁血,Iron Blood,重巡,CA,德意志级,Deutschland,01:55:00,2017-08-02 异色格,2017-08-02 Divergent Chessboard
-斯佩伯爵海军上将,休贝塔伯爵、Admiral Graf.Spee、Admiral Graf Spee,是,精锐,Elite,铁血,Iron Blood,重巡,CA,德意志级,Deutschland,无法建造,2018-01-19,2018-01-19 Encircling Graf Spee
-希佩尔海军上将(μ兵装),芙兰希卡(μ兵装)、Admiral Hipper、Admiral Hipper µ,是,精锐,Elite,铁血,Iron Blood,重巡,CA,希佩尔海军上将级,Admiral Hipper,02:00:00,2019-10-31,2019-10-31 Crescendo of Polaris
-罗恩(μ兵装),艾伯塔(μ兵装)、Roon、Roon µ,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,Roon,Roon,无法建造,2020-10-29,2020-10-29 Universe in Unison
+斯佩伯爵海军上将,休贝塔伯爵、Admiral Graf.Spee、Admiral Graf Spee,是,精锐,Elite,铁血,Iron Blood,重巡,CA,德意志级,Deutschland,无法建造,2018-01-19 围剿斯佩伯爵,2018-01-19 Encircling Graf Spee
+希佩尔海军上将(μ兵装),芙兰希卡(μ兵装)、Admiral Hipper、Admiral Hipper µ,是,精锐,Elite,铁血,Iron Blood,重巡,CA,希佩尔海军上将级,Admiral Hipper,02:00:00,2019-10-31 激奏的Polaris,2019-10-31 Crescendo of Polaris
+罗恩(μ兵装),艾伯塔(μ兵装)、Roon、Roon µ,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,罗恩(μ兵装)级,Roon,无法建造,2020-10-29 激唱的UNIVERSE,2020-10-29 Universe in Unison
 海因里希亲王,赫莉米娜亲王、Prinz Heinrich,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,P级,P,02:05:00,2020-12-29 负象限作战,2020-12-29 Inverted Orthant
 阿达尔伯特亲王,阿德莉娅亲王、Prinz Adalbert,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,P级,P,02:05:00,2021-12-29 逆转彩虹之塔,2021-12-29 Tower of Transcendence
 约克DE,伊冯娜、Yorck,是,精锐,Elite,铁血,Iron Blood,重巡,CA,罗恩级,Roon (1903),01:55:00,2022-04-28 虹彩的终幕曲,2022-04-28 Rondo at Rainbow's End
 小欧根,小萨沃伊、Little Prinz Eugen,是,精锐,Elite,铁血,Iron Blood,重巡,CA,希佩尔海军上将级,Admiral Hipper,无法建造,2022-04-28 虹彩的终幕曲,2022-04-28 Sugary-Sweet Käsekuchen
-小斯佩,小休贝塔、Little Spee,是,精锐,Elite,铁血,Iron Blood,重巡,CA,德意志级,Deutschland,无法建造,2022-10-13,2022-10-13 The Pursuit of Little Spee
-腓特烈·卡尔,腓德雷卡·卡尔、Friedrich Carl,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,P级,P,02:05:00,2024-03-28,2024-03-28 From Zero to Hero
+小斯佩,小休贝塔、Little Spee,是,精锐,Elite,铁血,Iron Blood,重巡,CA,德意志级,Deutschland,无法建造,2022-10-13 勇者的旅途,2022-10-13 The Pursuit of Little Spee
+腓特烈·卡尔,腓德雷卡·卡尔、Friedrich Carl,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,P级,P,02:05:00,2024-03-28 从零开始的魔王讨伐之旅,2024-03-28 From Zero to Hero
 欧根亲王(μ兵装),萨沃伊亲王(μ兵装)、Prinz Eugen、Prinz Eugen µ,是,超稀有,Super Rare,铁血,Iron Blood,重巡,CA,希佩尔海军上将级,Admiral Hipper,02:00:00,2024-04-25 共鸣的PASSION,2024-04-25 Heart-Linking Harmony
-小埃吉尔,小埃格妮丝、Little Ägir,是,精锐,Elite,铁血,Iron Blood,超巡,CB,O级,Ägir,无法建造,2025-05-29,2025-05-29 Little Ruler of the Abyssal Kingdom
+小埃吉尔,小埃格妮丝、Little Ägir,是,精锐,Elite,铁血,Iron Blood,超巡,CB,超重型,Ägir,无法建造,2025-05-29 “深渊之国”的缔造者,2025-05-29 Little Ruler of the Abyssal Kingdom
 沙恩霍斯特,格尔林德、Scharnhorst,是,精锐,Elite,铁血,Iron Blood,战巡,BC,沙恩霍斯特级,Scharnhorst,无法建造,2017-08-02 异色格,2017-08-02 Divergent Chessboard
 格奈森瑙,奥古斯塔、Gneisenau,是,精锐,Elite,铁血,Iron Blood,战巡,BC,沙恩霍斯特级,Scharnhorst,无法建造,2017-08-02 异色格,2017-08-02 Divergent Chessboard
-塞德利茨,桑德菈、Seydlitz,是,超稀有,Super Rare,铁血,Iron Blood,战巡,BC,Seydlitz,Seydlitz,04:35:00,2022-04-28 虹彩的终幕曲,2022-04-28 Rondo at Rainbow's End
+塞德利茨,桑德菈、Seydlitz,是,超稀有,Super Rare,铁血,Iron Blood,战巡,BC,塞德利茨级,Seydlitz,04:35:00,2022-04-28 虹彩的终幕曲,2022-04-28 Rondo at Rainbow's End
 吕佐夫,露西、Lützow,是,超稀有,Super Rare,铁血,Iron Blood,战巡,BC,德弗林格尔级,Derfflinger,04:35:00,2022-04-28 虹彩的终幕曲,2022-04-28 Rondo at Rainbow's End
-布伦希尔德,贝尔莎、Brünhilde,是,超稀有,Super Rare,铁血,Iron Blood,战巡,BC,O级,O,05:05:00,2022-08-18,2022-08-18 Operation Convergence
+布伦希尔德,贝尔莎、Brünhilde,是,超稀有,Super Rare,铁血,Iron Blood,战巡,BC,O级,O,05:05:00,2022-08-18 远汇点作战,2022-08-18 Operation Convergence
 亚尔薇特,Alvitr,是,超稀有,Super Rare,铁血,Iron Blood,战巡,BC,O级,O,05:05:00,2024-06-27 欢迎来到童心学院,2024-06-27 Welcome to Little Academy
-曾克海军上将,泽特、Admiral Zenker,是,超稀有,Super Rare,铁血,Iron Blood,战巡,BC,Admiral Zenker,Admiral Zenker,04:55:00,2025-06-26 迷彩都市的寻踪者,2025-06-26 The Neon City Investigator
+曾克海军上将,泽特、Admiral Zenker,是,超稀有,Super Rare,铁血,Iron Blood,战巡,BC,曾克海军上将级,Admiral Zenker,04:55:00,2025-06-26 迷彩都市的寻踪者,2025-06-26 The Neon City Investigator
 俾斯麦,奥德莉亚、Bismarck,是,超稀有,Super Rare,铁血,Iron Blood,战列,BB,俾斯麦级,Bismarck,06:00:00,2019-05-23 铁血、音符&誓言,2019-05-23 Scherzo of Iron and Blood
 提尔比茨,阿尔芙莉达、Tirpitz,是,超稀有,Super Rare,铁血,Iron Blood,战列,BB,俾斯麦级,Bismarck,无法建造,2017-08-02 异色格,2017-08-02 Divergent Chessboard
-乌尔里希·冯·胡滕,乌尔里克·冯·胡贝尔、Ulrich von Hutten,是,海上传奇,Ultra Rare,铁血,Iron Blood,战列,BB,H-39型,Ulrich von Hutten,06:00:00,2021-12-29 逆转彩虹之塔,2021-12-29 Tower of Transcendence
+乌尔里希·冯·胡滕,乌尔里克·冯·胡贝尔、Ulrich von Hutten,是,海上传奇,Ultra Rare,铁血,Iron Blood,战列,BB,乌尔里希·冯·胡滕级,Ulrich von Hutten,06:00:00,2021-12-29 逆转彩虹之塔,2021-12-29 Tower of Transcendence
 图林根,特鲁德、Thüringen,是,精锐,Elite,铁血,Iron Blood,战列,BB,赫尔戈兰级,Helgoland,无法建造,2022-04-28 虹彩的终幕曲,2022-04-28 Rondo at Rainbow's End
 俾斯麦Zwei,奥德莉亚Zwei、Bismarck Zwei,是,海上传奇,Ultra Rare,铁血,Iron Blood,战列,BB,俾斯麦级,Bismarck,06:00:00,2023-05-25 空相交汇点,2023-05-25 Confluence of Nothingness
-小腓特烈,小腓德雷卡、Little Friedrich,是,精锐,Elite,铁血,Iron Blood,战列,BB,H-39型,Friedrich der Große,无法建造,2024-05-30,2024-05-30 Today's Conduction Practice
+小腓特烈,小腓德雷卡、Little Friedrich,是,精锐,Elite,铁血,Iron Blood,战列,BB,腓特烈大帝级,Friedrich der Große,无法建造,2024-05-30 今日的指挥练习,2024-05-30 Today's Conduction Practice
 威悉,威尔玛、Weser,是,精锐,Elite,铁血,Iron Blood,轻航,CVL,希佩尔海军上将级,Weser,02:22:00,2020-12-29 负象限作战,2020-12-29 Inverted Orthant
 易北,埃尔斯贝特、Elbe,是,精锐,Elite,铁血,Iron Blood,轻航,CVL,亚德级,Jade,02:20:00,2021-12-29 逆转彩虹之塔,2021-12-29 Tower of Transcendence
 亚德,阿黛尔、Jade,是,精锐,Elite,铁血,Iron Blood,轻航,CVL,亚德级,Jade,无法建造,2023-05-25 空相交汇点,2023-05-25 Confluence of Nothingness
 齐柏林伯爵,海拉伯爵、Graf Zeppelin,是,超稀有,Super Rare,铁血,Iron Blood,航母,CV,齐柏林伯爵级,Graf Zeppelin,04:35:00,2017-08-02 异色格,2017-08-02 Divergent Chessboard
-小齐柏林,小海拉、Zeppy,是,精锐,Elite,铁血,Iron Blood,航母,CV,齐柏林伯爵级,Graf Zeppelin,04:30:00,2019-04-26,2019-04-26 Escape from the Port
+小齐柏林,小海拉、Zeppy,是,精锐,Elite,铁血,Iron Blood,航母,CV,齐柏林伯爵级,Graf Zeppelin,04:30:00,2019-04-26 虚拟链接的共时性,2019-04-26 Escape from the Port
 彼得·史特拉塞,佩特菈·斯坦贝瑟、Peter Strasser,是,超稀有,Super Rare,铁血,Iron Blood,航母,CV,齐柏林伯爵级,Graf Zeppelin,04:35:00,2020-12-29 负象限作战,2020-12-29 Inverted Orthant
-弗里茨·鲁梅,菲莉西娅·鲁梅、Fritz Rumey,是,海上传奇,Ultra Rare,铁血,Iron Blood,航母,CV,Fritz Rumey,Fritz Rumey,04:40:20,2024-12-19 星光下的余晖,2024-12-19 Substellar Crepuscule
+弗里茨·鲁梅,菲莉西娅·鲁梅、Fritz Rumey,是,海上传奇,Ultra Rare,铁血,Iron Blood,航母,CV,弗里茨·鲁梅级,Fritz Rumey,04:40:20,2024-12-19 星光下的余晖,2024-12-19 Substellar Crepuscule
 U-81,优哈依,是,超稀有,Super Rare,铁血,Iron Blood,潜艇,SS,VIIC型,Type VIIC,00:12:00,无活动,No Event
 U-47,优希娜,是,超稀有,Super Rare,铁血,Iron Blood,潜艇,SS,VIIB型,Type VIIB,00:11:00,2018-06-28 复刻：异色格,2018-06-28 Divergent Chessboard Rerun
 U-557,优可可娜,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,VIIC型,Type VIIC,无法建造,2018-06-28 复刻：异色格,2018-06-28 Divergent Chessboard Rerun
 U-556,优可可洛,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,VIIC型,Type VIIC,00:13:00,2019-05-23 铁血、音符&誓言,2019-05-23 Scherzo of Iron and Blood
 U-73,优娜米,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,VIIB型,Type VIIB,00:11:00,2019-05-23 铁血、音符&誓言,2019-05-23 Scherzo of Iron and Blood
-U-101,优伊欧伊,是,超稀有,Super Rare,铁血,Iron Blood,潜艇,SS,VIIB型,Type VIIB,00:12:00,2019-07-11,2019-07-11 Air Raid Drills with Essex
-U-522,优柯妮妮,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,IXC型,Type IXC,00:11:00,2019-07-11,2019-07-11 Air Raid Drills with Essex
-U-110,优伊伊丽,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,IXB型,Type IXB,00:11:00,2019-10-17,2019-10-17 The Enigma and the Shark
+U-101,优伊欧伊,是,超稀有,Super Rare,铁血,Iron Blood,潜艇,SS,VIIB型,Type VIIB,00:12:00,2019-07-11 破交作战,2019-07-11 Air Raid Drills with Essex
+U-522,优柯妮妮,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,IXC型,Type IXC,00:11:00,2019-07-11 破交作战,2019-07-11 Air Raid Drills with Essex
+U-110,优伊伊丽,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,IXB型,Type IXB,00:11:00,2019-10-17 最珍贵的宝物,2019-10-17 The Enigma and the Shark
 U-96,优玖露,是,超稀有,Super Rare,铁血,Iron Blood,潜艇,SS,VIIC型,Type VIIC,00:12:00,2020-08-20 复刻：铁血、音符&誓言,2020-08-20 Scherzo of Iron and Blood Rerun
 U-37,优米娜,是,超稀有,Super Rare,铁血,Iron Blood,潜艇,SS,IXA型,Type IXA,00:11:00,2020-12-29 负象限作战,2020-12-29 Inverted Orthant
-U-410,优斯伊丽,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,VIIC型,Type VIIC,无法建造,2021-02-04,2021-02-04 Spring Festival Special Training
+U-410,优斯伊丽,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,VIIC型,Type VIIC,无法建造,2021-02-04 东煌春节,2021-02-04 Spring Festival Special Training
 U-1206,优伊妮欧露,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,VIIC型,Type VIIC,无法建造,2021-12-29 逆转彩虹之塔,2021-12-29 Tower of Transcendence
 U-31,优咪伊,是,精锐,Elite,铁血,Iron Blood,潜艇,SS,VIIA型,Type VIIA,00:11:00,2024-06-27 欢迎来到童心学院,2024-06-27 Welcome to Little Academy
 U-552,优可可妮,是,超稀有,Super Rare,铁血,Iron Blood,潜艇,SS,VIIC型,Type VIIC,00:13:00,2025-06-26 迷彩都市的寻踪者,2025-06-26 The Neon City Investigator
-罗恩,艾伯塔、Roon,是,最高方案,Priority,铁血,Iron Blood,重巡,CA,Roon,Roon,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
-腓特烈大帝,腓德雷卡大帝、Friedrich der Große,是,决战方案,Decisive,铁血,Iron Blood,战列,BB,H-39型,Friedrich der Große,科研,2019-04-18,2019-04-18 Season 2
-美因茨,米兹、Mainz,是,最高方案,Priority,铁血,Iron Blood,轻巡,CL,Mainz,Mainz,科研,2020-07-09,2020-07-09 Season 3
-奥丁,沃登、Odin,是,最高方案,Priority,铁血,Iron Blood,战巡,BC,Odin,Odin,科研,2020-07-09,2020-07-09 Season 3
-埃吉尔,埃格妮丝、Ägir,是,决战方案,Decisive,铁血,Iron Blood,超巡,CB,O级,Ägir,科研,2021-07-08,2021-07-08 Season 4
-奥古斯特·冯·帕塞瓦尔,奥斯特雷德·冯·帕赫贝尔、August von Parseval,是,最高方案,Priority,铁血,Iron Blood,航母,CV,齐柏林伯爵级,August von Parseval,科研,2021-07-08,2021-07-08 Season 4
-鲁普雷希特亲王,蕾贝卡亲王、Prinz Rupprecht,是,最高方案,Priority,铁血,Iron Blood,战巡,BC,Prinz Rupprecht,Prinz Rupprecht,科研,2022-07-14 轻量化复刻：蝶海梦花,2022-07-14 Season 5
-菲利克斯·舒尔茨,弗郎西斯卡·舒伯特、Felix Schultz,是,最高方案,Priority,铁血,Iron Blood,驱逐,DD,1938A型,Felix Schultz,科研,2023-07-13,2023-07-13 Season 6
-兴登堡,希尔德加德、Hindenburg,是,决战方案,Decisive,铁血,Iron Blood,重巡,CA,Hindenburg,Hindenburg,科研,2023-07-13,2023-07-13 Season 6
-梅克伦堡,梅克琳达、Mecklenburg,是,决战方案,Decisive,铁血,Iron Blood,战列,BB,H-39型,Mecklenburg,科研,2025-07-10,2025-07-10 Season 8
-鞍山,An Shan,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,鞍山级,Anshan,无法建造,2018-02-12,2018-02-12 Lunar New Year 2019
-抚顺,Fu Shun,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,鞍山级,Anshan,无法建造,2018-02-12,2018-02-12 Lunar New Year 2019
-长春,Chang Chun,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,鞍山级,Anshan,无法建造,2018-02-12,2018-02-12 Lunar New Year 2019
-太原,Tai Yuan,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,鞍山级,Anshan,无法建造,2018-02-12,2018-02-12 Lunar New Year 2019
-龙武,Lung Wu,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,类V-25外贸型,Lung Wu,00:33:00,2024-01-30,2024-01-30 Happy Lunar New Year 2024
-虎贲,Hu Pen,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,类V-25外贸型,Lung Wu,00:33:00,2024-01-30,2024-01-30 Happy Lunar New Year 2024
-飞云,Fei Yuen,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,长风级,Fei Yuen,无法建造,2024-01-30,2024-01-30 Happy Lunar New Year 2024
-长风,Ch'ang Feng、Chang Feng,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,长风级,Fei Yuen,00:33:00,2025-01-09 轻量化复刻：定向折叠,2025-01-09 Happy Lunar New Year 2025
-伏波,Fu Po,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,长风级,Fei Yuen,无法建造,2025-01-09 轻量化复刻：定向折叠,2025-01-09 Happy Lunar New Year 2025
-逸仙,Yat Sen,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,Yat Sen,Yat Sen,00:40:00,2017-09-20 第九章-库拉湾海战,2017-09-20 Lunar New Year 2019
+罗恩,艾伯塔、Roon,是,最高方案,Priority,铁血,Iron Blood,重巡,CA,罗恩(μ兵装)级,Roon,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
+腓特烈大帝,腓德雷卡大帝、Friedrich der Große,是,决战方案,Decisive,铁血,Iron Blood,战列,BB,腓特烈大帝级,Friedrich der Große,科研,2019-04-18 开发船坞,2019-04-18 Season 2
+美因茨,米兹、Mainz,是,最高方案,Priority,铁血,Iron Blood,轻巡,CL,美因茨级,Mainz,科研,2020-07-09 开发船坞,2020-07-09 Season 3
+奥丁,沃登、Odin,是,最高方案,Priority,铁血,Iron Blood,战巡,BC,奥丁级,Odin,科研,2020-07-09 开发船坞,2020-07-09 Season 3
+埃吉尔,埃格妮丝、Ägir,是,决战方案,Decisive,铁血,Iron Blood,超巡,CB,超重型,Ägir,科研,2021-07-08 开发船坞,2021-07-08 Season 4
+奥古斯特·冯·帕塞瓦尔,奥斯特雷德·冯·帕赫贝尔、August von Parseval,是,最高方案,Priority,铁血,Iron Blood,航母,CV,齐柏林伯爵级,August von Parseval,科研,2021-07-08 开发船坞,2021-07-08 Season 4
+鲁普雷希特亲王,蕾贝卡亲王、Prinz Rupprecht,是,最高方案,Priority,铁血,Iron Blood,战巡,BC,鲁普雷希特亲王级,Prinz Rupprecht,科研,2022-07-14 轻量化复刻：蝶海梦花,2022-07-14 Season 5
+菲利克斯·舒尔茨,弗郎西斯卡·舒伯特、Felix Schultz,是,最高方案,Priority,铁血,Iron Blood,驱逐,DD,1938A型,Felix Schultz,科研,2023-07-13 密语档案室,2023-07-13 Season 6
+兴登堡,希尔德加德、Hindenburg,是,决战方案,Decisive,铁血,Iron Blood,重巡,CA,兴登堡级,Hindenburg,科研,2023-07-13 密语档案室,2023-07-13 Season 6
+梅克伦堡,梅克琳达、Mecklenburg,是,决战方案,Decisive,铁血,Iron Blood,战列,BB,305mm主炮改型,Mecklenburg,科研,2025-07-10 开发船坞,2025-07-10 Season 8
+鞍山,An Shan,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,鞍山级,Anshan,无法建造,2018-02-12 抚顺的大冒险,2018-02-12 Lunar New Year 2019
+抚顺,Fu Shun,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,鞍山级,Anshan,无法建造,2018-02-12 抚顺的大冒险,2018-02-12 Lunar New Year 2019
+长春,Chang Chun,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,鞍山级,Anshan,无法建造,2018-02-12 抚顺的大冒险,2018-02-12 Lunar New Year 2019
+太原,Tai Yuan,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,鞍山级,Anshan,无法建造,2018-02-12 抚顺的大冒险,2018-02-12 Lunar New Year 2019
+龙武,Lung Wu,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,龙武级,Lung Wu,00:33:00,2024-01-30 寰昌宇定家事忙,2024-01-30 Happy Lunar New Year 2024
+虎贲,Hu Pen,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,龙武级,Lung Wu,00:33:00,2024-01-30 寰昌宇定家事忙,2024-01-30 Happy Lunar New Year 2024
+飞云,Fei Yuen,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,长风级,Fei Yuen,无法建造,2024-01-30 寰昌宇定家事忙,2024-01-30 Happy Lunar New Year 2024
+长风,Ch'ang Feng、Chang Feng,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,长风级,Fei Yuen,00:33:00,2025-01-16 华裳巧展喜事长,2025-01-16 Happy Lunar New Year 2025
+伏波,Fu Po,是,精锐,Elite,东煌,Dragon Empery,驱逐,DD,长风级,Fei Yuen,无法建造,2025-01-16 华裳巧展喜事长,2025-01-16 Happy Lunar New Year 2025
+逸仙,Yat Sen,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,逸仙级,Yat Sen,00:40:00,2017-09-20 第九章-库拉湾海战,2017-09-20 Lunar New Year 2019
 宁海,Ning Hai,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,宁海级,Ning Hai,无法建造,无活动,No Event
 平海,Ping Hai,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,宁海级,Ning Hai,无法建造,无活动,No Event
-应瑞,Ying Swei,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,肇和级,Chao Ho,00:38:00,2021-02-04,2021-02-04 Happy Lunar New Year 2021
-肇和,Chao Ho,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,肇和级,Chao Ho,00:38:00,2021-02-04,2021-02-04 Happy Lunar New Year 2021
-海天,Hai Tien,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,海天级,Hai Chi,无法建造,2022-01-27,2022-01-27 Happy Lunar New Year 2022
-海圻,Hai Chi,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,海天级,Hai Chi,无法建造,2022-01-27,2022-01-27 Happy Lunar New Year 2022
-济安,Chi An,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,Chi An,Chi An,00:38:00,2024-01-30,2024-01-30 Happy Lunar New Year 2024
-海容,Hai Yung,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,海容级,Hai Yung,00:40:00,2025-01-09 轻量化复刻：定向折叠,2025-01-09 Happy Lunar New Year 2025
-建武,Chien Wu,是,超稀有,Super Rare,东煌,Dragon Empery,重巡,CA,Chien Wu,Chien Wu,01:30:00,2025-01-09 轻量化复刻：定向折叠,2025-01-09 Happy Lunar New Year 2025
-寰昌,Huan Ch'ang,是,超稀有,Super Rare,东煌,Dragon Empery,战巡,BC,Huan Ch'ang,Huan Ch'ang,04:10:00,2024-01-30,2024-01-30 Happy Lunar New Year 2024
-镇海,Chen Hai,是,精锐,Elite,东煌,Dragon Empery,轻航,CVL,Chen Hai,Chen Hai,02:00:00,2022-01-27,2022-01-27 Happy Lunar New Year 2022
-华甲,Hwah Jah,是,精锐,Elite,东煌,Dragon Empery,轻航,CVL,Hwah Jah,Hwah Jah,02:10:00,2023-01-18,2023-01-18 Happy Lunar New Year 2023
-定安,Ting An,是,精锐,Elite,东煌,Dragon Empery,运输,AE,定安级,Ting An,无法建造,2023-01-18,2023-01-18 Happy Lunar New Year 2023
-哈尔滨,滨江、Harbin,是,最高方案,Priority,东煌,Dragon Empery,轻巡,CL,Harbin,Harbin,科研,2022-07-14 轻量化复刻：蝶海梦花,2022-07-14 Season 5
+应瑞,Ying Swei,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,肇和级,Chao Ho,00:38:00,2021-02-04 东煌春节,2021-02-04 Happy Lunar New Year 2021
+肇和,Chao Ho,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,肇和级,Chao Ho,00:38:00,2021-02-04 东煌春节,2021-02-04 Happy Lunar New Year 2021
+海天,Hai Tien,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,海天级,Hai Chi,无法建造,2022-01-27 演习神秘事件调查,2022-01-27 Happy Lunar New Year 2022
+海圻,Hai Chi,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,海天级,Hai Chi,无法建造,2022-01-27 演习神秘事件调查,2022-01-27 Happy Lunar New Year 2022
+济安,Chi An,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,济安级,Chi An,00:38:00,2024-01-30 寰昌宇定家事忙,2024-01-30 Happy Lunar New Year 2024
+海容,Hai Yung,是,精锐,Elite,东煌,Dragon Empery,轻巡,CL,海容级,Hai Yung,00:40:00,2025-01-16 华裳巧展喜事长,2025-01-16 Happy Lunar New Year 2025
+建武,Chien Wu,是,超稀有,Super Rare,东煌,Dragon Empery,重巡,CA,建武级,Chien Wu,01:30:00,2025-01-16 华裳巧展喜事长,2025-01-16 Happy Lunar New Year 2025
+寰昌,Huan Ch'ang,是,超稀有,Super Rare,东煌,Dragon Empery,战巡,BC,寰昌级,Huan Ch'ang,04:10:00,2024-01-30 寰昌宇定家事忙,2024-01-30 Happy Lunar New Year 2024
+镇海,Chen Hai,是,精锐,Elite,东煌,Dragon Empery,轻航,CVL,镇海级,Chen Hai,02:00:00,2022-01-27 演习神秘事件调查,2022-01-27 Happy Lunar New Year 2022
+华甲,Hwah Jah,是,精锐,Elite,东煌,Dragon Empery,轻航,CVL,华甲级,Hwah Jah,02:10:00,2023-01-18 冬日的寻路人,2023-01-18 Happy Lunar New Year 2023
+定安,Ting An,是,精锐,Elite,东煌,Dragon Empery,运输,AE,定安级,Ting An,无法建造,2023-01-18 冬日的寻路人,2023-01-18 Happy Lunar New Year 2023
+哈尔滨,滨江、Harbin,是,最高方案,Priority,东煌,Dragon Empery,轻巡,CL,哈尔滨级,Harbin,科研,2022-07-14 轻量化复刻：蝶海梦花,2022-07-14 Season 5
 龙骑兵,Carabiniere,是,精锐,Elite,撒丁帝国,Sardegna Empire,驱逐,DD,索尔达蒂级,Soldati,无法建造,2019-09-11 神圣的悲喜剧,2019-09-11 Empyreal Tragicomedy
 文琴佐·焦贝蒂,Vincenzo Gioberti,是,精锐,Elite,撒丁帝国,Sardegna Empire,驱逐,DD,诗人级,Alfredo Oriani,00:32:00,2021-01-21 复刻：神圣的悲喜剧,2021-01-21 Empyreal Tragicomedy Rerun
 西北风,Maestrale,是,精锐,Elite,撒丁帝国,Sardegna Empire,驱逐,DD,西北风级,Maestrale,00:30:40,2021-04-22 复兴的赞美诗,2021-04-22 Daedalian Hymn
 西南风,Libeccio,是,精锐,Elite,撒丁帝国,Sardegna Empire,驱逐,DD,西北风级,Maestrale,00:30:40,2021-04-22 复兴的赞美诗,2021-04-22 Daedalian Hymn
 尼科洛索·达雷科,Nicoloso da Recco,是,精锐,Elite,撒丁帝国,Sardegna Empire,驱逐,DD,航海家级,Navigatori,00:29:40,2021-04-22 复兴的赞美诗,2021-04-22 Daedalian Hymn
-庞培·马格诺,Pompeo Magno,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,驱逐,DD,罗马统帅级,Capitani Romani,00:32:00,2022-03-24,2022-03-24 Virtual Tower
+庞培·马格诺,Pompeo Magno,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,驱逐,DD,罗马统帅级,Capitani Romani,00:32:00,2022-03-24 虚像构筑之塔·序章,2022-03-24 Virtual Tower
 阿尔弗雷多·奥里亚尼,Alfredo Oriani,是,精锐,Elite,撒丁帝国,Sardegna Empire,驱逐,DD,诗人级,Alfredo Oriani,00:32:00,2022-07-28 雄鹰的叙事歌,2022-07-28 Aquilifer's Ballade
 埃曼努埃尔·佩萨格诺,Emanuele Pessagno,是,精锐,Elite,撒丁帝国,Sardegna Empire,驱逐,DD,航海家级,Navigatori,无法建造,2022-07-28 雄鹰的叙事歌,2022-07-28 Aquilifer's Ballade
-阿蒂利奥·雷戈洛,Attilio Regolo,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,驱逐,DD,罗马统帅级,Capitani Romani,00:32:00,2023-06-29,2023-06-29 Reflections of the Oasis
+阿蒂利奥·雷戈洛,Attilio Regolo,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,驱逐,DD,罗马统帅级,Capitani Romani,00:32:00,2023-06-29 绿洲往事,2023-06-29 Reflections of the Oasis
 焦苏埃·卡尔杜齐,Giosuè Carducci,是,精锐,Elite,撒丁帝国,Sardegna Empire,驱逐,DD,诗人级,Alfredo Oriani,无法建造,2025-02-27 樊笼内的神光,2025-02-27 Paradiso of Shackled Light
 阿布鲁齐公爵,Duca degli Abruzzi,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,轻巡,CL,佣兵队长级,Duca degli Abruzzi,01:26:00,2021-04-22 复兴的赞美诗,2021-04-22 Daedalian Hymn
 朱塞佩·加里波第,Giuseppe Garibaldi,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,轻巡,CL,佣兵队长级,Duca degli Abruzzi,01:26:00,2022-07-28 雄鹰的叙事歌,2022-07-28 Aquilifer's Ballade
@@ -573,239 +573,239 @@ U-552,优可可妮,是,超稀有,Super Rare,铁血,Iron Blood,潜艇,SS,VIIC型,
 特伦托,Trento,是,稀有,Rare,撒丁帝国,Sardegna Empire,重巡,CA,特伦托级,Trento,无法建造,2019-09-11 神圣的悲喜剧,2019-09-11 Empyreal Tragicomedy
 扎拉,扎达尔、Zara,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,重巡,CA,扎拉级,Zara,01:55:00,2019-09-11 神圣的悲喜剧,2019-09-11 Empyreal Tragicomedy
 波拉,Pola,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,重巡,CA,扎拉级,Zara,01:55:00,2021-01-21 复刻：神圣的悲喜剧,2021-01-21 Empyreal Tragicomedy Rerun
-的里雅斯特,Trieste,是,精锐,Elite,撒丁帝国,Sardegna Empire,重巡,CA,特伦托级,Trento,01:54:00,2022-03-24,2022-03-24 Virtual Tower
+的里雅斯特,Trieste,是,精锐,Elite,撒丁帝国,Sardegna Empire,重巡,CA,特伦托级,Trento,01:54:00,2022-03-24 虚像构筑之塔·序章,2022-03-24 Virtual Tower
 博尔扎诺,Bolzano,是,精锐,Elite,撒丁帝国,Sardegna Empire,重巡,CA,博尔扎诺级,Bolzano,01:54:00,2022-07-28 雄鹰的叙事歌,2022-07-28 Aquilifer's Ballade
-戈里齐亚,Gorizia,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,重巡,CA,扎拉级,Zara,01:55:00,2023-06-29,2023-06-29 Reflections of the Oasis
+戈里齐亚,Gorizia,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,重巡,CA,扎拉级,Zara,01:55:00,2023-06-29 绿洲往事,2023-06-29 Reflections of the Oasis
 维托里奥·维内托,Vittorio Veneto,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,战列,BB,维托里奥·维内托级,Vittorio Veneto,05:15:00,2021-04-22 复兴的赞美诗,2021-04-22 Daedalian Hymn
 利托里奥,Littorio,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,战列,BB,维托里奥·维内托级,Vittorio Veneto,05:15:00,2019-09-11 神圣的悲喜剧,2019-09-11 Empyreal Tragicomedy
 罗马,Roma,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,战列,BB,维托里奥·维内托级,Vittorio Veneto,05:15:00,2022-07-28 雄鹰的叙事歌,2022-07-28 Aquilifer's Ballade
 加富尔伯爵,Conte di Cavour,是,稀有,Rare,撒丁帝国,Sardegna Empire,战列,BB,加富尔伯爵级,Conte di Cavour,无法建造,2019-09-11 神圣的悲喜剧,2019-09-11 Empyreal Tragicomedy
 朱利奥·凯撒,Giulio Cesare,是,精锐,Elite,撒丁帝国,Sardegna Empire,战列,BB,加富尔伯爵级,Conte di Cavour,04:15:00,2019-09-11 神圣的悲喜剧,2019-09-11 Empyreal Tragicomedy
-安德烈亚·多利亚,Andrea Doria,是,精锐,Elite,撒丁帝国,Sardegna Empire,战列,BB,安德烈亚·多利亚级,Andrea Doria,04:15:00,2023-06-29,2023-06-29 Reflections of the Oasis
-拉斐尔,Raffaello,是,海上传奇,Ultra Rare,撒丁帝国,Sardegna Empire,战列,BB,Raffaello,Raffaello,05:40:10,2025-02-27 樊笼内的神光,2025-02-27 Paradiso of Shackled Light
-天鹰,Aquila,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,航母,CV,Aquila,Aquila,04:35:00,2021-04-22 复兴的赞美诗,2021-04-22 Daedalian Hymn
-帝国,Impero,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,航母,CV,维托里奥·维内托级,Vittorio Veneto,05:15:00,2022-03-24,2022-03-24 Virtual Tower
+安德烈亚·多利亚,Andrea Doria,是,精锐,Elite,撒丁帝国,Sardegna Empire,战列,BB,安德烈亚·多利亚级,Andrea Doria,04:15:00,2023-06-29 绿洲往事,2023-06-29 Reflections of the Oasis
+拉斐尔,Raffaello,是,海上传奇,Ultra Rare,撒丁帝国,Sardegna Empire,战列,BB,拉斐尔级,Raffaello,05:40:10,2025-02-27 樊笼内的神光,2025-02-27 Paradiso of Shackled Light
+天鹰,Aquila,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,航母,CV,天鹰级,Aquila,04:35:00,2021-04-22 复兴的赞美诗,2021-04-22 Daedalian Hymn
+帝国,Impero,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,航母,CV,维托里奥·维内托级,Vittorio Veneto,05:15:00,2022-03-24 虚像构筑之塔·序章,2022-03-24 Virtual Tower
 托里拆利,Torricelli,是,精锐,Elite,撒丁帝国,Sardegna Empire,潜艇,SS,布林级,Brin,无法建造,2021-04-22 复兴的赞美诗,2021-04-22 Daedalian Hymn
 莱昂纳多·达·芬奇,Leonardo Da Vinci、Leonardo da Vinci,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,潜艇,SS,马可尼级,Marconi,00:12:00,2022-07-28 雄鹰的叙事歌,2022-07-28 Aquilifer's Ballade
 巴拉卡少校,Maggiore Baracca,是,超稀有,Super Rare,撒丁帝国,Sardegna Empire,潜艇,SS,马可尼级,Marconi,00:12:00,2025-02-27 樊笼内的神光,2025-02-27 Paradiso of Shackled Light
-马可·波罗,Marco Polo,是,最高方案,Priority,撒丁帝国,Sardegna Empire,战列,BB,Marco Polo,Marco Polo,科研,2021-07-08,2021-07-08 Season 4
-那不勒斯,Napoli,是,决战方案,Decisive,撒丁帝国,Sardegna Empire,重巡,CA,Napoli,Napoli,科研,2024-07-18 轻量化复刻：泠誓光庭,2024-07-18 Season 7
-维托里奥·库尼贝尔蒂,Vittorio Cuniberti,是,最高方案,Priority,撒丁帝国,Sardegna Empire,驱逐,DD,西北风级,Vittorio Cuniberti,科研,2025-07-10,2025-07-10 Season 8
-威严,Grozny,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,7型,Gnevny,00:32:00,2020-02-27 北境序曲,2020-02-27 Northern Overture
-明斯克,Minsk,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,38型,Leningrad,无法建造,2020-02-27 北境序曲,2020-02-27 Northern Overture
+马可·波罗,Marco Polo,是,最高方案,Priority,撒丁帝国,Sardegna Empire,战列,BB,马可·波罗级,Marco Polo,科研,2021-07-08 开发船坞,2021-07-08 Season 4
+那不勒斯,Napoli,是,决战方案,Decisive,撒丁帝国,Sardegna Empire,重巡,CA,那不勒斯级,Napoli,科研,2024-07-11 开发船坞,2024-07-11 Season 7
+维托里奥·库尼贝尔蒂,Vittorio Cuniberti,是,最高方案,Priority,撒丁帝国,Sardegna Empire,驱逐,DD,西北风级,Vittorio Cuniberti,科研,2025-07-10 开发船坞,2025-07-10 Season 8
+威严,Grozny,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,愤怒级,Gnevny,00:32:00,2020-02-27 北境序曲,2020-02-27 Northern Overture
+明斯克,Minsk,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,明斯克级,Leningrad,无法建造,2020-02-27 北境序曲,2020-02-27 Northern Overture
 塔什干,Tashkent,是,超稀有,Super Rare,北方联合,Northern Parliament,驱逐,DD,20-I型,Tashkent,00:42:00,2020-02-27 北境序曲,2020-02-27 Northern Overture
-塔什干(μ兵装),Tashkent、Tashkent µ,是,超稀有,Super Rare,北方联合,Northern Parliament,驱逐,DD,20-I型,Tashkent,00:42:00,2020-10-29,2020-10-29 Universe in Unison
-神速,Stremitelny,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,7型,Gnevny,00:32:00,无活动,No Event
-雷鸣,Gremyashchy,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,7型,Gnevny,00:32:00,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
-洪亮,Gromky,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,7型,Gnevny,无法建造,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
-灵敏,Soobrazitelny,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,7-U型,Storozhevoy,无法建造,2022-02-24 深度回音,2022-02-24 Abyssal Refrain
-基辅,Kiev,是,超稀有,Super Rare,北方联合,Northern Parliament,驱逐,DD,48型,Kiev,00:42:00,2022-02-24 深度回音,2022-02-24 Abyssal Refrain
-火力,Ognevoy,是,超稀有,Super Rare,北方联合,Northern Parliament,驱逐,DD,30-K型,Ognevoy,00:41:00,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
-凶猛,Svirepy,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,7-U型,Storozhevoy,无法建造,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
+塔什干(μ兵装),Tashkent、Tashkent µ,是,超稀有,Super Rare,北方联合,Northern Parliament,驱逐,DD,20-I型,Tashkent,00:42:00,2020-10-29 激唱的UNIVERSE,2020-10-29 Universe in Unison
+神速,Stremitelny,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,愤怒级,Gnevny,00:32:00,无活动,No Event
+雷鸣,Gremyashchy,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,愤怒级,Gnevny,00:32:00,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
+洪亮,Gromky,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,愤怒级,Gnevny,无法建造,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
+灵敏,Soobrazitelny,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,前哨级,Storozhevoy,无法建造,2022-02-24 深度回音,2022-02-24 Abyssal Refrain
+基辅,Kiev,是,超稀有,Super Rare,北方联合,Northern Parliament,驱逐,DD,基辅级,Kiev,00:42:00,2022-02-24 深度回音,2022-02-24 Abyssal Refrain
+火力,Ognevoy,是,超稀有,Super Rare,北方联合,Northern Parliament,驱逐,DD,火力级,Ognevoy,00:41:00,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
+凶猛,Svirepy,是,精锐,Elite,北方联合,Northern Parliament,驱逐,DD,前哨级,Storozhevoy,无法建造,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
 阿芙乐尔,Avrora,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,帕拉达级,Pallada,01:17:00,2017-05-25,2017-05-25 Northern Overture
 水星纪念,Pamiat' Merkuria,是,精锐,Elite,北方联合,Northern Parliament,轻巡,CL,博加特里级,Bogatyr,01:17:00,2020-02-27 北境序曲,2020-02-27 Northern Overture
-恰巴耶夫,Chapayev,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,68-K型,Chapayev,01:26:00,2020-02-27 北境序曲,2020-02-27 Northern Overture
-基洛夫,Kirov,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,26型,Kirov,01:32:00,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
-古比雪夫,Kuybyshev,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,68-K型,Chapayev,01:26:00,2023-01-18,2023-01-18 Happy Lunar New Year 2023
+恰巴耶夫,Chapayev,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,恰巴耶夫级,Chapayev,01:26:00,2020-02-27 北境序曲,2020-02-27 Northern Overture
+基洛夫,Kirov,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,基洛夫级,Kirov,01:32:00,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
+古比雪夫,Kuybyshev,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,恰巴耶夫级,Chapayev,01:26:00,2023-01-18 冬日的寻路人,2023-01-18 Happy Lunar New Year 2023
 摩尔曼斯克,Murmansk,是,精锐,Elite,北方联合,Northern Parliament,轻巡,CL,奥马哈级,Omaha,01:05:00,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
-伏罗希洛夫,Voroshilov,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,26型,Kirov,01:32:00,2023-03-23,2023-03-23 Frostfall
+伏罗希洛夫,Voroshilov,是,超稀有,Super Rare,北方联合,Northern Parliament,轻巡,CL,基洛夫级,Kirov,01:32:00,2023-03-23 极地风暴,2023-03-23 Frostfall
 奥列格,Oleg,是,精锐,Elite,北方联合,Northern Parliament,轻巡,CL,博加特里级,Bogatyr,无法建造,2025-04-24 扬起郁金之旗,2025-04-24 Toward Tulipa's Seas
 塔林,Tallinn,是,超稀有,Super Rare,北方联合,Northern Parliament,重巡,CA,希佩尔海军上将级,Admiral Hipper,02:00:00,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
-库尔斯克,Kursk,是,超稀有,Super Rare,北方联合,Northern Parliament,重巡,CA,Kursk,Kursk,02:05:00,2023-03-23,2023-03-23 Frostfall
+库尔斯克,Kursk,是,超稀有,Super Rare,北方联合,Northern Parliament,重巡,CA,库尔斯克级,Kursk,02:05:00,2023-03-23 极地风暴,2023-03-23 Frostfall
 甘古特,Gangut,是,精锐,Elite,北方联合,Northern Parliament,战列,BB,甘古特级,Gangut,无法建造,2020-02-27 北境序曲,2020-02-27 Northern Overture
-苏维埃同盟,苏维埃萨尤斯、Sovetsky Soyuz,是,海上传奇,Ultra Rare,北方联合,Northern Parliament,战列,BB,23型,Sovetsky Soyuz,06:23:00,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
-苏维埃贝拉罗斯,Sovetskaya Belorussiya,是,超稀有,Super Rare,北方联合,Northern Parliament,战列,BB,23型,Sovetsky Soyuz,06:23:00,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
-苏维埃罗西亚,Sovetskaya Rossiya,是,超稀有,Super Rare,北方联合,Northern Parliament,战列,BB,23型,Sovetsky Soyuz,06:23:00,2020-02-27 北境序曲,2020-02-27 Northern Overture
+苏维埃同盟,苏维埃萨尤斯、Sovetsky Soyuz,是,海上传奇,Ultra Rare,北方联合,Northern Parliament,战列,BB,苏维埃同盟级,Sovetsky Soyuz,06:23:00,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
+苏维埃贝拉罗斯,Sovetskaya Belorussiya,是,超稀有,Super Rare,北方联合,Northern Parliament,战列,BB,苏维埃同盟级,Sovetsky Soyuz,06:23:00,2021-02-25 破晓冰华,2021-02-25 Khorovod of Dawn's Rime
+苏维埃罗西亚,Sovetskaya Rossiya,是,超稀有,Super Rare,北方联合,Northern Parliament,战列,BB,苏维埃同盟级,Sovetsky Soyuz,06:23:00,2020-02-27 北境序曲,2020-02-27 Northern Overture
 阿尔汉格尔斯克,Arkhangelsk,是,精锐,Elite,北方联合,Northern Parliament,战列,BB,复仇级,Revenge,04:10:00,2022-02-24 深度回音,2022-02-24 Abyssal Refrain
-塞瓦斯托波尔,Sevastopol,是,精锐,Elite,北方联合,Northern Parliament,战列,BB,甘古特级,Gangut,03:40:00,2023-03-23,2023-03-23 Frostfall
+塞瓦斯托波尔,Sevastopol,是,精锐,Elite,北方联合,Northern Parliament,战列,BB,甘古特级,Gangut,03:40:00,2023-03-23 极地风暴,2023-03-23 Frostfall
 波尔塔瓦,Poltava,是,精锐,Elite,北方联合,Northern Parliament,战列,BB,甘古特级,Gangut,03:40:00,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
 喀山,Kazan,是,超稀有,Super Rare,北方联合,Northern Parliament,战列,BB,21型,Kazan,05:50:00,2025-04-24 扬起郁金之旗,2025-04-24 Toward Tulipa's Seas
 伏尔加,Volga,是,超稀有,Super Rare,北方联合,Northern Parliament,航母,CV,72型,Volga,04:47:53,2022-02-24 深度回音,2022-02-24 Abyssal Refrain
-喀琅施塔得,Kronshtadt,是,海上传奇,Ultra Rare,北方联合,Northern Parliament,超巡,CB,69型,Kronshtadt,04:42:50,2022-02-24 深度回音,2022-02-24 Abyssal Refrain
+喀琅施塔得,Kronshtadt,是,海上传奇,Ultra Rare,北方联合,Northern Parliament,超巡,CB,喀琅施塔得级,Kronshtadt,04:42:50,2022-02-24 深度回音,2022-02-24 Abyssal Refrain
 契卡洛夫,Chkalov,是,最高方案,Priority,北方联合,Northern Parliament,航母,CV,71B型,Chkalov,科研,2022-07-14 轻量化复刻：蝶海梦花,2022-07-14 Season 5
-纳希莫夫海军上将,Admiral Nakhimov,是,决战方案,Decisive,北方联合,Northern Parliament,航母,CV,23AV型,Admiral Nakhimov,科研,2024-07-18 轻量化复刻：泠誓光庭,2024-07-18 Season 7
-迪米特里·顿斯科伊,Dmitri Donskoi,是,最高方案,Priority,北方联合,Northern Parliament,轻巡,CL,65型,Dmitri Donskoi,科研,2025-07-10,2025-07-10 Season 8
+纳希莫夫海军上将,Admiral Nakhimov,是,决战方案,Decisive,北方联合,Northern Parliament,航母,CV,苏维埃同盟级,Admiral Nakhimov,科研,2024-07-11 开发船坞,2024-07-11 Season 7
+迪米特里·顿斯科伊,Dmitri Donskoi,是,最高方案,Priority,北方联合,Northern Parliament,轻巡,CL,65型,Dmitri Donskoi,科研,2025-07-10 开发船坞,2025-07-10 Season 8
 凯旋,Le Triomphant,是,超稀有,Super Rare,自由鸢尾,Iris Libre,驱逐,DD,空想级,Le Fantasque,无法建造,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark
 福尔班,Forbin,是,稀有,Rare,自由鸢尾,Iris Libre,驱逐,DD,机敏级,L'Adroit,00:23:00,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark
-鲁莽,Le Téméraire,是,精锐,Elite,自由鸢尾,Iris Libre,驱逐,DD,大胆级,Le Hardi,无法建造,2018-09-14,2018-09-14 1 Year Anniversary
+鲁莽,Le Téméraire,是,精锐,Elite,自由鸢尾,Iris Libre,驱逐,DD,大胆级,Le Hardi,无法建造,2018-09-14 大青花鱼的涂鸦板,2018-09-14 1 Year Anniversary
 倔强,L'Opiniâtre,是,精锐,Elite,自由鸢尾,Iris Libre,驱逐,DD,大胆级,Le Hardi,无法建造,2019-06-27 复刻：光与影的鸢尾之华,2019-06-27 Iris of Light and Dark Rerun
 大胆,Le Hardi,是,超稀有,Super Rare,自由鸢尾,Iris Libre,驱逐,DD,大胆级,L'Intrépide,00:26:00,2025-08-14 奇渊下的秘密,2025-08-14 Secrets of the Abyss
-可怖,Le Terrible,是,超稀有,Super Rare,自由鸢尾,Iris Libre,驱逐,DD,空想级,Le Fantasque,00:33:00,2021-10-21 第十四章-苏里高夜战,2021-10-21 Skybound Oratorio Rerun
-马耶·布雷泽,Maillé Brézé,是,精锐,Elite,自由鸢尾,Iris Libre,驱逐,DD,沃克兰级,Vauquelin,00:26:00,2021-10-21 第十四章-苏里高夜战,2021-10-21 Skybound Oratorio Rerun
+可怖,Le Terrible,是,超稀有,Super Rare,自由鸢尾,Iris Libre,驱逐,DD,空想级,Le Fantasque,00:33:00,2021-10-28 混沌的万圣之夜,2021-10-28 Skybound Oratorio Rerun
+马耶·布雷泽,Maillé Brézé,是,精锐,Elite,自由鸢尾,Iris Libre,驱逐,DD,沃克兰级,Vauquelin,00:26:00,2021-10-28 混沌的万圣之夜,2021-10-28 Skybound Oratorio Rerun
 鲁莽(μ兵装),Le Téméraire、Le Téméraire µ,是,精锐,Elite,自由鸢尾,Iris Libre,驱逐,DD,大胆级,Le Hardi,无法建造,2024-04-25 共鸣的PASSION,2024-04-25 Heart-Linking Harmony
-埃米尔·贝尔汀,Émile Bertin,是,精锐,Elite,自由鸢尾,Iris Libre,轻巡,CL,Émile Bertin,Émile Bertin,无法建造,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark
-圣女贞德,Jeanne d'Arc,是,超稀有,Super Rare,自由鸢尾,Iris Libre,轻巡,CL,Jeanne d'Arc,Jeanne d'Arc,01:26:00,2020-05-21 穹顶下的圣咏曲,2020-05-21 Skybound Oratorio
+埃米尔·贝尔汀,Émile Bertin,是,精锐,Elite,自由鸢尾,Iris Libre,轻巡,CL,埃米尔·贝尔汀级,Émile Bertin,无法建造,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark
+圣女贞德,Jeanne d'Arc,是,超稀有,Super Rare,自由鸢尾,Iris Libre,轻巡,CL,圣女贞德级,Jeanne d'Arc,01:26:00,2020-05-21 穹顶下的圣咏曲,2020-05-21 Skybound Oratorio
 吉尚,Guichen,是,超稀有,Super Rare,自由鸢尾,Iris Libre,轻巡,CL,德·格拉斯级,De Grasse,01:26:00,2023-08-17 愚者的天平,2023-08-17 The Fool's Scales
 迪盖·特鲁因,Duguay-Trouin,是,精锐,Elite,自由鸢尾,Iris Libre,轻巡,CL,迪盖·特鲁因级,Duguay-Trouin,无法建造,2025-08-14 奇渊下的秘密,2025-08-14 Secrets of the Abyss
 絮弗伦,Suffren,是,精锐,Elite,自由鸢尾,Iris Libre,重巡,CA,絮弗伦级,Suffren,01:45:00,2023-08-17 愚者的天平,2023-08-17 The Fool's Scales
-布伦努斯,Brennus,是,超稀有,Super Rare,自由鸢尾,Iris Libre,重巡,CA,Brennus,Brennus,01:50:00,2024-05-21 绽放于辉光之城,2024-05-21 Light of the Martyrium
+布伦努斯,Brennus,是,超稀有,Super Rare,自由鸢尾,Iris Libre,重巡,CA,布伦努斯级,Brennus,01:50:00,2024-05-21 绽放于辉光之城,2024-05-21 Light of the Martyrium
 迪凯纳,Duquesne,是,精锐,Elite,自由鸢尾,Iris Libre,重巡,CA,迪凯纳级,Duquesne,01:45:00,2025-08-14 奇渊下的秘密,2025-08-14 Secrets of the Abyss
-马塞纳,Masséna,是,超稀有,Super Rare,自由鸢尾,Iris Libre,战巡,BC,Masséna,Masséna,04:05:00,2025-08-14 奇渊下的秘密,2025-08-14 Secrets of the Abyss
+马塞纳,Masséna,是,超稀有,Super Rare,自由鸢尾,Iris Libre,战巡,BC,马塞纳级,Masséna,04:05:00,2025-08-14 奇渊下的秘密,2025-08-14 Secrets of the Abyss
 黎塞留,Richelieu,是,超稀有,Super Rare,自由鸢尾,Iris Libre,战列,BB,黎塞留级,Richelieu,05:50:00,2020-05-21 穹顶下的圣咏曲,2020-05-21 Skybound Oratorio
 里昂,Lyon,是,精锐,Elite,自由鸢尾,Iris Libre,战列,BB,里昂级,Lyon,04:15:00,2023-08-17 愚者的天平,2023-08-17 The Fool's Scales
 阿尔萨斯,Alsace,是,海上传奇,Ultra Rare,自由鸢尾,Iris Libre,战列,BB,阿尔萨斯级,Alsace,06:12:20,2024-05-21 绽放于辉光之城,2024-05-21 Light of the Martyrium
 贝劳森林,Bois Belleau,是,超稀有,Super Rare,自由鸢尾,Iris Libre,轻航,CV,独立级,Independence,02:06:40,2025-08-14 奇渊下的秘密,2025-08-14 Secrets of the Abyss
 贝亚恩,Béarn,是,精锐,Elite,自由鸢尾,Iris Libre,航母,CV,诺曼底级,Béarn,无法建造,2020-05-21 穹顶下的圣咏曲,2020-05-21 Skybound Oratorio
 伴尔维,Painlevé,是,超稀有,Super Rare,自由鸢尾,Iris Libre,航母,CV,霞飞级,Joffre,04:35:00,2023-08-17 愚者的天平,2023-08-17 The Fool's Scales
-絮库夫,Surcouf,是,精锐,Elite,自由鸢尾,Iris Libre,潜艇,SS,Surcouf,Surcouf,00:35:00,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark Rerun
-路易九世,Saint Louis,是,最高方案,Priority,自由鸢尾,Iris Libre,重巡,CA,Saint Louis,Saint Louis,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
-香槟,Champagne,是,最高方案,Priority,自由鸢尾,Iris Libre,战列,BB,黎塞留级,Champagne,科研,2020-07-09,2020-07-09 Season 3
+絮库夫,Surcouf,是,精锐,Elite,自由鸢尾,Iris Libre,潜艇,SS,絮库夫级,Surcouf,00:35:00,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark Rerun
+路易九世,Saint Louis,是,最高方案,Priority,自由鸢尾,Iris Libre,重巡,CA,路易九世级,Saint Louis,科研,2018-04-26 第十二章-马里亚纳风云•上,2018-04-26 Season 1
+香槟,Champagne,是,最高方案,Priority,自由鸢尾,Iris Libre,战列,BB,黎塞留级,Champagne,科研,2020-07-09 开发船坞,2020-07-09 Season 3
 布雷斯特,Brest,是,决战方案,Decisive,自由鸢尾,Iris Libre,超巡,CB,敦刻尔克级,Brest,科研,2022-07-14 轻量化复刻：蝶海梦花,2022-07-14 Season 5
-贝亚德,Bayard,是,最高方案,Priority,自由鸢尾,Iris Libre,轻巡,CL,Bayard,Bayard,科研,2024-07-18 轻量化复刻：泠誓光庭,2024-07-18 Season 7
+贝亚德,Bayard,是,最高方案,Priority,自由鸢尾,Iris Libre,轻巡,CL,贝亚德级,Bayard,科研,2024-07-11 开发船坞,2024-07-11 Season 7
 勒马尔,Le Mars,是,稀有,Rare,维希教廷,Vichya Dominion,驱逐,DD,机敏级,L'Adroit,00:23:00,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark
-塔尔图,Tartu,是,精锐,Elite,维希教廷,Vichya Dominion,驱逐,DD,沃克兰级,Vauquelin,00:26:00,2020-05-07,2020-05-07 The Way Home in the Night
+塔尔图,Tartu,是,精锐,Elite,维希教廷,Vichya Dominion,驱逐,DD,沃克兰级,Vauquelin,00:26:00,2020-05-07 夜幕下的归途,2020-05-07 The Way Home in the Night
 沃克兰,Vauquelin,是,精锐,Elite,维希教廷,Vichya Dominion,驱逐,DD,沃克兰级,Vauquelin,00:26:00,2020-05-21 穹顶下的圣咏曲,2020-05-21 Skybound Oratorio
 凯尔圣,Kersaint,是,精锐,Elite,维希教廷,Vichya Dominion,驱逐,DD,沃克兰级,Vauquelin,无法建造,2023-08-17 愚者的天平,2023-08-17 The Fool's Scales
 花剑,Fleuret,是,精锐,Elite,维希教廷,Vichya Dominion,驱逐,DD,大胆级,Le Hardi,00:26:00,2024-05-21 绽放于辉光之城,2024-05-21 Light of the Martyrium
 重剑,Épée,是,精锐,Elite,维希教廷,Vichya Dominion,驱逐,DD,大胆级,Le Hardi,无法建造,2024-05-21 绽放于辉光之城,2024-05-21 Light of the Martyrium
 莫加多尔,Mogador,是,海上传奇,Ultra Rare,维希教廷,Vichya Dominion,驱逐,DD,莫加多尔级,Mogador,无法建造,2024-05-21 绽放于辉光之城,2024-05-21 Light of the Martyrium
 恶毒,Le Malin,是,超稀有,Super Rare,维希教廷,Vichya Dominion,驱逐,DD,空想级,Le Fantasque,无法建造,2019-06-27 复刻：光与影的鸢尾之华,2019-06-27 Iris of Light and Dark Rerun
-恶毒(μ兵装),Le Malin、Le Malin µ,是,超稀有,Super Rare,维希教廷,Vichya Dominion,驱逐,DD,空想级,Le Fantasque,无法建造,2020-10-29,2020-10-29 Universe in Unison
-不屈,L'Indomptable,是,超稀有,Super Rare,维希教廷,Vichya Dominion,驱逐,DD,空想级,Le Fantasque,00:33:00,2022-06-30,2022-06-30 Angel of the Iris
+恶毒(μ兵装),Le Malin、Le Malin µ,是,超稀有,Super Rare,维希教廷,Vichya Dominion,驱逐,DD,空想级,Le Fantasque,无法建造,2020-10-29 激唱的UNIVERSE,2020-10-29 Universe in Unison
+不屈,L'Indomptable,是,超稀有,Super Rare,维希教廷,Vichya Dominion,驱逐,DD,空想级,Le Fantasque,00:33:00,2022-06-30 来自鸢尾的天使,2022-06-30 Angel of the Iris
 果敢,L'Audacieux,是,超稀有,Super Rare,维希教廷,Vichya Dominion,驱逐,DD,空想级,Le Fantasque,00:33:00,2024-07-25 幻梦间奏曲,2024-07-25 Interlude of Illusions
 拉·加利索尼埃,La Galissonnière,是,精锐,Elite,维希教廷,Vichya Dominion,轻巡,CL,拉·加利索尼埃级,La Galissonnière,无法建造,2020-05-21 穹顶下的圣咏曲,2020-05-21 Skybound Oratorio
-马赛曲,Marseillaise,是,超稀有,Super Rare,维希教廷,Vichya Dominion,轻巡,CL,拉·加利索尼埃级,La Galissonnière,01:26:00,2023-08-03,2023-08-03 Anthem of Remembrance
-福煦,Foch,是,精锐,Elite,维希教廷,Vichya Dominion,重巡,CA,絮弗伦级,Suffren,01:45:00,2021-11-11,2021-11-11 The Flame-Touched Dagger
-阿尔及利亚,Algérie,是,超稀有,Super Rare,维希教廷,Vichya Dominion,重巡,CA,Algérie,Algérie,01:55:00,2020-05-21 穹顶下的圣咏曲,2020-05-21 Skybound Oratorio
+马赛曲,Marseillaise,是,超稀有,Super Rare,维希教廷,Vichya Dominion,轻巡,CL,拉·加利索尼埃级,La Galissonnière,01:26:00,2023-08-03 奏响鸢尾之歌,2023-08-03 Anthem of Remembrance
+福煦,Foch,是,精锐,Elite,维希教廷,Vichya Dominion,重巡,CA,絮弗伦级,Suffren,01:45:00,2021-11-11 杰诺瓦的焰火,2021-11-11 The Flame-Touched Dagger
+阿尔及利亚,Algérie,是,超稀有,Super Rare,维希教廷,Vichya Dominion,重巡,CA,阿尔及利亚级,Algérie,01:55:00,2020-05-21 穹顶下的圣咏曲,2020-05-21 Skybound Oratorio
 迪普莱克斯,Dupleix,是,精锐,Elite,维希教廷,Vichya Dominion,重巡,CA,絮弗伦级,Suffren,01:45:00,2024-07-25 幻梦间奏曲,2024-07-25 Interlude of Illusions
 敦刻尔克,Dunkerque,是,精锐,Elite,维希教廷,Vichya Dominion,战巡,BC,敦刻尔克级,Dunkerque,04:05:00,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark
 斯特拉斯堡,Strasbourg,是,超稀有,Super Rare,维希教廷,Vichya Dominion,战巡,BC,敦刻尔克级,Dunkerque,04:05:00,2024-07-25 幻梦间奏曲,2024-07-25 Interlude of Illusions
 让·巴尔,简·布罗伊、Jean Bart,是,超稀有,Super Rare,维希教廷,Vichya Dominion,战列,BB,黎塞留级,Richelieu,无法建造,2018-07-26 光与影的鸢尾之华,2018-07-26 Iris of Light and Dark
 克莱蒙梭,Clemenceau,是,超稀有,Super Rare,维希教廷,Vichya Dominion,战列,BB,黎塞留级,Richelieu,05:50:00,2023-08-17 愚者的天平,2023-08-17 The Fool's Scales
-加斯科涅(μ兵装),Gascogne、Gascogne µ,是,超稀有,Super Rare,维希教廷,Vichya Dominion,战列,BB,黎塞留级,Richelieu,05:50:00,2019-10-31,2019-10-31 Crescendo of Polaris
-霞飞,Joffre,是,超稀有,Super Rare,维希教廷,Vichya Dominion,航母,CV,霞飞级,Joffre,04:35:00,2022-06-30,2022-06-30 Angel of the Iris
-加斯科涅,Gascogne,是,最高方案,Priority,维希教廷,Vichya Dominion,战列,BB,黎塞留级,Richelieu,科研,2019-04-18,2019-04-18 Season 2
-弗兰德尔,Flandre,是,最高方案,Priority,维希教廷,Vichya Dominion,战列,BB,阿尔萨斯级,Alsace,科研,2023-07-13,2023-07-13 Season 6
+加斯科涅(μ兵装),Gascogne、Gascogne µ,是,超稀有,Super Rare,维希教廷,Vichya Dominion,战列,BB,黎塞留级,Richelieu,05:50:00,2019-10-31 激奏的Polaris,2019-10-31 Crescendo of Polaris
+霞飞,Joffre,是,超稀有,Super Rare,维希教廷,Vichya Dominion,航母,CV,霞飞级,Joffre,04:35:00,2022-06-30 来自鸢尾的天使,2022-06-30 Angel of the Iris
+加斯科涅,Gascogne,是,最高方案,Priority,维希教廷,Vichya Dominion,战列,BB,黎塞留级,Richelieu,科研,2019-04-18 开发船坞,2019-04-18 Season 2
+弗兰德尔,Flandre,是,最高方案,Priority,维希教廷,Vichya Dominion,战列,BB,阿尔萨斯级,Alsace,科研,2023-07-13 密语档案室,2023-07-13 Season 6
 埃佛森,Evertsen,是,精锐,Elite,郁金王国,Kingdom of Tulipa,驱逐,DD,海军上将级,Admiralen,00:26:00,2025-04-24 扬起郁金之旗,2025-04-24 Toward Tulipa's Seas
 七省,De Zeven Provinciën,是,超稀有,Super Rare,郁金王国,Kingdom of Tulipa,轻巡,CL,七省级,De Zeven Provinciën,01:25:00,2025-04-24 扬起郁金之旗,2025-04-24 Toward Tulipa's Seas
-金狮,ハウデン・リーウ、Gouden Leeuw,是,决战方案,Decisive,郁金王国,Kingdom of Tulipa,重巡,CA,Gouden Leeuw,Gouden Leeuw,科研,2025-07-10,2025-07-10 Season 8
+金狮,ハウデン・リーウ、Gouden Leeuw,是,决战方案,Decisive,郁金王国,Kingdom of Tulipa,重巡,CA,金狮级,Gouden Leeuw,科研,2025-07-10 开发船坞,2025-07-10 Season 8
 夜刀神十香,Tohka Yatogami,是,超稀有,Super Rare,DateALiveV,Date A Live,重巡,CA,无舰级,No Class,01:08:20,2025-11-20 DATE A LANE,2025-11-20 Date A Lane
 鸢一折纸,Origami Tobiichi,是,超稀有,Super Rare,DateALiveV,Date A Live,航母,CV,无舰级,No Class,02:13:50,2025-11-20 DATE A LANE,2025-11-20 Date A Lane
 五河琴里,Kotori Itsuka,是,超稀有,Super Rare,DateALiveV,Date A Live,战列,BB,无舰级,No Class,03:05:10,2025-11-20 DATE A LANE,2025-11-20 Date A Lane
 四糸乃,Yoshino,是,超稀有,Super Rare,DateALiveV,Date A Live,轻航,CVL,无舰级,No Class,无法建造,2025-11-20 DATE A LANE,2025-11-20 Date A Lane
 时崎狂三,Kurumi Tokisaki,是,超稀有,Super Rare,DateALiveV,Date A Live,轻巡,CL,无舰级,No Class,无法建造,2025-11-20 DATE A LANE,2025-11-20 Date A Lane
 八舞耶倶矢·八舞夕弦,Kaguya Yamai・Yuzuru Yamai,是,超稀有,Super Rare,DateALiveV,Date A Live,轻巡,CL,无舰级,No Class,02:05:40,2025-11-20 DATE A LANE,2025-11-20 Date A Lane
-皇家财富号,Royal Fortune,是,超稀有,Super Rare,飓风,Tempesta,风帆S,IXs,无舰级,No Class,无法建造,2022-10-27,2022-10-27 Halloween Hijinks
+皇家财富号,Royal Fortune,是,超稀有,Super Rare,飓风,Tempesta,风帆S,IXs,无舰级,No Class,无法建造,2022-10-27 战斗！皇家女仆队3rd？,2022-10-27 Halloween Hijinks
 圣马丁号,São Martinho,是,超稀有,Super Rare,飓风,Tempesta,风帆M,IXm,无舰级,No Class,04:26:21,2023-10-26 飓风与青春之泉,2023-10-26 Tempesta and the Fountain of Youth
 金鹿号,Golden Hind,是,超稀有,Super Rare,飓风,Tempesta,风帆V,IXv,无舰级,No Class,01:26:18,2023-10-26 飓风与青春之泉,2023-10-26 Tempesta and the Fountain of Youth
 玛丽·西莱斯特号,Mary Celeste,是,超稀有,Super Rare,飓风,Tempesta,风帆S,IXs,无舰级,No Class,00:31:01,2023-10-26 飓风与青春之泉,2023-10-26 Tempesta and the Fountain of Youth
 维达号,Whydah,是,精锐,Elite,飓风,Tempesta,风帆S,IXs,无舰级,No Class,00:28:36,2023-10-26 飓风与青春之泉,2023-10-26 Tempesta and the Fountain of Youth
-加里冒险号,Adventure Galley,是,精锐,Elite,飓风,Tempesta,风帆V,IXv,Adventure Galley,Adventure Galley,无法建造,2023-10-26 飓风与青春之泉,2023-10-26 Tempesta and the Fountain of Youth
+加里冒险号,Adventure Galley,是,精锐,Elite,飓风,Tempesta,风帆V,IXv,加里冒险号级,Adventure Galley,无法建造,2023-10-26 飓风与青春之泉,2023-10-26 Tempesta and the Fountain of Youth
 冈依沙瓦号,Ganj-i-Sawai,是,超稀有,Super Rare,飓风,Tempesta,风帆M,IXm,无舰级,No Class,04:42:30,2024-10-24 飓风与沉眠之海,2024-10-24 Tempesta and the Sleeping Sea
 幻想号,Fancy,是,超稀有,Super Rare,飓风,Tempesta,风帆V,IXv,无舰级,No Class,01:39:21,2024-10-24 飓风与沉眠之海,2024-10-24 Tempesta and the Sleeping Sea
 和睦号,Amity,是,超稀有,Super Rare,飓风,Tempesta,风帆S,IXs,无舰级,No Class,00:28:13,2024-10-24 飓风与沉眠之海,2024-10-24 Tempesta and the Sleeping Sea
 朴茨茅斯冒险号,Portsmouth Adventure,是,精锐,Elite,飓风,Tempesta,风帆V,IXv,无舰级,No Class,00:28:14,2024-10-24 飓风与沉眠之海,2024-10-24 Tempesta and the Sleeping Sea
 海豚号,Dolphin,是,精锐,Elite,飓风,Tempesta,风帆S,IXs,无舰级,No Class,无法建造,2024-10-24 飓风与沉眠之海,2024-10-24 Tempesta and the Sleeping Sea
-安妮女王复仇号,Queen Anne's Revenge,是,超稀有,Super Rare,飓风,Tempesta,风帆M,IXm,Queen Anne's Revenge,Queen Anne's Revenge,04:46:10,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
-莱姆号,Lyme,是,超稀有,Super Rare,飓风,Tempesta,风帆V,IXv,Lyme,Lyme,00:28:14,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
-珍珠号,Pearl,是,超稀有,Super Rare,飓风,Tempesta,风帆M,IXm,Pearl,Pearl,04:46:02,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
-皇家詹姆斯号,Royal James,是,精锐,Elite,飓风,Tempesta,风帆V,IXv,Royal James,Royal James,00:28:37,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
-冒险号,Adventure,是,精锐,Elite,飓风,Tempesta,风帆S,IXs,Adventure,Adventure,无法建造,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
-猎人·META,Hunter META,是,精锐,Elite,META-???,META,驱逐,DD,Cinders of Hope,Cinders of Hope,巡游,2022-10-01,2022-10-01 Season 7
-命运女神·META,Fortune META,是,精锐,Elite,META-???,META,驱逐,DD,Cinders of Hope,Cinders of Hope,巡游,2022-12-01,2022-12-01 Season 8
-旗风·META,樋·META、Hatakaze META,是,精锐,Elite,META-???,META,驱逐,DD,Smoldering Core,Smoldering Core,巡游,2023-08-01,2023-08-01 Season 12
-金伯利·META,Kimberly META,是,精锐,Elite,META-???,META,驱逐,DD,Ashen Might,Ashen Might,巡游,2024-02-01,2024-02-01 Season 15
-吸血鬼·META,Vampire META,是,精锐,Elite,META-???,META,驱逐,DD,Cinders of Hope,Cinders of Hope,巡游,2024-04-01,2024-04-01 Season 16
-霞·META,蕸·META、Kasumi META,是,精锐,Elite,META-???,META,驱逐,DD,Framework of Logic,Framework of Logic,巡游,2024-07-25 幻梦间奏曲,2024-07-25 Season 18
-格伦维尔·META,Grenville META,是,精锐,Elite,META-???,META,驱逐,DD,Cinders of Hope,Cinders of Hope,巡游,2025-06-01,2025-06-01 Season 23
-江风·META,茳·META、Kawakaze META,是,超稀有,Super Rare,META-???,META,驱逐,DD,Smoldering Core,Smoldering Core,META 作战,2025-06-05,2025-06-05 Season 19
-夕立·META,椿·META、Yūdachi META、Yuudachi META,是,超稀有,Super Rare,META-???,META,驱逐,DD,Ashen Might,Ashen Might,META 作战,2025-09-04,2025-09-04 Season 20
-杜威·META,Dewey META,是,精锐,Elite,META-???,META,驱逐,DD,Ashen Might,Ashen Might,巡游,2025-10-01,2025-10-01 Season 25
-海伦娜·META,Helena.META、Helena META,是,超稀有,Super Rare,META-???,META,轻巡,CL,Ashen Might,Ashen Might,META 作战,2021-06-10,2021-06-10 Season 3
-孟菲斯·META,Memphis META,是,精锐,Elite,META-???,META,轻巡,CL,Framework of Logic,Framework of Logic,巡游,2022-05-26 泠誓光庭,2022-05-26 Season 5
-谢菲尔德·META,Sheffield META,是,精锐,Elite,META-???,META,轻巡,CL,Ashen Might,Ashen Might,巡游,2023-02-01,2023-02-01 Season 9
-拉·加利索尼埃·META,La Galissonnière META、La Galissonniére META,是,精锐,Elite,META-???,META,轻巡,CL,Cinders of Hope,Cinders of Hope,巡游,2023-04-01,2023-04-01 Season 10
-神通·META,貎·META、Jintsū.META、Jintsuu META,是,超稀有,Super Rare,META-???,META,轻巡,CL,Framework of Logic,Framework of Logic,META 作战,2023-08-31,2023-08-31 Season 12
-基洛夫·META,Kirov(META)、Kirov META,是,超稀有,Super Rare,META-???,META,轻巡,CL,Cinders of Hope,Cinders of Hope,META 作战,2023-12-07,2023-12-07 Season 13
-水星纪念·META,Pamiat' Merkuria(META)、Pamiat' Merkuria META,是,超稀有,Super Rare,META-???,META,轻巡,CL,Flickering Light,Flickering Light,01:17:00,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
-博伊西·META,树城·META、Boise META,是,精锐,Elite,META-???,META,轻巡,CL,Framework of Logic,Framework of Logic,巡游,2025-12-01,2025-12-01 Season 26
-克利夫兰·META,Cleveland META,是,超稀有,Super Rare,META-???,META,轻巡,CL,Ashen Might,Ashen Might,01:25:00,2025-12-18 响彻于天穹之音,2025-12-18 A Note Through the Firmament
-特伦托·META,Trento META,是,精锐,Elite,META-???,META,重巡,CA,Flickering Light,Flickering Light,巡游,2022-07-28 雄鹰的叙事歌,2022-07-28 Season 6
-阿尔及利亚·META,Algérie META,是,超稀有,Super Rare,META-???,META,重巡,CA,Cinders of Hope,Cinders of Hope,META 作战,2023-06-08,2023-06-08 Season 11
-福煦·META,Foch META,是,精锐,Elite,META-???,META,重巡,CA,Cinders of Hope,Cinders of Hope,巡游,2024-06-01,2024-06-01 Season 17
-威奇塔·META,Wichita META,是,超稀有,Super Rare,META-???,META,重巡,CA,Ashen Might,Ashen Might,META 作战,2024-06-20 轻量化复刻：虹彩的终幕曲,2024-06-20 Season 15
-希佩尔海军上将·META,芙兰希卡·META、Admiral Hipper META,是,超稀有,Super Rare,META-???,META,重巡,CA,Cinders of Hope,Cinders of Hope,02:00:00,2024-12-19 星光下的余晖,2024-12-19 Substellar Crepuscule
-博尔扎诺·META,Bolzano META,是,精锐,Elite,META-???,META,重巡,CA,Cinders of Hope,Cinders of Hope,巡游,2025-02-06 轻量化复刻：远汇点作战,2025-02-06 Season 21
-格奈森瑙·META,奥古斯塔·META、Gneisenau.META、Gneisenau META,是,超稀有,Super Rare,META-???,META,战巡,BC,Cinders of Hope,Cinders of Hope,META 作战,2021-12-09 大型作战,2021-12-09 Season 5
-沙恩霍斯特·META,格尔林德·META、Scharnhorst.META、Scharnhorst META,是,超稀有,Super Rare,META-???,META,战巡,BC,Ashen Might,Ashen Might,META 作战,2022-03-10,2022-03-10 Season 6
-反击·META,Repulse META,是,超稀有,Super Rare,META-???,META,战巡,BC,Ashen Might,Ashen Might,META 作战,2022-06-09,2022-06-09 Season 7
-声望·META,Renown META,是,超稀有,Super Rare,META-???,META,战巡,BC,Ashen Might,Ashen Might,META 作战,2022-09-01,2022-09-01 Season 8
-比叡·META,鲟·META、Hiei META,是,超稀有,Super Rare,META-???,META,战巡,BC,Cinders of Hope,Cinders of Hope,04:10:00,2024-09-12 唤醒苍红之炎,2024-09-12 Ode of Everblooming Crimson
-敦刻尔克·META,Dunkerque META,是,精锐,Elite,META-???,META,战巡,BC,Cinders of Hope,Cinders of Hope,巡游,2025-08-01,2025-08-01 Season 24
-扶桑·META,魟·META、Fusō.META、Fusou META,是,精锐,Elite,META-???,META,战列,BB,Ashen Might,Ashen Might,巡游,2021-10-01,2021-10-01 Season 1
-山城·META,鲼·META、Yamashiro.META、Yamashiro META,是,精锐,Elite,META-???,META,战列,BB,Flickering Light,Flickering Light,巡游,2022-04-01,2022-04-01 Season 4
-亚利桑那·META,Arizona META,是,超稀有,Super Rare,META-???,META,战列,BB,Framework of Logic,Framework of Logic,META 作战,2022-12-08,2022-12-08 Season 9
-伊丽莎白女王·META,Queen Elizabeth META,是,超稀有,Super Rare,META-???,META,战列,BB,Cinders of Hope,Cinders of Hope,META 作战,2023-03-09 轻量化复刻：复兴的赞美诗,2023-03-09 Season 10
-罗德尼·META,Rodney META,是,超稀有,Super Rare,META-???,META,战列,BB,Framework of Logic,Framework of Logic,META 作战,2024-03-14 轻量化复刻：虚像构筑之塔·序章,2024-03-14 Season 14
-长门·META,鲨·META、Nagato META,是,超稀有,Super Rare,META-???,META,战列,BB,Smoldering Core,Smoldering Core,META 作战,2024-09-12 唤醒苍红之炎,2024-09-12 Season 16
-朱利奥·凯撒·META,Giulio Cesare META,是,精锐,Elite,META-???,META,战列,BB,Cinders of Hope,Cinders of Hope,巡游,2024-12-01,2024-12-01 Season 20
-安德烈亚·多利亚·META,Andrea Doria META,是,超稀有,Super Rare,META-???,META,战列,BB,Cinders of Hope,Cinders of Hope,04:15:00,2025-02-27 樊笼内的神光,2025-02-27 Paradiso of Shackled Light
-内华达·META,Nevada META,是,精锐,Elite,META-???,META,战列,BB,Ashen Might,Ashen Might,巡游,2025-03-27 深谷来信,2025-03-27 Season 22
-飞鹰·META,鸱·META、Hiyō.META、Hiyou META,是,精锐,Elite,META-???,META,轻航,CVL,Ashen Might,Ashen Might,巡游,2021-12-01,2021-12-01 Season 2
-隼鹰·META,鸢·META、Jun'yō.META、Junyou META,是,精锐,Elite,META-???,META,轻航,CVL,Ashen Might,Ashen Might,巡游,2022-02-01,2022-02-01 Season 3
-普林斯顿·META,Princeton META,是,精锐,Elite,META-???,META,轻航,CVL,Ashen Might,Ashen Might,巡游,2023-10-01,2023-10-01 Season 13
-凤翔·META,凤·META、Hōshō META、Houshou META,是,精锐,Elite,META-???,META,轻航,CVL,Smoldering Core,Smoldering Core,巡游,2024-10-01,2024-10-01 Season 19
-飞龙·META,龙·META、Hiryu.META、Hiryuu META,是,超稀有,Super Rare,META-???,META,航母,CV,Ashen Might,Ashen Might,META 作战,2020-12-22 大型作战,2020-12-22 Season 1
-皇家方舟·META,Ark Royal.META、Ark Royal META,是,超稀有,Super Rare,META-???,META,航母,CV,Ashen Might,Ashen Might,META 作战,2021-03-25 复刻：箱庭疗法,2021-03-25 Season 2
-苍龙·META,蛟·META、Sōryū.META、Souryuu META,是,超稀有,Super Rare,META-???,META,航母,CV,Flickering Light,Flickering Light,META 作战,2021-09-16 碧海光粼,2021-09-16 Season 4
-贝亚恩·META,Béarn META,是,超稀有,Super Rare,META-???,META,航母,CV,Flickering Light,Flickering Light,02:00:00,2024-05-21 绽放于辉光之城,2024-05-21 Light of the Martyrium
-大凤·META,鹩·META、Taihō META、Taihou META,是,超稀有,Super Rare,META-???,META,航母,CV,Flickering Light,Flickering Light,META 作战,2024-12-19 星光下的余晖,2024-12-19 Season 17
-大黄蜂·META,Hornet META,是,超稀有,Super Rare,META-???,META,航母,CV,Ashen Might,Ashen Might,META 作战,2025-03-20 轻量化复刻：湮烬尘墟,2025-03-20 Season 18
-光荣·META,Glorious META,是,超稀有,Super Rare,META-???,META,航母,CV,Cinders of Hope,Cinders of Hope,03:50:00,2025-05-20 高塔上的蔷薇,2025-05-20 A Rose on the High Tower
-约克城·META,Yorktown META,是,超稀有,Super Rare,META-???,META,航母,CV,Framework of Logic,Framework of Logic,META 作战,2025-12-18 响彻于天穹之音,2025-12-18 Season 21
-U-556·META,优可可洛·META、U-556 META,是,超稀有,Super Rare,META-???,META,潜艇,SS,Flickering Light,Flickering Light,00:13:00,2023-05-25 空相交汇点,2023-05-25 Confluence of Nothingness
-女灶神·META,Vestal META,是,精锐,Elite,META-???,META,维修,AR,Framework of Logic,Framework of Logic,巡游,2023-05-25 空相交汇点,2023-05-25 Season 11
-黑暗界·META,Erebus META,是,精锐,Elite,META-???,META,重炮,BM,Cinders of Hope,Cinders of Hope,巡游,2023-12-01,2023-12-01 Season 14
-涅普顿,Neptune、Neptune (Neptunia),是,精锐,Elite,海王星,Neptunia,轻巡,CL,无舰级,No Class,无法建造,2018-02-06,2018-02-06 Visitors from Another Dimension
-诺瓦露,Noire,是,精锐,Elite,海王星,Neptunia,重巡,CA,无舰级,No Class,02:38:00,2018-02-06,2018-02-06 Visitors from Another Dimension
-布兰,Blanc,是,精锐,Elite,海王星,Neptunia,驱逐,DD,无舰级,No Class,02:24:00,2018-02-06,2018-02-06 Visitors from Another Dimension
-贝露,Vert,是,精锐,Elite,海王星,Neptunia,航母,CV,无舰级,No Class,无法建造,2018-02-06,2018-02-06 Visitors from Another Dimension
-绀紫之心,Purple Heart,是,超稀有,Super Rare,海王星,Neptunia,轻巡,CL,无舰级,No Class,02:44:00,2018-02-06,2018-02-06 Visitors from Another Dimension
-圣黑之心,Black Heart,是,超稀有,Super Rare,海王星,Neptunia,重巡,CA,无舰级,No Class,02:40:00,2018-02-06,2018-02-06 Visitors from Another Dimension
-群白之心,White Heart,是,超稀有,Super Rare,海王星,Neptunia,驱逐,DD,无舰级,No Class,02:26:00,2018-02-06,2018-02-06 Visitors from Another Dimension
-翡绿之心,Green Heart,是,超稀有,Super Rare,海王星,Neptunia,航母,CV,无舰级,No Class,02:47:00,2018-02-06,2018-02-06 Visitors from Another Dimension
-绊爱,Kizuna、Kizuna AI,是,精锐,Elite,KizunaAI,Kizuna AI,驱逐,DD,无舰级,No Class,无法建造,2019-04-26,2019-04-26 Virtual Connection Synchronicity
-绊爱·Elegant,Kizuna·Elegant、Elegant Kizuna AI,是,超稀有,Super Rare,KizunaAI,Kizuna AI,重巡,CA,无舰级,No Class,01:55:00,2019-04-26,2019-04-26 Virtual Connection Synchronicity
-绊爱·Anniversary,Kizuna·Anniversary、Anniversary Kizuna AI,是,超稀有,Super Rare,KizunaAI,Kizuna AI,航母,CV,无舰级,No Class,04:30:00,2019-04-26,2019-04-26 Virtual Connection Synchronicity
-绊爱·SuperGamer,Kizuna·SuperGamer、Super Gamer Kizuna AI,是,超稀有,Super Rare,KizunaAI,Kizuna AI,战列,BB,无舰级,No Class,04:50:00,2019-04-26,2019-04-26 Virtual Connection Synchronicity
-白上吹雪,Shirakami Fubuki,是,超稀有,Super Rare,Hololive,Hololive,驱逐,DD,无舰级,No Class,00:17:30,2019-11-27,2019-11-27 Looking Glass of Fact and Fiction
-时乃空,Tokino Sora,是,超稀有,Super Rare,Hololive,Hololive,航母,CV,无舰级,No Class,01:25:00,2019-11-27,2019-11-27 Looking Glass of Fact and Fiction
-湊阿库娅,Minato Aqua,是,超稀有,Super Rare,Hololive,Hololive,潜艇,SS,无舰级,No Class,00:20:00,2019-11-27,2019-11-27 Looking Glass of Fact and Fiction
-夏色祭,Natsuiro Matsuri,是,精锐,Elite,Hololive,Hololive,驱逐,DD,无舰级,No Class,00:12:00,2019-11-27,2019-11-27 Looking Glass of Fact and Fiction
-百鬼绫目,Nakiri Ayame,是,精锐,Elite,Hololive,Hololive,重巡,CA,无舰级,No Class,03:22:00,2019-11-27,2019-11-27 Looking Glass of Fact and Fiction
-紫咲诗音,Murasaki Shion,是,精锐,Elite,Hololive,Hololive,轻航,CVL,无舰级,No Class,无法建造,2019-11-27,2019-11-27 Looking Glass of Fact and Fiction
-大神澪,Ōkami Mio、Ookami Mio,是,精锐,Elite,Hololive,Hololive,航母,CV,无舰级,No Class,无法建造,2019-11-27,2019-11-27 Looking Glass of Fact and Fiction
-玛莉萝丝,Marie Rose,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,驱逐,DD,无舰级,No Class,02:40:06,2020-11-26,2020-11-26 Vacation Lane
-穗香,Honoka,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,战列,BB,无舰级,No Class,02:35:25,2020-11-26,2020-11-26 Vacation Lane
-霞DOA,Kasumi、Kasumi (Venus Vacation),是,超稀有,Super Rare,维纳斯假期,Venus Vacation,重巡,CA,无舰级,No Class,02:33:43,2020-11-26,2020-11-26 Vacation Lane
-海咲,Misaki,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,轻巡,CL,无舰级,No Class,02:41:47,2020-11-26,2020-11-26 Vacation Lane
-凪咲,Nagisa,是,精锐,Elite,维纳斯假期,Venus Vacation,战列,BB,无舰级,No Class,02:38:25,2020-11-26,2020-11-26 Vacation Lane
-女天狗,Nyotengu,是,精锐,Elite,维纳斯假期,Venus Vacation,航母,CV,无舰级,No Class,无法建造,2020-11-26,2020-11-26 Vacation Lane
-莫妮卡,Monica,是,精锐,Elite,维纳斯假期,Venus Vacation,轻巡,CL,无舰级,No Class,02:31:40,2020-11-26,2020-11-26 Vacation Lane
-露娜,Luna,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,轻航,CVL,无舰级,No Class,03:03:36,2023-04-27,2023-04-27 Vacation Lane Rerun
-环,Tamaki,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,战巡,BC,无舰级,No Class,02:44:00,2023-04-27,2023-04-27 Vacation Lane Rerun
-天海春香,Haruka Amami,是,超稀有,Super Rare,偶像大师,The Idolmaster,轻巡,CL,无舰级,No Class,01:07:10,2021-07-22,2021-07-22 Azur Anthem
-如月千早,Chihaya Kisaragi,是,超稀有,Super Rare,偶像大师,The Idolmaster,航母,CV,无舰级,No Class,06:15:00,2021-07-22,2021-07-22 Azur Anthem
-水濑伊织,Iori Minase,是,超稀有,Super Rare,偶像大师,The Idolmaster,战列,BB,无舰级,No Class,01:24:10,2021-07-22,2021-07-22 Azur Anthem
-三浦梓,Azusa Miura,是,超稀有,Super Rare,偶像大师,The Idolmaster,重巡,CA,无舰级,No Class,01:59:50,2021-07-22,2021-07-22 Azur Anthem
-秋月律子,Ritsuko Akizukii、Ritsuko Akizuki,是,精锐,Elite,偶像大师,The Idolmaster,运输,AE,无舰级,No Class,无法建造,2021-07-22,2021-07-22 Azur Anthem
-双海亚美,Ami Futami,是,精锐,Elite,偶像大师,The Idolmaster,潜艇,SS,无舰级,No Class,00:08:42,2021-07-22,2021-07-22 Azur Anthem
-双海真美,Mami Futami,是,精锐,Elite,偶像大师,The Idolmaster,潜艇,SS,无舰级,No Class,00:08:42,2021-07-22,2021-07-22 Azur Anthem
-宝多六花,Takarada Rikka、Rikka Takarada,是,超稀有,Super Rare,SSSS,SSSS,轻巡,CL,无舰级,No Class,00:35:30,2021-11-25,2021-11-25 World-Spanning Arclight
-新条茜,Shinjou Akane、Akane Shinjo,是,超稀有,Super Rare,SSSS,SSSS,战列,BB,无舰级,No Class,01:25:02,2021-11-25,2021-11-25 World-Spanning Arclight
-莲SSSS,Hass,是,精锐,Elite,SSSS,SSSS,轻巡,CL,无舰级,No Class,00:38:45,2021-11-25,2021-11-25 World-Spanning Arclight
-奈美子,Namiko,是,精锐,Elite,SSSS,SSSS,重巡,CA,无舰级,No Class,01:01:49,2021-11-25,2021-11-25 World-Spanning Arclight
-南梦芽,Yume Minami,是,超稀有,Super Rare,SSSS,SSSS,重巡,CA,无舰级,No Class,01:04:11,2021-11-25,2021-11-25 World-Spanning Arclight
-飞鸟川千濑,Asukagawa Chise、Chise Asukagawa,是,超稀有,Super Rare,SSSS,SSSS,航母,CV,无舰级,No Class,01:37:42,2021-11-25,2021-11-25 World-Spanning Arclight
-貉SSSS,Mujina,是,精锐,Elite,SSSS,SSSS,战列,BB,无舰级,No Class,无法建造,2021-11-25,2021-11-25 World-Spanning Arclight
-第二代,The 2nd,是,超稀有,Super Rare,SSSS,SSSS,航战,BBV,无舰级,No Class,06:15:09,2023-07-20,2023-07-20 World-Spanning Arclight Rerun
-公主,Princess Hime,是,超稀有,Super Rare,SSSS,SSSS,运输,AE,无舰级,No Class,01:31:40,2023-07-20,2023-07-20 World-Spanning Arclight Rerun
-莱莎琳·斯托特,Reisalin Stout,是,超稀有,Super Rare,Atelier Ryza,Atelier Ryza,轻巡,CL,无舰级,No Class,01:16:00,2022-11-24,2022-11-24 The Alchemist and the Archipelago of Secrets
-科洛蒂娅·巴兰茨,Klaudia Valentz,是,超稀有,Super Rare,Atelier Ryza,Atelier Ryza,轻航,CVL,无舰级,No Class,02:23:00,2022-11-24,2022-11-24 The Alchemist and the Archipelago of Secrets
-帕特莉夏·阿贝尔海姆,Patricia Abelheim,是,超稀有,Super Rare,Atelier Ryza,Atelier Ryza,战列,BB,无舰级,No Class,06:15:00,2022-11-24,2022-11-24 The Alchemist and the Archipelago of Secrets
-莉拉·德西亚斯,Lila Decyrus,是,精锐,Elite,Atelier Ryza,Atelier Ryza,重巡,CA,无舰级,No Class,01:30:00,2022-11-24,2022-11-24 The Alchemist and the Archipelago of Secrets
-赛莉·古劳斯,Serri Glaus,是,精锐,Elite,Atelier Ryza,Atelier Ryza,航母,CV,无舰级,No Class,04:20:00,2022-11-24,2022-11-24 The Alchemist and the Archipelago of Secrets
-卡菈·伊迪亚斯,Kala Ideas,是,超稀有,Super Rare,Atelier Ryza,Atelier Ryza,超巡,CB,无舰级,No Class,无法建造,2022-11-24,2022-11-24 The Alchemist and the Archipelago of Secrets
+安妮女王复仇号,Queen Anne's Revenge,是,超稀有,Super Rare,飓风,Tempesta,风帆M,IXm,安妮女王复仇号级,Queen Anne's Revenge,04:46:10,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
+莱姆号,Lyme,是,超稀有,Super Rare,飓风,Tempesta,风帆V,IXv,莱姆号级,Lyme,00:28:14,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
+珍珠号,Pearl,是,超稀有,Super Rare,飓风,Tempesta,风帆M,IXm,珍珠号级,Pearl,04:46:02,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
+皇家詹姆斯号,Royal James,是,精锐,Elite,飓风,Tempesta,风帆V,IXv,皇家詹姆斯号级,Royal James,00:28:37,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
+冒险号,Adventure,是,精锐,Elite,飓风,Tempesta,风帆S,IXs,冒险号级,Adventure,无法建造,2025-10-23 飓风与自由群岛,2025-10-23 Tempesta and Islas de Libertád
+猎人·META,Hunter META,是,精锐,Elite,META-???,META,驱逐,DD,H级,Cinders of Hope,巡游,2022-09-29 啾啾拉力赛·2nd,2022-09-29 Season 7
+命运女神·META,Fortune META,是,精锐,Elite,META-???,META,驱逐,DD,F级,Cinders of Hope,巡游,2022-12-08 信标·META,2022-12-08 Season 8
+旗风·META,樋·META、Hatakaze META,是,精锐,Elite,META-???,META,驱逐,DD,神风级,Smoldering Core,巡游,2023-08-03 奏响鸢尾之歌,2023-08-03 Season 12
+金伯利·META,Kimberly META,是,精锐,Elite,META-???,META,驱逐,DD,弗莱彻级,Ashen Might,巡游,2024-01-30 寰昌宇定家事忙,2024-01-30 Season 15
+吸血鬼·META,Vampire META,是,精锐,Elite,META-???,META,驱逐,DD,旧V级,Cinders of Hope,巡游,2024-04-01 觉醒的黄金,2024-04-01 Season 16
+霞·META,蕸·META、Kasumi META,是,精锐,Elite,META-???,META,驱逐,DD,朝潮级,Framework of Logic,巡游,2024-08-08 作战准备：帕克菲克洋,2024-08-08 Season 18
+格伦维尔·META,Grenville META,是,精锐,Elite,META-???,META,驱逐,DD,G级,Cinders of Hope,巡游,2025-05-29 “深渊之国”的缔造者,2025-05-29 Season 23
+江风·META,茳·META、Kawakaze META,是,超稀有,Super Rare,META-???,META,驱逐,DD,白露级,Smoldering Core,META 作战,2025-06-05 幻影迷途者,2025-06-05 Season 19
+夕立·META,椿·META、Yūdachi META、Yuudachi META,是,超稀有,Super Rare,META-???,META,驱逐,DD,白露级,Ashen Might,META 作战,2025-09-04 作战准备：天域天原,2025-09-04 Season 20
+杜威·META,Dewey META,是,精锐,Elite,META-???,META,驱逐,DD,法拉格特级,Ashen Might,巡游,2025-09-29 岛屿计划,2025-09-29 Season 25
+海伦娜·META,Helena.META、Helena META,是,超稀有,Super Rare,META-???,META,轻巡,CL,布鲁克林级,Ashen Might,META 作战,2021-06-10 活动档案,2021-06-10 Season 3
+孟菲斯·META,Memphis META,是,精锐,Elite,META-???,META,轻巡,CL,奥马哈级,Framework of Logic,巡游,2022-06-01 合雅之宴,2022-06-01 Season 5
+谢菲尔德·META,Sheffield META,是,精锐,Elite,META-???,META,轻巡,CL,城级,Ashen Might,巡游,2023-02-02 啾啾灯会,2023-02-02 Season 9
+拉·加利索尼埃·META,La Galissonnière META、La Galissonniére META,是,精锐,Elite,META-???,META,轻巡,CL,拉·加利索尼埃级,Cinders of Hope,巡游,2023-03-31 一锤！Burin！,2023-03-31 Season 10
+神通·META,貎·META、Jintsū.META、Jintsuu META,是,超稀有,Super Rare,META-???,META,轻巡,CL,川内级,Framework of Logic,META 作战,2023-08-31 信息对抗模拟测试,2023-08-31 Season 12
+基洛夫·META,Kirov(META)、Kirov META,是,超稀有,Super Rare,META-???,META,轻巡,CL,基洛夫级,Cinders of Hope,META 作战,2023-12-07 AZURLANE人气投票2023,2023-12-07 Season 13
+水星纪念·META,Pamiat' Merkuria(META)、Pamiat' Merkuria META,是,超稀有,Super Rare,META-???,META,轻巡,CL,博加特里级,Flickering Light,01:17:00,2024-02-29 雪境迷踪,2024-02-29 Snowrealm Peregrination
+博伊西·META,树城·META、Boise META,是,精锐,Elite,META-???,META,轻巡,CL,布鲁克林级,Framework of Logic,巡游,2025-12-04 AZUR LANE人气投票2025,2025-12-04 Season 26
+克利夫兰·META,Cleveland META,是,超稀有,Super Rare,META-???,META,轻巡,CL,克利夫兰级,Ashen Might,01:25:00,2025-12-18 响彻于天穹之音,2025-12-18 A Note Through the Firmament
+特伦托·META,Trento META,是,精锐,Elite,META-???,META,重巡,CA,特伦托级,Flickering Light,巡游,2022-07-28 雄鹰的叙事歌,2022-07-28 Season 6
+阿尔及利亚·META,Algérie META,是,超稀有,Super Rare,META-???,META,重巡,CA,阿尔及利亚级,Cinders of Hope,META 作战,2023-06-08 信标·META,2023-06-08 Season 11
+福煦·META,Foch META,是,精锐,Elite,META-???,META,重巡,CA,絮弗伦级,Cinders of Hope,巡游,2024-05-30 今日的指挥练习,2024-05-30 Season 17
+威奇塔·META,Wichita META,是,超稀有,Super Rare,META-???,META,重巡,CA,威奇塔级,Ashen Might,META 作战,2024-06-13 限时兵装训练,2024-06-13 Season 15
+希佩尔海军上将·META,芙兰希卡·META、Admiral Hipper META,是,超稀有,Super Rare,META-???,META,重巡,CA,希佩尔海军上将级,Cinders of Hope,02:00:00,2024-12-19 星光下的余晖,2024-12-19 Substellar Crepuscule
+博尔扎诺·META,Bolzano META,是,精锐,Elite,META-???,META,重巡,CA,博尔扎诺级,Cinders of Hope,巡游,2025-02-06 轻量化复刻：远汇点作战,2025-02-06 Season 21
+格奈森瑙·META,奥古斯塔·META、Gneisenau.META、Gneisenau META,是,超稀有,Super Rare,META-???,META,战巡,BC,沙恩霍斯特级,Cinders of Hope,META 作战,2021-12-09 大型作战,2021-12-09 Season 5
+沙恩霍斯特·META,格尔林德·META、Scharnhorst.META、Scharnhorst META,是,超稀有,Super Rare,META-???,META,战巡,BC,沙恩霍斯特级,Ashen Might,META 作战,2022-03-10 信标·META,2022-03-10 Season 6
+反击·META,Repulse META,是,超稀有,Super Rare,META-???,META,战巡,BC,声望级,Ashen Might,META 作战,2022-06-09 特别支援计划·特殊兵装,2022-06-09 Season 7
+声望·META,Renown META,是,超稀有,Super Rare,META-???,META,战巡,BC,声望级,Ashen Might,META 作战,2022-09-01 啾啾快餐店,2022-09-01 Season 8
+比叡·META,鲟·META、Hiei META,是,超稀有,Super Rare,META-???,META,战巡,BC,金刚级,Cinders of Hope,04:10:00,2024-09-12 唤醒苍红之炎,2024-09-12 Ode of Everblooming Crimson
+敦刻尔克·META,Dunkerque META,是,精锐,Elite,META-???,META,战巡,BC,敦刻尔克级,Cinders of Hope,巡游,2025-08-07 林间度假准备,2025-08-07 Season 24
+扶桑·META,魟·META、Fusō.META、Fusou META,是,精锐,Elite,META-???,META,战列,BB,扶桑级,Ashen Might,巡游,2021-09-30 啾啾大胃王大赛,2021-09-30 Season 1
+山城·META,鲼·META、Yamashiro.META、Yamashiro META,是,精锐,Elite,META-???,META,战列,BB,扶桑级,Flickering Light,巡游,2022-04-07 箱庭疗法,2022-04-07 Season 4
+亚利桑那·META,Arizona META,是,超稀有,Super Rare,META-???,META,战列,BB,宾夕法尼亚级,Framework of Logic,META 作战,2022-12-08 信标·META,2022-12-08 Season 9
+伊丽莎白女王·META,Queen Elizabeth META,是,超稀有,Super Rare,META-???,META,战列,BB,伊丽莎白女王级,Cinders of Hope,META 作战,2023-03-09 轻量化复刻：复兴的赞美诗,2023-03-09 Season 10
+罗德尼·META,Rodney META,是,超稀有,Super Rare,META-???,META,战列,BB,纳尔逊级,Framework of Logic,META 作战,2024-03-14 轻量化复刻：虚像构筑之塔·序章,2024-03-14 Season 14
+长门·META,鲨·META、Nagato META,是,超稀有,Super Rare,META-???,META,战列,BB,长门型,Smoldering Core,META 作战,2024-09-05 作战准备：奈落,2024-09-05 Season 16
+朱利奥·凯撒·META,Giulio Cesare META,是,精锐,Elite,META-???,META,战列,BB,加富尔伯爵级,Cinders of Hope,巡游,2024-12-05 限时兵装训练,2024-12-05 Season 20
+安德烈亚·多利亚·META,Andrea Doria META,是,超稀有,Super Rare,META-???,META,战列,BB,安德烈亚·多利亚级,Cinders of Hope,04:15:00,2025-02-27 樊笼内的神光,2025-02-27 Paradiso of Shackled Light
+内华达·META,Nevada META,是,精锐,Elite,META-???,META,战列,BB,内华达级,Ashen Might,巡游,2025-03-27 深谷来信,2025-03-27 Season 22
+飞鹰·META,鸱·META、Hiyō.META、Hiyou META,是,精锐,Elite,META-???,META,轻航,CVL,飞鹰级,Ashen Might,巡游,2021-11-25 交汇世界的弧光,2021-11-25 Season 2
+隼鹰·META,鸢·META、Jun'yō.META、Junyou META,是,精锐,Elite,META-???,META,轻航,CVL,飞鹰级,Ashen Might,巡游,2022-01-27 演习神秘事件调查,2022-01-27 Season 3
+普林斯顿·META,Princeton META,是,精锐,Elite,META-???,META,轻航,CVL,独立级,Ashen Might,巡游,2023-09-28 疾速赛道,2023-09-28 Season 13
+凤翔·META,凤·META、Hōshō META、Houshou META,是,精锐,Elite,META-???,META,轻航,CVL,凤翔级,Smoldering Core,巡游,2024-09-26 宿舍计划,2024-09-26 Season 19
+飞龙·META,龙·META、Hiryu.META、Hiryuu META,是,超稀有,Super Rare,META-???,META,航母,CV,飞龙级,Ashen Might,META 作战,2020-12-22 大型作战,2020-12-22 Season 1
+皇家方舟·META,Ark Royal.META、Ark Royal META,是,超稀有,Super Rare,META-???,META,航母,CV,皇家方舟级,Ashen Might,META 作战,2021-03-18 峦,2021-03-18 Season 2
+苍龙·META,蛟·META、Sōryū.META、Souryuu META,是,超稀有,Super Rare,META-???,META,航母,CV,苍龙级,Flickering Light,META 作战,2021-09-09 作战准备：重樱,2021-09-09 Season 4
+贝亚恩·META,Béarn META,是,超稀有,Super Rare,META-???,META,航母,CV,诺曼底级,Flickering Light,02:00:00,2024-05-21 绽放于辉光之城,2024-05-21 Light of the Martyrium
+大凤·META,鹩·META、Taihō META、Taihou META,是,超稀有,Super Rare,META-???,META,航母,CV,大凤级,Flickering Light,META 作战,2024-12-12 作战准备：？？？,2024-12-12 Season 17
+大黄蜂·META,Hornet META,是,超稀有,Super Rare,META-???,META,航母,CV,约克城级,Ashen Might,META 作战,2025-03-13 限时兵装训练,2025-03-13 Season 18
+光荣·META,Glorious META,是,超稀有,Super Rare,META-???,META,航母,CV,勇敢级,Cinders of Hope,03:50:00,2025-05-20 高塔上的蔷薇,2025-05-20 A Rose on the High Tower
+约克城·META,Yorktown META,是,超稀有,Super Rare,META-???,META,航母,CV,约克城级,Framework of Logic,META 作战,2025-12-11 作战准备：越界实验,2025-12-11 Season 21
+U-556·META,优可可洛·META、U-556 META,是,超稀有,Super Rare,META-???,META,潜艇,SS,VIIC型,Flickering Light,00:13:00,2023-05-25 空相交汇点,2023-05-25 Confluence of Nothingness
+女灶神·META,Vestal META,是,精锐,Elite,META-???,META,维修,AR,女灶神级,Framework of Logic,巡游,2023-06-01 庆典与金色乐章,2023-06-01 Season 11
+黑暗界·META,Erebus META,是,精锐,Elite,META-???,META,重炮,BM,黑暗界级,Cinders of Hope,巡游,2023-12-07 AZURLANE人气投票2023,2023-12-07 Season 14
+涅普顿,Neptune、Neptune (Neptunia),是,精锐,Elite,海王星,Neptunia,轻巡,CL,无舰级,No Class,无法建造,2018-02-06 异次元的访客,2018-02-06 Visitors from Another Dimension
+诺瓦露,Noire,是,精锐,Elite,海王星,Neptunia,重巡,CA,无舰级,No Class,02:38:00,2018-02-06 异次元的访客,2018-02-06 Visitors from Another Dimension
+布兰,Blanc,是,精锐,Elite,海王星,Neptunia,驱逐,DD,无舰级,No Class,02:24:00,2018-02-06 异次元的访客,2018-02-06 Visitors from Another Dimension
+贝露,Vert,是,精锐,Elite,海王星,Neptunia,航母,CV,无舰级,No Class,无法建造,2018-02-06 异次元的访客,2018-02-06 Visitors from Another Dimension
+绀紫之心,Purple Heart,是,超稀有,Super Rare,海王星,Neptunia,轻巡,CL,无舰级,No Class,02:44:00,2018-02-06 异次元的访客,2018-02-06 Visitors from Another Dimension
+圣黑之心,Black Heart,是,超稀有,Super Rare,海王星,Neptunia,重巡,CA,无舰级,No Class,02:40:00,2018-02-06 异次元的访客,2018-02-06 Visitors from Another Dimension
+群白之心,White Heart,是,超稀有,Super Rare,海王星,Neptunia,驱逐,DD,无舰级,No Class,02:26:00,2018-02-06 异次元的访客,2018-02-06 Visitors from Another Dimension
+翡绿之心,Green Heart,是,超稀有,Super Rare,海王星,Neptunia,航母,CV,无舰级,No Class,02:47:00,2018-02-06 异次元的访客,2018-02-06 Visitors from Another Dimension
+绊爱,Kizuna、Kizuna AI,是,精锐,Elite,KizunaAI,Kizuna AI,驱逐,DD,无舰级,No Class,无法建造,2019-04-26 虚拟链接的共时性,2019-04-26 Virtual Connection Synchronicity
+绊爱·Elegant,Kizuna·Elegant、Elegant Kizuna AI,是,超稀有,Super Rare,KizunaAI,Kizuna AI,重巡,CA,无舰级,No Class,01:55:00,2019-04-26 虚拟链接的共时性,2019-04-26 Virtual Connection Synchronicity
+绊爱·Anniversary,Kizuna·Anniversary、Anniversary Kizuna AI,是,超稀有,Super Rare,KizunaAI,Kizuna AI,航母,CV,无舰级,No Class,04:30:00,2019-04-26 虚拟链接的共时性,2019-04-26 Virtual Connection Synchronicity
+绊爱·SuperGamer,Kizuna·SuperGamer、Super Gamer Kizuna AI,是,超稀有,Super Rare,KizunaAI,Kizuna AI,战列,BB,无舰级,No Class,04:50:00,2019-04-26 虚拟链接的共时性,2019-04-26 Virtual Connection Synchronicity
+白上吹雪,Shirakami Fubuki,是,超稀有,Super Rare,Hololive,Hololive,驱逐,DD,无舰级,No Class,00:17:30,2019-11-27 虚拟与真实的双向镜,2019-11-27 Looking Glass of Fact and Fiction
+时乃空,Tokino Sora,是,超稀有,Super Rare,Hololive,Hololive,航母,CV,无舰级,No Class,01:25:00,2019-11-27 虚拟与真实的双向镜,2019-11-27 Looking Glass of Fact and Fiction
+湊阿库娅,Minato Aqua,是,超稀有,Super Rare,Hololive,Hololive,潜艇,SS,无舰级,No Class,00:20:00,2019-11-27 虚拟与真实的双向镜,2019-11-27 Looking Glass of Fact and Fiction
+夏色祭,Natsuiro Matsuri,是,精锐,Elite,Hololive,Hololive,驱逐,DD,无舰级,No Class,00:12:00,2019-11-27 虚拟与真实的双向镜,2019-11-27 Looking Glass of Fact and Fiction
+百鬼绫目,Nakiri Ayame,是,精锐,Elite,Hololive,Hololive,重巡,CA,无舰级,No Class,03:22:00,2019-11-27 虚拟与真实的双向镜,2019-11-27 Looking Glass of Fact and Fiction
+紫咲诗音,Murasaki Shion,是,精锐,Elite,Hololive,Hololive,轻航,CVL,无舰级,No Class,无法建造,2019-11-27 虚拟与真实的双向镜,2019-11-27 Looking Glass of Fact and Fiction
+大神澪,Ōkami Mio、Ookami Mio,是,精锐,Elite,Hololive,Hololive,航母,CV,无舰级,No Class,无法建造,2019-11-27 虚拟与真实的双向镜,2019-11-27 Looking Glass of Fact and Fiction
+玛莉萝丝,Marie Rose,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,驱逐,DD,无舰级,No Class,02:40:06,2020-11-26 假日航线,2020-11-26 Vacation Lane
+穗香,Honoka,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,战列,BB,无舰级,No Class,02:35:25,2020-11-26 假日航线,2020-11-26 Vacation Lane
+霞DOA,Kasumi、Kasumi (Venus Vacation),是,超稀有,Super Rare,维纳斯假期,Venus Vacation,重巡,CA,无舰级,No Class,02:33:43,2020-11-26 假日航线,2020-11-26 Vacation Lane
+海咲,Misaki,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,轻巡,CL,无舰级,No Class,02:41:47,2020-11-26 假日航线,2020-11-26 Vacation Lane
+凪咲,Nagisa,是,精锐,Elite,维纳斯假期,Venus Vacation,战列,BB,无舰级,No Class,02:38:25,2020-11-26 假日航线,2020-11-26 Vacation Lane
+女天狗,Nyotengu,是,精锐,Elite,维纳斯假期,Venus Vacation,航母,CV,无舰级,No Class,无法建造,2020-11-26 假日航线,2020-11-26 Vacation Lane
+莫妮卡,Monica,是,精锐,Elite,维纳斯假期,Venus Vacation,轻巡,CL,无舰级,No Class,02:31:40,2020-11-26 假日航线,2020-11-26 Vacation Lane
+露娜,Luna,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,轻航,CVL,无舰级,No Class,03:03:36,2023-04-27 假日航线·再现,2023-04-27 Vacation Lane Rerun
+环,Tamaki,是,超稀有,Super Rare,维纳斯假期,Venus Vacation,战巡,BC,无舰级,No Class,02:44:00,2023-04-27 假日航线·再现,2023-04-27 Vacation Lane Rerun
+天海春香,Haruka Amami,是,超稀有,Super Rare,偶像大师,The Idolmaster,轻巡,CL,无舰级,No Class,01:07:10,2021-07-22 响彻碧海的偶像歌,2021-07-22 Azur Anthem
+如月千早,Chihaya Kisaragi,是,超稀有,Super Rare,偶像大师,The Idolmaster,航母,CV,无舰级,No Class,06:15:00,2021-07-22 响彻碧海的偶像歌,2021-07-22 Azur Anthem
+水濑伊织,Iori Minase,是,超稀有,Super Rare,偶像大师,The Idolmaster,战列,BB,无舰级,No Class,01:24:10,2021-07-22 响彻碧海的偶像歌,2021-07-22 Azur Anthem
+三浦梓,Azusa Miura,是,超稀有,Super Rare,偶像大师,The Idolmaster,重巡,CA,无舰级,No Class,01:59:50,2021-07-22 响彻碧海的偶像歌,2021-07-22 Azur Anthem
+秋月律子,Ritsuko Akizukii、Ritsuko Akizuki,是,精锐,Elite,偶像大师,The Idolmaster,运输,AE,无舰级,No Class,无法建造,2021-07-22 响彻碧海的偶像歌,2021-07-22 Azur Anthem
+双海亚美,Ami Futami,是,精锐,Elite,偶像大师,The Idolmaster,潜艇,SS,无舰级,No Class,00:08:42,2021-07-22 响彻碧海的偶像歌,2021-07-22 Azur Anthem
+双海真美,Mami Futami,是,精锐,Elite,偶像大师,The Idolmaster,潜艇,SS,无舰级,No Class,00:08:42,2021-07-22 响彻碧海的偶像歌,2021-07-22 Azur Anthem
+宝多六花,Takarada Rikka、Rikka Takarada,是,超稀有,Super Rare,SSSS,SSSS,轻巡,CL,无舰级,No Class,00:35:30,2021-11-25 交汇世界的弧光,2021-11-25 World-Spanning Arclight
+新条茜,Shinjou Akane、Akane Shinjo,是,超稀有,Super Rare,SSSS,SSSS,战列,BB,无舰级,No Class,01:25:02,2021-11-25 交汇世界的弧光,2021-11-25 World-Spanning Arclight
+莲SSSS,Hass,是,精锐,Elite,SSSS,SSSS,轻巡,CL,无舰级,No Class,00:38:45,2021-11-25 交汇世界的弧光,2021-11-25 World-Spanning Arclight
+奈美子,Namiko,是,精锐,Elite,SSSS,SSSS,重巡,CA,无舰级,No Class,01:01:49,2021-11-25 交汇世界的弧光,2021-11-25 World-Spanning Arclight
+南梦芽,Yume Minami,是,超稀有,Super Rare,SSSS,SSSS,重巡,CA,无舰级,No Class,01:04:11,2021-11-25 交汇世界的弧光,2021-11-25 World-Spanning Arclight
+飞鸟川千濑,Asukagawa Chise、Chise Asukagawa,是,超稀有,Super Rare,SSSS,SSSS,航母,CV,无舰级,No Class,01:37:42,2021-11-25 交汇世界的弧光,2021-11-25 World-Spanning Arclight
+貉SSSS,Mujina,是,精锐,Elite,SSSS,SSSS,战列,BB,无舰级,No Class,无法建造,2021-11-25 交汇世界的弧光,2021-11-25 World-Spanning Arclight
+第二代,The 2nd,是,超稀有,Super Rare,SSSS,SSSS,航战,BBV,无舰级,No Class,06:15:09,2023-07-20 交汇世界的弧光·再现,2023-07-20 World-Spanning Arclight Rerun
+公主,Princess Hime,是,超稀有,Super Rare,SSSS,SSSS,运输,AE,无舰级,No Class,01:31:40,2023-07-20 交汇世界的弧光·再现,2023-07-20 World-Spanning Arclight Rerun
+莱莎琳·斯托特,Reisalin Stout,是,超稀有,Super Rare,Atelier Ryza,Atelier Ryza,轻巡,CL,无舰级,No Class,01:16:00,2022-11-24 炼金术士与秘密遗迹群岛,2022-11-24 The Alchemist and the Archipelago of Secrets
+科洛蒂娅·巴兰茨,Klaudia Valentz,是,超稀有,Super Rare,Atelier Ryza,Atelier Ryza,轻航,CVL,无舰级,No Class,02:23:00,2022-11-24 炼金术士与秘密遗迹群岛,2022-11-24 The Alchemist and the Archipelago of Secrets
+帕特莉夏·阿贝尔海姆,Patricia Abelheim,是,超稀有,Super Rare,Atelier Ryza,Atelier Ryza,战列,BB,无舰级,No Class,06:15:00,2022-11-24 炼金术士与秘密遗迹群岛,2022-11-24 The Alchemist and the Archipelago of Secrets
+莉拉·德西亚斯,Lila Decyrus,是,精锐,Elite,Atelier Ryza,Atelier Ryza,重巡,CA,无舰级,No Class,01:30:00,2022-11-24 炼金术士与秘密遗迹群岛,2022-11-24 The Alchemist and the Archipelago of Secrets
+赛莉·古劳斯,Serri Glaus,是,精锐,Elite,Atelier Ryza,Atelier Ryza,航母,CV,无舰级,No Class,04:20:00,2022-11-24 炼金术士与秘密遗迹群岛,2022-11-24 The Alchemist and the Archipelago of Secrets
+卡菈·伊迪亚斯,Kala Ideas,是,超稀有,Super Rare,Atelier Ryza,Atelier Ryza,超巡,CB,无舰级,No Class,无法建造,2022-11-24 炼金术士与秘密遗迹群岛,2022-11-24 The Alchemist and the Archipelago of Secrets
 飞鸟,Asuka,是,超稀有,Super Rare,闪乱神乐NL,Senran Kagura,轻巡,CL,无舰级,No Class,02:30:00,2023-11-23 苍闪忍法帖,2023-11-23 The Ninja Scrolls: Azur Flash
 斑鸠,Ikaruga,是,超稀有,Super Rare,闪乱神乐NL,Senran Kagura,重巡,CA,无舰级,No Class,02:35:00,2023-11-23 苍闪忍法帖,2023-11-23 The Ninja Scrolls: Azur Flash
 焰,Homura,是,超稀有,Super Rare,闪乱神乐NL,Senran Kagura,潜艇,SS,无舰级,No Class,无法建造,2023-11-23 苍闪忍法帖,2023-11-23 The Ninja Scrolls: Azur Flash
@@ -819,11 +819,11 @@ U-556·META,优可可洛·META、U-556 META,是,超稀有,Super Rare,META-???,ME
 金色暗影,Golden Darkness,是,超稀有,Super Rare,To LOVE-Ru,To Love Ru,战列,BB,无舰级,No Class,02:05:00,2024-11-21 危险发明迫近中！,2024-11-21 Dangerous Inventions Incoming!
 西连寺春菜,Haruna Sairenji,是,精锐,Elite,To LOVE-Ru,To Love Ru,战巡,BC,无舰级,No Class,02:11:40,2024-11-21 危险发明迫近中！,2024-11-21 Dangerous Inventions Incoming!
 古手川唯,Yui Kotegawa,是,精锐,Elite,To LOVE-Ru,To Love Ru,航母,CV,无舰级,No Class,无法建造,2024-11-21 危险发明迫近中！,2024-11-21 Dangerous Inventions Incoming!
-BLACK★ROCK SHOOTER,,是,超稀有,Super Rare,BLACK★ROCK SHOOTER,BLACK★ROCK SHOOTER,战巡,BC,无舰级,No Class,无法建造,2025-06-05,2025-06-05 Illusory Drifters
-DEAD MASTER,MASTER,是,超稀有,Super Rare,BLACK★ROCK SHOOTER,BLACK★ROCK SHOOTER,航母,CV,无舰级,No Class,无法建造,2025-06-05,2025-06-05 Illusory Drifters
+BLACK★ROCK SHOOTER,,是,超稀有,Super Rare,BLACK★ROCK SHOOTER,BLACK★ROCK SHOOTER,战巡,BC,无舰级,No Class,无法建造,2025-06-05 幻影迷途者,2025-06-05 Illusory Drifters
+DEAD MASTER,MASTER,是,超稀有,Super Rare,BLACK★ROCK SHOOTER,BLACK★ROCK SHOOTER,航母,CV,无舰级,No Class,无法建造,2025-06-05 幻影迷途者,2025-06-05 Illusory Drifters
 优米雅·利斯菲尔德,Yumia Liessfeldt,是,超稀有,Super Rare,Atelier Yumia,Atelier Yumia,轻航,CVL,无舰级,No Class,02:23:00,2025-07-24 炼金术士与天际交汇之塔,2025-07-24 The Alchemist and the Tower of Horizons
 艾菈·冯·杜勒,Isla von Duerer,是,超稀有,Super Rare,Atelier Yumia,Atelier Yumia,轻巡,CL,无舰级,No Class,01:16:00,2025-07-24 炼金术士与天际交汇之塔,2025-07-24 The Alchemist and the Tower of Horizons
 妮娜·弗里德,Nina Friede,是,超稀有,Super Rare,Atelier Yumia,Atelier Yumia,战列,BB,无舰级,No Class,06:15:00,2025-07-24 炼金术士与天际交汇之塔,2025-07-24 The Alchemist and the Tower of Horizons
 蕾妮雅,Lenja,是,超稀有,Super Rare,Atelier Yumia,Atelier Yumia,驱逐,DD,无舰级,No Class,00:25:50,2025-07-24 炼金术士与天际交汇之塔,2025-07-24 The Alchemist and the Tower of Horizons
-赫斯缇雅,Hestia,是,超稀有,Super Rare,DanMachiV,Danmachi,维修,AR,无舰级,No Class,无法建造,2025-10-16 轻量化复刻：愚者的天平,2025-10-16 An Encounter Beneath Clear Skies
-琉·璃昂,Ryu Lion,是,超稀有,Super Rare,DanMachiV,Danmachi,轻巡,CL,无舰级,No Class,无法建造,2025-10-16 轻量化复刻：愚者的天平,2025-10-16 An Encounter Beneath Clear Skies
+赫斯缇雅,Hestia,是,超稀有,Super Rare,DanMachiV,Danmachi,维修,AR,无舰级,No Class,无法建造,2025-10-09 晴空下的邂逅,2025-10-09 An Encounter Beneath Clear Skies
+琉·璃昂,Ryu Lion,是,超稀有,Super Rare,DanMachiV,Danmachi,轻巡,CL,无舰级,No Class,无法建造,2025-10-09 晴空下的邂逅,2025-10-09 An Encounter Beneath Clear Skies

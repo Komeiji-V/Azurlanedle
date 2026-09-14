@@ -153,7 +153,14 @@ function toIsoDate(text) {
   return `${match[1]}-${match[2].padStart(2, "0")}-${match[3].padStart(2, "0")}`;
 }
 
-/** 解析活动表：日期 → 该次更新中出现的活动名。 */
+/**
+ * 解析活动表：日期 → 该次更新中出现的活动名。
+ *
+ * 页面里活动名有两种括号：`『…』` 与 `「…」`（早期条目几乎都用后者）。
+ * 只认 `『』` 会漏掉大量日期 —— 之前 9 年只解析出 118 个日期就是这么来的。
+ * 这里按行优先取 `『』`，该行没有 `『』` 才退回 `「」`，
+ * 这样已经解析正确的日期不会因为多了「」候选而选错名。
+ */
 function parseEventPage(wikitext) {
   const byDate = {};
   let currentDate = null;
@@ -164,10 +171,11 @@ function parseEventPage(wikitext) {
       continue;
     }
     if (!currentDate || !line.startsWith(":")) continue;
-    const names = [];
-    for (const match of line.matchAll(/『([^』]+)』/g)) {
-      names.push(match[1].trim());
-    }
+    const collect = (pattern) => [...line.matchAll(pattern)]
+      .map((match) => match[1].replace(/<[^>]*>/g, "").trim())
+      .filter(Boolean);
+    let names = collect(/『([^』]+)』/g);
+    if (!names.length) names = collect(/「([^」]+)」/g);
     if (!names.length) continue;
     const bucket = (byDate[currentDate] ??= []);
     for (const name of names) if (!bucket.includes(name)) bucket.push(name);
@@ -178,17 +186,23 @@ function parseEventPage(wikitext) {
 async function main() {
   await mkdir(dataDir, { recursive: true });
 
-  console.log("[1/3] 列出舰船页面…");
-  const titles = await listShipPages();
-  console.log(`  共 ${titles.length} 个页面`);
+  // --events-only：只重新抓活动表，跳过 948 个舰船页面（约 20 分钟）
+  const eventsOnly = process.argv.includes("--events-only");
+  if (eventsOnly) {
+    console.log("[--events-only] 跳过舰船抓取，沿用现有 data/bwiki-ships.json");
+  } else {
+    console.log("[1/3] 列出舰船页面…");
+    const titles = await listShipPages();
+    console.log(`  共 ${titles.length} 个页面`);
 
-  console.log("[2/3] 抓取舰船数据…");
-  const ships = await fetchShipPages(titles);
-  const shipsPath = resolve(dataDir, "bwiki-ships.json");
-  await writeFile(shipsPath, `${JSON.stringify(ships, null, 1)}\n`, "utf8");
-  console.log(`  已写入 ${shipsPath}（${Object.keys(ships).length} 条）`);
+    console.log("[2/3] 抓取舰船数据…");
+    const ships = await fetchShipPages(titles);
+    const shipsPath = resolve(dataDir, "bwiki-ships.json");
+    await writeFile(shipsPath, `${JSON.stringify(ships, null, 1)}\n`, "utf8");
+    console.log(`  已写入 ${shipsPath}（${Object.keys(ships).length} 条）`);
+  }
 
-  console.log("[3/3] 抓取活动表…");
+  console.log(eventsOnly ? "[1/1] 抓取活动表…" : "[3/3] 抓取活动表…");
   const payload = await api({ action: "parse", page: EVENT_PAGE, prop: "wikitext", redirects: 1 });
   const eventWikitext = payload.parse?.wikitext;
   if (typeof eventWikitext !== "string") throw new Error("活动表页面没有返回 wikitext。");

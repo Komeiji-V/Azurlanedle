@@ -7083,7 +7083,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 1,
       "tagId": 4,
       "variant": "zh",
-      "value": "Bulin"
+      "value": "布里"
     },
     {
       "characterId": 1,
@@ -7149,7 +7149,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 2,
       "tagId": 4,
       "variant": "zh",
-      "value": "Bulin"
+      "value": "布里"
     },
     {
       "characterId": 2,
@@ -7215,7 +7215,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 3,
       "tagId": 4,
       "variant": "zh",
-      "value": "Bulin"
+      "value": "布里"
     },
     {
       "characterId": 3,
@@ -9147,13 +9147,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 32,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-01-24 复刻：凛冬王冠"
+      "value": "2019-01-31 闹腾嬉戏东煌春节"
     },
     {
       "characterId": 32,
       "tagId": 6,
       "variant": "en",
-      "value": "2019-01-24 Lunar New Year 2019"
+      "value": "2019-01-31 Lunar New Year 2019"
     },
     {
       "characterId": 33,
@@ -9213,13 +9213,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 33,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-01-24 复刻：凛冬王冠"
+      "value": "2019-01-31 闹腾嬉戏东煌春节"
     },
     {
       "characterId": 33,
       "tagId": 6,
       "variant": "en",
-      "value": "2019-01-24 Lunar New Year 2019"
+      "value": "2019-01-31 Lunar New Year 2019"
     },
     {
       "characterId": 34,
@@ -9477,7 +9477,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 37,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-01-21"
+      "value": "2020-01-21 战斗！皇家女仆队2nd"
     },
     {
       "characterId": 37,
@@ -9873,7 +9873,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 43,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27"
+      "value": "2022-01-27 演习神秘事件调查"
     },
     {
       "characterId": 43,
@@ -11391,13 +11391,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 66,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-05-23 铁血、音符&誓言"
+      "value": "2019-05-30 明日之星•闪亮登场"
     },
     {
       "characterId": 66,
       "tagId": 6,
       "variant": "en",
-      "value": "2019-05-23 There Comes the Future Star!"
+      "value": "2019-05-30 There Comes the Future Star!"
     },
     {
       "characterId": 67,
@@ -11457,13 +11457,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 67,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-05-23 铁血、音符&誓言"
+      "value": "2019-05-30 明日之星•闪亮登场"
     },
     {
       "characterId": 67,
       "tagId": 6,
       "variant": "en",
-      "value": "2019-05-23 There Comes the Future Star!"
+      "value": "2019-05-30 There Comes the Future Star!"
     },
     {
       "characterId": 68,
@@ -11523,13 +11523,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 68,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-05-23 铁血、音符&誓言"
+      "value": "2019-05-30 明日之星•闪亮登场"
     },
     {
       "characterId": 68,
       "tagId": 6,
       "variant": "en",
-      "value": "2019-05-23 There Comes the Future Star!"
+      "value": "2019-05-30 There Comes the Future Star!"
     },
     {
       "characterId": 69,
@@ -11721,7 +11721,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 71,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-10-31"
+      "value": "2019-10-31 激奏的Polaris"
     },
     {
       "characterId": 71,
@@ -11787,7 +11787,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 72,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-01-21"
+      "value": "2020-01-21 战斗！皇家女仆队2nd"
     },
     {
       "characterId": 72,
@@ -12843,7 +12843,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 88,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-07-17"
+      "value": "2018-07-17 月光下的序曲"
     },
     {
       "characterId": 88,
@@ -12909,7 +12909,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 89,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-07-17"
+      "value": "2018-07-17 月光下的序曲"
     },
     {
       "characterId": 89,
@@ -12975,7 +12975,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 90,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-07-17"
+      "value": "2018-07-17 月光下的序曲"
     },
     {
       "characterId": 90,
@@ -13437,7 +13437,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 97,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-29"
+      "value": "2020-10-29 激唱的UNIVERSE"
     },
     {
       "characterId": 97,
@@ -13683,7 +13683,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 101,
       "tagId": 4,
       "variant": "zh",
-      "value": "Anchorage"
+      "value": "安克雷奇级"
     },
     {
       "characterId": 101,
@@ -15069,7 +15069,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 122,
       "tagId": 4,
       "variant": "zh",
-      "value": "Langley"
+      "value": "兰利级"
     },
     {
       "characterId": 122,
@@ -15615,7 +15615,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 130,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-09-14"
+      "value": "2018-09-14 大青花鱼的涂鸦板"
     },
     {
       "characterId": 130,
@@ -16143,7 +16143,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 138,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-02-28"
+      "value": "2019-02-28 特别演习•埃塞克斯级"
     },
     {
       "characterId": 138,
@@ -16209,7 +16209,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 139,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-12"
+      "value": "2020-10-12 划破海空之翼"
     },
     {
       "characterId": 139,
@@ -16539,7 +16539,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 144,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-02-28"
+      "value": "2019-02-28 特别演习•埃塞克斯级"
     },
     {
       "characterId": 144,
@@ -16737,7 +16737,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 147,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-09-14"
+      "value": "2018-09-14 大青花鱼的涂鸦板"
     },
     {
       "characterId": 147,
@@ -16935,7 +16935,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 150,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-29"
+      "value": "2020-10-29 激唱的UNIVERSE"
     },
     {
       "characterId": 150,
@@ -17247,7 +17247,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 155,
       "tagId": 4,
       "variant": "zh",
-      "value": "Vestal"
+      "value": "女灶神级"
     },
     {
       "characterId": 155,
@@ -17397,7 +17397,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 157,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-18"
+      "value": "2019-04-18 开发船坞"
     },
     {
       "characterId": 157,
@@ -17463,7 +17463,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 158,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-18"
+      "value": "2019-04-18 开发船坞"
     },
     {
       "characterId": 158,
@@ -17511,7 +17511,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 159,
       "tagId": 4,
       "variant": "zh",
-      "value": "Anchorage"
+      "value": "安克雷奇级"
     },
     {
       "characterId": 159,
@@ -17529,7 +17529,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 159,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-08"
+      "value": "2021-07-08 开发船坞"
     },
     {
       "characterId": 159,
@@ -17595,7 +17595,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 160,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-07-13"
+      "value": "2023-07-13 密语档案室"
     },
     {
       "characterId": 160,
@@ -17661,13 +17661,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 161,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-07-18 轻量化复刻：泠誓光庭"
+      "value": "2024-07-11 开发船坞"
     },
     {
       "characterId": 161,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-07-18 Season 7"
+      "value": "2024-07-11 Season 7"
     },
     {
       "characterId": 162,
@@ -17727,7 +17727,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 162,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-07-10"
+      "value": "2025-07-10 开发船坞"
     },
     {
       "characterId": 162,
@@ -17841,7 +17841,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 164,
       "tagId": 4,
       "variant": "zh",
-      "value": "A and B"
+      "value": "A级／B级"
     },
     {
       "characterId": 164,
@@ -17859,7 +17859,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 164,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-10-26"
+      "value": "2017-10-26 万圣节之夜"
     },
     {
       "characterId": 164,
@@ -17907,7 +17907,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 165,
       "tagId": 4,
       "variant": "zh",
-      "value": "A and B"
+      "value": "A级／B级"
     },
     {
       "characterId": 165,
@@ -17925,7 +17925,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 165,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-10-26"
+      "value": "2017-10-26 万圣节之夜"
     },
     {
       "characterId": 165,
@@ -17973,7 +17973,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 166,
       "tagId": 4,
       "variant": "zh",
-      "value": "A and B"
+      "value": "A级／B级"
     },
     {
       "characterId": 166,
@@ -18039,7 +18039,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 167,
       "tagId": 4,
       "variant": "zh",
-      "value": "A and B"
+      "value": "A级／B级"
     },
     {
       "characterId": 167,
@@ -18585,7 +18585,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 175,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-03-07"
+      "value": "2019-03-07 峡湾间的星辰"
     },
     {
       "characterId": 175,
@@ -18651,7 +18651,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 176,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-03-07"
+      "value": "2019-03-07 峡湾间的星辰"
     },
     {
       "characterId": 176,
@@ -18849,13 +18849,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 179,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-06-08"
+      "value": "2017-06-07 努力、希望和计划"
     },
     {
       "characterId": 179,
       "tagId": 6,
       "variant": "en",
-      "value": "2017-06-08 Strive, Wish and Strategize"
+      "value": "2017-06-07 Strive, Wish and Strategize"
     },
     {
       "characterId": 180,
@@ -19245,7 +19245,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 185,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-06-03"
+      "value": "2020-06-03 峡湾间的反击"
     },
     {
       "characterId": 185,
@@ -19443,7 +19443,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 188,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-10-27"
+      "value": "2022-10-27 战斗！皇家女仆队3rd？"
     },
     {
       "characterId": 188,
@@ -19575,7 +19575,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 190,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-03-28"
+      "value": "2024-03-28 从零开始的魔王讨伐之旅"
     },
     {
       "characterId": 190,
@@ -19971,7 +19971,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 196,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-01-21"
+      "value": "2020-01-21 战斗！皇家女仆队2nd"
     },
     {
       "characterId": 196,
@@ -20019,7 +20019,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 197,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 197,
@@ -20085,7 +20085,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 198,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 198,
@@ -20151,7 +20151,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 199,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 199,
@@ -20169,7 +20169,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 199,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-10-27"
+      "value": "2022-10-27 战斗！皇家女仆队3rd？"
     },
     {
       "characterId": 199,
@@ -20217,7 +20217,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 200,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 200,
@@ -20235,7 +20235,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 200,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-01-21"
+      "value": "2020-01-21 战斗！皇家女仆队2nd"
     },
     {
       "characterId": 200,
@@ -20283,7 +20283,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 201,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 201,
@@ -20349,7 +20349,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 202,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 202,
@@ -20745,7 +20745,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 208,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 208,
@@ -20811,7 +20811,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 209,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 209,
@@ -20829,7 +20829,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 209,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-09-28"
+      "value": "2018-09-28 战斗！皇家女仆队"
     },
     {
       "characterId": 209,
@@ -20961,13 +20961,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 211,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-01-24 复刻：凛冬王冠"
+      "value": "2019-01-31 闹腾嬉戏东煌春节"
     },
     {
       "characterId": 211,
       "tagId": 6,
       "variant": "en",
-      "value": "2019-01-24 Lunar New Year 2019"
+      "value": "2019-01-31 Lunar New Year 2019"
     },
     {
       "characterId": 212,
@@ -21027,13 +21027,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 212,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-01-24 复刻：凛冬王冠"
+      "value": "2019-01-31 闹腾嬉戏东煌春节"
     },
     {
       "characterId": 212,
       "tagId": 6,
       "variant": "en",
-      "value": "2019-01-24 Lunar New Year 2019"
+      "value": "2019-01-31 Lunar New Year 2019"
     },
     {
       "characterId": 213,
@@ -21207,7 +21207,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 215,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 215,
@@ -21225,7 +21225,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 215,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-10-31"
+      "value": "2019-10-31 激奏的Polaris"
     },
     {
       "characterId": 215,
@@ -21273,7 +21273,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 216,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 216,
@@ -21423,7 +21423,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 218,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-29"
+      "value": "2020-10-29 激唱的UNIVERSE"
     },
     {
       "characterId": 218,
@@ -21555,7 +21555,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 220,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27"
+      "value": "2022-01-27 演习神秘事件调查"
     },
     {
       "characterId": 220,
@@ -21687,7 +21687,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 222,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-06-30"
+      "value": "2022-06-30 来自鸢尾的天使"
     },
     {
       "characterId": 222,
@@ -21801,7 +21801,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 224,
       "tagId": 4,
       "variant": "zh",
-      "value": "Town"
+      "value": "城级"
     },
     {
       "characterId": 224,
@@ -21819,7 +21819,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 224,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-03-28"
+      "value": "2024-03-28 从零开始的魔王讨伐之旅"
     },
     {
       "characterId": 224,
@@ -21999,7 +21999,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 227,
       "tagId": 4,
       "variant": "zh",
-      "value": "County"
+      "value": "郡级"
     },
     {
       "characterId": 227,
@@ -22065,7 +22065,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 228,
       "tagId": 4,
       "variant": "zh",
-      "value": "County"
+      "value": "郡级"
     },
     {
       "characterId": 228,
@@ -22131,7 +22131,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 229,
       "tagId": 4,
       "variant": "zh",
-      "value": "County"
+      "value": "郡级"
     },
     {
       "characterId": 229,
@@ -22197,7 +22197,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 230,
       "tagId": 4,
       "variant": "zh",
-      "value": "County"
+      "value": "郡级"
     },
     {
       "characterId": 230,
@@ -22263,7 +22263,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 231,
       "tagId": 4,
       "variant": "zh",
-      "value": "County"
+      "value": "郡级"
     },
     {
       "characterId": 231,
@@ -22329,7 +22329,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 232,
       "tagId": 4,
       "variant": "zh",
-      "value": "County"
+      "value": "郡级"
     },
     {
       "characterId": 232,
@@ -22527,7 +22527,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 235,
       "tagId": 4,
       "variant": "zh",
-      "value": "County"
+      "value": "郡级"
     },
     {
       "characterId": 235,
@@ -22593,7 +22593,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 236,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cheshire"
+      "value": "柴郡级"
     },
     {
       "characterId": 236,
@@ -22659,7 +22659,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 237,
       "tagId": 4,
       "variant": "zh",
-      "value": "County"
+      "value": "郡级"
     },
     {
       "characterId": 237,
@@ -22677,7 +22677,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 237,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-03-28"
+      "value": "2024-03-28 从零开始的魔王讨伐之旅"
     },
     {
       "characterId": 237,
@@ -23337,13 +23337,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 247,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-06-08"
+      "value": "2017-06-07 努力、希望和计划"
     },
     {
       "characterId": 247,
       "tagId": 6,
       "variant": "en",
-      "value": "2017-06-08 Strive, Wish and Strategize"
+      "value": "2017-06-07 Strive, Wish and Strategize"
     },
     {
       "characterId": 248,
@@ -23847,7 +23847,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 255,
       "tagId": 4,
       "variant": "zh",
-      "value": "Hermes"
+      "value": "竞技神级"
     },
     {
       "characterId": 255,
@@ -23913,7 +23913,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 256,
       "tagId": 4,
       "variant": "zh",
-      "value": "Argus"
+      "value": "百眼巨人级"
     },
     {
       "characterId": 256,
@@ -23979,7 +23979,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 257,
       "tagId": 4,
       "variant": "zh",
-      "value": "Unicorn"
+      "value": "独角兽级"
     },
     {
       "characterId": 257,
@@ -24129,13 +24129,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 259,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-01-24 复刻：凛冬王冠"
+      "value": "2019-01-31 闹腾嬉戏东煌春节"
     },
     {
       "characterId": 259,
       "tagId": 6,
       "variant": "en",
-      "value": "2019-01-24 Lunar New Year 2019"
+      "value": "2019-01-31 Lunar New Year 2019"
     },
     {
       "characterId": 260,
@@ -24261,7 +24261,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 261,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-10-27"
+      "value": "2022-10-27 战斗！皇家女仆队3rd？"
     },
     {
       "characterId": 261,
@@ -24327,7 +24327,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 262,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-01-18"
+      "value": "2023-01-18 冬日的寻路人"
     },
     {
       "characterId": 262,
@@ -24375,7 +24375,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 263,
       "tagId": 4,
       "variant": "zh",
-      "value": "Eagle"
+      "value": "鹰级"
     },
     {
       "characterId": 263,
@@ -24441,7 +24441,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 264,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ark Royal"
+      "value": "皇家方舟级"
     },
     {
       "characterId": 264,
@@ -24723,7 +24723,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 268,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-10-26"
+      "value": "2017-10-26 万圣节之夜"
     },
     {
       "characterId": 268,
@@ -24855,13 +24855,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 270,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-05-21 穹顶下的圣咏曲"
+      "value": "2020-05-28 爱与和平的梦"
     },
     {
       "characterId": 270,
       "tagId": 6,
       "variant": "en",
-      "value": "2020-05-21 Dreams of Love and Peace"
+      "value": "2020-05-28 Dreams of Love and Peace"
     },
     {
       "characterId": 271,
@@ -24921,7 +24921,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 271,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-29"
+      "value": "2020-10-29 激唱的UNIVERSE"
     },
     {
       "characterId": 271,
@@ -25053,7 +25053,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 273,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-04-27"
+      "value": "2023-04-27 假日航线·再现"
     },
     {
       "characterId": 273,
@@ -25365,7 +25365,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 278,
       "tagId": 4,
       "variant": "zh",
-      "value": "Neptune"
+      "value": "海王星级"
     },
     {
       "characterId": 278,
@@ -25497,7 +25497,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 280,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cheshire"
+      "value": "柴郡级"
     },
     {
       "characterId": 280,
@@ -25515,7 +25515,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 280,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-07-09"
+      "value": "2020-07-09 开发船坞"
     },
     {
       "characterId": 280,
@@ -25581,7 +25581,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 281,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-07-09"
+      "value": "2020-07-09 开发船坞"
     },
     {
       "characterId": 281,
@@ -25695,7 +25695,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 283,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 283,
@@ -25761,7 +25761,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 284,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 284,
@@ -25827,7 +25827,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 285,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 285,
@@ -25893,7 +25893,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 286,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 286,
@@ -25959,7 +25959,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 287,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 287,
@@ -26025,7 +26025,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 288,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 288,
@@ -26091,7 +26091,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 289,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 289,
@@ -26157,7 +26157,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 290,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 290,
@@ -26223,7 +26223,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 291,
       "tagId": 4,
       "variant": "zh",
-      "value": "Shiratsuyu"
+      "value": "白露级"
     },
     {
       "characterId": 291,
@@ -26289,7 +26289,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 292,
       "tagId": 4,
       "variant": "zh",
-      "value": "Shiratsuyu"
+      "value": "白露级"
     },
     {
       "characterId": 292,
@@ -26355,7 +26355,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 293,
       "tagId": 4,
       "variant": "zh",
-      "value": "Shiratsuyu"
+      "value": "白露级"
     },
     {
       "characterId": 293,
@@ -26835,7 +26835,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 300,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-02-14"
+      "value": "2019-02-14 ❤情人节的小小心意❤"
     },
     {
       "characterId": 300,
@@ -27033,7 +27033,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 303,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-12-01"
+      "value": "2017-12-01 归来与新生"
     },
     {
       "characterId": 303,
@@ -27099,7 +27099,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 304,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-12-01"
+      "value": "2017-12-01 归来与新生"
     },
     {
       "characterId": 304,
@@ -27807,7 +27807,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 315,
       "tagId": 4,
       "variant": "zh",
-      "value": "Shiratsuyu"
+      "value": "白露级"
     },
     {
       "characterId": 315,
@@ -27873,7 +27873,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 316,
       "tagId": 4,
       "variant": "zh",
-      "value": "Shiratsuyu"
+      "value": "白露级"
     },
     {
       "characterId": 316,
@@ -27939,7 +27939,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 317,
       "tagId": 4,
       "variant": "zh",
-      "value": "Shiratsuyu"
+      "value": "白露级"
     },
     {
       "characterId": 317,
@@ -28419,7 +28419,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 324,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-12-01"
+      "value": "2017-12-01 归来与新生"
     },
     {
       "characterId": 324,
@@ -28797,7 +28797,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 330,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fubuki"
+      "value": "吹雪级"
     },
     {
       "characterId": 330,
@@ -28815,7 +28815,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 330,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-01-21"
+      "value": "2020-01-21 战斗！皇家女仆队2nd"
     },
     {
       "characterId": 330,
@@ -29721,7 +29721,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 344,
       "tagId": 4,
       "variant": "zh",
-      "value": "Yuubari"
+      "value": "夕张级"
     },
     {
       "characterId": 344,
@@ -30183,7 +30183,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 351,
       "tagId": 4,
       "variant": "zh",
-      "value": "Mogami"
+      "value": "最上型"
     },
     {
       "characterId": 351,
@@ -30249,7 +30249,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 352,
       "tagId": 4,
       "variant": "zh",
-      "value": "Mogami"
+      "value": "最上型"
     },
     {
       "characterId": 352,
@@ -31653,13 +31653,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 373,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-06-08"
+      "value": "2017-06-07 努力、希望和计划"
     },
     {
       "characterId": 373,
       "tagId": 6,
       "variant": "en",
-      "value": "2017-06-08 Strive, Wish and Strategize"
+      "value": "2017-06-07 Strive, Wish and Strategize"
     },
     {
       "characterId": 374,
@@ -31833,7 +31833,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 376,
       "tagId": 4,
       "variant": "zh",
-      "value": "Mogami"
+      "value": "最上型"
     },
     {
       "characterId": 376,
@@ -31899,7 +31899,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 377,
       "tagId": 4,
       "variant": "zh",
-      "value": "Mogami"
+      "value": "最上型"
     },
     {
       "characterId": 377,
@@ -31965,7 +31965,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 378,
       "tagId": 4,
       "variant": "zh",
-      "value": "Unzen"
+      "value": "云仙级"
     },
     {
       "characterId": 378,
@@ -32181,7 +32181,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 381,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-12-01"
+      "value": "2017-12-01 归来与新生"
     },
     {
       "characterId": 381,
@@ -32445,7 +32445,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 385,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-26"
+      "value": "2019-04-26 虚拟链接的共时性"
     },
     {
       "characterId": 385,
@@ -33237,7 +33237,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 397,
       "tagId": 6,
       "variant": "zh",
-      "value": "2017-12-01"
+      "value": "2017-12-01 归来与新生"
     },
     {
       "characterId": 397,
@@ -33681,7 +33681,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 404,
       "tagId": 4,
       "variant": "zh",
-      "value": "Houshou"
+      "value": "凤翔级"
     },
     {
       "characterId": 404,
@@ -33879,7 +33879,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 407,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ryuujou"
+      "value": "龙骧级"
     },
     {
       "characterId": 407,
@@ -33897,13 +33897,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 407,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-12-27 苍红的回响"
+      "value": "2018-12-20 斯图尔特的硝烟"
     },
     {
       "characterId": 407,
       "tagId": 6,
       "variant": "en",
-      "value": "2018-12-27 The Solomon Ranger"
+      "value": "2018-12-20 The Solomon Ranger"
     },
     {
       "characterId": 408,
@@ -34143,7 +34143,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 411,
       "tagId": 4,
       "variant": "zh",
-      "value": "Akagi"
+      "value": "赤城级"
     },
     {
       "characterId": 411,
@@ -34209,7 +34209,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 412,
       "tagId": 4,
       "variant": "zh",
-      "value": "Kaga"
+      "value": "加贺级"
     },
     {
       "characterId": 412,
@@ -34275,7 +34275,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 413,
       "tagId": 4,
       "variant": "zh",
-      "value": "Souryuu"
+      "value": "苍龙级"
     },
     {
       "characterId": 413,
@@ -34341,7 +34341,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 414,
       "tagId": 4,
       "variant": "zh",
-      "value": "Hiryuu"
+      "value": "飞龙级"
     },
     {
       "characterId": 414,
@@ -34539,7 +34539,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 417,
       "tagId": 4,
       "variant": "zh",
-      "value": "Taihou"
+      "value": "大凤级"
     },
     {
       "characterId": 417,
@@ -34557,7 +34557,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 417,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-09-14"
+      "value": "2018-09-14 大青花鱼的涂鸦板"
     },
     {
       "characterId": 417,
@@ -34671,7 +34671,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 419,
       "tagId": 4,
       "variant": "zh",
-      "value": "Akagi"
+      "value": "赤城级"
     },
     {
       "characterId": 419,
@@ -34689,7 +34689,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 419,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-26"
+      "value": "2019-04-26 虚拟链接的共时性"
     },
     {
       "characterId": 419,
@@ -34737,7 +34737,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 420,
       "tagId": 4,
       "variant": "zh",
-      "value": "Akagi"
+      "value": "赤城级"
     },
     {
       "characterId": 420,
@@ -34755,7 +34755,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 420,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-10-31"
+      "value": "2019-10-31 激奏的Polaris"
     },
     {
       "characterId": 420,
@@ -34803,7 +34803,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 421,
       "tagId": 4,
       "variant": "zh",
-      "value": "Taihou"
+      "value": "大凤级"
     },
     {
       "characterId": 421,
@@ -34821,7 +34821,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 421,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-29"
+      "value": "2020-10-29 激唱的UNIVERSE"
     },
     {
       "characterId": 421,
@@ -34935,7 +34935,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 423,
       "tagId": 4,
       "variant": "zh",
-      "value": "Taihou"
+      "value": "大凤级"
     },
     {
       "characterId": 423,
@@ -34953,13 +34953,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 423,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-05-25 空相交汇点"
+      "value": "2023-06-01 庆典与金色乐章"
     },
     {
       "characterId": 423,
       "tagId": 6,
       "variant": "en",
-      "value": "2023-05-25 Passionate Confession Practice"
+      "value": "2023-06-01 Passionate Confession Practice"
     },
     {
       "characterId": 424,
@@ -35133,7 +35133,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 426,
       "tagId": 4,
       "variant": "zh",
-      "value": "Taihou"
+      "value": "大凤级"
     },
     {
       "characterId": 426,
@@ -35331,7 +35331,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 429,
       "tagId": 4,
       "variant": "zh",
-      "value": "巡潜乙型"
+      "value": "改二型"
     },
     {
       "characterId": 429,
@@ -35415,7 +35415,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 430,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-07-11"
+      "value": "2019-07-11 破交作战"
     },
     {
       "characterId": 430,
@@ -35463,7 +35463,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 431,
       "tagId": 4,
       "variant": "zh",
-      "value": "巡潜乙型"
+      "value": "改二型"
     },
     {
       "characterId": 431,
@@ -35481,7 +35481,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 431,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-07-11"
+      "value": "2019-07-11 破交作战"
     },
     {
       "characterId": 431,
@@ -35547,7 +35547,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 432,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-07-11"
+      "value": "2019-07-11 破交作战"
     },
     {
       "characterId": 432,
@@ -35595,7 +35595,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 433,
       "tagId": 4,
       "variant": "zh",
-      "value": "Akashi"
+      "value": "明石级"
     },
     {
       "characterId": 433,
@@ -35661,7 +35661,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 434,
       "tagId": 4,
       "variant": "zh",
-      "value": "巡潜甲型"
+      "value": "改二型"
     },
     {
       "characterId": 434,
@@ -35793,7 +35793,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 436,
       "tagId": 4,
       "variant": "zh",
-      "value": "Kashino"
+      "value": "樫野级"
     },
     {
       "characterId": 436,
@@ -36009,7 +36009,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 439,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-18"
+      "value": "2019-04-18 开发船坞"
     },
     {
       "characterId": 439,
@@ -36057,7 +36057,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 440,
       "tagId": 4,
       "variant": "zh",
-      "value": "B-65超甲型"
+      "value": "吾妻级"
     },
     {
       "characterId": 440,
@@ -36075,7 +36075,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 440,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-18"
+      "value": "2019-04-18 开发船坞"
     },
     {
       "characterId": 440,
@@ -36123,7 +36123,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 441,
       "tagId": 4,
       "variant": "zh",
-      "value": "SG-15超级"
+      "value": "改大凤型"
     },
     {
       "characterId": 441,
@@ -36141,7 +36141,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 441,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-08"
+      "value": "2021-07-08 开发船坞"
     },
     {
       "characterId": 441,
@@ -36207,7 +36207,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 442,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-07-13"
+      "value": "2023-07-13 密语档案室"
     },
     {
       "characterId": 442,
@@ -36255,7 +36255,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 443,
       "tagId": 4,
       "variant": "zh",
-      "value": "Daisen"
+      "value": "大山级"
     },
     {
       "characterId": 443,
@@ -36273,13 +36273,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 443,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-07-18 轻量化复刻：泠誓光庭"
+      "value": "2024-07-11 开发船坞"
     },
     {
       "characterId": 443,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-07-18 Season 7"
+      "value": "2024-07-11 Season 7"
     },
     {
       "characterId": 444,
@@ -36405,7 +36405,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 445,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-03-07"
+      "value": "2019-03-07 峡湾间的星辰"
     },
     {
       "characterId": 445,
@@ -36669,7 +36669,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 449,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-08-18"
+      "value": "2022-08-18 远汇点作战"
     },
     {
       "characterId": 449,
@@ -36735,13 +36735,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 450,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-07-26 光与影的鸢尾之华"
+      "value": "2018-07-17 月光下的序曲"
     },
     {
       "characterId": 450,
       "tagId": 6,
       "variant": "en",
-      "value": "2018-07-26 Counterattack Within the Fjord"
+      "value": "2018-07-17 Counterattack Within the Fjord"
     },
     {
       "characterId": 451,
@@ -38169,7 +38169,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 472,
       "tagId": 4,
       "variant": "zh",
-      "value": "德累斯顿级"
+      "value": "柯尼斯堡级"
     },
     {
       "characterId": 472,
@@ -38517,7 +38517,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 477,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-08-18"
+      "value": "2022-08-18 远汇点作战"
     },
     {
       "characterId": 477,
@@ -38715,7 +38715,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 480,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-01-19"
+      "value": "2018-01-19 围剿斯佩伯爵"
     },
     {
       "characterId": 480,
@@ -38781,7 +38781,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 481,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-10-31"
+      "value": "2019-10-31 激奏的Polaris"
     },
     {
       "characterId": 481,
@@ -38829,7 +38829,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 482,
       "tagId": 4,
       "variant": "zh",
-      "value": "Roon"
+      "value": "罗恩(μ兵装)级"
     },
     {
       "characterId": 482,
@@ -38847,7 +38847,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 482,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-29"
+      "value": "2020-10-29 激唱的UNIVERSE"
     },
     {
       "characterId": 482,
@@ -39177,7 +39177,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 487,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-10-13"
+      "value": "2022-10-13 勇者的旅途"
     },
     {
       "characterId": 487,
@@ -39243,7 +39243,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 488,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-03-28"
+      "value": "2024-03-28 从零开始的魔王讨伐之旅"
     },
     {
       "characterId": 488,
@@ -39357,7 +39357,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 490,
       "tagId": 4,
       "variant": "zh",
-      "value": "O级"
+      "value": "超重型"
     },
     {
       "characterId": 490,
@@ -39375,7 +39375,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 490,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-05-29"
+      "value": "2025-05-29 “深渊之国”的缔造者"
     },
     {
       "characterId": 490,
@@ -39555,7 +39555,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 493,
       "tagId": 4,
       "variant": "zh",
-      "value": "Seydlitz"
+      "value": "塞德利茨级"
     },
     {
       "characterId": 493,
@@ -39705,7 +39705,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 495,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-08-18"
+      "value": "2022-08-18 远汇点作战"
     },
     {
       "characterId": 495,
@@ -39819,7 +39819,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 497,
       "tagId": 4,
       "variant": "zh",
-      "value": "Admiral Zenker"
+      "value": "曾克海军上将级"
     },
     {
       "characterId": 497,
@@ -40017,7 +40017,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 500,
       "tagId": 4,
       "variant": "zh",
-      "value": "H-39型"
+      "value": "乌尔里希·冯·胡滕级"
     },
     {
       "characterId": 500,
@@ -40215,7 +40215,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 503,
       "tagId": 4,
       "variant": "zh",
-      "value": "H-39型"
+      "value": "腓特烈大帝级"
     },
     {
       "characterId": 503,
@@ -40233,7 +40233,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 503,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-05-30"
+      "value": "2024-05-30 今日的指挥练习"
     },
     {
       "characterId": 503,
@@ -40563,7 +40563,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 508,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-26"
+      "value": "2019-04-26 虚拟链接的共时性"
     },
     {
       "characterId": 508,
@@ -40677,7 +40677,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 510,
       "tagId": 4,
       "variant": "zh",
-      "value": "Fritz Rumey"
+      "value": "弗里茨·鲁梅级"
     },
     {
       "characterId": 510,
@@ -41091,7 +41091,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 516,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-07-11"
+      "value": "2019-07-11 破交作战"
     },
     {
       "characterId": 516,
@@ -41157,7 +41157,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 517,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-07-11"
+      "value": "2019-07-11 破交作战"
     },
     {
       "characterId": 517,
@@ -41223,7 +41223,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 518,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-10-17"
+      "value": "2019-10-17 最珍贵的宝物"
     },
     {
       "characterId": 518,
@@ -41421,7 +41421,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 521,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-02-04"
+      "value": "2021-02-04 东煌春节"
     },
     {
       "characterId": 521,
@@ -41667,7 +41667,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 525,
       "tagId": 4,
       "variant": "zh",
-      "value": "Roon"
+      "value": "罗恩(μ兵装)级"
     },
     {
       "characterId": 525,
@@ -41733,7 +41733,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 526,
       "tagId": 4,
       "variant": "zh",
-      "value": "H-39型"
+      "value": "腓特烈大帝级"
     },
     {
       "characterId": 526,
@@ -41751,7 +41751,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 526,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-18"
+      "value": "2019-04-18 开发船坞"
     },
     {
       "characterId": 526,
@@ -41799,7 +41799,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 527,
       "tagId": 4,
       "variant": "zh",
-      "value": "Mainz"
+      "value": "美因茨级"
     },
     {
       "characterId": 527,
@@ -41817,7 +41817,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 527,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-07-09"
+      "value": "2020-07-09 开发船坞"
     },
     {
       "characterId": 527,
@@ -41865,7 +41865,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 528,
       "tagId": 4,
       "variant": "zh",
-      "value": "Odin"
+      "value": "奥丁级"
     },
     {
       "characterId": 528,
@@ -41883,7 +41883,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 528,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-07-09"
+      "value": "2020-07-09 开发船坞"
     },
     {
       "characterId": 528,
@@ -41931,7 +41931,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 529,
       "tagId": 4,
       "variant": "zh",
-      "value": "O级"
+      "value": "超重型"
     },
     {
       "characterId": 529,
@@ -41949,7 +41949,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 529,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-08"
+      "value": "2021-07-08 开发船坞"
     },
     {
       "characterId": 529,
@@ -42015,7 +42015,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 530,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-08"
+      "value": "2021-07-08 开发船坞"
     },
     {
       "characterId": 530,
@@ -42063,7 +42063,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 531,
       "tagId": 4,
       "variant": "zh",
-      "value": "Prinz Rupprecht"
+      "value": "鲁普雷希特亲王级"
     },
     {
       "characterId": 531,
@@ -42147,7 +42147,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 532,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-07-13"
+      "value": "2023-07-13 密语档案室"
     },
     {
       "characterId": 532,
@@ -42195,7 +42195,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 533,
       "tagId": 4,
       "variant": "zh",
-      "value": "Hindenburg"
+      "value": "兴登堡级"
     },
     {
       "characterId": 533,
@@ -42213,7 +42213,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 533,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-07-13"
+      "value": "2023-07-13 密语档案室"
     },
     {
       "characterId": 533,
@@ -42261,7 +42261,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 534,
       "tagId": 4,
       "variant": "zh",
-      "value": "H-39型"
+      "value": "305mm主炮改型"
     },
     {
       "characterId": 534,
@@ -42279,7 +42279,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 534,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-07-10"
+      "value": "2025-07-10 开发船坞"
     },
     {
       "characterId": 534,
@@ -42345,7 +42345,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 535,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-12"
+      "value": "2018-02-12 抚顺的大冒险"
     },
     {
       "characterId": 535,
@@ -42411,7 +42411,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 536,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-12"
+      "value": "2018-02-12 抚顺的大冒险"
     },
     {
       "characterId": 536,
@@ -42477,7 +42477,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 537,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-12"
+      "value": "2018-02-12 抚顺的大冒险"
     },
     {
       "characterId": 537,
@@ -42543,7 +42543,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 538,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-12"
+      "value": "2018-02-12 抚顺的大冒险"
     },
     {
       "characterId": 538,
@@ -42591,7 +42591,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 539,
       "tagId": 4,
       "variant": "zh",
-      "value": "类V-25外贸型"
+      "value": "龙武级"
     },
     {
       "characterId": 539,
@@ -42609,7 +42609,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 539,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-01-30"
+      "value": "2024-01-30 寰昌宇定家事忙"
     },
     {
       "characterId": 539,
@@ -42657,7 +42657,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 540,
       "tagId": 4,
       "variant": "zh",
-      "value": "类V-25外贸型"
+      "value": "龙武级"
     },
     {
       "characterId": 540,
@@ -42675,7 +42675,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 540,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-01-30"
+      "value": "2024-01-30 寰昌宇定家事忙"
     },
     {
       "characterId": 540,
@@ -42741,7 +42741,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 541,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-01-30"
+      "value": "2024-01-30 寰昌宇定家事忙"
     },
     {
       "characterId": 541,
@@ -42807,13 +42807,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 542,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-01-09 轻量化复刻：定向折叠"
+      "value": "2025-01-16 华裳巧展喜事长"
     },
     {
       "characterId": 542,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-01-09 Happy Lunar New Year 2025"
+      "value": "2025-01-16 Happy Lunar New Year 2025"
     },
     {
       "characterId": 543,
@@ -42873,13 +42873,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 543,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-01-09 轻量化复刻：定向折叠"
+      "value": "2025-01-16 华裳巧展喜事长"
     },
     {
       "characterId": 543,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-01-09 Happy Lunar New Year 2025"
+      "value": "2025-01-16 Happy Lunar New Year 2025"
     },
     {
       "characterId": 544,
@@ -42921,7 +42921,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 544,
       "tagId": 4,
       "variant": "zh",
-      "value": "Yat Sen"
+      "value": "逸仙级"
     },
     {
       "characterId": 544,
@@ -43137,7 +43137,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 547,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-02-04"
+      "value": "2021-02-04 东煌春节"
     },
     {
       "characterId": 547,
@@ -43203,7 +43203,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 548,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-02-04"
+      "value": "2021-02-04 东煌春节"
     },
     {
       "characterId": 548,
@@ -43269,7 +43269,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 549,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27"
+      "value": "2022-01-27 演习神秘事件调查"
     },
     {
       "characterId": 549,
@@ -43335,7 +43335,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 550,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27"
+      "value": "2022-01-27 演习神秘事件调查"
     },
     {
       "characterId": 550,
@@ -43383,7 +43383,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 551,
       "tagId": 4,
       "variant": "zh",
-      "value": "Chi An"
+      "value": "济安级"
     },
     {
       "characterId": 551,
@@ -43401,7 +43401,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 551,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-01-30"
+      "value": "2024-01-30 寰昌宇定家事忙"
     },
     {
       "characterId": 551,
@@ -43467,13 +43467,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 552,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-01-09 轻量化复刻：定向折叠"
+      "value": "2025-01-16 华裳巧展喜事长"
     },
     {
       "characterId": 552,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-01-09 Happy Lunar New Year 2025"
+      "value": "2025-01-16 Happy Lunar New Year 2025"
     },
     {
       "characterId": 553,
@@ -43515,7 +43515,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 553,
       "tagId": 4,
       "variant": "zh",
-      "value": "Chien Wu"
+      "value": "建武级"
     },
     {
       "characterId": 553,
@@ -43533,13 +43533,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 553,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-01-09 轻量化复刻：定向折叠"
+      "value": "2025-01-16 华裳巧展喜事长"
     },
     {
       "characterId": 553,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-01-09 Happy Lunar New Year 2025"
+      "value": "2025-01-16 Happy Lunar New Year 2025"
     },
     {
       "characterId": 554,
@@ -43581,7 +43581,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 554,
       "tagId": 4,
       "variant": "zh",
-      "value": "Huan Ch'ang"
+      "value": "寰昌级"
     },
     {
       "characterId": 554,
@@ -43599,7 +43599,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 554,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-01-30"
+      "value": "2024-01-30 寰昌宇定家事忙"
     },
     {
       "characterId": 554,
@@ -43647,7 +43647,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 555,
       "tagId": 4,
       "variant": "zh",
-      "value": "Chen Hai"
+      "value": "镇海级"
     },
     {
       "characterId": 555,
@@ -43665,7 +43665,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 555,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27"
+      "value": "2022-01-27 演习神秘事件调查"
     },
     {
       "characterId": 555,
@@ -43713,7 +43713,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 556,
       "tagId": 4,
       "variant": "zh",
-      "value": "Hwah Jah"
+      "value": "华甲级"
     },
     {
       "characterId": 556,
@@ -43731,7 +43731,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 556,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-01-18"
+      "value": "2023-01-18 冬日的寻路人"
     },
     {
       "characterId": 556,
@@ -43797,7 +43797,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 557,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-01-18"
+      "value": "2023-01-18 冬日的寻路人"
     },
     {
       "characterId": 557,
@@ -43845,7 +43845,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 558,
       "tagId": 4,
       "variant": "zh",
-      "value": "Harbin"
+      "value": "哈尔滨级"
     },
     {
       "characterId": 558,
@@ -44259,7 +44259,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 564,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-03-24"
+      "value": "2022-03-24 虚像构筑之塔·序章"
     },
     {
       "characterId": 564,
@@ -44457,7 +44457,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 567,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-06-29"
+      "value": "2023-06-29 绿洲往事"
     },
     {
       "characterId": 567,
@@ -44985,7 +44985,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 575,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-03-24"
+      "value": "2022-03-24 虚像构筑之塔·序章"
     },
     {
       "characterId": 575,
@@ -45117,7 +45117,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 577,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-06-29"
+      "value": "2023-06-29 绿洲往事"
     },
     {
       "characterId": 577,
@@ -45513,7 +45513,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 583,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-06-29"
+      "value": "2023-06-29 绿洲往事"
     },
     {
       "characterId": 583,
@@ -45561,7 +45561,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 584,
       "tagId": 4,
       "variant": "zh",
-      "value": "Raffaello"
+      "value": "拉斐尔级"
     },
     {
       "characterId": 584,
@@ -45627,7 +45627,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 585,
       "tagId": 4,
       "variant": "zh",
-      "value": "Aquila"
+      "value": "天鹰级"
     },
     {
       "characterId": 585,
@@ -45711,7 +45711,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 586,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-03-24"
+      "value": "2022-03-24 虚像构筑之塔·序章"
     },
     {
       "characterId": 586,
@@ -45957,7 +45957,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 590,
       "tagId": 4,
       "variant": "zh",
-      "value": "Marco Polo"
+      "value": "马可·波罗级"
     },
     {
       "characterId": 590,
@@ -45975,7 +45975,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 590,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-08"
+      "value": "2021-07-08 开发船坞"
     },
     {
       "characterId": 590,
@@ -46023,7 +46023,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 591,
       "tagId": 4,
       "variant": "zh",
-      "value": "Napoli"
+      "value": "那不勒斯级"
     },
     {
       "characterId": 591,
@@ -46041,13 +46041,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 591,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-07-18 轻量化复刻：泠誓光庭"
+      "value": "2024-07-11 开发船坞"
     },
     {
       "characterId": 591,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-07-18 Season 7"
+      "value": "2024-07-11 Season 7"
     },
     {
       "characterId": 592,
@@ -46107,7 +46107,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 592,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-07-10"
+      "value": "2025-07-10 开发船坞"
     },
     {
       "characterId": 592,
@@ -46155,7 +46155,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 593,
       "tagId": 4,
       "variant": "zh",
-      "value": "7型"
+      "value": "愤怒级"
     },
     {
       "characterId": 593,
@@ -46221,7 +46221,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 594,
       "tagId": 4,
       "variant": "zh",
-      "value": "38型"
+      "value": "明斯克级"
     },
     {
       "characterId": 594,
@@ -46371,7 +46371,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 596,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-29"
+      "value": "2020-10-29 激唱的UNIVERSE"
     },
     {
       "characterId": 596,
@@ -46419,7 +46419,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 597,
       "tagId": 4,
       "variant": "zh",
-      "value": "7型"
+      "value": "愤怒级"
     },
     {
       "characterId": 597,
@@ -46485,7 +46485,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 598,
       "tagId": 4,
       "variant": "zh",
-      "value": "7型"
+      "value": "愤怒级"
     },
     {
       "characterId": 598,
@@ -46551,7 +46551,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 599,
       "tagId": 4,
       "variant": "zh",
-      "value": "7型"
+      "value": "愤怒级"
     },
     {
       "characterId": 599,
@@ -46617,7 +46617,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 600,
       "tagId": 4,
       "variant": "zh",
-      "value": "7-U型"
+      "value": "前哨级"
     },
     {
       "characterId": 600,
@@ -46683,7 +46683,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 601,
       "tagId": 4,
       "variant": "zh",
-      "value": "48型"
+      "value": "基辅级"
     },
     {
       "characterId": 601,
@@ -46749,7 +46749,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 602,
       "tagId": 4,
       "variant": "zh",
-      "value": "30-K型"
+      "value": "火力级"
     },
     {
       "characterId": 602,
@@ -46815,7 +46815,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 603,
       "tagId": 4,
       "variant": "zh",
-      "value": "7-U型"
+      "value": "前哨级"
     },
     {
       "characterId": 603,
@@ -47013,7 +47013,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 606,
       "tagId": 4,
       "variant": "zh",
-      "value": "68-K型"
+      "value": "恰巴耶夫级"
     },
     {
       "characterId": 606,
@@ -47079,7 +47079,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 607,
       "tagId": 4,
       "variant": "zh",
-      "value": "26型"
+      "value": "基洛夫级"
     },
     {
       "characterId": 607,
@@ -47145,7 +47145,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 608,
       "tagId": 4,
       "variant": "zh",
-      "value": "68-K型"
+      "value": "恰巴耶夫级"
     },
     {
       "characterId": 608,
@@ -47163,7 +47163,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 608,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-01-18"
+      "value": "2023-01-18 冬日的寻路人"
     },
     {
       "characterId": 608,
@@ -47277,7 +47277,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 610,
       "tagId": 4,
       "variant": "zh",
-      "value": "26型"
+      "value": "基洛夫级"
     },
     {
       "characterId": 610,
@@ -47295,7 +47295,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 610,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-03-23"
+      "value": "2023-03-23 极地风暴"
     },
     {
       "characterId": 610,
@@ -47475,7 +47475,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 613,
       "tagId": 4,
       "variant": "zh",
-      "value": "Kursk"
+      "value": "库尔斯克级"
     },
     {
       "characterId": 613,
@@ -47493,7 +47493,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 613,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-03-23"
+      "value": "2023-03-23 极地风暴"
     },
     {
       "characterId": 613,
@@ -47607,7 +47607,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 615,
       "tagId": 4,
       "variant": "zh",
-      "value": "23型"
+      "value": "苏维埃同盟级"
     },
     {
       "characterId": 615,
@@ -47673,7 +47673,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 616,
       "tagId": 4,
       "variant": "zh",
-      "value": "23型"
+      "value": "苏维埃同盟级"
     },
     {
       "characterId": 616,
@@ -47739,7 +47739,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 617,
       "tagId": 4,
       "variant": "zh",
-      "value": "23型"
+      "value": "苏维埃同盟级"
     },
     {
       "characterId": 617,
@@ -47889,7 +47889,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 619,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-03-23"
+      "value": "2023-03-23 极地风暴"
     },
     {
       "characterId": 619,
@@ -48135,7 +48135,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 623,
       "tagId": 4,
       "variant": "zh",
-      "value": "69型"
+      "value": "喀琅施塔得级"
     },
     {
       "characterId": 623,
@@ -48267,7 +48267,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 625,
       "tagId": 4,
       "variant": "zh",
-      "value": "23AV型"
+      "value": "苏维埃同盟级"
     },
     {
       "characterId": 625,
@@ -48285,13 +48285,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 625,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-07-18 轻量化复刻：泠誓光庭"
+      "value": "2024-07-11 开发船坞"
     },
     {
       "characterId": 625,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-07-18 Season 7"
+      "value": "2024-07-11 Season 7"
     },
     {
       "characterId": 626,
@@ -48351,7 +48351,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 626,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-07-10"
+      "value": "2025-07-10 开发船坞"
     },
     {
       "characterId": 626,
@@ -48549,7 +48549,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 629,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-09-14"
+      "value": "2018-09-14 大青花鱼的涂鸦板"
     },
     {
       "characterId": 629,
@@ -48747,13 +48747,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 632,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-10-21 第十四章-苏里高夜战"
+      "value": "2021-10-28 混沌的万圣之夜"
     },
     {
       "characterId": 632,
       "tagId": 6,
       "variant": "en",
-      "value": "2021-10-21 Skybound Oratorio Rerun"
+      "value": "2021-10-28 Skybound Oratorio Rerun"
     },
     {
       "characterId": 633,
@@ -48813,13 +48813,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 633,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-10-21 第十四章-苏里高夜战"
+      "value": "2021-10-28 混沌的万圣之夜"
     },
     {
       "characterId": 633,
       "tagId": 6,
       "variant": "en",
-      "value": "2021-10-21 Skybound Oratorio Rerun"
+      "value": "2021-10-28 Skybound Oratorio Rerun"
     },
     {
       "characterId": 634,
@@ -48927,7 +48927,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 635,
       "tagId": 4,
       "variant": "zh",
-      "value": "Émile Bertin"
+      "value": "埃米尔·贝尔汀级"
     },
     {
       "characterId": 635,
@@ -48993,7 +48993,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 636,
       "tagId": 4,
       "variant": "zh",
-      "value": "Jeanne d'Arc"
+      "value": "圣女贞德级"
     },
     {
       "characterId": 636,
@@ -49257,7 +49257,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 640,
       "tagId": 4,
       "variant": "zh",
-      "value": "Brennus"
+      "value": "布伦努斯级"
     },
     {
       "characterId": 640,
@@ -49389,7 +49389,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 642,
       "tagId": 4,
       "variant": "zh",
-      "value": "Masséna"
+      "value": "马塞纳级"
     },
     {
       "characterId": 642,
@@ -49851,7 +49851,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 649,
       "tagId": 4,
       "variant": "zh",
-      "value": "Surcouf"
+      "value": "絮库夫级"
     },
     {
       "characterId": 649,
@@ -49917,7 +49917,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 650,
       "tagId": 4,
       "variant": "zh",
-      "value": "Saint Louis"
+      "value": "路易九世级"
     },
     {
       "characterId": 650,
@@ -50001,7 +50001,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 651,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-07-09"
+      "value": "2020-07-09 开发船坞"
     },
     {
       "characterId": 651,
@@ -50115,7 +50115,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 653,
       "tagId": 4,
       "variant": "zh",
-      "value": "Bayard"
+      "value": "贝亚德级"
     },
     {
       "characterId": 653,
@@ -50133,13 +50133,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 653,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-07-18 轻量化复刻：泠誓光庭"
+      "value": "2024-07-11 开发船坞"
     },
     {
       "characterId": 653,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-07-18 Season 7"
+      "value": "2024-07-11 Season 7"
     },
     {
       "characterId": 654,
@@ -50265,7 +50265,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 655,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-05-07"
+      "value": "2020-05-07 夜幕下的归途"
     },
     {
       "characterId": 655,
@@ -50727,7 +50727,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 662,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-10-29"
+      "value": "2020-10-29 激唱的UNIVERSE"
     },
     {
       "characterId": 662,
@@ -50793,7 +50793,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 663,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-06-30"
+      "value": "2022-06-30 来自鸢尾的天使"
     },
     {
       "characterId": 663,
@@ -50991,7 +50991,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 666,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-08-03"
+      "value": "2023-08-03 奏响鸢尾之歌"
     },
     {
       "characterId": 666,
@@ -51057,7 +51057,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 667,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-11-11"
+      "value": "2021-11-11 杰诺瓦的焰火"
     },
     {
       "characterId": 667,
@@ -51105,7 +51105,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 668,
       "tagId": 4,
       "variant": "zh",
-      "value": "Algérie"
+      "value": "阿尔及利亚级"
     },
     {
       "characterId": 668,
@@ -51519,7 +51519,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 674,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-10-31"
+      "value": "2019-10-31 激奏的Polaris"
     },
     {
       "characterId": 674,
@@ -51585,7 +51585,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 675,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-06-30"
+      "value": "2022-06-30 来自鸢尾的天使"
     },
     {
       "characterId": 675,
@@ -51651,7 +51651,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 676,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-18"
+      "value": "2019-04-18 开发船坞"
     },
     {
       "characterId": 676,
@@ -51717,7 +51717,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 677,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-07-13"
+      "value": "2023-07-13 密语档案室"
     },
     {
       "characterId": 677,
@@ -51897,7 +51897,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 680,
       "tagId": 4,
       "variant": "zh",
-      "value": "Gouden Leeuw"
+      "value": "金狮级"
     },
     {
       "characterId": 680,
@@ -51915,7 +51915,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 680,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-07-10"
+      "value": "2025-07-10 开发船坞"
     },
     {
       "characterId": 680,
@@ -52377,7 +52377,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 687,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-10-27"
+      "value": "2022-10-27 战斗！皇家女仆队3rd？"
     },
     {
       "characterId": 687,
@@ -52689,7 +52689,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 692,
       "tagId": 4,
       "variant": "zh",
-      "value": "Adventure Galley"
+      "value": "加里冒险号级"
     },
     {
       "characterId": 692,
@@ -53085,7 +53085,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 698,
       "tagId": 4,
       "variant": "zh",
-      "value": "Queen Anne's Revenge"
+      "value": "安妮女王复仇号级"
     },
     {
       "characterId": 698,
@@ -53151,7 +53151,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 699,
       "tagId": 4,
       "variant": "zh",
-      "value": "Lyme"
+      "value": "莱姆号级"
     },
     {
       "characterId": 699,
@@ -53217,7 +53217,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 700,
       "tagId": 4,
       "variant": "zh",
-      "value": "Pearl"
+      "value": "珍珠号级"
     },
     {
       "characterId": 700,
@@ -53283,7 +53283,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 701,
       "tagId": 4,
       "variant": "zh",
-      "value": "Royal James"
+      "value": "皇家詹姆斯号级"
     },
     {
       "characterId": 701,
@@ -53349,7 +53349,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 702,
       "tagId": 4,
       "variant": "zh",
-      "value": "Adventure"
+      "value": "冒险号级"
     },
     {
       "characterId": 702,
@@ -53415,7 +53415,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 703,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "H级"
     },
     {
       "characterId": 703,
@@ -53433,13 +53433,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 703,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-10-01"
+      "value": "2022-09-29 啾啾拉力赛·2nd"
     },
     {
       "characterId": 703,
       "tagId": 6,
       "variant": "en",
-      "value": "2022-10-01 Season 7"
+      "value": "2022-09-29 Season 7"
     },
     {
       "characterId": 704,
@@ -53481,7 +53481,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 704,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "F级"
     },
     {
       "characterId": 704,
@@ -53499,13 +53499,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 704,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-12-01"
+      "value": "2022-12-08 信标·META"
     },
     {
       "characterId": 704,
       "tagId": 6,
       "variant": "en",
-      "value": "2022-12-01 Season 8"
+      "value": "2022-12-08 Season 8"
     },
     {
       "characterId": 705,
@@ -53547,16 +53547,16 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 705,
       "tagId": 4,
       "variant": "zh",
+      "value": "神风级"
+    },
+    {
+      "characterId": 705,
+      "tagId": 4,
+      "variant": "en",
       "value": "Smoldering Core"
     },
     {
       "characterId": 705,
-      "tagId": 4,
-      "variant": "en",
-      "value": "Smoldering Core"
-    },
-    {
-      "characterId": 705,
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
@@ -53565,13 +53565,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 705,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-08-01"
+      "value": "2023-08-03 奏响鸢尾之歌"
     },
     {
       "characterId": 705,
       "tagId": 6,
       "variant": "en",
-      "value": "2023-08-01 Season 12"
+      "value": "2023-08-03 Season 12"
     },
     {
       "characterId": 706,
@@ -53613,7 +53613,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 706,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "弗莱彻级"
     },
     {
       "characterId": 706,
@@ -53631,13 +53631,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 706,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-02-01"
+      "value": "2024-01-30 寰昌宇定家事忙"
     },
     {
       "characterId": 706,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-02-01 Season 15"
+      "value": "2024-01-30 Season 15"
     },
     {
       "characterId": 707,
@@ -53679,7 +53679,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 707,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "旧V级"
     },
     {
       "characterId": 707,
@@ -53697,7 +53697,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 707,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-04-01"
+      "value": "2024-04-01 觉醒的黄金"
     },
     {
       "characterId": 707,
@@ -53745,7 +53745,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 708,
       "tagId": 4,
       "variant": "zh",
-      "value": "Framework of Logic"
+      "value": "朝潮级"
     },
     {
       "characterId": 708,
@@ -53763,13 +53763,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 708,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-07-25 幻梦间奏曲"
+      "value": "2024-08-08 作战准备：帕克菲克洋"
     },
     {
       "characterId": 708,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-07-25 Season 18"
+      "value": "2024-08-08 Season 18"
     },
     {
       "characterId": 709,
@@ -53811,7 +53811,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 709,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "G级"
     },
     {
       "characterId": 709,
@@ -53829,13 +53829,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 709,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-06-01"
+      "value": "2025-05-29 “深渊之国”的缔造者"
     },
     {
       "characterId": 709,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-06-01 Season 23"
+      "value": "2025-05-29 Season 23"
     },
     {
       "characterId": 710,
@@ -53877,7 +53877,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 710,
       "tagId": 4,
       "variant": "zh",
-      "value": "Smoldering Core"
+      "value": "白露级"
     },
     {
       "characterId": 710,
@@ -53895,7 +53895,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 710,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-06-05"
+      "value": "2025-06-05 幻影迷途者"
     },
     {
       "characterId": 710,
@@ -53943,7 +53943,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 711,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "白露级"
     },
     {
       "characterId": 711,
@@ -53961,7 +53961,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 711,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-09-04"
+      "value": "2025-09-04 作战准备：天域天原"
     },
     {
       "characterId": 711,
@@ -54009,7 +54009,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 712,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "法拉格特级"
     },
     {
       "characterId": 712,
@@ -54027,13 +54027,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 712,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-10-01"
+      "value": "2025-09-29 岛屿计划"
     },
     {
       "characterId": 712,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-10-01 Season 25"
+      "value": "2025-09-29 Season 25"
     },
     {
       "characterId": 713,
@@ -54075,7 +54075,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 713,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 713,
@@ -54093,7 +54093,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 713,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-06-10"
+      "value": "2021-06-10 活动档案"
     },
     {
       "characterId": 713,
@@ -54141,7 +54141,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 714,
       "tagId": 4,
       "variant": "zh",
-      "value": "Framework of Logic"
+      "value": "奥马哈级"
     },
     {
       "characterId": 714,
@@ -54159,13 +54159,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 714,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-05-26 泠誓光庭"
+      "value": "2022-06-01 合雅之宴"
     },
     {
       "characterId": 714,
       "tagId": 6,
       "variant": "en",
-      "value": "2022-05-26 Season 5"
+      "value": "2022-06-01 Season 5"
     },
     {
       "characterId": 715,
@@ -54207,7 +54207,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 715,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "城级"
     },
     {
       "characterId": 715,
@@ -54225,13 +54225,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 715,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-02-01"
+      "value": "2023-02-02 啾啾灯会"
     },
     {
       "characterId": 715,
       "tagId": 6,
       "variant": "en",
-      "value": "2023-02-01 Season 9"
+      "value": "2023-02-02 Season 9"
     },
     {
       "characterId": 716,
@@ -54273,7 +54273,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 716,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "拉·加利索尼埃级"
     },
     {
       "characterId": 716,
@@ -54291,13 +54291,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 716,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-04-01"
+      "value": "2023-03-31 一锤！Burin！"
     },
     {
       "characterId": 716,
       "tagId": 6,
       "variant": "en",
-      "value": "2023-04-01 Season 10"
+      "value": "2023-03-31 Season 10"
     },
     {
       "characterId": 717,
@@ -54339,7 +54339,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 717,
       "tagId": 4,
       "variant": "zh",
-      "value": "Framework of Logic"
+      "value": "川内级"
     },
     {
       "characterId": 717,
@@ -54357,7 +54357,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 717,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-08-31"
+      "value": "2023-08-31 信息对抗模拟测试"
     },
     {
       "characterId": 717,
@@ -54405,7 +54405,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 718,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "基洛夫级"
     },
     {
       "characterId": 718,
@@ -54423,7 +54423,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 718,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-12-07"
+      "value": "2023-12-07 AZURLANE人气投票2023"
     },
     {
       "characterId": 718,
@@ -54471,7 +54471,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 719,
       "tagId": 4,
       "variant": "zh",
-      "value": "Flickering Light"
+      "value": "博加特里级"
     },
     {
       "characterId": 719,
@@ -54537,7 +54537,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 720,
       "tagId": 4,
       "variant": "zh",
-      "value": "Framework of Logic"
+      "value": "布鲁克林级"
     },
     {
       "characterId": 720,
@@ -54555,13 +54555,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 720,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-12-01"
+      "value": "2025-12-04 AZUR LANE人气投票2025"
     },
     {
       "characterId": 720,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-12-01 Season 26"
+      "value": "2025-12-04 Season 26"
     },
     {
       "characterId": 721,
@@ -54603,7 +54603,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 721,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "克利夫兰级"
     },
     {
       "characterId": 721,
@@ -54669,7 +54669,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 722,
       "tagId": 4,
       "variant": "zh",
-      "value": "Flickering Light"
+      "value": "特伦托级"
     },
     {
       "characterId": 722,
@@ -54735,7 +54735,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 723,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "阿尔及利亚级"
     },
     {
       "characterId": 723,
@@ -54753,7 +54753,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 723,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-06-08"
+      "value": "2023-06-08 信标·META"
     },
     {
       "characterId": 723,
@@ -54801,7 +54801,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 724,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "絮弗伦级"
     },
     {
       "characterId": 724,
@@ -54819,13 +54819,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 724,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-06-01"
+      "value": "2024-05-30 今日的指挥练习"
     },
     {
       "characterId": 724,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-06-01 Season 17"
+      "value": "2024-05-30 Season 17"
     },
     {
       "characterId": 725,
@@ -54867,7 +54867,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 725,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "威奇塔级"
     },
     {
       "characterId": 725,
@@ -54885,13 +54885,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 725,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-06-20 轻量化复刻：虹彩的终幕曲"
+      "value": "2024-06-13 限时兵装训练"
     },
     {
       "characterId": 725,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-06-20 Season 15"
+      "value": "2024-06-13 Season 15"
     },
     {
       "characterId": 726,
@@ -54933,7 +54933,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 726,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "希佩尔海军上将级"
     },
     {
       "characterId": 726,
@@ -54999,7 +54999,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 727,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "博尔扎诺级"
     },
     {
       "characterId": 727,
@@ -55065,7 +55065,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 728,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "沙恩霍斯特级"
     },
     {
       "characterId": 728,
@@ -55131,7 +55131,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 729,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "沙恩霍斯特级"
     },
     {
       "characterId": 729,
@@ -55149,7 +55149,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 729,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-03-10"
+      "value": "2022-03-10 信标·META"
     },
     {
       "characterId": 729,
@@ -55197,7 +55197,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 730,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "声望级"
     },
     {
       "characterId": 730,
@@ -55215,7 +55215,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 730,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-06-09"
+      "value": "2022-06-09 特别支援计划·特殊兵装"
     },
     {
       "characterId": 730,
@@ -55263,7 +55263,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 731,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "声望级"
     },
     {
       "characterId": 731,
@@ -55281,7 +55281,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 731,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-09-01"
+      "value": "2022-09-01 啾啾快餐店"
     },
     {
       "characterId": 731,
@@ -55329,7 +55329,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 732,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "金刚级"
     },
     {
       "characterId": 732,
@@ -55395,7 +55395,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 733,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "敦刻尔克级"
     },
     {
       "characterId": 733,
@@ -55413,13 +55413,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 733,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-08-01"
+      "value": "2025-08-07 林间度假准备"
     },
     {
       "characterId": 733,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-08-01 Season 24"
+      "value": "2025-08-07 Season 24"
     },
     {
       "characterId": 734,
@@ -55461,7 +55461,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 734,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "扶桑级"
     },
     {
       "characterId": 734,
@@ -55479,13 +55479,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 734,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-10-01"
+      "value": "2021-09-30 啾啾大胃王大赛"
     },
     {
       "characterId": 734,
       "tagId": 6,
       "variant": "en",
-      "value": "2021-10-01 Season 1"
+      "value": "2021-09-30 Season 1"
     },
     {
       "characterId": 735,
@@ -55527,7 +55527,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 735,
       "tagId": 4,
       "variant": "zh",
-      "value": "Flickering Light"
+      "value": "扶桑级"
     },
     {
       "characterId": 735,
@@ -55545,13 +55545,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 735,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-04-01"
+      "value": "2022-04-07 箱庭疗法"
     },
     {
       "characterId": 735,
       "tagId": 6,
       "variant": "en",
-      "value": "2022-04-01 Season 4"
+      "value": "2022-04-07 Season 4"
     },
     {
       "characterId": 736,
@@ -55593,7 +55593,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 736,
       "tagId": 4,
       "variant": "zh",
-      "value": "Framework of Logic"
+      "value": "宾夕法尼亚级"
     },
     {
       "characterId": 736,
@@ -55611,7 +55611,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 736,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-12-08"
+      "value": "2022-12-08 信标·META"
     },
     {
       "characterId": 736,
@@ -55659,7 +55659,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 737,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "伊丽莎白女王级"
     },
     {
       "characterId": 737,
@@ -55725,7 +55725,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 738,
       "tagId": 4,
       "variant": "zh",
-      "value": "Framework of Logic"
+      "value": "纳尔逊级"
     },
     {
       "characterId": 738,
@@ -55791,7 +55791,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 739,
       "tagId": 4,
       "variant": "zh",
-      "value": "Smoldering Core"
+      "value": "长门型"
     },
     {
       "characterId": 739,
@@ -55809,13 +55809,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 739,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-09-12 唤醒苍红之炎"
+      "value": "2024-09-05 作战准备：奈落"
     },
     {
       "characterId": 739,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-09-12 Season 16"
+      "value": "2024-09-05 Season 16"
     },
     {
       "characterId": 740,
@@ -55857,7 +55857,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 740,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "加富尔伯爵级"
     },
     {
       "characterId": 740,
@@ -55875,13 +55875,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 740,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-12-01"
+      "value": "2024-12-05 限时兵装训练"
     },
     {
       "characterId": 740,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-12-01 Season 20"
+      "value": "2024-12-05 Season 20"
     },
     {
       "characterId": 741,
@@ -55923,7 +55923,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 741,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "安德烈亚·多利亚级"
     },
     {
       "characterId": 741,
@@ -55989,7 +55989,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 742,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "内华达级"
     },
     {
       "characterId": 742,
@@ -56055,7 +56055,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 743,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "飞鹰级"
     },
     {
       "characterId": 743,
@@ -56073,13 +56073,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 743,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-12-01"
+      "value": "2021-11-25 交汇世界的弧光"
     },
     {
       "characterId": 743,
       "tagId": 6,
       "variant": "en",
-      "value": "2021-12-01 Season 2"
+      "value": "2021-11-25 Season 2"
     },
     {
       "characterId": 744,
@@ -56121,7 +56121,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 744,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "飞鹰级"
     },
     {
       "characterId": 744,
@@ -56139,13 +56139,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 744,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-02-01"
+      "value": "2022-01-27 演习神秘事件调查"
     },
     {
       "characterId": 744,
       "tagId": 6,
       "variant": "en",
-      "value": "2022-02-01 Season 3"
+      "value": "2022-01-27 Season 3"
     },
     {
       "characterId": 745,
@@ -56187,7 +56187,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 745,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "独立级"
     },
     {
       "characterId": 745,
@@ -56205,13 +56205,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 745,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-10-01"
+      "value": "2023-09-28 疾速赛道"
     },
     {
       "characterId": 745,
       "tagId": 6,
       "variant": "en",
-      "value": "2023-10-01 Season 13"
+      "value": "2023-09-28 Season 13"
     },
     {
       "characterId": 746,
@@ -56253,16 +56253,16 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 746,
       "tagId": 4,
       "variant": "zh",
+      "value": "凤翔级"
+    },
+    {
+      "characterId": 746,
+      "tagId": 4,
+      "variant": "en",
       "value": "Smoldering Core"
     },
     {
       "characterId": 746,
-      "tagId": 4,
-      "variant": "en",
-      "value": "Smoldering Core"
-    },
-    {
-      "characterId": 746,
       "tagId": 5,
       "variant": "zh",
       "value": "巡游"
@@ -56271,13 +56271,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 746,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-10-01"
+      "value": "2024-09-26 宿舍计划"
     },
     {
       "characterId": 746,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-10-01 Season 19"
+      "value": "2024-09-26 Season 19"
     },
     {
       "characterId": 747,
@@ -56319,7 +56319,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 747,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "飞龙级"
     },
     {
       "characterId": 747,
@@ -56385,7 +56385,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 748,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "皇家方舟级"
     },
     {
       "characterId": 748,
@@ -56403,13 +56403,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 748,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-03-25 复刻：箱庭疗法"
+      "value": "2021-03-18 峦"
     },
     {
       "characterId": 748,
       "tagId": 6,
       "variant": "en",
-      "value": "2021-03-25 Season 2"
+      "value": "2021-03-18 Season 2"
     },
     {
       "characterId": 749,
@@ -56451,7 +56451,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 749,
       "tagId": 4,
       "variant": "zh",
-      "value": "Flickering Light"
+      "value": "苍龙级"
     },
     {
       "characterId": 749,
@@ -56469,13 +56469,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 749,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-09-16 碧海光粼"
+      "value": "2021-09-09 作战准备：重樱"
     },
     {
       "characterId": 749,
       "tagId": 6,
       "variant": "en",
-      "value": "2021-09-16 Season 4"
+      "value": "2021-09-09 Season 4"
     },
     {
       "characterId": 750,
@@ -56517,7 +56517,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 750,
       "tagId": 4,
       "variant": "zh",
-      "value": "Flickering Light"
+      "value": "诺曼底级"
     },
     {
       "characterId": 750,
@@ -56583,7 +56583,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 751,
       "tagId": 4,
       "variant": "zh",
-      "value": "Flickering Light"
+      "value": "大凤级"
     },
     {
       "characterId": 751,
@@ -56601,13 +56601,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 751,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-12-19 星光下的余晖"
+      "value": "2024-12-12 作战准备：？？？"
     },
     {
       "characterId": 751,
       "tagId": 6,
       "variant": "en",
-      "value": "2024-12-19 Season 17"
+      "value": "2024-12-12 Season 17"
     },
     {
       "characterId": 752,
@@ -56649,7 +56649,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 752,
       "tagId": 4,
       "variant": "zh",
-      "value": "Ashen Might"
+      "value": "约克城级"
     },
     {
       "characterId": 752,
@@ -56667,13 +56667,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 752,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-03-20 轻量化复刻：湮烬尘墟"
+      "value": "2025-03-13 限时兵装训练"
     },
     {
       "characterId": 752,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-03-20 Season 18"
+      "value": "2025-03-13 Season 18"
     },
     {
       "characterId": 753,
@@ -56715,7 +56715,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 753,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "勇敢级"
     },
     {
       "characterId": 753,
@@ -56781,7 +56781,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 754,
       "tagId": 4,
       "variant": "zh",
-      "value": "Framework of Logic"
+      "value": "约克城级"
     },
     {
       "characterId": 754,
@@ -56799,13 +56799,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 754,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-12-18 响彻于天穹之音"
+      "value": "2025-12-11 作战准备：越界实验"
     },
     {
       "characterId": 754,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-12-18 Season 21"
+      "value": "2025-12-11 Season 21"
     },
     {
       "characterId": 755,
@@ -56847,7 +56847,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 755,
       "tagId": 4,
       "variant": "zh",
-      "value": "Flickering Light"
+      "value": "VIIC型"
     },
     {
       "characterId": 755,
@@ -56913,7 +56913,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 756,
       "tagId": 4,
       "variant": "zh",
-      "value": "Framework of Logic"
+      "value": "女灶神级"
     },
     {
       "characterId": 756,
@@ -56931,13 +56931,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 756,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-05-25 空相交汇点"
+      "value": "2023-06-01 庆典与金色乐章"
     },
     {
       "characterId": 756,
       "tagId": 6,
       "variant": "en",
-      "value": "2023-05-25 Season 11"
+      "value": "2023-06-01 Season 11"
     },
     {
       "characterId": 757,
@@ -56979,7 +56979,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 757,
       "tagId": 4,
       "variant": "zh",
-      "value": "Cinders of Hope"
+      "value": "黑暗界级"
     },
     {
       "characterId": 757,
@@ -56997,13 +56997,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 757,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-12-01"
+      "value": "2023-12-07 AZURLANE人气投票2023"
     },
     {
       "characterId": 757,
       "tagId": 6,
       "variant": "en",
-      "value": "2023-12-01 Season 14"
+      "value": "2023-12-07 Season 14"
     },
     {
       "characterId": 758,
@@ -57063,7 +57063,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 758,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-06"
+      "value": "2018-02-06 异次元的访客"
     },
     {
       "characterId": 758,
@@ -57129,7 +57129,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 759,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-06"
+      "value": "2018-02-06 异次元的访客"
     },
     {
       "characterId": 759,
@@ -57195,7 +57195,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 760,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-06"
+      "value": "2018-02-06 异次元的访客"
     },
     {
       "characterId": 760,
@@ -57261,7 +57261,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 761,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-06"
+      "value": "2018-02-06 异次元的访客"
     },
     {
       "characterId": 761,
@@ -57327,7 +57327,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 762,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-06"
+      "value": "2018-02-06 异次元的访客"
     },
     {
       "characterId": 762,
@@ -57393,7 +57393,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 763,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-06"
+      "value": "2018-02-06 异次元的访客"
     },
     {
       "characterId": 763,
@@ -57459,7 +57459,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 764,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-06"
+      "value": "2018-02-06 异次元的访客"
     },
     {
       "characterId": 764,
@@ -57525,7 +57525,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 765,
       "tagId": 6,
       "variant": "zh",
-      "value": "2018-02-06"
+      "value": "2018-02-06 异次元的访客"
     },
     {
       "characterId": 765,
@@ -57591,7 +57591,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 766,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-26"
+      "value": "2019-04-26 虚拟链接的共时性"
     },
     {
       "characterId": 766,
@@ -57657,7 +57657,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 767,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-26"
+      "value": "2019-04-26 虚拟链接的共时性"
     },
     {
       "characterId": 767,
@@ -57723,7 +57723,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 768,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-26"
+      "value": "2019-04-26 虚拟链接的共时性"
     },
     {
       "characterId": 768,
@@ -57789,7 +57789,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 769,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-04-26"
+      "value": "2019-04-26 虚拟链接的共时性"
     },
     {
       "characterId": 769,
@@ -57855,7 +57855,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 770,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-11-27"
+      "value": "2019-11-27 虚拟与真实的双向镜"
     },
     {
       "characterId": 770,
@@ -57921,7 +57921,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 771,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-11-27"
+      "value": "2019-11-27 虚拟与真实的双向镜"
     },
     {
       "characterId": 771,
@@ -57987,7 +57987,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 772,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-11-27"
+      "value": "2019-11-27 虚拟与真实的双向镜"
     },
     {
       "characterId": 772,
@@ -58053,7 +58053,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 773,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-11-27"
+      "value": "2019-11-27 虚拟与真实的双向镜"
     },
     {
       "characterId": 773,
@@ -58119,7 +58119,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 774,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-11-27"
+      "value": "2019-11-27 虚拟与真实的双向镜"
     },
     {
       "characterId": 774,
@@ -58185,7 +58185,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 775,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-11-27"
+      "value": "2019-11-27 虚拟与真实的双向镜"
     },
     {
       "characterId": 775,
@@ -58251,7 +58251,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 776,
       "tagId": 6,
       "variant": "zh",
-      "value": "2019-11-27"
+      "value": "2019-11-27 虚拟与真实的双向镜"
     },
     {
       "characterId": 776,
@@ -58317,7 +58317,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 777,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-11-26"
+      "value": "2020-11-26 假日航线"
     },
     {
       "characterId": 777,
@@ -58383,7 +58383,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 778,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-11-26"
+      "value": "2020-11-26 假日航线"
     },
     {
       "characterId": 778,
@@ -58449,7 +58449,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 779,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-11-26"
+      "value": "2020-11-26 假日航线"
     },
     {
       "characterId": 779,
@@ -58515,7 +58515,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 780,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-11-26"
+      "value": "2020-11-26 假日航线"
     },
     {
       "characterId": 780,
@@ -58581,7 +58581,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 781,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-11-26"
+      "value": "2020-11-26 假日航线"
     },
     {
       "characterId": 781,
@@ -58647,7 +58647,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 782,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-11-26"
+      "value": "2020-11-26 假日航线"
     },
     {
       "characterId": 782,
@@ -58713,7 +58713,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 783,
       "tagId": 6,
       "variant": "zh",
-      "value": "2020-11-26"
+      "value": "2020-11-26 假日航线"
     },
     {
       "characterId": 783,
@@ -58779,7 +58779,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 784,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-04-27"
+      "value": "2023-04-27 假日航线·再现"
     },
     {
       "characterId": 784,
@@ -58845,7 +58845,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 785,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-04-27"
+      "value": "2023-04-27 假日航线·再现"
     },
     {
       "characterId": 785,
@@ -58911,7 +58911,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 786,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-22"
+      "value": "2021-07-22 响彻碧海的偶像歌"
     },
     {
       "characterId": 786,
@@ -58977,7 +58977,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 787,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-22"
+      "value": "2021-07-22 响彻碧海的偶像歌"
     },
     {
       "characterId": 787,
@@ -59043,7 +59043,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 788,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-22"
+      "value": "2021-07-22 响彻碧海的偶像歌"
     },
     {
       "characterId": 788,
@@ -59109,7 +59109,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 789,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-22"
+      "value": "2021-07-22 响彻碧海的偶像歌"
     },
     {
       "characterId": 789,
@@ -59175,7 +59175,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 790,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-22"
+      "value": "2021-07-22 响彻碧海的偶像歌"
     },
     {
       "characterId": 790,
@@ -59241,7 +59241,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 791,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-22"
+      "value": "2021-07-22 响彻碧海的偶像歌"
     },
     {
       "characterId": 791,
@@ -59307,7 +59307,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 792,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-07-22"
+      "value": "2021-07-22 响彻碧海的偶像歌"
     },
     {
       "characterId": 792,
@@ -59373,7 +59373,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 793,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-11-25"
+      "value": "2021-11-25 交汇世界的弧光"
     },
     {
       "characterId": 793,
@@ -59439,7 +59439,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 794,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-11-25"
+      "value": "2021-11-25 交汇世界的弧光"
     },
     {
       "characterId": 794,
@@ -59505,7 +59505,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 795,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-11-25"
+      "value": "2021-11-25 交汇世界的弧光"
     },
     {
       "characterId": 795,
@@ -59571,7 +59571,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 796,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-11-25"
+      "value": "2021-11-25 交汇世界的弧光"
     },
     {
       "characterId": 796,
@@ -59637,7 +59637,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 797,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-11-25"
+      "value": "2021-11-25 交汇世界的弧光"
     },
     {
       "characterId": 797,
@@ -59703,7 +59703,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 798,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-11-25"
+      "value": "2021-11-25 交汇世界的弧光"
     },
     {
       "characterId": 798,
@@ -59769,7 +59769,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 799,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-11-25"
+      "value": "2021-11-25 交汇世界的弧光"
     },
     {
       "characterId": 799,
@@ -59835,7 +59835,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 800,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-07-20"
+      "value": "2023-07-20 交汇世界的弧光·再现"
     },
     {
       "characterId": 800,
@@ -59901,7 +59901,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 801,
       "tagId": 6,
       "variant": "zh",
-      "value": "2023-07-20"
+      "value": "2023-07-20 交汇世界的弧光·再现"
     },
     {
       "characterId": 801,
@@ -59967,7 +59967,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 802,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-11-24"
+      "value": "2022-11-24 炼金术士与秘密遗迹群岛"
     },
     {
       "characterId": 802,
@@ -60033,7 +60033,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 803,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-11-24"
+      "value": "2022-11-24 炼金术士与秘密遗迹群岛"
     },
     {
       "characterId": 803,
@@ -60099,7 +60099,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 804,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-11-24"
+      "value": "2022-11-24 炼金术士与秘密遗迹群岛"
     },
     {
       "characterId": 804,
@@ -60165,7 +60165,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 805,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-11-24"
+      "value": "2022-11-24 炼金术士与秘密遗迹群岛"
     },
     {
       "characterId": 805,
@@ -60231,7 +60231,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 806,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-11-24"
+      "value": "2022-11-24 炼金术士与秘密遗迹群岛"
     },
     {
       "characterId": 806,
@@ -60297,7 +60297,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 807,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-11-24"
+      "value": "2022-11-24 炼金术士与秘密遗迹群岛"
     },
     {
       "characterId": 807,
@@ -61221,7 +61221,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 821,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-06-05"
+      "value": "2025-06-05 幻影迷途者"
     },
     {
       "characterId": 821,
@@ -61287,7 +61287,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 822,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-06-05"
+      "value": "2025-06-05 幻影迷途者"
     },
     {
       "characterId": 822,
@@ -61617,13 +61617,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 827,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-10-16 轻量化复刻：愚者的天平"
+      "value": "2025-10-09 晴空下的邂逅"
     },
     {
       "characterId": 827,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-10-16 An Encounter Beneath Clear Skies"
+      "value": "2025-10-09 An Encounter Beneath Clear Skies"
     },
     {
       "characterId": 828,
@@ -61683,13 +61683,13 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 828,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-10-16 轻量化复刻：愚者的天平"
+      "value": "2025-10-09 晴空下的邂逅"
     },
     {
       "characterId": 828,
       "tagId": 6,
       "variant": "en",
-      "value": "2025-10-16 An Encounter Beneath Clear Skies"
+      "value": "2025-10-09 An Encounter Beneath Clear Skies"
     }
   ]
 };
@@ -61698,7 +61698,7 @@ export const bundledOfficialCatalogs: ReadonlyArray<BundledOfficialCatalog> = [
   {
     name: "航一把题库",
     path: "db/航一把题库.csv",
-    sha256: "b1a2bad91218a811c76659b985d5d39ce8ed5508d2a7b2f913c86b63be6b133d",
+    sha256: "c7bac4957f2c18eb9344d97a66726a0076cb99542b70c87fd387678003d75641",
     gitCommitSha: "5943155e7153485a1e8739252115c85037ddfee6",
     gitCommitDate: "2026-09-14",
     catalog: bundledCatalog0,

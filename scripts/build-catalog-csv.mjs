@@ -105,6 +105,29 @@ const TIMER_LABELS = new Map([
 /** 舰级里的描述词：这些是舰种说明而不是舰级名。 */
 const CLASS_DESCRIPTOR = /^(轻型|重型|大型|中型|小型|装甲|护航|实验|试验|试作|量产|计划|改装|正规|高速|低速|条约|泛用|特殊|新锐|旧式|飞机维修)/;
 
+/** 舰种词：「XX级/XX型」紧跟着它的时候，这个「XX」才是真正的舰级名。 */
+const SHIP_TYPE_WORD = /^(航空母舰|战列巡洋舰|战列舰|重巡洋舰|轻巡洋舰|巡洋舰|驱逐舰|潜水舰|潜水母舰|水上机母舰|潜艇|空母|航母|战舰|工作舰|维修舰|运输舰|练习舰)/;
+
+/**
+ * 一个英文舰级对应多个中文子级时，多数票必然分散，只能人工定名。
+ * 例如 Town 级在 wiki 里分南安普顿级 / 格罗斯特级 / 爱丁堡级，County 级分伦敦级 / 肯特级 / 诺福克级。
+ */
+const MANUAL_CLASS_LABELS = new Map([
+  ["Town", "城级"],
+  ["County", "郡级"],
+  ["A and B", "A级／B级"],
+  ["Bulin", "布里"],
+]);
+
+/** 两个英文名是否指同一艘船（忽略海军前缀、macron、大小写与标点）。 */
+function isSameShipName(left, right) {
+  const target = nameVariants(right ?? "");
+  for (const key of nameVariants(stripNavyPrefix(left ?? ""))) {
+    if (target.has(key)) return true;
+  }
+  return false;
+}
+
 /** 归一化后仍然对不上的联动/特殊形态，单独列出。 */
 const MANUAL_PAGE_MAP = new Map([
   ["Neptune (Neptunia)", "涅普顿"],
@@ -222,17 +245,39 @@ function stripNavyPrefix(name) {
 /**
  * 从 bwiki 的「型号」字段提取中文舰级。
  * 「高雄级重巡洋舰一番舰」→「高雄级」；「战列舰F 俾斯麦级战列舰1号舰」→「俾斯麦级」；
- * 「最上型重巡洋舰一番舰」→「最上型」。取不到时返回空串，由调用方回退到原版英文舰级。
+ * 「最上型重巡洋舰一番舰」→「最上型」。取不到时返回空串，由调用方回退。
  */
 function chineseShipClass(model) {
-  const match = /([\u4e00-\u9fa5A-Za-z0-9－·\-]{1,10}?[级型])/.exec((model ?? "").trim());
-  if (!match) return "";
-  const value = match[1];
-  // 「轻型」「护航」这类是舰种描述而不是舰级名
-  if (CLASS_DESCRIPTOR.test(value)) return "";
-  // 「XX吨重巡洋舰方案改型」「1047工程超重型」这类是设计方案名，也不是舰级
-  if (/[舰艇船吨案程]/.test(value)) return "";
-  return value;
+  const text = (model ?? "").trim();
+  if (!text) return "";
+  const candidates = [...text.matchAll(/([\u4e00-\u9fa5A-Za-z0-9－·\-]{1,10}?[级型])/g)]
+    .map((match) => ({ value: match[1], end: (match.index ?? 0) + match[1].length }))
+    // 「轻型」「护航」这类是舰种描述而不是舰级名
+    .filter((item) => !CLASS_DESCRIPTOR.test(item.value))
+    // 「XX吨重巡洋舰方案改型」「1047工程超重型」这类是设计方案名，也不是舰级
+    .filter((item) => !/[舰艇船吨案程]/.test(item.value))
+    // 「G-14级」这类带连字符的设计编号不是舰级名；
+    // 德国 Z 驱的「1934型」「1936A型」是正式舰级名，必须保留
+    .filter((item) => !/\d\s*-\s*\d|[A-Za-z]\s*-\s*\d/.test(item.value));
+  if (!candidates.length) return "";
+  // 「特I型吹雪级驱逐舰二番舰」会先匹配到「特I型」，所以要优先取后面紧跟舰种词的那个；
+  // 都不跟舰种词时取最后一个（越靠后越接近真正的舰级名）
+  const withTypeWord = candidates.find((item) => SHIP_TYPE_WORD.test(text.slice(item.end)));
+  return (withTypeWord ?? candidates[candidates.length - 1]).value;
+}
+
+/**
+ * META 舰在原版数据里的「舰级」是 META 作战名（Cinders of Hope 之类），
+ * wiki 的型号又是空的，只能回到本体舰船去取舰级：「苍龙·META」→「苍龙级」。
+ */
+function metaBaseClassLabel(wiki, ships, dleData, classLabels) {
+  const chineseName = (wiki?.["名称"] ?? "").trim();
+  if (!chineseName.endsWith("·META")) return null;
+  const baseName = chineseName.slice(0, -"·META".length);
+  const baseEnglish = stripNavyPrefix(ships[baseName]?.["英文名"] ?? "");
+  if (!baseEnglish) return `${baseName}级`;
+  const baseShip = Object.values(dleData).find((item) => isSameShipName(item.name, baseEnglish));
+  return (baseShip && classLabels.get(baseShip.class)) || `${baseName}级`;
 }
 
 /**
@@ -321,21 +366,50 @@ async function main() {
   const pageUsage = new Map();
 
   // 第一轮：为每个英文舰级选出最一致的中文译名（同舰级的船应当给出同一个「XX级」）
+  // 投票时把「XX型」和「XX级」归一成同一个 key：wiki 两种写法混用，
+  // 不归一的话同一级的票会被拆成两半，两边都过不了 60% 的门槛，最后整级退回英文
   const classVotes = new Map();
   for (const ship of Object.values(dleData)) {
     const page = findPage(indexes, ship.name);
     const chineseClass = chineseShipClass(ships[page]?.["型号"]);
     if (!chineseClass) continue;
+    const key = chineseClass.replace(/型$/, "级");
     const votes = classVotes.get(ship.class) ?? new Map();
-    votes.set(chineseClass, (votes.get(chineseClass) ?? 0) + 1);
+    const entry = votes.get(key) ?? { count: 0, forms: new Map() };
+    entry.count += 1;
+    entry.forms.set(chineseClass, (entry.forms.get(chineseClass) ?? 0) + 1);
+    votes.set(key, entry);
     classVotes.set(ship.class, votes);
   }
   const classLabels = new Map();
   for (const [englishClass, votes] of classVotes) {
-    const total = [...votes.values()].reduce((sum, count) => sum + count, 0);
-    const [bestLabel, bestCount] = [...votes.entries()].sort((left, right) => right[1] - left[1])[0];
+    const total = [...votes.values()].reduce((sum, item) => sum + item.count, 0);
+    const [bestKey, bestEntry] = [...votes.entries()].sort((left, right) => right[1].count - left[1].count)[0];
     // 一致率太低说明这个英文舰级没有统一的中文写法，保留英文
-    if (bestLabel && bestCount / total >= 0.6) classLabels.set(englishClass, bestLabel);
+    if (!bestKey || bestEntry.count / total < 0.6) continue;
+    // 输出该 key 下出现最多的原始写法（保留 wiki 自己的 级 / 型 风格）
+    const form = [...bestEntry.forms.entries()].sort((left, right) => right[1] - left[1])[0][0];
+    classLabels.set(englishClass, form);
+  }
+  // 多数票没定的舰级，用「命名舰」的译名补：英文舰名与英文舰级相同的船就是该级的命名舰，
+  // 它的中文名 / 型号最权威（例如 Fubuki→吹雪级、Shiratsuyu→白露级、Taihou→大凤级）。
+  // 英文名与日文名都看：个别页面（如金狮）把两个字段填反了。
+  const leadLabels = new Map();
+  for (const ship of Object.values(dleData)) {
+    const page = findPage(indexes, ship.name);
+    const wiki = page ? ships[page] : null;
+    if (!wiki) continue;
+    const isNamesake = isSameShipName(wiki["英文名"], ship.class) || isSameShipName(wiki["日文名"], ship.class);
+    if (!isNamesake) continue;
+    const chineseName = (wiki["名称"] ?? "").trim();
+    const label = chineseShipClass(wiki["型号"]) || (chineseName ? `${chineseName}级` : "");
+    if (label && !leadLabels.has(ship.class)) leadLabels.set(ship.class, label);
+  }
+  for (const [englishClass, label] of leadLabels) {
+    if (!classLabels.has(englishClass)) classLabels.set(englishClass, label);
+  }
+  for (const [englishClass, label] of MANUAL_CLASS_LABELS) {
+    if (!classLabels.has(englishClass)) classLabels.set(englishClass, label);
   }
 
   for (const [id, ship] of Object.entries(dleData)) {
@@ -368,6 +442,7 @@ async function main() {
 
     const timer = TIMER_LABELS.get(ship.timer) ?? ship.timer;
     const shipClass = classLabels.get(ship.class)
+      ?? metaBaseClassLabel(wiki, ships, dleData, classLabels)
       ?? (ship.class === "No Class" ? "无舰级" : ship.class);
 
     const context = { dle: ship, wiki, timer, eventValue, eventValueOriginal, shipClass };
