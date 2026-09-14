@@ -160,20 +160,58 @@ export function parseMultiValueText(source: string, singleValueAsCategory = fals
     .map((part) => part.trim())
     .filter(Boolean)
     .map((part) => {
-      const separatorIndex = part.indexOf(">");
-      if (separatorIndex < 0) return singleValueAsCategory ? { category: part, value: "" } : { value: part };
-      const category = part.slice(0, separatorIndex).trim();
+      const separatorIndex = findCategorySeparator(part);
+      if (separatorIndex < 0) return singleValueAsCategory ? { category: unescapeCategoryName(part), value: "" } : { value: part };
+      const category = unescapeCategoryName(part.slice(0, separatorIndex));
       const value = part.slice(separatorIndex + 1).trim();
       return { value, ...(category ? { category } : {}) };
     })
     .filter((entry) => entry.value || entry.category);
 }
 
+/**
+ * category 类型在文本里写成「大类 > 小类」。大类名本身可能含 `>`，于是
+ * 「A > B > C」无法判断是「大类 A > 小类 B > C」还是「大类 A > B > 小类 C」。
+ * 解决办法：导出时把大类里的 `>` 转义成 `\>`，解析时只认第一个未转义的 `>`。
+ * 小类（`>` 之后的部分）不需要转义 —— 它本来就允许含 `>`。
+ */
+export function escapeCategoryName(category: string): string {
+  return category.replaceAll("\\", "\\\\").replaceAll(">", "\\>");
+}
+
+export function unescapeCategoryName(category: string): string {
+  let result = "";
+  for (let index = 0; index < category.length; index += 1) {
+    if (category[index] === "\\" && index + 1 < category.length) {
+      const next = category[index + 1];
+      if (next === "\\" || next === ">") {
+        result += next;
+        index += 1;
+        continue;
+      }
+    }
+    result += category[index];
+  }
+  return result.trim();
+}
+
+/** 第一个未被转义的 `>` 的下标，没有则返回 -1。 */
+export function findCategorySeparator(text: string): number {
+  for (let index = 0; index < text.length; index += 1) {
+    if (text[index] === "\\") {
+      index += 1;
+      continue;
+    }
+    if (text[index] === ">") return index;
+  }
+  return -1;
+}
+
 export function formatMultiValueText(entries: TagValueEntry[] | undefined, separator = "\n") {
   return (entries ?? []).map((entry) => {
     const category = entry.category?.trim() ?? "";
     const value = entry.value.trim();
-    return category && value ? `${category} > ${value}` : category || value;
+    return category && value ? `${escapeCategoryName(category)} > ${value}` : category || value;
   }).join(separator);
 }
 

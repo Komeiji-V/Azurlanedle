@@ -16,6 +16,20 @@ import {
 
 type CheckState = "idle" | "checking" | "latest" | "available" | "error" | "unconfigured";
 
+const MANUAL_CHECK_TIMEOUT_MS = 10_000;
+
+/**
+ * 手动检查的超时信号。远端「连得上但不响应」时，原先会永远停在「正在检查」，
+ * 而按钮又因为 checking 被禁用 —— 用户既看不到结论也没法重试。
+ * 超时用 TimeoutError 中止（而不是 AbortError），这样会被记成「检查失败」而不是被静默忽略。
+ */
+function createManualCheckSignal(): AbortSignal {
+  if (typeof AbortSignal.timeout === "function") return AbortSignal.timeout(MANUAL_CHECK_TIMEOUT_MS);
+  const controller = new AbortController();
+  setTimeout(() => controller.abort(new DOMException("check timeout", "TimeoutError")), MANUAL_CHECK_TIMEOUT_MS);
+  return controller.signal;
+}
+
 export function UpdateCenter() {
   const [panelOpen, setPanelOpen] = useState(false);
   const [noticeVisible, setNoticeVisible] = useState(true);
@@ -100,7 +114,7 @@ export function UpdateCenter() {
               title="应用版本"
               state={appState}
               availableText={`发现新版本 v${latestVersion}`}
-              onCheck={() => void checkAppVersion(true)}
+              onCheck={() => void checkAppVersion(true, createManualCheckSignal())}
               updateUrl={APP_REPO_URL}
             />
             <UpdateRow
@@ -108,7 +122,7 @@ export function UpdateCenter() {
               version={`当前题库基线 ${DEFAULT_CATALOG_VERSION}`}
               state={catalogState}
               availableText="远端有新版官方题库"
-              onCheck={() => void checkCatalog(true)}
+              onCheck={() => void checkCatalog(true, createManualCheckSignal())}
               updateUrl={OFFICIAL_CATALOG_REPO_URL}
             />
           </section>

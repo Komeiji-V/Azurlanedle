@@ -1,4 +1,15 @@
-import { formatMultiValueText, parseMultiValueText, sortTags, type LocalCatalog, type LocalCharacter, type LocalTag, type LocalValue } from "./local-catalog";
+import {
+  escapeCategoryName,
+  findCategorySeparator,
+  formatMultiValueText,
+  parseMultiValueText,
+  sortTags,
+  unescapeCategoryName,
+  type LocalCatalog,
+  type LocalCharacter,
+  type LocalTag,
+  type LocalValue,
+} from "./local-catalog";
 import type { TagKind } from "./game-core";
 
 export const CSV_BASE_HEADERS = ["舰船名", "别名", "启用"] as const;
@@ -67,10 +78,12 @@ function parseTagValue(rawValue: string, tag: LocalTag): Pick<LocalValue, "value
     };
   }
   if (tag.kind !== "category") return { value: rawValue };
-  const separatorIndex = rawValue.indexOf(CATEGORY_VALUE_SEPARATOR);
+  // 只认第一个未被转义的 `>`：这样「大类 > 小类」里小类为空（行尾空格被 CSV 读取去掉）
+  // 以及大类名本身含 `>` 两种情况都能正确还原
+  const separatorIndex = findCategorySeparator(rawValue);
   if (separatorIndex < 0) return { value: rawValue };
-  const category = rawValue.slice(0, separatorIndex).trim();
-  const value = rawValue.slice(separatorIndex + CATEGORY_VALUE_SEPARATOR.length).trim();
+  const category = unescapeCategoryName(rawValue.slice(0, separatorIndex));
+  const value = rawValue.slice(separatorIndex + 1).trim();
   return { value, ...(category ? { category } : {}) };
 }
 
@@ -216,10 +229,12 @@ export function importCatalogCsv(
     if (duplicate) throw new Error(`舰船“${duplicate[0]}”已存在；添加模式不会覆盖现有舰船。`);
     const firstId = catalog.characters.reduce((highest, character) => Math.max(highest, character.id), 0) + 1;
     const currentTagsByName = new Map(catalog.tags.map((tag) => [tag.name, tag]));
-    const columns = preview.tagNames.map((name, index) => ({
-      tag: currentTagsByName.get(name)!,
-      variant: preview.tagVariants[index] ?? "",
-    }));
+    const columns = preview.tagNames.map((name, index) => {
+      const tag = currentTagsByName.get(name)!;
+      // 表头没写 @写法 时对齐到既有标签的判定列：写成空串的话判定层取不到这些值，
+      // 新加的舰船会整船判为「未知 / 不符」
+      return { tag, variant: preview.tagVariants[index] || tag.primaryVariant || "" };
+    });
     const tags = sortTags(catalog.tags);
     const additions = createCharactersAndValues(preview.rows, columns, firstId);
     return {
@@ -233,6 +248,13 @@ export function importCatalogCsv(
   // 同一个标签的多套写法（列名带 @方案）合并成同一个标签
   const tagList: LocalTag[] = [];
   const tagIndexByName = new Map<string, number>();
+  const usedIds = new Set<number>();
+  let nextId = 1;
+  const allocateId = () => {
+    while (usedIds.has(nextId)) nextId += 1;
+    usedIds.add(nextId);
+    return nextId;
+  };
   preview.tagNames.forEach((name, index) => {
     if (tagIndexByName.has(name)) return;
     const kind = preview.tagKinds[index];
@@ -240,9 +262,18 @@ export function importCatalogCsv(
     tagIndexByName.set(name, tagList.length);
     // 该标签的第一列作为判定列
     const primaryVariant = preview.tagVariants[index] ?? "";
+    // 同名同类型的老标签沿用原 id：显示语言设置是按 tag id 记录的，
+    // 重新按列顺序编号会让原有的逐列设置落到别的列上
+    let tagId: number;
+    if (existing && !usedIds.has(existing.id)) {
+      tagId = existing.id;
+      usedIds.add(tagId);
+    } else {
+      tagId = allocateId();
+    }
     tagList.push(existing
-      ? { ...existing, id: tagList.length + 1, primaryVariant }
-      : { id: tagList.length + 1, name, kind, unit: "", active: true, displayVariant: "zh", primaryVariant });
+      ? { ...existing, id: tagId, primaryVariant }
+      : { id: tagId, name, kind, unit: "", active: true, displayVariant: "zh", primaryVariant });
   });
   const columns = preview.tagNames.map((name, index) => ({
     tag: tagList[tagIndexByName.get(name)!],
@@ -275,7 +306,7 @@ export function exportCatalogCsv(catalog: LocalCatalog): string {
       );
     }
     return tag.kind === "category" && item.category
-      ? `${item.category}${CATEGORY_VALUE_SEPARATOR}${item.value}`
+      ? `${escapeCategoryName(item.category)}${CATEGORY_VALUE_SEPARATOR}${item.value}`
       : item.value;
   };
   const rows = catalog.characters.map((character) => [

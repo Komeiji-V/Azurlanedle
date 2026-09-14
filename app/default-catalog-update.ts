@@ -21,10 +21,23 @@ const OFFICIAL_CATALOG_RAW_BASE_URL = process.env.NEXT_PUBLIC_HANGYIBA_DB_RAW_UR
 export const OFFICIAL_CATALOG_UPDATE_CONFIGURED = OFFICIAL_CATALOG_RAW_BASE_URL.length > 0;
 
 const NOT_CONFIGURED_MESSAGE = "未配置题库更新源。";
+const INSECURE_CONTEXT_MESSAGE = "当前页面不是安全上下文（需要 https 或 localhost），无法校验题库哈希。";
 
 async function getSha256(source: ArrayBuffer): Promise<string> {
+  // crypto.subtle 只在安全上下文可用：用 http://<局域网 IP>:8080 打开时是 undefined，
+  // 直接调用会抛 TypeError 并被上层当成「检查失败」，这里明确区分出来
+  if (!globalThis.crypto?.subtle) throw new Error(INSECURE_CONTEXT_MESSAGE);
   const digest = await crypto.subtle.digest("SHA-256", source);
   return Array.from(new Uint8Array(digest), (byte) => byte.toString(16).padStart(2, "0")).join("");
+}
+
+/**
+ * 内置题库的 sha256 是对「按 LF 归一化后的文本」算的（生成脚本会先把 CRLF 换成 LF），
+ * 远端比对必须做同样的归一化，否则远端文件是 CRLF 时会永远报「有更新」。
+ */
+function normalizeLineEndings(source: ArrayBuffer): ArrayBuffer {
+  const text = new TextDecoder().decode(source).replace(/\r\n/g, "\n");
+  return new TextEncoder().encode(text).buffer as ArrayBuffer;
 }
 
 function getRawUrl(path: string, baseUrl: string): string {
@@ -41,7 +54,7 @@ export async function hasOfficialCatalogUpdate(
   const updateStates = await Promise.all(sources.map(async (source) => {
     const response = await request(getRawUrl(source.path, rawBaseUrl), { cache: "no-store" });
     if (!response.ok) throw new Error(`远端返回 ${response.status}（${source.path}）。`);
-    const remoteSha256 = await getSha256(await response.arrayBuffer());
+    const remoteSha256 = await getSha256(normalizeLineEndings(await response.arrayBuffer()));
     return remoteSha256 !== source.sha256.toLowerCase();
   }));
   return updateStates.some(Boolean);

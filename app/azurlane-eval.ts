@@ -77,9 +77,9 @@ export function prepareShips(
   }));
 }
 
-function toCharacterValue(value: PreparedValue | undefined): CharacterValue {
+function toCharacterValue(tagId: number, value: PreparedValue | undefined): CharacterValue {
   return {
-    tagId: 0,
+    tagId,
     value: value?.entries[0]?.value ?? "",
     entries: value?.entries.map((entry) => ({
       value: entry.value,
@@ -101,6 +101,10 @@ function feedbackSignature(
     const guessOrdered = guess?.ordered ?? null;
     const answerOrdered = answer?.ordered ?? null;
     if (guessOrdered && answerOrdered) {
+      // 与原版一致：解析后的数值相等即命中（compareGuess 同款判断）。
+      // 少了这一档会把「完全命中」和「接近且同方向」并成同一个分支，
+      // 从而高估剩余候选数、污染后续每一步的 Skill / Luck。
+      if (guessOrdered.number === answerOrdered.number) return "y";
       const distance = Math.abs(guessOrdered.number - answerOrdered.number);
       const threshold = Math.max(guessOrdered.threshold, answerOrdered.threshold);
       const state = distance <= threshold ? "c" : "m";
@@ -121,7 +125,7 @@ function feedbackSignature(
 
   // 航一把题库不使用这几种类型，退化到通用实现，保证语义完全一致
   if (tag.kind === "category" || tag.kind === "category-multi" || tag.kind === "exact-close") {
-    return JSON.stringify(compareGuess([tag], [toCharacterValue(guess)], [toCharacterValue(answer)]));
+    return JSON.stringify(compareGuess([tag], [toCharacterValue(tag.id, guess)], [toCharacterValue(tag.id, answer)]));
   }
 
   return guessText === answerText ? "y" : "n";

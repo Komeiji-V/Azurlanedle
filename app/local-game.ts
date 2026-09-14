@@ -186,9 +186,10 @@ export function shanghaiDay(date = new Date()): string {
 export const CHALLENGE_EPOCH = "2026-09-14";
 
 export function challengeNumber(day: string): number {
-  return Math.floor(
-    (Date.parse(`${day}T00:00:00+08:00`) - Date.parse(`${CHALLENGE_EPOCH}T00:00:00+08:00`)) / 86400000,
-  ) + 1;
+  const target = Date.parse(`${day}T00:00:00+08:00`);
+  // 脏 dayKey 会让结果变成 NaN，而历史记录里的 NaN 编号会被 isGameRecord 静默丢掉
+  if (!Number.isFinite(target)) return 1;
+  return Math.floor((target - Date.parse(`${CHALLENGE_EPOCH}T00:00:00+08:00`)) / 86400000) + 1;
 }
 
 function dayHash(day: string): number {
@@ -323,6 +324,9 @@ function normalizeStoredGame(value: unknown, mode: LocalGameMode, catalog: Local
     stored.guesses.length > 8
   ) return null;
   if (mode === "daily" && stored.dayKey !== shanghaiDay()) return null;
+  // 非每日模式下的脏 dayKey（例如 "garbage"）就退回今天，否则挑战编号会变成 NaN，
+  // 该局历史会被 isGameRecord 静默丢弃
+  const dayKey = /^\d{4}-\d{2}-\d{2}$/.test(stored.dayKey) ? stored.dayKey : shanghaiDay();
 
   const storedGuesses = stored.guesses as StoredGuess[];
   const firstKnownGuessAt = storedGuesses.find((guess) => guess.guessedAt !== null && guess.guessedAt !== undefined)?.guessedAt ?? null;
@@ -388,8 +392,8 @@ function normalizeStoredGame(value: unknown, mode: LocalGameMode, catalog: Local
   return {
     sessionId: stored.sessionId,
     createdAt: isOptionalTime(stored.createdAt) ? (stored.createdAt ?? firstKnownGuessAt) : firstKnownGuessAt,
-    dayKey: stored.dayKey,
-    challengeNumber: challengeNumber(stored.dayKey),
+    dayKey,
+    challengeNumber: challengeNumber(dayKey),
     mode,
     excludedFromHistory: stored.excludedFromHistory === true,
     maxAttempts: 8,
@@ -583,7 +587,7 @@ export function recordCompletedTiming(
       ? [...stats.winAttempts, game.attempts].slice(-1000)
       : stats.winAttempts,
   };
-  storage.setItem(TIMING_STORAGE_KEY, JSON.stringify(next));
+  writeStorage(storage, TIMING_STORAGE_KEY, JSON.stringify(next));
   return next;
 }
 
@@ -736,13 +740,33 @@ function toGameRecord(game: LocalGame, catalog: LocalCatalog): GameRecord {
   };
 }
 
+/** 历史记录条数上限：单条记录很大（十番战整组约 80KB），不设上限会把 localStorage 配额撑满。 */
+const GAME_RECORD_LIMIT = 200;
+
+/**
+ * 存档写入一律走这里：配额写满或隐私模式下 setItem 会抛 QuotaExceededError，
+ * 而写路径散布在每次猜测里，直接抛出会被上层误报成「这次猜测未能完成」。
+ * 这里降级为「本次不落盘」，内存中的对局照常继续。
+ */
+function writeStorage(storage: LocalStorageLike, key: string, value: string) {
+  try {
+    storage.setItem(key, value);
+  } catch (error) {
+    console.warn("航一把：写入本地存档失败，本次进度不会被保存。", error);
+  }
+}
+
 function saveGameRecord(game: LocalGame, catalog: LocalCatalog, storage: LocalStorageLike) {
   const records = loadGameRecords(storage);
   const record = toGameRecord(game, catalog);
   const existingIndex = records.findIndex((item) => item.sessionId === game.sessionId);
   if (existingIndex >= 0) records[existingIndex] = record;
   else records.push(record);
-  storage.setItem(GAME_RECORDS_STORAGE_KEY, obfuscateGameData({ schemaVersion: 1, records }));
+  writeStorage(
+    storage,
+    GAME_RECORDS_STORAGE_KEY,
+    obfuscateGameData({ schemaVersion: 1, records: records.slice(-GAME_RECORD_LIMIT) }),
+  );
 }
 
 export function saveLocalGame(
@@ -769,7 +793,7 @@ export function saveLocalGame(
     saved.schemaVersion = 2;
   }
   saved[game.mode] = game;
-  storage.setItem(GAME_STORAGE_KEY, obfuscateGameData(saved));
+  writeStorage(storage, GAME_STORAGE_KEY, obfuscateGameData(saved));
   if (!game.excludedFromHistory && game.guesses.length > 0) {
     saveGameRecord(game, catalog, storage);
   }
@@ -811,6 +835,9 @@ export function submitLocalGuess(
   now = Date.now(),
 ): LocalGuessResult {
   if (game.completed) return { ok: false, error: "本局已经结束，请开始下一局。" };
+  // 单轮机会用完后模块层也要拦住：十番战正常流程会在回合结束时推进到下一轮，
+  // 但直接调用（或有 bug 的调用方）不该能一直投下去，否则存档会被读档校验整局丢弃
+  if (game.attempts >= game.maxAttempts) return { ok: false, error: "本局机会已经用完。" };
   if (game.mode === "ten" && game.timerStartedAt !== null && getTenMatchRemainingMs(game, now) <= 0) {
     return { ok: false, error: "十番战时间已到。" };
   }

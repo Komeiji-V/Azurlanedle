@@ -2,6 +2,20 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
 
+test("运行时拼出来的状态样式一个都不能少", async () => {
+  const [gameBoard, styles] = await Promise.all([
+    readFile(new URL("../app/game-board.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
+  ]);
+  // 这些类名是模板字符串拼出来的（`result-${state}`、`timer-${timerPulse.kind}`），
+  // 收拾死代码时只 grep 字面量会把它们当成没人用而删掉，反馈表的黄/灰底色就没了
+  assert.match(gameBoard, /className=\{`result-\$\{/);
+  assert.match(gameBoard, /timer-\$\{timerPulse\.kind\}/);
+  for (const className of ["result-match", "result-close", "result-miss", "timer-bonus", "timer-penalty", "timer-low"]) {
+    assert.match(styles, new RegExp(`\\.${className}[\\s,{:]`), `${className} 的样式不见了`);
+  }
+});
+
 test("玩家首页使用真实游戏组件和正式元数据", async () => {
   const [page, layout, game, updateCenter, styles] = await Promise.all([
     readFile(new URL("../app/page.tsx", import.meta.url), "utf8"),
@@ -10,6 +24,14 @@ test("玩家首页使用真实游戏组件和正式元数据", async () => {
     readFile(new URL("../app/update-center.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
   ]);
+  // 切到别的写法时，多值列必须按 entries 渲染：存储的 value 只有第一个值，
+  // 用 value.split(" | ") 会让「技能A | 技能B」只显示技能A
+  assert.match(game, /variantEntriesIndex/);
+  assert.doesNotMatch(game, /variantText\.split\(" \| "\)/);
+  // 手动检查必须带超时信号，否则远端连上不响应时会永远停在「正在检查」且按钮被禁用
+  assert.match(updateCenter, /createManualCheckSignal/);
+  assert.match(updateCenter, /checkAppVersion\(true, createManualCheckSignal\(\)\)/);
+  assert.match(updateCenter, /checkCatalog\(true, createManualCheckSignal\(\)\)/);
   assert.match(page, /<GameBoard \/>/);
   assert.match(layout, /航一把｜猜碧蓝航线舰船/);
   assert.match(layout, /favicon\.svg/);

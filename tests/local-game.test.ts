@@ -1130,3 +1130,125 @@ test("localStorage 写失败时载入题库不会抛异常", () => {
   };
   assert.equal(loadCatalogLibrary(storage).catalogs.length > 0, true);
 });
+
+test("追加导入的表头没写 @写法 时，取值落在判定列上", () => {
+  const catalog = createDefaultCatalog();
+  const headers = ["舰船名", "别名", "启用", ...catalog.tags.map((tag) => `${tag.name}（类型：${tag.kind}）`)];
+  const row = ["写法测试舰船", "", "是", ...catalog.tags.map((tag) => (tag.name === "建造时间" ? "02:00:00" : "测试值"))];
+  const appended = importCatalogCsv(catalog, parseCatalogCsv([headers.join(","), row.join(",")].join("\n")), "append");
+  const character = appended.characters.find((item) => item.name === "写法测试舰船")!;
+  const variants = [...new Set(appended.values.filter((item) => item.characterId === character.id).map((item) => item.variant))];
+  // 写成空串的话判定层取不到这些值，整船六列会永远是「未知 / 不符」
+  assert.deepEqual(variants, ["zh"]);
+
+  const game = { ...createLocalGame(appended, "custom"), answerCharacterId: character.id };
+  const result = submitLocalGuess(appended, game, "写法测试舰船", 1_000);
+  assert.equal(result.ok, true);
+  if (!result.ok) return;
+  assert.equal(result.guess.feedback.every((cell) => cell.state === "match"), true);
+});
+
+test("localStorage 写失败时对局仍可继续", () => {
+  const storage = new MemoryStorage();
+  const catalog = createDefaultCatalog();
+  const game = createLocalGame(catalog, "custom");
+  storage.setItem = () => {
+    throw new Error("QuotaExceededError");
+  };
+  assert.doesNotThrow(() => saveLocalGame(game, storage, catalog));
+});
+
+test("历史记录只保留最近 200 条", () => {
+  const storage = new MemoryStorage();
+  const catalog = createDefaultCatalog();
+  for (let index = 0; index < 205; index += 1) {
+    const result = submitLocalGuess(catalog, createLocalGame(catalog, "custom"), "高雄", 1_000);
+    assert.equal(result.ok, true);
+    if (!result.ok) return;
+    saveLocalGame(result.game, storage, catalog);
+  }
+  assert.equal(loadGameRecords(storage).length, 200);
+});
+
+test("十番战单轮打满 8 次后模块层不再接受提交", () => {
+  const catalog = createDefaultCatalog();
+  let game = createLocalGame(catalog, "ten");
+  for (let index = 0; index < game.maxAttempts; index += 1) {
+    const result = submitLocalGuess(catalog, game, "高雄", 1_000);
+    assert.equal(result.ok, true);
+    if (!result.ok) return;
+    game = result.game;
+  }
+  // 十番战打满一轮时整局并没有 completed（下一轮由推进函数创建）
+  assert.equal(game.attempts, 8);
+  assert.equal(game.completed, false);
+  // 正常流程此时会推进到下一轮，这里模拟「没有推进」：不能一直投下去，
+  // 否则存档会出现 9 条以上猜测，读档校验会把整局丢掉
+  const extra = submitLocalGuess(catalog, game, "高雄", 1_000);
+  assert.equal(extra.ok, false);
+});
+
+test("脏 dayKey 不会把挑战编号变成 NaN，历史也不会丢", () => {
+  const storage = new MemoryStorage();
+  const catalog = createDefaultCatalog();
+  const submitted = submitLocalGuess(catalog, createLocalGame(catalog, "custom"), "高雄", 1_000);
+  assert.equal(submitted.ok, true);
+  if (!submitted.ok) return;
+  // 模拟存档被改坏：dayKey 不是日期
+  saveLocalGame({ ...submitted.game, dayKey: "not-a-date" }, storage, catalog);
+  const loaded = loadLocalGame("custom", catalog, storage);
+  assert.equal(loaded !== null, true);
+  assert.equal(loaded?.dayKey === "not-a-date", false);
+  assert.equal(Number.isInteger(loaded?.challengeNumber), true);
+  // 读回来的对局再存一次，历史记录不能因为 NaN 编号被丢弃
+  saveLocalGame(loaded!, storage, catalog);
+  const records = loadGameRecords(storage);
+  assert.equal(records.length, 1);
+  assert.equal(Number.isInteger(records[0].challengeNumber), true);
+});
+
+test("替换导入按同名同类型沿用原标签 id", () => {
+  const catalog = createDefaultCatalog();
+  const reversed = [...catalog.tags].reverse();
+  const csv = [
+    ["舰船名", "别名", "启用", ...reversed.map((tag) => `${tag.name}（类型：${tag.kind}）`)].join(","),
+    ["顺序测试舰船", "", "是", ...reversed.map(() => "测试值")].join(","),
+  ].join("\n");
+  const imported = importCatalogCsv(catalog, parseCatalogCsv(csv), "replace");
+  // 显示语言设置是按 tag id 记录的，按列顺序重新编号会让设置落到别的列上
+  for (const tag of catalog.tags) {
+    assert.equal(imported.tags.find((item) => item.name === tag.name)?.id, tag.id, `${tag.name} 的 id 变了`);
+  }
+});
+
+test("category 的大类名含 > 或小类为空时 CSV 往返无损", () => {
+  const base = applyCatalogMutation(createDefaultCatalog(), {
+    action: "saveTag",
+    name: "能力类型",
+    kind: "category",
+  });
+  const tag = base.tags.find((item) => item.name === "能力类型")!;
+  const withCharacters = applyCatalogMutation(
+    applyCatalogMutation(base, {
+      action: "saveCharacter",
+      name: "特殊大类舰船",
+      categories: { [String(tag.id)]: "自然 > 人工" },
+    }),
+    {
+      action: "saveCharacter",
+      name: "带小类舰船",
+      values: { [String(tag.id)]: "小 > 类" },
+      categories: { [String(tag.id)]: "自然" },
+    },
+  );
+
+  const imported = importCatalogCsv(withCharacters, parseCatalogCsv(exportCatalogCsv(withCharacters)), "replace");
+  const cells = ["特殊大类舰船", "带小类舰船"].map((name) => {
+    const character = imported.characters.find((item) => item.name === name)!;
+    return imported.values.find((item) => item.characterId === character.id && item.tagId === tag.id)!;
+  });
+  assert.deepEqual(
+    cells.map((cell) => [cell.category, cell.value]),
+    [["自然 > 人工", ""], ["自然", "小 > 类"]],
+  );
+});

@@ -98,3 +98,39 @@ test("可以在真实题库上完成评估并给出 Bot 路径", () => {
   assert.ok(result.steps[0].remainingCount > 0 && result.steps[0].remainingCount < shipList.length);
   assert.ok(elapsed < 120_000, `评估耗时过长：${elapsed}ms`);
 });
+
+test("时间数值相同但写法不同时，分支划分与 compareGuess 一致", () => {
+  const timedTags: TagDefinition[] = [{ id: 2, name: "建造时间", kind: "ordered", unit: "" }];
+  const timedShips = [{ id: 1, name: "甲" }, { id: 2, name: "乙" }, { id: 3, name: "丙" }];
+  const timedValues: Array<CharacterValue & { characterId: number }> = [
+    { characterId: 1, tagId: 2, value: "02:05:00" }, // 猜这一艘
+    { characterId: 2, tagId: 2, value: "2:05:00" }, // 同一时间、写法不同 → 命中
+    { characterId: 3, tagId: 2, value: "02:02:00" }, // 早 3 分钟 → 接近↓
+  ];
+  const ships = prepareShips(timedShips, timedValues);
+  const index = buildFeedbackIndex(ships, timedTags);
+  // 修复前「命中」与「接近且更早」共用一个签名，两个答案会被并进同一分支
+  assert.equal(index.branches[0].length, 2);
+
+  const result = evaluateGame({ ships, tags: timedTags, answerIndex: 1, guessedIndexes: [0] });
+  assert.equal(result.steps[0].remainingCount, 1);
+  assert.deepEqual(result.steps[0].remainingNames, ["乙"]);
+});
+
+test("category 标签在评估里保留信息量", () => {
+  const categoryTags: TagDefinition[] = [{ id: 9, name: "能力类型", kind: "category", unit: "" }];
+  const categoryShips = [{ id: 1, name: "甲" }, { id: 2, name: "乙" }, { id: 3, name: "丙" }];
+  const categoryValues: Array<CharacterValue & { characterId: number }> = [
+    { characterId: 1, tagId: 9, value: "甲类", category: "自然" },
+    { characterId: 2, tagId: 9, value: "甲类", category: "自然" },
+    { characterId: 3, tagId: 9, value: "乙类", category: "人工" },
+  ];
+  const ships = prepareShips(categoryShips, categoryValues);
+  const index = buildFeedbackIndex(ships, categoryTags);
+  // 修复前 toCharacterValue 把 tagId 写死成 0，compareGuess 取不到取值 → 所有答案同分支
+  assert.equal(index.branches[0].length, 2);
+
+  const result = evaluateGame({ ships, tags: categoryTags, answerIndex: 2, guessedIndexes: [0] });
+  assert.equal(result.steps[0].remainingCount, 1);
+  assert.deepEqual(result.steps[0].remainingNames, ["丙"]);
+});

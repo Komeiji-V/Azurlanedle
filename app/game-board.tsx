@@ -34,7 +34,7 @@ import {
   type CatalogRecord,
 } from "./local-catalog";
 import { evaluateGame, prepareShips, type EvalResult } from "./azurlane-eval";
-import { splitOrderedDisplay, type TagDefinition } from "./game-core";
+import { splitOrderedDisplay, type TagDefinition, type TagValueEntry } from "./game-core";
 import {
   DEFAULT_DISPLAY_SETTINGS,
   DISPLAY_PRESETS,
@@ -132,6 +132,9 @@ export function GameBoard() {
                 : "新舰船已藏好。",
       );
     } catch (error) {
+      // 开局失败（例如选中的题库还没配置完成）时必须把模式还原回去，
+      // 否则界面已经是新模式、对局还停在上一局，两边对不上
+      setMode(gameRef.current?.mode ?? "daily");
       setMessage(
         specifiedCharacterName && error instanceof Error
           ? error.message
@@ -287,6 +290,7 @@ export function GameBoard() {
   const catalogView = useMemo(() => {
     const empty = {
       variantIndex: new Map<string, string>(),
+      variantEntriesIndex: new Map<string, TagValueEntry[]>(),
       primaryIndex: new Map<string, string>(),
       sampleId: -1,
     };
@@ -297,15 +301,23 @@ export function GameBoard() {
       // 判定列（题库里是 @zh）单独索引一份，供预览与显示回退使用
       const primaryByTag = new Map(catalog.tags.map((tag) => [tag.id, tag.primaryVariant || "zh"]));
       const variantIndex = new Map<string, string>();
+      const variantEntriesIndex = new Map<string, TagValueEntry[]>();
       const primaryIndex = new Map<string, string>();
       for (const value of catalog.values) {
         const key = `${value.characterId}:${value.tagId}`;
-        if (value.variant) variantIndex.set(`${key}:${value.variant}`, value.value);
+        if (value.variant) {
+          variantIndex.set(`${key}:${value.variant}`, value.value);
+          // 多值标签的 value 只存第一个，完整列表在 entries 里
+          variantEntriesIndex.set(
+            `${key}:${value.variant}`,
+            value.entries ?? [{ value: value.value, ...(value.category ? { category: value.category } : {}) }],
+          );
+        }
         if (value.variant === primaryByTag.get(value.tagId)) primaryIndex.set(key, value.value);
       }
       // 设置弹窗里的预览统一拿「企业」当样例
       const sample = getActiveCharacters(catalog).find((character) => character.name === SAMPLE_SHIP_NAME);
-      return { variantIndex, primaryIndex, sampleId: sample?.id ?? -1 };
+      return { variantIndex, variantEntriesIndex, primaryIndex, sampleId: sample?.id ?? -1 };
     } catch {
       // 题库读取失败时退回主方案显示
       return empty;
@@ -681,15 +693,25 @@ export function GameBoard() {
                       const variantText = variant
                         ? catalogView.variantIndex.get(`${guess.id}:${tag.id}:${variant}`) ?? ""
                         : "";
+                      // 多值标签的 value 只有第一个值，完整列表在 entries 里
+                      const variantEntries = variant
+                        ? catalogView.variantEntriesIndex.get(`${guess.id}:${tag.id}:${variant}`) ?? []
+                        : [];
+                      const isMultiKind = tag.kind === "exact-multi" || tag.kind === "category-multi";
                       // 这一列切到了别的写法：直接展示那套写法，颜色与箭头仍按判定结果
-                      if (variantText) {
+                      if (variantText || (isMultiKind && variantEntries.length > 0)) {
                         const ordered = splitOrderedDisplay(variantText);
                         return (
                           <td key={tag.id} className={`result-${state}`}>
-                            {tag.kind === "exact-multi"
+                            {isMultiKind
                               ? (state === "match"
                                 ? <div className="feedback-values">
-                                    {variantText.split(" | ").map((text) => <span key={text}>{text}</span>)}
+                                    {variantEntries.map((entry, index) => (
+                                      <span key={`${entry.category ?? ""}-${entry.value}-${index}`}>
+                                        {entry.category && <small>{entry.category}</small>}
+                                        {entry.value}
+                                      </span>
+                                    ))}
                                   </div>
                                 : <span>无匹配</span>)
                               : <>

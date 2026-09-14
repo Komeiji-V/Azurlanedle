@@ -236,4 +236,33 @@ test("展示时把日期型取值拆成日期与名称", () => {
   assert.deepEqual(splitOrderedDisplay("2019-04-18"), { prefix: "2019-04-18", text: "" });
   assert.deepEqual(splitOrderedDisplay("02:05:00"), { prefix: "", text: "02:05:00" });
   assert.deepEqual(splitOrderedDisplay("无法建造"), { prefix: "", text: "无法建造" });
+  // 带前导空白的脏取值（玩家题库不 trim）不能把名称切错位
+  assert.deepEqual(splitOrderedDisplay(" 2018-12-13 异色格"), { prefix: "2018-12-13", text: "异色格" });
+  assert.deepEqual(splitOrderedDisplay("  无法建造  "), { prefix: "", text: "无法建造" });
+});
+
+test("有序取值数值相同即命中，写法不同也一样", () => {
+  const ordered: TagDefinition[] = [{ id: 1, name: "建造时间", kind: "ordered", unit: "" }];
+  const compare = (guess: string, answer: string) =>
+    compareGuess(ordered, [{ tagId: 1, value: guess }], [{ tagId: 1, value: answer }])[0];
+  // 与原版 Azurlanedle 一致：先比较解析后的数值，相等就是命中，不给方向箭头
+  assert.equal(compare("02:05:00", "02:05:00").state, "match");
+  assert.equal(compare("02:05:00", "2:05:00").state, "match");
+  assert.equal(compare("2018-12-13 异色格", "2018-12-13 坠落之翼").state, "match");
+  // 不相等的仍然给方向
+  const earlier = compare("02:05:00", "02:10:00");
+  assert.equal(earlier.state, "close");
+  assert.equal(earlier.direction, "higher");
+});
+
+test("两侧都没有该标签取值时按命中处理", () => {
+  const exact: TagDefinition[] = [{ id: 1, name: "稀有度", kind: "exact", unit: "" }];
+  // 缺失与空串语义相同，不能因为「字段缺失」就判成不符
+  assert.equal(compareGuess(exact, [], [])[0].state, "match");
+  assert.equal(compareGuess(exact, [{ tagId: 1, value: "" }], [{ tagId: 1, value: "" }])[0].state, "match");
+  // 展示仍然是「未知」，不影响提示
+  assert.equal(compareGuess(exact, [], [])[0].value, "未知");
+  // 一侧有值一侧没有，仍然是不符
+  assert.equal(compareGuess(exact, [{ tagId: 1, value: "超稀有" }], [])[0].state, "miss");
+  assert.equal(compareGuess(exact, [], [{ tagId: 1, value: "超稀有" }])[0].state, "miss");
 });

@@ -128,11 +128,13 @@ export function parseOrderedValue(source: string): OrderedValue | null {
 
 /** 有序标签的展示拆分：日期型取值把日期与后面的名称分开显示。 */
 export function splitOrderedDisplay(value: string): { prefix: string; text: string } {
-  const ordered = parseOrderedValue(value);
+  // 先 trim：parseOrderedValue 能容忍前导空白，但按 prefix.length 切片会在原串上切错位
+  const trimmed = value.trim();
+  const ordered = parseOrderedValue(trimmed);
   if (ordered?.kind === "date" && ordered.prefix) {
-    return { prefix: ordered.prefix, text: value.slice(ordered.prefix.length).trim() };
+    return { prefix: ordered.prefix, text: trimmed.slice(ordered.prefix.length).trim() };
   }
-  return { prefix: "", text: value };
+  return { prefix: "", text: trimmed };
 }
 
 export function compareGuess(
@@ -146,21 +148,25 @@ export function compareGuess(
   return tags.map((tag) => {
     const guessedValue = guessed.get(tag.id);
     const answerValue = answer.get(tag.id);
+    // 比较一律用真实取值（缺值即空串），只有展示才用「未知」占位符：
+    // 否则同一语义（两侧都没有该标签的取值）会因为「字段缺失」还是「空串」得到相反结果。
+    const guessedRaw = guessedValue?.value ?? "";
     const value = guessedValue?.value ?? "未知";
     const target = answerValue?.value ?? "";
     const category = guessedValue?.category?.trim() ?? "";
     const targetCategory = answerValue?.category?.trim() ?? "";
 
     if (tag.kind === "exact-close") {
-      const guessedLabel = parseExactCloseValue(value).primary;
+      const guessedLabel = parseExactCloseValue(guessedRaw).primary;
+      const displayLabel = guessedLabel || value;
       const targetLabels = parseExactCloseValue(target);
       if (normalizeName(guessedLabel) === normalizeName(targetLabels.primary)) {
-        return { tagId: tag.id, value: guessedLabel, state: "match" };
+        return { tagId: tag.id, value: displayLabel, state: "match" };
       }
       if (targetLabels.close.some((label) => normalizeName(guessedLabel) === normalizeName(label))) {
-        return { tagId: tag.id, value: guessedLabel, state: "close" };
+        return { tagId: tag.id, value: displayLabel, state: "close" };
       }
-      return { tagId: tag.id, value: guessedLabel, state: "miss" };
+      return { tagId: tag.id, value: displayLabel, state: "miss" };
     }
 
     if (tag.kind === "category-multi") {
@@ -210,7 +216,7 @@ export function compareGuess(
     }
 
     if (
-      normalizeName(value) === normalizeName(target) &&
+      normalizeName(guessedRaw) === normalizeName(target) &&
       (tag.kind !== "category" || normalizeName(category) === normalizeName(targetCategory))
     ) {
       return { tagId: tag.id, value, ...(category ? { category } : {}), state: "match" };
@@ -226,9 +232,13 @@ export function compareGuess(
     }
 
     if (tag.kind === "ordered") {
-      const guessOrdered = parseOrderedValue(value);
+      const guessOrdered = parseOrderedValue(guessedRaw);
       const answerOrdered = parseOrderedValue(target);
       if (guessOrdered && answerOrdered) {
+        // 与原版 Azurlanedle 一致：解析后的数值相等就是命中，不再给方向箭头
+        if (guessOrdered.number === answerOrdered.number) {
+          return { tagId: tag.id, value, state: "match" };
+        }
         const distance = Math.abs(guessOrdered.number - answerOrdered.number);
         const threshold = Math.max(guessOrdered.threshold, answerOrdered.threshold);
         return {
