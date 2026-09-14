@@ -290,7 +290,9 @@ export function AdminPanel() {
 
   // 当前题库里出现过的附加写法（中文 / 日文 / 原版…），供「显示写法」下拉选择
   const variantOptions = useMemo(() => {
-    const list = new Set<string>();
+    // 空写法（主方案）必须始终在列表里：新建标签和玩家自建标签的 displayVariant
+    // 都可能是 ""，受控 select 的 value 不在选项里会让显示与实际状态不一致
+    const list = new Set<string>([""]);
     for (const value of catalog.values) {
       if (value.variant) list.add(value.variant);
     }
@@ -461,10 +463,11 @@ export function AdminPanel() {
               <select
                 value={tagDraft.displayVariant}
                 onChange={(event) => setTagDraft({ ...tagDraft, displayVariant: event.target.value })}
-                disabled={variantOptions.length === 0}
               >
                 {variantOptions.map((variant) => (
-                  <option key={variant} value={variant}>{VARIANT_LABELS[variant] ?? variant}</option>
+                  <option key={variant} value={variant}>
+                    {variant === "" ? "主方案（跟随判定列）" : VARIANT_LABELS[variant] ?? variant}
+                  </option>
                 ))}
               </select>
             </label>
