@@ -35,41 +35,24 @@ import {
 } from "./local-catalog";
 import { evaluateGame, prepareShips, type EvalResult } from "./azurlane-eval";
 import { splitOrderedDisplay, type TagDefinition } from "./game-core";
+import {
+  DEFAULT_DISPLAY_SETTINGS,
+  DISPLAY_PRESETS,
+  DISPLAY_STORAGE_KEY,
+  VARIANT_LABELS,
+  parseDisplaySettings,
+  resolveVariant,
+  type DisplayMode,
+  type DisplaySettings,
+} from "./display-settings";
 
 const CONTINUOUS_MODES: LocalGameMode[] = ["unlimited", "custom"];
-/** 设置弹窗里预览用的样例舰船。 */
-const SAMPLE_SHIP_NAME = "企业";
-
-/**
- * 反馈表的显示设置：
- *   zh / original 是一键预设，把整表切到同一套写法；
- *   custom 则逐列取值（columns 里没记的列回退到题库自带的默认写法）。
- */
-type DisplayMode = "zh" | "original" | "custom";
-type DisplaySettings = {
-  mode: DisplayMode;
-  columns: Record<string, string>;
-};
-const DISPLAY_STORAGE_KEY = "hangyiba:display:v2";
-const DEFAULT_DISPLAY_SETTINGS: DisplaySettings = { mode: "zh", columns: {} };
-const DISPLAY_PRESETS: Array<{ value: DisplayMode; label: string; detail: string }> = [
-  { value: "zh", label: "中文", detail: "全部用国服中文" },
-  { value: "original", label: "英文", detail: "全部用原版数据" },
-  { value: "custom", label: "自定义", detail: "每一列单独设置" },
-];
-const VARIANT_LABELS: Record<string, string> = { zh: "中文", en: "英文", ja: "日文" };
-
-/** 该列在当前显示设置下应该用哪一套写法。 */
-function resolveVariant(tag: TagDefinition, settings: DisplaySettings): string {
-  // 「中文」优先找 zh 方案，没有 zh 的列主方案本身就是中文
-  if (settings.mode === "zh") return tag.variants?.includes("zh") ? "zh" : "";
-  if (settings.mode === "original") return tag.variants?.includes("original") ? "original" : "";
-  // 自定义：优先用玩家逐列选过的写法，否则跟随题库里的默认（中文）
-  return settings.columns[String(tag.id)] ?? tag.displayVariant ?? "zh";
-}
 const EVALUATION_DELAY_MS = 60;
+/** 语言设置弹窗里预览用的样例舰船。 */
+const SAMPLE_SHIP_NAME = "企业";
 /** TODO: GitHub 仓库建好后，把这里替换成真实地址（页脚会显示它） */
 const REPOSITORY_URL = "https://github.com/your-account/hangyiba";
+
 const TEN_MATCH_DIFFICULTIES: Array<{ value: TenMatchDifficulty; label: string; detail: string }> = [
   { value: "easy", label: "Easy", detail: "答案只从可建造舰船中抽取 · 猜错扣时 1/1/2/3/4/5/6s · 猜对 +50s" },
   { value: "normal", label: "Normal", detail: "猜错扣时 1/2/3/5/7/9/11s · 猜对 +40s" },
@@ -167,21 +150,11 @@ export function GameBoard() {
   }
 
   useEffect(() => {
-    const saved = window.localStorage.getItem(DISPLAY_STORAGE_KEY);
+    const saved = parseDisplaySettings(window.localStorage.getItem(DISPLAY_STORAGE_KEY));
     if (!saved) return;
-    try {
-      const parsed = JSON.parse(saved) as Partial<DisplaySettings>;
-      const mode = parsed.mode;
-      if (mode !== "zh" && mode !== "original" && mode !== "custom") return;
-      const columns = parsed.columns && typeof parsed.columns === "object"
-        ? Object.fromEntries(Object.entries(parsed.columns).filter((entry): entry is [string, string] => typeof entry[1] === "string"))
-        : {};
-      // 显示偏好有意在 hydration 之后再恢复
-      // eslint-disable-next-line react-hooks/set-state-in-effect
-      setDisplaySettings({ mode, columns });
-    } catch {
-      // 偏好损坏时用默认值
-    }
+    // 显示偏好有意在 hydration 之后再恢复
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setDisplaySettings(saved);
   }, []);
 
   useEffect(() => {
@@ -321,12 +294,14 @@ export function GameBoard() {
     if (!mode) return empty;
     try {
       const catalog = loadGameCatalog(mode);
+      // 判定列（题库里是 @zh）单独索引一份，供预览与显示回退使用
+      const primaryByTag = new Map(catalog.tags.map((tag) => [tag.id, tag.primaryVariant || "zh"]));
       const variantIndex = new Map<string, string>();
       const primaryIndex = new Map<string, string>();
       for (const value of catalog.values) {
         const key = `${value.characterId}:${value.tagId}`;
         if (value.variant) variantIndex.set(`${key}:${value.variant}`, value.value);
-        else primaryIndex.set(key, value.value);
+        if (value.variant === primaryByTag.get(value.tagId)) primaryIndex.set(key, value.value);
       }
       // 设置弹窗里的预览统一拿「企业」当样例
       const sample = getActiveCharacters(catalog).find((character) => character.name === SAMPLE_SHIP_NAME);
@@ -919,7 +894,6 @@ export function GameBoard() {
                 <div className="settings-columns">
                   {game?.tags.map((tag) => {
                     const current = resolveVariant(tag, displaySettings);
-                    const primary = catalogView.primaryIndex.get(`${catalogView.sampleId}:${tag.id}`) ?? "";
                     return (
                       <label key={tag.id}>
                         <span>{tag.name}</span>
