@@ -11,3 +11,5 @@ tsconfig.tsbuildinfo
 .DS_Store
 .docker-config
 .buildx-cache
+data
+.env

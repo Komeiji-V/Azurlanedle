@@ -7,9 +7,14 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
-        # 国内网络可以在项目根目录建 .env 写 NPM_REGISTRY=https://registry.npmmirror.com
-        # （.env 不入库，默认留空即走官方源）
+        # 以下变量都可以写在项目根目录的 .env 里（该文件不入库，见 .env.example）
+        # 国内网络建议写 NPM_REGISTRY=https://registry.npmmirror.com，默认留空走官方源
         NPM_REGISTRY: "${NPM_REGISTRY:-}"
+        # 想启用「更新中心」的远端检查就填这四项，留空则只显示本地版本、不发任何请求
+        NEXT_PUBLIC_AZURLANEDLE_REPO_URL: "${NEXT_PUBLIC_AZURLANEDLE_REPO_URL:-}"
+        NEXT_PUBLIC_AZURLANEDLE_VERSION_URL: "${NEXT_PUBLIC_AZURLANEDLE_VERSION_URL:-}"
+        NEXT_PUBLIC_AZURLANEDLE_DB_URL: "${NEXT_PUBLIC_AZURLANEDLE_DB_URL:-}"
+        NEXT_PUBLIC_AZURLANEDLE_DB_RAW_URL: "${NEXT_PUBLIC_AZURLANEDLE_DB_RAW_URL:-}"
     image: azurlanedle:latest
     container_name: azurlanedle
     ports:

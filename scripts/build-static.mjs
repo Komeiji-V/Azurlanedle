@@ -25,13 +25,20 @@ const requiredFiles = [
   join(clientDir, "admin.rsc"),
 ];
 const assetsDir = join(clientDir, "assets");
-const outputComplete =
-  requiredFiles.every((file) => existsSync(file)) &&
-  existsSync(assetsDir) &&
+const missingFiles = requiredFiles.filter((file) => !existsSync(file));
+const assetsComplete = existsSync(assetsDir) &&
   readdirSync(assetsDir).some((file) => file.endsWith(".js")) &&
   readdirSync(assetsDir).some((file) => file.endsWith(".css"));
+const outputComplete = missingFiles.length === 0 && assetsComplete;
 
 if (result.status === 0) {
+  // 退出码为 0 也可能是残缺产物（例如预渲染被静默跳过），宁可报错也别交给 nginx
+  if (!outputComplete) {
+    if (buildStderr) process.stderr.write(buildStderr);
+    const missing = missingFiles.map((file) => file.replace(`${projectRoot}/`, "")).join("、");
+    console.error(`构建退出码为 0，但产物不完整：${missing || "assets 里缺少 js/css"}`);
+    process.exit(1);
+  }
   if (buildStderr) process.stderr.write(buildStderr);
   process.exit(0);
 }

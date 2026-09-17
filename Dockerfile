@@ -33,11 +33,13 @@ LABEL org.opencontainers.image.title="航一把" \
       org.opencontainers.image.description="碧蓝航线版猜船网页游戏（Azurlanedle 网页端）"
 
 COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
+COPY docker/security-headers.conf /etc/nginx/security-headers.conf
 COPY --from=builder /app/dist/client /usr/share/nginx/html
 
 EXPOSE 80
 
+# 走专门的健康检查端点，不用每次都拉整页 HTML
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD wget -qO- http://127.0.0.1/ >/dev/null 2>&1 || exit 1
+  CMD wget -q --spider http://127.0.0.1/healthz || exit 1
 
 CMD ["nginx", "-g", "daemon off;"]

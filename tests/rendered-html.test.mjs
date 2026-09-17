@@ -177,8 +177,9 @@ test("提供可直接部署的 Docker 静态镜像", async () => {
 });
 
 test("构建参数与 Pages 路径两侧写法一致", async () => {
-  const [dockerfile, appUpdate, catalogUpdate, layout] = await Promise.all([
+  const [dockerfile, compose, appUpdate, catalogUpdate, layout] = await Promise.all([
     readFile(new URL("../Dockerfile", import.meta.url), "utf8"),
+    readFile(new URL("../docker-compose.yml", import.meta.url), "utf8"),
     readFile(new URL("../app/app-update.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/default-catalog-update.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
@@ -189,7 +190,30 @@ test("构建参数与 Pages 路径两侧写法一致", async () => {
     const variable = `NEXT_PUBLIC_AZURLANEDLE_${suffix}`;
     assert.match(dockerfile, new RegExp(`ARG ${variable}=`), `Dockerfile 里没有声明 ${variable}`);
     assert.match(`${appUpdate}\n${catalogUpdate}`, new RegExp(`process\\.env\\.${variable}\\b`), `代码里没有读取 ${variable}`);
+    // compose 是文档推荐的部署入口，不在这里透传的话这四个参数只能靠手工 docker build
+    assert.match(compose, new RegExp(`${variable}: "\\$\\{${variable}:-\\}"`), `compose 没有透传 ${variable}`);
   }
   // GitHub Pages 部署时 vite 的 base 与 favicon 前缀都跟仓库名相同，两处不能只改一处
   assert.match(layout, /GITHUB_PAGES === "true" \? "\/Azurlanedle" : ""/);
+});
+
+test("nginx 的 RSC 类型、缓存头与安全头都配对了", async () => {
+  const [nginx, dockerfile, security] = await Promise.all([
+    readFile(new URL("../docker/nginx.conf", import.meta.url), "utf8"),
+    readFile(new URL("../Dockerfile", import.meta.url), "utf8"),
+    readFile(new URL("../docker/security-headers.conf", import.meta.url), "utf8"),
+  ]);
+  // RSC 载荷必须是 text/x-component，客户端会检查这个类型
+  assert.match(nginx, /types \{ text\/x-component rsc; \}/);
+  // expires 会和 add_header 各下发一个 Cache-Control，只保留后者
+  assert.doesNotMatch(nginx, /expires /);
+  assert.match(nginx, /add_header Cache-Control "public, max-age=31536000, immutable" always;/);
+  // add_header 不会继承进「自己也有 add_header」的 location，每个 location 都要显式 include
+  assert.match(security, /X-Content-Type-Options nosniff always;/);
+  assert.match(security, /Referrer-Policy strict-origin-when-cross-origin always;/);
+  assert.equal((nginx.match(/include \/etc\/nginx\/security-headers\.conf;/g) ?? []).length >= 3, true);
+  assert.match(dockerfile, /COPY docker\/security-headers\.conf \/etc\/nginx\/security-headers\.conf/);
+  // 自带的 404.html 要显式接管，健康检查走 /healthz
+  assert.match(nginx, /error_page 404 \/404\.html;/);
+  assert.match(dockerfile, /wget -q --spider http:\/\/127\.0\.0\.1\/healthz/);
 });
