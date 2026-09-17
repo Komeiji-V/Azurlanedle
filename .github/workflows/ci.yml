@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          # 题库指纹要读「最后一次改动 db/航一把题库.csv 的提交」，依赖完整历史。
+          # checkout 默认 fetch-depth: 1（浅克隆）会让 npm test 的指纹校验必然失败。
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
