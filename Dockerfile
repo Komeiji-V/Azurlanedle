@@ -17,7 +17,10 @@ ENV NEXT_PUBLIC_HANGYIBA_REPO_URL=$NEXT_PUBLIC_HANGYIBA_REPO_URL \
 
 # 依赖缓存层：package 文件不变时跳过 npm ci
 COPY package.json package-lock.json ./
-RUN npm ci --no-audit --no-fund
+# npm 源可覆盖：默认官方源；国内构建可以用 --build-arg NPM_REGISTRY=https://registry.npmmirror.com
+# （或把它写进项目根目录的 .env，compose 会自动读取，该文件不入库）
+ARG NPM_REGISTRY=""
+RUN npm ci --no-audit --no-fund ${NPM_REGISTRY:+--registry=$NPM_REGISTRY}
 
 # 复制源码并构建（产物输出到 dist/client）
 COPY . .

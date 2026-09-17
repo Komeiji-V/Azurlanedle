@@ -3,6 +3,10 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      args:
+        # 国内网络可以在项目根目录建 .env 写 NPM_REGISTRY=https://registry.npmmirror.com
+        # （.env 不入库，默认留空即走官方源）
+        NPM_REGISTRY: "${NPM_REGISTRY:-}"
     image: hangyiba:latest
     container_name: hangyiba
     ports:
