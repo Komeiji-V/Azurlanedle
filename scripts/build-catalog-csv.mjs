@@ -106,7 +106,7 @@ const TIMER_LABELS = new Map([
 const CLASS_DESCRIPTOR = /^(轻型|重型|大型|中型|小型|装甲|护航|实验|试验|试作|量产|计划|改装|正规|高速|低速|条约|泛用|特殊|新锐|旧式|飞机维修)/;
 
 /** 舰种词：「XX级/XX型」紧跟着它的时候，这个「XX」才是真正的舰级名。 */
-const SHIP_TYPE_WORD = /^(航空母舰|战列巡洋舰|战列舰|重巡洋舰|轻巡洋舰|巡洋舰|驱逐舰|潜水舰|潜水母舰|水上机母舰|潜艇|空母|航母|战舰|工作舰|维修舰|运输舰|练习舰)/;
+const SHIP_TYPE_WORD = /^(航空母舰|战列巡洋舰|装甲巡洋舰|战列舰|重巡洋舰|轻巡洋舰|大巡洋舰|小巡洋舰|巡洋舰|驱逐领舰|驱逐舰|潜水空母|潜水母舰|水上机母舰|潜水舰|潜水艇|潜艇|空母|航母|战舰|工作舰|维修舰|运输舰|练习舰|超重型)/;
 
 /**
  * 一个英文舰级对应多个中文子级时，多数票必然分散，只能人工定名。
@@ -248,22 +248,31 @@ function stripNavyPrefix(name) {
  * 「最上型重巡洋舰一番舰」→「最上型」。取不到时返回空串，由调用方回退。
  */
 function chineseShipClass(model) {
-  const text = (model ?? "").trim();
+  // 先剥掉括注：「H-39型战列舰（305mm主炮改型）」里的括注是说明，不是舰级名
+  const text = (model ?? "").trim().replace(/[（(][^）)]*[）)]/g, "").trim();
   if (!text) return "";
-  const candidates = [...text.matchAll(/([\u4e00-\u9fa5A-Za-z0-9－·\-]{1,10}?[级型])/g)]
+  const candidates = [...text.matchAll(/([\u4e00-\u9fa5A-Za-z0-9－·\-\u2160-\u217f]{1,10}?[级型])/g)]
     .map((match) => ({ value: match[1], end: (match.index ?? 0) + match[1].length }))
     // 「轻型」「护航」这类是舰种描述而不是舰级名
     .filter((item) => !CLASS_DESCRIPTOR.test(item.value))
     // 「XX吨重巡洋舰方案改型」「1047工程超重型」这类是设计方案名，也不是舰级
     .filter((item) => !/[舰艇船吨案程]/.test(item.value))
-    // 「G-14级」这类带连字符的设计编号不是舰级名；
-    // 德国 Z 驱的「1934型」「1936A型」是正式舰级名，必须保留
-    .filter((item) => !/\d\s*-\s*\d|[A-Za-z]\s*-\s*\d/.test(item.value));
+    // 「改二型」「型a型」这类纯改装后缀/残片不是舰级名
+    .filter((item) => !/^改[0-9一二三四五六七八九十]+型$/.test(item.value))
+    .filter((item) => !item.value.startsWith("型"))
+    // 「150mm主炮防空型」把装备参数当成了舰级
+    .filter((item) => !/[主炮毫米]|mm/i.test(item.value))
+    // 「a型」这种单字母残片（来自「海大Ⅵ型a型潜水舰」）
+    .filter((item) => !/^[a-z]型$/i.test(item.value));
   if (!candidates.length) return "";
-  // 「特I型吹雪级驱逐舰二番舰」会先匹配到「特I型」，所以要优先取后面紧跟舰种词的那个；
-  // 都不跟舰种词时取最后一个（越靠后越接近真正的舰级名）
+  // 「特I型吹雪级驱逐舰二番舰」会先匹配到「特I型」，所以优先取后面紧跟舰种词的那个。
+  // 这一步要在「设计编号」过滤之前做：德国 H-39型、日本 B-65超甲型后面都跟着舰种词，
+  // 它们带连字符/数字但确是正式舰级名，不能被当成 G-14 那种方案编号丢掉。
   const withTypeWord = candidates.find((item) => SHIP_TYPE_WORD.test(text.slice(item.end)));
-  return (withTypeWord ?? candidates[candidates.length - 1]).value;
+  if (withTypeWord) return withTypeWord.value;
+  // 都没有舰种词跟随时，才丢掉设计编号，并取最后一个（越靠后越接近真正的舰级名）
+  const plain = candidates.filter((item) => !/\d\s*-\s*\d|[A-Za-z]\s*-\s*\d/.test(item.value));
+  return (plain[plain.length - 1] ?? candidates[candidates.length - 1]).value;
 }
 
 /**
@@ -308,10 +317,20 @@ function toIsoDateFromCompact(value) {
   return `${text.slice(0, 4)}-${text.slice(4, 6)}-${text.slice(6, 8)}`;
 }
 
+/**
+ * 活动表里属于「预热 / 占位 / 系统说明」的条目：它们不是这次更新的活动名，
+ * 选中会让中文列和原版英文列自相矛盾（例如 2022-01-27 的「演习神秘事件调查」
+ * 对应的是英文的 Happy Lunar New Year 2022，即「东煌春节」）。
+ */
+const SYSTEM_EVENT_NAME = /^(作战准备|演习神秘事件调查)|？？？|\?\?\?/;
+
 function pickEventName(names) {
   if (!names?.length) return "";
-  const firstRun = names.find((name) => !RERUN_PREFIX.test(name));
-  return firstRun ?? names[0];
+  // 先把预热/占位条目排到后面，再按「优先非复刻」的规则挑
+  const usable = names.filter((name) => !SYSTEM_EVENT_NAME.test(name));
+  const pool = usable.length ? usable : names;
+  const firstRun = pool.find((name) => !RERUN_PREFIX.test(name));
+  return firstRun ?? pool[0];
 }
 
 /** 建立 活动日期序号 → 活动名，并提供 ±window 天内的匹配。 */
@@ -401,7 +420,8 @@ async function main() {
     if (!wiki) continue;
     const isNamesake = isSameShipName(wiki["英文名"], ship.class) || isSameShipName(wiki["日文名"], ship.class);
     if (!isNamesake) continue;
-    const chineseName = (wiki["名称"] ?? "").trim();
+    // μ 兵装页面的名称带「(μ兵装)」后缀，拼出来的舰级名不能带它
+    const chineseName = (wiki["名称"] ?? "").trim().replace(/\(μ兵装\)$/, "");
     const label = chineseShipClass(wiki["型号"]) || (chineseName ? `${chineseName}级` : "");
     if (label && !leadLabels.has(ship.class)) leadLabels.set(ship.class, label);
   }
@@ -483,8 +503,9 @@ async function main() {
   console.log(`  同一 wiki 页面被多艘船命中：${conflicts.length}`);
   for (const [page, names] of conflicts) console.log(`    ${page} ← ${names.join(" / ")}`);
 
-  const missingFields = rows.filter((row) => row.slice(3, 7).some((cell) => !cell)).length;
-  if (missingFields) console.log(`  注意：${missingFields} 行的稀有度/阵营/舰种/舰级为空，需要人工补齐。`);
+  // 第 3 列起都是标签列，全部要查；之前只查到第 6 列，舰种/舰级为空永远发现不了
+  const missingFields = rows.filter((row) => row.slice(3).some((cell) => !cell)).length;
+  if (missingFields) console.log(`  注意：${missingFields} 行的标签取值为空，需要人工补齐。`);
 }
 
 await main();

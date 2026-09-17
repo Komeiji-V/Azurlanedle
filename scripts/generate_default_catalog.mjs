@@ -152,8 +152,9 @@ function readCatalog(sourcePath) {
     unit: "",
     active: true,
     primaryVariant: tag.primaryVariant,
-    // 默认显示中文那一列；后台可以改成 "en"，以后加 "ja" 也在这里选
-    displayVariant: "zh",
+    // 默认显示判定列那一套写法；后台可以改成别的（以后加 "ja" 也在这里选）。
+    // 不能写死 "zh"：题库若把首套写法换成别的，展示会取不到值
+    displayVariant: tag.primaryVariant,
   }));
   const characters = [];
   const values = [];

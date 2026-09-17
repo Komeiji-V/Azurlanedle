@@ -172,7 +172,9 @@ function parseEventPage(wikitext) {
     }
     if (!currentDate || !line.startsWith(":")) continue;
     const collect = (pattern) => [...line.matchAll(pattern)]
-      .map((match) => match[1].replace(/<[^>]*>/g, "").trim())
+      // 名字里可能残留 wiki 标记（`[[作战档案]]`）或剥掉标记后括号不配对（`「宴会礼服`），清掉再用
+      .map((match) => cleanWikitext(match[1]))
+      .filter((name) => name && !name.includes("「") && !name.includes("『"))
       .filter(Boolean);
     let names = collect(/『([^』]+)』/g);
     if (!names.length) names = collect(/「([^」]+)」/g);
