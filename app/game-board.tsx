@@ -254,23 +254,26 @@ export function GameBoard() {
     if (!game || !text) return [];
     const guessed = new Set(game.guesses.map((guess) => guess.name));
     const picked = new Set<string>();
-    const hits: string[] = [];
-
-    // 先给主名匹配，再补别名匹配：输入「贝尔」直接命中，输入「贝法」也能补上
-    for (const name of game.names) {
-      if (hits.length >= 6) break;
-      if (guessed.has(name) || !name.toLocaleLowerCase("zh-CN").includes(text)) continue;
+    // 按匹配质量分层：完全同名 → 完全同别名 → 主名子串 → 别名子串。
+    // 只按「主名先、别名后」会让子串匹配插队：输入 Kaga 时「飞鸟川千濑」
+    // （Asu-kaga-wa）会排在真正的「加贺」前面。
+    const tiers: string[][] = [[], [], [], []];
+    const push = (tier: number, name: string) => {
+      if (guessed.has(name) || picked.has(name)) return;
       picked.add(name);
-      hits.push(name);
+      tiers[tier].push(name);
+    };
+    for (const name of game.names) {
+      const lower = name.toLocaleLowerCase("zh-CN");
+      if (lower === text) push(0, name);
+      else if (lower.includes(text)) push(2, name);
     }
     for (const [alias, name] of aliasEntries) {
-      if (hits.length >= 6) break;
-      if (guessed.has(name) || picked.has(name)) continue;
-      if (!alias.toLocaleLowerCase("zh-CN").includes(text)) continue;
-      picked.add(name);
-      hits.push(name);
+      const lower = alias.toLocaleLowerCase("zh-CN");
+      if (lower === text) push(1, name);
+      else if (lower.includes(text)) push(3, name);
     }
-    return hits;
+    return [...tiers[0], ...tiers[1], ...tiers[2], ...tiers[3]].slice(0, 6);
   }, [game, query, aliasEntries]);
 
   const specifiedSuggestions = useMemo(() => {
