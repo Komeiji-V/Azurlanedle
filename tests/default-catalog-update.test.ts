@@ -13,7 +13,7 @@ import {
   bundledOfficialCatalogs,
 } from "../app/default-catalog.generated";
 
-const RAW_BASE = "https://example.com/hangyiba/db";
+const RAW_BASE = "https://example.com/azurlanedle/db";
 
 function sha256(source: string): string {
   return createHash("sha256").update(source, "utf8").digest("hex");

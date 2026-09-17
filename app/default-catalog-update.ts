@@ -9,15 +9,15 @@ export const DEFAULT_CATALOG_VERSION = defaultCatalogSource.gitCommitDate
 
 /**
  * 题库更新检查同样是可选的：构建阶段提供
- *   NEXT_PUBLIC_HANGYIBA_DB_URL     仓库 db 目录主页，用于「查看更新」
- *   NEXT_PUBLIC_HANGYIBA_DB_RAW_URL db 目录的原始地址前缀
+ *   NEXT_PUBLIC_AZURLANEDLE_DB_URL     仓库 db 目录主页，用于「查看更新」
+ *   NEXT_PUBLIC_AZURLANEDLE_DB_RAW_URL db 目录的原始地址前缀
  * 即可启用；未配置时更新中心只显示本地题库基线。
  */
-export const OFFICIAL_CATALOG_REPO_URL = process.env.NEXT_PUBLIC_HANGYIBA_DB_URL ?? "";
+export const OFFICIAL_CATALOG_REPO_URL = process.env.NEXT_PUBLIC_AZURLANEDLE_DB_URL ?? "";
 
 export const OFFICIAL_CATALOG_SOURCES = bundledOfficialCatalogs.map(({ path, sha256 }) => ({ path, sha256 }));
 
-const OFFICIAL_CATALOG_RAW_BASE_URL = process.env.NEXT_PUBLIC_HANGYIBA_DB_RAW_URL ?? "";
+const OFFICIAL_CATALOG_RAW_BASE_URL = process.env.NEXT_PUBLIC_AZURLANEDLE_DB_RAW_URL ?? "";
 export const OFFICIAL_CATALOG_UPDATE_CONFIGURED = OFFICIAL_CATALOG_RAW_BASE_URL.length > 0;
 
 const NOT_CONFIGURED_MESSAGE = "未配置题库更新源。";

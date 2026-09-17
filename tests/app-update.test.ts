@@ -7,7 +7,7 @@ import {
   DISPLAY_VERSION,
 } from "../app/app-update";
 
-const VERSION_URL = "https://example.com/hangyiba/package.json";
+const VERSION_URL = "https://example.com/azurlanedle/package.json";
 
 test("当前显示版本来自 package.json", () => {
   assert.equal(CURRENT_VERSION, "0.1.0");

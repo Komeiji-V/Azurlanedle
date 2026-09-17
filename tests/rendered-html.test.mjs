@@ -112,12 +112,12 @@ test("游戏页选择游玩题库，后台点击题库进行编辑或预览", as
   assert.match(panel, /导出当前题库/);
   assert.match(panel, /标签按题库中的定义顺序显示/);
   assert.doesNotMatch(panel, /<label>排序/);
-  assert.match(catalog, /hangyiba:catalog:v1/);
-  assert.match(catalog, /hangyiba:catalog-library:v2/);
+  // 题库存储键（旧版单题库的 catalog:v1 已随命名统一移除，不再有迁移分支）
+  assert.match(catalog, /azurlanedle:catalog-library:v2/);
   assert.match(catalog, /official:\$\{encodeURIComponent\(path\)\}/);
   assert.match(catalog, /default-catalog\.generated/);
   assert.match(game, /submitLocalGuess/);
-  assert.match(game, /hangyiba:games:v1/);
+  assert.match(game, /azurlanedle:games:v1/);
   assert.match(gameBoard, /catalog-dropdown-trigger/);
   assert.match(gameBoard, /role="listbox"/);
   assert.match(gameBoard, /aria-selected/);
@@ -168,10 +168,28 @@ test("提供可直接部署的 Docker 静态镜像", async () => {
   assert.match(nginx, /gzip on/);
   assert.match(nginx, /location \/assets\//);
   assert.match(compose, /build:/);
-  assert.match(compose, /\$\{HANGYIBA_PORT:-8080\}:80/);
+  assert.match(compose, /\$\{AZURLANEDLE_PORT:-8080\}:80/);
   assert.match(compose, /restart: unless-stopped/);
   assert.match(dockerignore, /node_modules/);
   assert.match(dockerignore, /dist/);
   assert.match(config, /output: "export"/);
-  assert.match(viteConfig, /base: isGitHubPages \? "\/hangyiba\/" : "\/"/);
+  assert.match(viteConfig, /base: isGitHubPages \? "\/Azurlanedle\/" : "\/"/);
+});
+
+test("构建参数与 Pages 路径两侧写法一致", async () => {
+  const [dockerfile, appUpdate, catalogUpdate, layout] = await Promise.all([
+    readFile(new URL("../Dockerfile", import.meta.url), "utf8"),
+    readFile(new URL("../app/app-update.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/default-catalog-update.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
+  ]);
+  // Dockerfile 声明的 ARG 名必须和代码里 process.env 读的名字逐字一致：
+  // 名字对不上时 --build-arg 会静默失效，更新中心只会显示「未配置」，不报错
+  for (const suffix of ["REPO_URL", "VERSION_URL", "DB_URL", "DB_RAW_URL"]) {
+    const variable = `NEXT_PUBLIC_AZURLANEDLE_${suffix}`;
+    assert.match(dockerfile, new RegExp(`ARG ${variable}=`), `Dockerfile 里没有声明 ${variable}`);
+    assert.match(`${appUpdate}\n${catalogUpdate}`, new RegExp(`process\\.env\\.${variable}\\b`), `代码里没有读取 ${variable}`);
+  }
+  // GitHub Pages 部署时 vite 的 base 与 favicon 前缀都跟仓库名相同，两处不能只改一处
+  assert.match(layout, /GITHUB_PAGES === "true" \? "\/Azurlanedle" : ""/);
 });

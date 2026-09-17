@@ -123,11 +123,11 @@ export type LocalGuessResult =
   }
   | { ok: false; error: string };
 
-const GAME_STORAGE_KEY = "hangyiba:games:v1";
-const GAME_RECORDS_STORAGE_KEY = "hangyiba:game-records:v1";
-const TIMING_STORAGE_KEY = "hangyiba:timing:v1";
+const GAME_STORAGE_KEY = "azurlanedle:games:v1";
+const GAME_RECORDS_STORAGE_KEY = "azurlanedle:game-records:v1";
+const TIMING_STORAGE_KEY = "azurlanedle:timing:v1";
 const OBFUSCATED_STORAGE_PREFIX = "dyb-obf-v1:";
-const OBFUSCATION_KEY = new TextEncoder().encode("hangyiba-local-record");
+const OBFUSCATION_KEY = new TextEncoder().encode("azurlanedle-local-record");
 
 function isContinuousMode(mode: LocalGameMode): boolean {
   return mode === "unlimited" || mode === "custom";
@@ -603,14 +603,6 @@ export function loadLocalGame(
     const parsed: unknown = parseStoredGameData(stored);
     if (!parsed || typeof parsed !== "object") return null;
     const games = parsed as Record<string, unknown>;
-    if (games.schemaVersion !== 2) {
-      if (!games.custom && games.unlimited && typeof games.unlimited === "object") {
-        games.custom = { ...(games.unlimited as LocalGame), mode: "custom" };
-        delete games.unlimited;
-      }
-      games.schemaVersion = 2;
-      storage.setItem(GAME_STORAGE_KEY, obfuscateGameData(games));
-    }
     const saved = games[mode];
     return normalizeStoredGame(saved, mode, catalog);
   } catch {
@@ -785,13 +777,7 @@ export function saveLocalGame(
   } catch {
     saved = {};
   }
-  if (saved.schemaVersion !== 2) {
-    if (!saved.custom && saved.unlimited && typeof saved.unlimited === "object") {
-      saved.custom = { ...(saved.unlimited as LocalGame), mode: "custom" };
-      delete saved.unlimited;
-    }
-    saved.schemaVersion = 2;
-  }
+  saved.schemaVersion = 2;
   saved[game.mode] = game;
   writeStorage(storage, GAME_STORAGE_KEY, obfuscateGameData(saved));
   if (!game.excludedFromHistory && game.guesses.length > 0) {

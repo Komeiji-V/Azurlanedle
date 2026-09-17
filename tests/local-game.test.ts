@@ -123,7 +123,7 @@ test("题库集合将官方题库排在玩家题库之前并分别保存游玩�
 
   const first = createPlayerCatalog("玩家甲", createDefaultCatalog(), storage);
   const second = createPlayerCatalog("玩家乙", createDefaultCatalog(), storage);
-  storage.setItem("hangyiba:games:v1", "旧的进行中游戏");
+  storage.setItem("azurlanedle:games:v1", "旧的进行中游戏");
   selectPlayCatalog(first.id, storage);
   selectEditCatalog(second.id, storage);
 
@@ -135,7 +135,7 @@ test("题库集合将官方题库排在玩家题库之前并分别保存游玩�
   ]);
   assert.equal(loaded.playCatalogId, first.id);
   assert.equal(loaded.editCatalogId, second.id);
-  assert.equal(storage.getItem("hangyiba:games:v1"), null);
+  assert.equal(storage.getItem("azurlanedle:games:v1"), null);
 });
 
 test("当前官方题库内容更新后会清除旧的进行中游戏", () => {
@@ -144,12 +144,12 @@ test("当前官方题库内容更新后会清除旧的进行中游戏", () => {
   const catalog = loadLocalCatalog(storage);
   saveLocalGame(createLocalGame(catalog, "daily"), storage, catalog);
 
-  const storedLibrary = JSON.parse(storage.getItem("hangyiba:catalog-library:v2")!);
+  const storedLibrary = JSON.parse(storage.getItem("azurlanedle:catalog-library:v2")!);
   storedLibrary.officialCatalogVersions[library.playCatalogId] = "outdated";
-  storage.setItem("hangyiba:catalog-library:v2", JSON.stringify(storedLibrary));
+  storage.setItem("azurlanedle:catalog-library:v2", JSON.stringify(storedLibrary));
 
   loadCatalogLibrary(storage);
-  assert.equal(storage.getItem("hangyiba:games:v1"), null);
+  assert.equal(storage.getItem("azurlanedle:games:v1"), null);
 });
 
 test("未游玩的官方题库更新不会清除玩家题库的进行中游戏", () => {
@@ -159,14 +159,14 @@ test("未游玩的官方题库更新不会清除玩家题库的进行中游戏",
   const catalog = loadLocalCatalog(storage);
   saveLocalGame(createLocalGame(catalog, "daily"), storage, catalog);
 
-  const storedLibrary = JSON.parse(storage.getItem("hangyiba:catalog-library:v2")!);
+  const storedLibrary = JSON.parse(storage.getItem("azurlanedle:catalog-library:v2")!);
   for (const officialId of Object.keys(storedLibrary.officialCatalogVersions)) {
     storedLibrary.officialCatalogVersions[officialId] = "outdated";
   }
-  storage.setItem("hangyiba:catalog-library:v2", JSON.stringify(storedLibrary));
+  storage.setItem("azurlanedle:catalog-library:v2", JSON.stringify(storedLibrary));
 
   loadCatalogLibrary(storage);
-  assert.notEqual(storage.getItem("hangyiba:games:v1"), null);
+  assert.notEqual(storage.getItem("azurlanedle:games:v1"), null);
 });
 
 test("官方题库不能删除或直接写入，编辑副本不会改变官方内容", () => {
@@ -182,18 +182,6 @@ test("官方题库不能删除或直接写入，编辑副本不会改变官方�
   const loaded = loadCatalogLibrary(storage);
   assert.equal(loaded.catalogs[0].catalog.tags.some((tag) => tag.name === "副本标签"), false);
   assert.equal(loaded.catalogs.find((item) => item.id === copied.id)?.catalog.tags.some((tag) => tag.name === "副本标签"), true);
-});
-
-test("旧版单题库存档会迁移为玩家题库", () => {
-  const storage = new MemoryStorage();
-  const legacy = applyCatalogMutation(createDefaultCatalog(), { action: "saveTag", name: "旧版标签" });
-  storage.setItem("hangyiba:catalog:v1", JSON.stringify(legacy));
-
-  const loaded = loadCatalogLibrary(storage);
-  assert.equal(loaded.catalogs.length, 2);
-  assert.equal(loaded.catalogs[1].name, "我的题库");
-  assert.equal(loaded.playCatalogId, loaded.catalogs[1].id);
-  assert.equal(loadLocalCatalog(storage).tags.some((tag) => tag.name === "旧版标签"), true);
 });
 
 test("旧题库载入时保留标签原有类型与取值", () => {
@@ -495,7 +483,7 @@ test("每次猜测及其时间会以不可直接读取的格式保存到本地",
   if (!result.ok) return;
 
   saveLocalGame(result.game, storage);
-  const raw = storage.getItem("hangyiba:games:v1")!;
+  const raw = storage.getItem("azurlanedle:games:v1")!;
   assert.match(raw, /^dyb-obf-v1:/);
   assert.equal(raw.includes(guessed.name), false);
   assert.equal(raw.includes(String(result.guess.guessedAt)), false);
@@ -547,7 +535,7 @@ test("零猜测新局不产生历史，提交猜测后完整日志实时更新",
   assert.deepEqual(record.guesses.map((guess) => guess.elapsedMs), [0, 1_000, 2_000, 3_000, 4_000, 5_000, 6_000, 7_000]);
   assert.equal(record.guesses.every((guess) => guess.feedback.length === game.tags.length), true);
 
-  const raw = storage.getItem("hangyiba:game-records:v1")!;
+  const raw = storage.getItem("azurlanedle:game-records:v1")!;
   assert.match(raw, /^dyb-obf-v1:/);
   assert.equal(raw.includes(answer.name), false);
   assert.throws(() => JSON.parse(raw));
@@ -587,7 +575,7 @@ test("读取历史时过滤旧版本留下的零猜测记录", () => {
   saveLocalGame(result.game, storage, catalog);
 
   const validRecord = loadGameRecords(storage)[0];
-  storage.setItem("hangyiba:game-records:v1", JSON.stringify({
+  storage.setItem("azurlanedle:game-records:v1", JSON.stringify({
     schemaVersion: 1,
     records: [{
       ...validRecord,
@@ -622,7 +610,7 @@ test("只有仍对应当前可恢复存档的未完成历史才处于进行中",
   assert.deepEqual([...loadActiveGameSessionIds(storage)], [replacement.sessionId]);
 });
 
-test("旧无限模式存档迁移到自定义模式，并在下次保存时转为混淆格式", () => {
+test("旧存档缺 guessedAt / elapsedMs / createdAt 时读回为 null，保存后转为混淆格式", () => {
   const catalog = createDefaultCatalog();
   const storage = new MemoryStorage();
   const game = createLocalGame(catalog, "unlimited");
@@ -632,23 +620,24 @@ test("旧无限模式存档迁移到自定义模式，并在下次保存时转�
   assert.equal(result.ok, true);
   if (!result.ok) return;
 
+  // 模拟旧版本写下的存档：猜测行没有时间字段，整局也没有 createdAt
   const legacyGuess = { ...result.guess } as Partial<typeof result.guess>;
   delete legacyGuess.guessedAt;
   delete legacyGuess.elapsedMs;
   const legacyGame = { ...result.game } as Partial<typeof result.game>;
   delete legacyGame.createdAt;
-  storage.setItem("hangyiba:games:v1", JSON.stringify({
+  storage.setItem("azurlanedle:games:v1", JSON.stringify({
+    schemaVersion: 2,
     unlimited: { ...legacyGame, guesses: [legacyGuess] },
   }));
 
-  const restored = loadLocalGame("custom", catalog, storage);
+  const restored = loadLocalGame("unlimited", catalog, storage);
   assert.equal(restored?.guesses[0].guessedAt, null);
   assert.equal(restored?.guesses[0].elapsedMs, null);
   assert.equal(restored?.createdAt, null);
-  assert.equal(restored?.mode, "custom");
-  assert.equal(loadLocalGame("unlimited", catalog, storage), null);
+  assert.equal(restored?.mode, "unlimited");
   saveLocalGame(restored!, storage, catalog);
-  assert.match(storage.getItem("hangyiba:games:v1")!, /^dyb-obf-v1:/);
+  assert.match(storage.getItem("azurlanedle:games:v1")!, /^dyb-obf-v1:/);
   assert.equal(loadGameRecords(storage)[0].answerName, answer.name);
 });
 
@@ -1090,7 +1079,7 @@ test("后台编辑表单只读取判定列的取值", () => {
 });
 
 test("单条玩家题库损坏不会牵连其它题库，只读载入也不再写回存档", () => {
-  const LIBRARY_KEY = "hangyiba:catalog-library:v2";
+  const LIBRARY_KEY = "azurlanedle:catalog-library:v2";
   let writes = 0;
   const storage = new MemoryStorage();
   const countingSetItem = storage.setItem.bind(storage);

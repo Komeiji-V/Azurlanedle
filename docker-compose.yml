@@ -1,5 +1,8 @@
+# 项目名固定成 azurlanedle，避免容器/网络名跟着目录名乱跑
+name: azurlanedle
+
 services:
-  hangyiba:
+  azurlanedle:
     build:
       context: .
       dockerfile: Dockerfile
@@ -7,9 +10,9 @@ services:
         # 国内网络可以在项目根目录建 .env 写 NPM_REGISTRY=https://registry.npmmirror.com
         # （.env 不入库，默认留空即走官方源）
         NPM_REGISTRY: "${NPM_REGISTRY:-}"
-    image: hangyiba:latest
-    container_name: hangyiba
+    image: azurlanedle:latest
+    container_name: azurlanedle
     ports:
-      # 宿主机端口可用 HANGYIBA_PORT 覆盖，例如 HANGYIBA_PORT=9000 docker compose up -d
-      - "${HANGYIBA_PORT:-8080}:80"
+      # 宿主机端口可用 AZURLANEDLE_PORT 覆盖，例如 AZURLANEDLE_PORT=9000 docker compose up -d
+      - "${AZURLANEDLE_PORT:-8080}:80"
     restart: unless-stopped

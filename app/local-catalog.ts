@@ -74,9 +74,8 @@ export type CatalogMutation =
     }
   | { action: "deleteCharacter"; id: number };
 
-const CATALOG_STORAGE_KEY = "hangyiba:catalog:v1";
-const CATALOG_LIBRARY_STORAGE_KEY = "hangyiba:catalog-library:v2";
-const ACTIVE_GAMES_STORAGE_KEY = "hangyiba:games:v1";
+const CATALOG_LIBRARY_STORAGE_KEY = "azurlanedle:catalog-library:v2";
+const ACTIVE_GAMES_STORAGE_KEY = "azurlanedle:games:v1";
 export const STANDARD_GAME_CATALOG_NAME = "航一把题库";
 
 function getBundledOfficialCatalog(index: number) {
@@ -383,13 +382,8 @@ export function loadCatalogLibrary(storage: LocalStorageLike | null = getBrowser
   const officials = createOfficialCatalogs();
   if (!storage) return { catalogs: officials, playCatalogId: DEFAULT_OFFICIAL_CATALOG_ID, editCatalogId: DEFAULT_OFFICIAL_CATALOG_ID };
 
-  let stored = parseStoredCatalogLibrary(storage.getItem(CATALOG_LIBRARY_STORAGE_KEY));
-  if (!stored) {
-    const legacy = parseCatalog(storage.getItem(CATALOG_STORAGE_KEY) ?? "");
-    stored = legacy
-      ? { players: [{ id: "player:1", name: "我的题库", catalog: legacy }], playCatalogId: "player:1", editCatalogId: "player:1", officialCatalogVersions: getOfficialCatalogVersions() }
-      : { players: [], playCatalogId: DEFAULT_OFFICIAL_CATALOG_ID, editCatalogId: DEFAULT_OFFICIAL_CATALOG_ID, officialCatalogVersions: getOfficialCatalogVersions() };
-  }
+  const stored = parseStoredCatalogLibrary(storage.getItem(CATALOG_LIBRARY_STORAGE_KEY))
+    ?? { players: [], playCatalogId: DEFAULT_OFFICIAL_CATALOG_ID, editCatalogId: DEFAULT_OFFICIAL_CATALOG_ID, officialCatalogVersions: getOfficialCatalogVersions() };
 
   const currentOfficialVersions = getOfficialCatalogVersions();
   const selectedOfficialVersion = currentOfficialVersions[stored.playCatalogId];

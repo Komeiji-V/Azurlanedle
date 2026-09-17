@@ -6,11 +6,11 @@ export const DISPLAY_VERSION = `v${CURRENT_VERSION}`;
 /**
  * 航一把默认是自托管部署，不绑定固定发布源。
  * 需要「应用更新检查」时，在构建阶段提供两个环境变量即可启用：
- *   NEXT_PUBLIC_HANGYIBA_REPO_URL     仓库主页，用于「查看更新」链接
- *   NEXT_PUBLIC_HANGYIBA_VERSION_URL  远端 package.json 的原始地址
+ *   NEXT_PUBLIC_AZURLANEDLE_REPO_URL     仓库主页，用于「查看更新」链接
+ *   NEXT_PUBLIC_AZURLANEDLE_VERSION_URL  远端 package.json 的原始地址
  */
-export const APP_REPO_URL = process.env.NEXT_PUBLIC_HANGYIBA_REPO_URL ?? "";
-const APP_VERSION_URL = process.env.NEXT_PUBLIC_HANGYIBA_VERSION_URL ?? "";
+export const APP_REPO_URL = process.env.NEXT_PUBLIC_AZURLANEDLE_REPO_URL ?? "";
+const APP_VERSION_URL = process.env.NEXT_PUBLIC_AZURLANEDLE_VERSION_URL ?? "";
 export const APP_UPDATE_CONFIGURED = APP_VERSION_URL.length > 0;
 
 const NOT_CONFIGURED_MESSAGE = "未配置应用更新源。";

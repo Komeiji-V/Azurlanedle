@@ -7,7 +7,7 @@ const isGitHubPages = process.env.GITHUB_PAGES === "true";
 
 export default defineConfig({
   // Project Pages sites are served below /<repository>/.
-  base: isGitHubPages ? "/hangyiba/" : "/",
+  base: isGitHubPages ? "/Azurlanedle/" : "/",
   server: isCodexSeatbeltSandbox
     ? { watch: { useFsEvents: false, usePolling: true } }
     : undefined,

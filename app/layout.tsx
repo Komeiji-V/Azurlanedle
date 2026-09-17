@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { UpdateCenter } from "./update-center";
 
-const publicAssetPrefix = process.env.GITHUB_PAGES === "true" ? "/hangyiba" : "";
+const publicAssetPrefix = process.env.GITHUB_PAGES === "true" ? "/Azurlanedle" : "";
 
 export const metadata: Metadata = {
   title: "航一把｜猜碧蓝航线舰船",

@@ -15,7 +15,7 @@ export type DisplaySettings = {
   columns: Record<string, string>;
 };
 
-export const DISPLAY_STORAGE_KEY = "hangyiba:display:v2";
+export const DISPLAY_STORAGE_KEY = "azurlanedle:display:v2";
 
 export const DEFAULT_DISPLAY_SETTINGS: DisplaySettings = { mode: "zh", columns: {} };
 
