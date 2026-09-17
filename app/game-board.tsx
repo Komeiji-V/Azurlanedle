@@ -299,7 +299,7 @@ export function GameBoard() {
     try {
       const catalog = loadGameCatalog(mode);
       // 判定列（题库里是 @zh）单独索引一份，供预览与显示回退使用
-      const primaryByTag = new Map(catalog.tags.map((tag) => [tag.id, tag.primaryVariant || "zh"]));
+      const primaryByTag = new Map(catalog.tags.map((tag) => [tag.id, tag.primaryVariant ?? "zh"]));
       const variantIndex = new Map<string, string>();
       const variantEntriesIndex = new Map<string, TagValueEntry[]>();
       const primaryIndex = new Map<string, string>();

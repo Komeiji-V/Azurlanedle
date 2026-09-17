@@ -48,7 +48,8 @@ function prepareValue(value: CharacterValue): PreparedValue {
     ordered: parseOrderedValue(value.value),
     entries: entries
       .map((entry) => ({ ...entry, normalized: normalize(entry.value) }))
-      .filter((entry) => entry.normalized),
+      // 只填了「大类」的条目要留下：判定侧 entriesFor 认的就是 value 或 category 有一个就够
+      .filter((entry) => entry.normalized || (entry.category ?? "").trim()),
   };
 }
 
@@ -78,9 +79,12 @@ export function prepareShips(
 }
 
 function toCharacterValue(tagId: number, value: PreparedValue | undefined): CharacterValue {
+  const first = value?.entries[0];
   return {
     tagId,
-    value: value?.entries[0]?.value ?? "",
+    value: first?.value ?? "",
+    // 大类也要带上：category 类型判定时要同时比大类和小类
+    ...(first?.category ? { category: first.category } : {}),
     entries: value?.entries.map((entry) => ({
       value: entry.value,
       ...(entry.category ? { category: entry.category } : {}),
@@ -113,18 +117,14 @@ function feedbackSignature(
     return guessText === answerText ? "y" : "n";
   }
 
-  if (tag.kind === "exact-multi") {
-    const guessEntries = guess?.entries ?? [];
-    const answerEntries = answer?.entries ?? [];
-    const matched = guessEntries
-      .filter((entry) => answerEntries.some((target) => target.normalized === entry.normalized))
-      .map((entry) => entry.normalized)
-      .sort();
-    return matched.length ? `y:${matched.join("|")}` : "n";
-  }
-
-  // 航一把题库不使用这几种类型，退化到通用实现，保证语义完全一致
-  if (tag.kind === "category" || tag.kind === "category-multi" || tag.kind === "exact-close") {
+  // 这几种类型一律走通用实现：签名必须与 compareGuess 的判定完全一致。
+  // exact-multi 尤其不能只比取值 —— 带大类的条目要比大类，否则会把不同分支并到一起
+  if (
+    tag.kind === "exact-multi" ||
+    tag.kind === "category" ||
+    tag.kind === "category-multi" ||
+    tag.kind === "exact-close"
+  ) {
     return JSON.stringify(compareGuess([tag], [toCharacterValue(tag.id, guess)], [toCharacterValue(tag.id, answer)]));
   }
 

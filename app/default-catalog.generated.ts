@@ -9873,7 +9873,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 43,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27 演习神秘事件调查"
+      "value": "2022-01-27 东煌春节"
     },
     {
       "characterId": 43,
@@ -17577,7 +17577,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 160,
       "tagId": 4,
       "variant": "zh",
-      "value": "1型"
+      "value": "奇尔沙治级"
     },
     {
       "characterId": 160,
@@ -21555,7 +21555,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 220,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27 演习神秘事件调查"
+      "value": "2022-01-27 东煌春节"
     },
     {
       "characterId": 220,
@@ -35331,7 +35331,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 429,
       "tagId": 4,
       "variant": "zh",
-      "value": "改二型"
+      "value": "巡潜乙型"
     },
     {
       "characterId": 429,
@@ -35463,7 +35463,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 431,
       "tagId": 4,
       "variant": "zh",
-      "value": "改二型"
+      "value": "巡潜乙型"
     },
     {
       "characterId": 431,
@@ -35529,7 +35529,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 432,
       "tagId": 4,
       "variant": "zh",
-      "value": "型a型"
+      "value": "海大Ⅵ型"
     },
     {
       "characterId": 432,
@@ -35661,7 +35661,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 434,
       "tagId": 4,
       "variant": "zh",
-      "value": "改二型"
+      "value": "巡潜甲型"
     },
     {
       "characterId": 434,
@@ -36057,7 +36057,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 440,
       "tagId": 4,
       "variant": "zh",
-      "value": "吾妻级"
+      "value": "B-65超甲型"
     },
     {
       "characterId": 440,
@@ -36189,7 +36189,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 442,
       "tagId": 4,
       "variant": "zh",
-      "value": "150mm主炮防空型"
+      "value": "四万十级"
     },
     {
       "characterId": 442,
@@ -38169,7 +38169,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 472,
       "tagId": 4,
       "variant": "zh",
-      "value": "柯尼斯堡级"
+      "value": "德累斯顿级"
     },
     {
       "characterId": 472,
@@ -38829,7 +38829,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 482,
       "tagId": 4,
       "variant": "zh",
-      "value": "罗恩(μ兵装)级"
+      "value": "罗恩级"
     },
     {
       "characterId": 482,
@@ -39357,7 +39357,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 490,
       "tagId": 4,
       "variant": "zh",
-      "value": "超重型"
+      "value": "O级"
     },
     {
       "characterId": 490,
@@ -40017,7 +40017,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 500,
       "tagId": 4,
       "variant": "zh",
-      "value": "乌尔里希·冯·胡滕级"
+      "value": "H-39型"
     },
     {
       "characterId": 500,
@@ -40215,7 +40215,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 503,
       "tagId": 4,
       "variant": "zh",
-      "value": "腓特烈大帝级"
+      "value": "H-39型"
     },
     {
       "characterId": 503,
@@ -41667,7 +41667,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 525,
       "tagId": 4,
       "variant": "zh",
-      "value": "罗恩(μ兵装)级"
+      "value": "罗恩级"
     },
     {
       "characterId": 525,
@@ -41733,7 +41733,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 526,
       "tagId": 4,
       "variant": "zh",
-      "value": "腓特烈大帝级"
+      "value": "H-39型"
     },
     {
       "characterId": 526,
@@ -41931,7 +41931,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 529,
       "tagId": 4,
       "variant": "zh",
-      "value": "超重型"
+      "value": "O级"
     },
     {
       "characterId": 529,
@@ -42261,7 +42261,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 534,
       "tagId": 4,
       "variant": "zh",
-      "value": "305mm主炮改型"
+      "value": "H-39型"
     },
     {
       "characterId": 534,
@@ -42591,7 +42591,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 539,
       "tagId": 4,
       "variant": "zh",
-      "value": "龙武级"
+      "value": "类V-25外贸型"
     },
     {
       "characterId": 539,
@@ -42657,7 +42657,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 540,
       "tagId": 4,
       "variant": "zh",
-      "value": "龙武级"
+      "value": "类V-25外贸型"
     },
     {
       "characterId": 540,
@@ -43269,7 +43269,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 549,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27 演习神秘事件调查"
+      "value": "2022-01-27 东煌春节"
     },
     {
       "characterId": 549,
@@ -43335,7 +43335,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 550,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27 演习神秘事件调查"
+      "value": "2022-01-27 东煌春节"
     },
     {
       "characterId": 550,
@@ -43665,7 +43665,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 555,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27 演习神秘事件调查"
+      "value": "2022-01-27 东煌春节"
     },
     {
       "characterId": 555,
@@ -53763,7 +53763,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 708,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-08-08 作战准备：帕克菲克洋"
+      "value": "2024-08-08 朱红迷局"
     },
     {
       "characterId": 708,
@@ -53961,7 +53961,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 711,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-09-04 作战准备：天域天原"
+      "value": "2025-09-04 重樱的邀约"
     },
     {
       "characterId": 711,
@@ -55809,7 +55809,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 739,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-09-05 作战准备：奈落"
+      "value": "2024-09-05 汇聚于此岸之尘"
     },
     {
       "characterId": 739,
@@ -56139,7 +56139,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 744,
       "tagId": 6,
       "variant": "zh",
-      "value": "2022-01-27 演习神秘事件调查"
+      "value": "2022-01-27 东煌春节"
     },
     {
       "characterId": 744,
@@ -56469,7 +56469,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 749,
       "tagId": 6,
       "variant": "zh",
-      "value": "2021-09-09 作战准备：重樱"
+      "value": "2021-09-09 天运拟合"
     },
     {
       "characterId": 749,
@@ -56601,7 +56601,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 751,
       "tagId": 6,
       "variant": "zh",
-      "value": "2024-12-12 作战准备：？？？"
+      "value": "2024-12-12 领域外的归途"
     },
     {
       "characterId": 751,
@@ -56799,7 +56799,7 @@ const bundledCatalog0: LocalCatalog = {
       "characterId": 754,
       "tagId": 6,
       "variant": "zh",
-      "value": "2025-12-11 作战准备：越界实验"
+      "value": "2025-12-11 致美好世界"
     },
     {
       "characterId": 754,
@@ -61698,9 +61698,9 @@ export const bundledOfficialCatalogs: ReadonlyArray<BundledOfficialCatalog> = [
   {
     name: "航一把题库",
     path: "db/航一把题库.csv",
-    sha256: "c7bac4957f2c18eb9344d97a66726a0076cb99542b70c87fd387678003d75641",
-    gitCommitSha: "fdc258c34bd454d31b21cb4f6c1f25a8f7c8e564",
-    gitCommitDate: "2026-09-14",
+    sha256: "f296d9288253a7859b71343950c2f11283b1e612de00f3a799d83230541b8bb2",
+    gitCommitSha: "46099e7be059bd7080a7280dc04a3a2aa7b96edd",
+    gitCommitDate: "2026-09-18",
     catalog: bundledCatalog0,
   },
 ];

@@ -40,7 +40,14 @@ export type GuessFeedback = {
 };
 
 export function normalizeName(value: string) {
-  return value.trim().toLocaleLowerCase("zh-CN").replace(/[\s·・_-]/g, "");
+  // NFKD 会把全角字母/括号折成半角、把 µ 折成 μ，再去掉组合附加符（macron 之类）。
+  // 这样中文输入法下打成「赤城（μ兵装）」「Ｅｎｔｅｒｐｒｉｓｅ」也能命中题库里的半角写法。
+  return value
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .trim()
+    .toLocaleLowerCase("zh-CN")
+    .replace(/[\s·・_-]/g, "");
 }
 
 function entriesFor(item: CharacterValue | undefined): TagValueEntry[] {
@@ -51,6 +58,13 @@ function entriesFor(item: CharacterValue | undefined): TagValueEntry[] {
   }
   if (!item) return [];
   return [{ value: item.value, ...(item.category ? { category: item.category } : {}) }];
+}
+
+/** 这个标签在这艘船上到底有没有有效取值（空串、空多值都算没有）。 */
+function hasAnyValue(item: CharacterValue | undefined): boolean {
+  if (!item) return false;
+  if (item.value.trim() || item.category?.trim()) return true;
+  return (item.entries ?? []).some((entry) => entry.value.trim() || entry.category?.trim());
 }
 
 function sameEntry(left: TagValueEntry, right: TagValueEntry) {
@@ -155,6 +169,12 @@ export function compareGuess(
     const target = answerValue?.value ?? "";
     const category = guessedValue?.category?.trim() ?? "";
     const targetCategory = answerValue?.category?.trim() ?? "";
+
+    // 两侧都没有这个标签的有效取值时按命中处理。多值类型的分支会直接返回「无匹配」，
+    // 所以这一条必须放在它们之前，否则同样的输入换个标签类型结果就相反。
+    if (!hasAnyValue(guessedValue) && !hasAnyValue(answerValue)) {
+      return { tagId: tag.id, value, state: "match" };
+    }
 
     if (tag.kind === "exact-close") {
       const guessedLabel = parseExactCloseValue(guessedRaw).primary;

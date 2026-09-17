@@ -578,7 +578,7 @@ function updateCharacterValues(
     const tag = tagsById.get(tagId);
     if (!Number.isInteger(tagId) || !tag) continue;
     // 写回该标签的判定列，避免和题库里的 @zh 分叉
-    const variant = tag.primaryVariant || "zh";
+    const variant = tag.primaryVariant ?? "zh";
     if (tag.kind === "exact-multi" || tag.kind === "category-multi") {
       const entries = parseMultiValueText(multiValues[tagIdText] ?? value, tag.kind === "category-multi");
       const first = entries[0];

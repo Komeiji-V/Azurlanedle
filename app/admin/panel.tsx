@@ -163,7 +163,7 @@ export function AdminPanel() {
     const saved = mutate({
       action: "saveCharacter",
       ...characterDraft,
-      aliases: characterDraft.aliases.split(/[、,，]/),
+      aliases: characterDraft.aliases.split(/[、|｜]/),
     }, characterDraft.id ? "舰船资料已更新。" : "新舰船已加入题库。");
     if (saved) setCharacterDraft({ ...emptyCharacter, values: {}, categories: {}, multiValues: {} });
   }
@@ -497,7 +497,7 @@ export function AdminPanel() {
           </div>
           <form className="admin-form" onSubmit={saveCharacter}>
             <label>舰船名<input value={characterDraft.name} onChange={(event) => setCharacterDraft({ ...characterDraft, name: event.target.value })} placeholder="完整舰船名" required /></label>
-            <label>可接受的别名<input value={characterDraft.aliases} onChange={(event) => setCharacterDraft({ ...characterDraft, aliases: event.target.value })} placeholder="用顿号分隔，例如：企业、大E" /></label>
+            <label>可接受的别名<input value={characterDraft.aliases} onChange={(event) => setCharacterDraft({ ...characterDraft, aliases: event.target.value })} placeholder="用顿号或竖线分隔，例如：企业、大E" /></label>
             <div className="value-grid">
               {catalog.tags.map((tag) => (
                 <label key={tag.id}>{tag.name}

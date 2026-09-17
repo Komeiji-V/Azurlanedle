@@ -81,7 +81,7 @@ function parseTagValue(rawValue: string, tag: LocalTag): Pick<LocalValue, "value
   // 只认第一个未被转义的 `>`：这样「大类 > 小类」里小类为空（行尾空格被 CSV 读取去掉）
   // 以及大类名本身含 `>` 两种情况都能正确还原
   const separatorIndex = findCategorySeparator(rawValue);
-  if (separatorIndex < 0) return { value: rawValue };
+  if (separatorIndex < 0) return { value: unescapeCategoryName(rawValue) };
   const category = unescapeCategoryName(rawValue.slice(0, separatorIndex));
   const value = rawValue.slice(separatorIndex + 1).trim();
   return { value, ...(category ? { category } : {}) };
@@ -245,36 +245,37 @@ export function importCatalogCsv(
     };
   }
 
-  // 同一个标签的多套写法（列名带 @方案）合并成同一个标签
-  const tagList: LocalTag[] = [];
-  const tagIndexByName = new Map<string, number>();
+  // 同一个标签的多套写法（列名带 @方案）合并成同一个标签：每个标签只取它第一次出现的列
+  const seenNames = new Set<string>();
+  const layout = preview.tagNames
+    .map((name, index) => {
+      if (seenNames.has(name)) return null;
+      seenNames.add(name);
+      return {
+        name,
+        kind: preview.tagKinds[index],
+        // 该标签的第一列作为判定列
+        primaryVariant: preview.tagVariants[index] ?? "",
+        existing: catalog.tags.find((tag) => tag.name === name && tag.kind === preview.tagKinds[index]) ?? null,
+      };
+    })
+    .filter((item) => item !== null);
+
+  // 两趟分配 id：先把「同名同类型」的老标签 id 全部预登记，再给新标签分配。
+  // 否则 CSV 前面插入新列时，新标签会先抢走 1、2、3…，把后面老标签的 id 整体顶开，
+  // 而显示语言设置是按 tag id 记录的 —— 原有的逐列设置就会落到别的列上。
   const usedIds = new Set<number>();
+  for (const item of layout) if (item.existing) usedIds.add(item.existing.id);
   let nextId = 1;
   const allocateId = () => {
     while (usedIds.has(nextId)) nextId += 1;
     usedIds.add(nextId);
     return nextId;
   };
-  preview.tagNames.forEach((name, index) => {
-    if (tagIndexByName.has(name)) return;
-    const kind = preview.tagKinds[index];
-    const existing = catalog.tags.find((tag) => tag.name === name && tag.kind === kind);
-    tagIndexByName.set(name, tagList.length);
-    // 该标签的第一列作为判定列
-    const primaryVariant = preview.tagVariants[index] ?? "";
-    // 同名同类型的老标签沿用原 id：显示语言设置是按 tag id 记录的，
-    // 重新按列顺序编号会让原有的逐列设置落到别的列上
-    let tagId: number;
-    if (existing && !usedIds.has(existing.id)) {
-      tagId = existing.id;
-      usedIds.add(tagId);
-    } else {
-      tagId = allocateId();
-    }
-    tagList.push(existing
-      ? { ...existing, id: tagId, primaryVariant }
-      : { id: tagId, name, kind, unit: "", active: true, displayVariant: "zh", primaryVariant });
-  });
+  const tagList: LocalTag[] = layout.map((item) => (item.existing
+    ? { ...item.existing, id: item.existing.id, primaryVariant: item.primaryVariant }
+    : { id: allocateId(), name: item.name, kind: item.kind, unit: "", active: true, displayVariant: "zh", primaryVariant: item.primaryVariant }));
+  const tagIndexByName = new Map(layout.map((item, index) => [item.name, index]));
   const columns = preview.tagNames.map((name, index) => ({
     tag: tagList[tagIndexByName.get(name)!],
     variant: preview.tagVariants[index] ?? "",
@@ -305,8 +306,12 @@ export function exportCatalogCsv(catalog: LocalCatalog): string {
         " | ",
       );
     }
-    return tag.kind === "category" && item.category
-      ? `${escapeCategoryName(item.category)}${CATEGORY_VALUE_SEPARATOR}${item.value}`
+    // 有「大类」时写成「大类 > 小类」（小类在分隔符之后，含 `>` 也不会被拆错）；
+    // 没有大类时把取值里的 `>` 转义掉，否则会被当成大类分隔符
+    return tag.kind === "category"
+      ? (item.category
+        ? `${escapeCategoryName(item.category)}${CATEGORY_VALUE_SEPARATOR}${item.value}`
+        : escapeCategoryName(item.value))
       : item.value;
   };
   const rows = catalog.characters.map((character) => [

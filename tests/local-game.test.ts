@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
+import { compareGuess, type TagDefinition } from "../app/game-core";
 import {
   applyCatalogMutation,
   characterValuesForEditing,
@@ -1147,16 +1148,26 @@ test("localStorage 写失败时对局仍可继续", () => {
   assert.doesNotThrow(() => saveLocalGame(game, storage, catalog));
 });
 
-test("历史记录只保留最近 200 条", () => {
+test("历史记录按体积裁剪，且最新写入的一条一定保留", () => {
   const storage = new MemoryStorage();
   const catalog = createDefaultCatalog();
-  for (let index = 0; index < 205; index += 1) {
+  let lastSessionId = "";
+  for (let index = 0; index < 80; index += 1) {
     const result = submitLocalGuess(catalog, createLocalGame(catalog, "custom"), "高雄", 1_000);
     assert.equal(result.ok, true);
     if (!result.ok) return;
+    lastSessionId = result.game.sessionId;
     saveLocalGame(result.game, storage, catalog);
   }
-  assert.equal(loadGameRecords(storage).length, 200);
+  const records = loadGameRecords(storage);
+  const storedLength = (storage.getItem("azurlanedle:game-records:v1") ?? "").length;
+  // 单条记录混淆后约 20KB，按条数留 200 条会远超 localStorage 的常见 5MB 配额，
+  // 写满之后所有保存都会静默失败；这里断言体积受控、且不是把记录全丢了
+  assert.equal(records.length > 0, true);
+  assert.equal(records.length < 80, true);
+  assert.equal(storedLength < 1_400_000, true);
+  // 先删旧的再 push，保证「更新最旧那条」时不会被裁剪挤掉
+  assert.equal(records.at(-1)?.sessionId, lastSessionId);
 });
 
 test("十番战单轮打满 8 次后模块层不再接受提交", () => {
@@ -1240,4 +1251,34 @@ test("category 的大类名含 > 或小类为空时 CSV 往返无损", () => {
     cells.map((cell) => [cell.category, cell.value]),
     [["自然 > 人工", ""], ["自然", "小 > 类"]],
   );
+});
+
+test("每日挑战的答案不能靠昨天的答案推出来", () => {
+  const catalog = createDefaultCatalog();
+  const pool = [...catalog.characters.filter((character) => character.active)].sort((left, right) => left.id - right.id);
+  const nameOf = (game: { answerCharacterId: number }) =>
+    catalog.characters.find((character) => character.id === game.answerCharacterId)!.name;
+  const start = Date.parse("2026-09-14T12:00:00+08:00");
+  const answers = Array.from({ length: 30 }, (_, day) => nameOf(createLocalGame(catalog, "daily", start + day * 86_400_000)));
+  const steps = answers.slice(1).map((name, index) => (
+    pool.findIndex((character) => character.name === name) - pool.findIndex((character) => character.name === answers[index])
+  ));
+  // 原先的「乘 31」多项式哈希没有雪崩：相邻日期的答案就是名单里的下一位（可提前算出明天的答案）
+  assert.equal(steps.filter((step) => step === 1).length <= 2, true);
+  assert.ok(new Set(answers).size >= 28, `30 天的答案应基本不重复，实际 ${new Set(answers).size} 个`);
+});
+
+test("多值标签在两侧都没有取值时也按命中处理", () => {
+  const tags: TagDefinition[] = [
+    { id: 1, name: "技能", kind: "exact-multi", unit: "" },
+    { id: 2, name: "装备", kind: "category-multi", unit: "" },
+  ];
+  for (const tag of tags) {
+    assert.equal(compareGuess([tag], [], [])[0].state, "match", `${tag.name} 缺字段时应命中`);
+    assert.equal(
+      compareGuess([tag], [{ tagId: tag.id, value: "" }], [{ tagId: tag.id, value: "" }])[0].state,
+      "match",
+      `${tag.name} 空串时应命中`,
+    );
+  }
 });

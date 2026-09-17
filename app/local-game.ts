@@ -193,7 +193,20 @@ export function challengeNumber(day: string): number {
 }
 
 function dayHash(day: string): number {
-  return [...day].reduce((total, char) => ((total * 31) + char.charCodeAt(0)) >>> 0, 2166136261);
+  // FNV-1a 再补一轮 murmur3 收尾。原先只是「乘 31」的多项式哈希，对定长日期串没有雪崩：
+  // 日期每天只改最后一位，哈希就只差 1（进位差 22/362），取模后每天的答案正好是
+  // 名单里的下一位 —— 等于把明天的答案提前泄露了。收尾后相邻日期的取值完全散开。
+  let hash = 2166136261;
+  for (const char of day) {
+    hash ^= char.charCodeAt(0);
+    hash = Math.imul(hash, 16777619);
+  }
+  hash ^= hash >>> 16;
+  hash = Math.imul(hash, 2246822507);
+  hash ^= hash >>> 13;
+  hash = Math.imul(hash, 3266489909);
+  hash ^= hash >>> 16;
+  return hash >>> 0;
 }
 
 function newSessionId(): string {
@@ -248,10 +261,15 @@ function createLocalGameWithAnswer(
     : answerCharacters;
   if (!availableAnswerCharacters.length) throw new Error("十番战没有未出现的可用答案舰船。");
 
-  const day = shanghaiDay();
+  const day = shanghaiDay(new Date(now));
+  // 每日挑战的候选池按 id 固定排序：名单顺序不能依赖 localeCompare("zh-CN")，
+  // 否则不同浏览器 / ICU 版本算出的「今天这艘船」可能不是同一艘
+  const dailyPool = mode === "daily"
+    ? [...availableAnswerCharacters].sort((left, right) => left.id - right.id)
+    : availableAnswerCharacters;
   const index = mode === "daily"
-    ? dayHash(day) % availableAnswerCharacters.length
-    : Math.floor(Math.random() * availableAnswerCharacters.length);
+    ? dayHash(day) % dailyPool.length
+    : Math.floor(Math.random() * dailyPool.length);
 
   return {
     sessionId: newSessionId(),
@@ -261,7 +279,7 @@ function createLocalGameWithAnswer(
     mode,
     excludedFromHistory,
     maxAttempts: 8,
-    answerCharacterId: specifiedAnswer?.id ?? availableAnswerCharacters[index].id,
+    answerCharacterId: specifiedAnswer?.id ?? dailyPool[index].id,
     names: characters.map((character) => character.name),
     tags: toTagDefinitions(tags, catalog.values),
     attempts: 0,
@@ -593,7 +611,8 @@ export function recordCompletedTiming(
 
 export function loadLocalGame(
   mode: LocalGameMode,
-  catalog = loadLocalCatalog(),
+  // 每日/十番战/无限都用内置题库，只有自定义模式才读玩家选中的题库
+  catalog = loadGameCatalog(mode),
   storage: LocalStorageLike | null = getBrowserStorage(),
 ): LocalGame | null {
   if (!storage) return null;
@@ -732,9 +751,6 @@ function toGameRecord(game: LocalGame, catalog: LocalCatalog): GameRecord {
   };
 }
 
-/** 历史记录条数上限：单条记录很大（十番战整组约 80KB），不设上限会把 localStorage 配额撑满。 */
-const GAME_RECORD_LIMIT = 200;
-
 /**
  * 存档写入一律走这里：配额写满或隐私模式下 setItem 会抛 QuotaExceededError，
  * 而写路径散布在每次猜测里，直接抛出会被上层误报成「这次猜测未能完成」。
@@ -748,16 +764,40 @@ function writeStorage(storage: LocalStorageLike, key: string, value: string) {
   }
 }
 
+/**
+ * 历史记录裁剪：单条十番战记录混淆后约 70KB，只按条数限制（200 条）会远超
+ * localStorage 的常见 5MB 配额，写满之后所有保存都会静默失败。这里改成按体积裁剪，
+ * 同时保留条数上限兜底；最新的一条永远保留（本次写入的就是它）。
+ */
+const GAME_RECORD_LIMIT = 200;
+const GAME_RECORD_BYTE_LIMIT = 1_000_000;
+
+function trimRecords(records: GameRecord[]): GameRecord[] {
+  const kept: GameRecord[] = [];
+  let storedBytes = 0;
+  for (let index = records.length - 1; index >= 0; index -= 1) {
+    // 按 UTF-8 字节算、再乘 base64 的 4/3 膨胀。记录里大量中文，
+    // 用 JS 字符串长度会低估一大截（一个汉字在 UTF-8 里占 3 字节）
+    const encodedBytes = new TextEncoder().encode(JSON.stringify(records[index])).length;
+    const bytes = Math.ceil(encodedBytes / 3) * 4;
+    if (kept.length && (storedBytes + bytes > GAME_RECORD_BYTE_LIMIT || kept.length >= GAME_RECORD_LIMIT)) break;
+    storedBytes += bytes;
+    kept.unshift(records[index]);
+  }
+  return kept;
+}
+
 function saveGameRecord(game: LocalGame, catalog: LocalCatalog, storage: LocalStorageLike) {
   const records = loadGameRecords(storage);
   const record = toGameRecord(game, catalog);
   const existingIndex = records.findIndex((item) => item.sessionId === game.sessionId);
-  if (existingIndex >= 0) records[existingIndex] = record;
-  else records.push(record);
+  // 先删旧的再 push：否则更新「最旧的那条」时会被裁剪挤掉，这次写入反而丢了
+  if (existingIndex >= 0) records.splice(existingIndex, 1);
+  records.push(record);
   writeStorage(
     storage,
     GAME_RECORDS_STORAGE_KEY,
-    obfuscateGameData({ schemaVersion: 1, records: records.slice(-GAME_RECORD_LIMIT) }),
+    obfuscateGameData({ schemaVersion: 1, records: trimRecords(records) }),
   );
 }
 
@@ -772,7 +812,8 @@ export function saveLocalGame(
     const current = storage.getItem(GAME_STORAGE_KEY);
     if (current) {
       const parsed: unknown = parseStoredGameData(current);
-      if (parsed && typeof parsed === "object") saved = parsed as Record<string, unknown>;
+      // 数组也满足 typeof === "object"，但具名属性会被 JSON.stringify 丢掉，必须排除
+      if (parsed && typeof parsed === "object" && !Array.isArray(parsed)) saved = parsed as Record<string, unknown>;
     }
   } catch {
     saved = {};
